@@ -16,22 +16,23 @@ Alignement: __Pairwaise de Biopython__
 On utilise Biopython pour effectuer l'alignement. Pour installer Biopython:
 
 Pour le système unix:
-'''{r,engine='bash',count_lines}
+```{r, engine='bash', count_lines}
 $ sudo apt-get install python3-pip
 $ python3 -m pip install 'biopython'
-'''
+```
 
 Pour le système macos:
-'''{r,engine='bash',count_lines}
+our le système unix:
+```{r, engine='bash', count_lines}
   $ Install Xcode from appstore 
  $ Install numpy, and biopython
 $ Install MacPorts: https://www.macports.org/install.php
 $ pip3 install numpy
 $ pip3 install biopython
-''''
+```
 
 # UTILISATION
 Pour utiliser ce programme placer dans le dossier principal:
-'''{r,engine='bash',count_lines}
+```{r, engine='bash', count_lines}
 $ python3 src/main.py
-'''
+```
