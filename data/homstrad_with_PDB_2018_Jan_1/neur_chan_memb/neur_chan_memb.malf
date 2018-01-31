@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1eq8a      structureX:1eq8:   1 :A:  23 :A:acetylcholine receptor protein, delta chain:Torpedo californica: -1: -1
+[  2] 1dxza      structureX:1dxz: 241 :A: 267 :A:acetylcholine receptor protein, alpha chain:Torpedo californica: -1: -1
+
+
+1eq8a      EKMSTAISVLLAQAVFLLLTSQR----*
+1dxza      EKMTLSISVLLSLTVFLLVIVELIPST*
+           =========|=========|=======
+                    0010      0020    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eq8a      100.0  52.2
+  2-1dxza       52.2 100.0
+
+***************************************************************************

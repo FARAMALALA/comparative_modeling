@@ -1,0 +1,90 @@
+      Code       Title
+
+[  1] 1aky       structureX:1aky:   3 : : 220 : :adenylate kinase:Saccharomyces cerevisiae:1.63:19.4
+[  2] 1akea      structureX:1ake:   1 :A: 214 :A:adenylate kinase:Escherichia coli: 1.90:19.60
+[  3] 1zin       structureX:1zin:   1 : : 217 : :adenylate kinase:Bacillus stearothermophilus:1.60:17.3
+[  4] 1zaka      structureX:1zak:   3 :A: 222 :A: adenylate kinase: Zea mays: 3.5: 21.8
+[  5] 2ak3a      structureX:2ak3:   0 :A: 225 :A:adenylate kinase isozyme 3:Bos taurus: 1.85:18.9
+[  6] 3adk       structureX:3adk:   1 : : 194 : :adenylate kinase:Sus scrofa: 2.10:19.30
+[  7] 1uky       structureX:1uky:   9 : : 204 : :uridylate kinase:Saccharomyces cerevisiae: 2.13:17.80
+[  8] 1uke       structureX:1uke:   2 : : 194 : :cytidylate kinase: Dictyostelium discoideum: 2.2: 21.5
+[  9] 1gky       structureX:1gky:   1 : : 186 : :guanylate kinase:Saccharomyces cerevisiae: 2.00:17.30
+
+
+1aky       ------ESIRMVLIGPPGAGKGTQAPNLQERF--HAAHLATGDMLRSQIAK-GTQLGLEAKKIMDQGGLVSDDIM
+1akea      --------MRIILLGAPGAGKGTQAQFIMEKY--GIPQISTGDMLRAAVKS-GSELGKQAKDIMDAGKLVTDELV
+1zin       --------MNLVLMGLPGAGKGTQAEKIVAAY--GIPHISTGDMFRAAMKE-GTPLGLQAKQYMDRGDLVPDEVT
+1zaka      -----ADPLKVMISGAPASGKGTQCELIKTKY--QLAHISAGDLLRAEIAA-GSENGKRAKEFMEKGQLVPDEIV
+2ak3a      GAS--ARLLRAAIMGAPGSGKGTVSSRITKHF--ELKHLSSGDLLRDNMLR-GTEIGVLAKTFIDQGKLIPDDVM
+3adk       MEEKLKKSKIIFVVGGPGSGKGTQCEKIVQKY--GYTHLSTGDLLRAEVSS-GSARGKMLSEIMEKGQLVPLETV
+1uky       PAFSPDQVSVIFVLGGPGAGKGTQCEKLVKDY--SFVHLSAGDLLRAEQGRAGSQYGELIKNCIKEGQIVPQEIT
+1uke       ---EKSKPNVVFVLGGPGSGKGTQCANIVRDF--GWVHLSAGDLLRQEQQS-GSKDGEMIATMIKNGEIVPSIVT
+1gky       -------SRPIVISGPSGTGKSTLLKKLFAEYPDSFGFSV-----------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aky       VNMI------------------------------------------------KDELTNNPACK---NGFILDGFP
+1akea      IALV------------------------------------------------KERIA-QEDCR---NGFLLDGFP
+1zin       IGIV------------------------------------------------RERLS-KDDCQ---NGFLLDGFP
+1zaka      VNMV------------------------------------------------KERLR-QPDAQE--NGWLLDGYP
+2ak3a      TRLV------------------------------------------------LHELK--NLTQ---YNWLLDGFP
+3adk       LDML------------------------------------------------RDAMV--AKVD-TSKGFLIDGYP
+1uky       LALL------------------------------------------------RNAIS--DNVKANKHKFLIDGFP
+1uke       VKLL------------------------------------------------KNAIDANQ-----GKNFLVDGFP
+1gky       ----SSTTRTPRAGEVNGKDYNFVSVDEFKSMIKNNEFIEWAQFSGNYYGST-VASVKQVSKS--GKTCILD---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1aky       RTIPQAEKLDQMLKEQGTPLEKAIELKV-DDELLVARITG-----RLIHPASGRSYHKIFNPPKEDMKDDVTGEA
+1akea      RTIPQADAMKEA----GINVDYVLEFDV-PDELIVDRIVG-----RRVHAPSGRVYHVKFNPPKVEGKDDVTGEE
+1zin       RTVAQAEALETMLADIGRKLDYVIHIDV-RQDVLMERLTG-----RRICRNCGATYHLIFHPPAKPGVCDKCGGE
+1zaka      RSYSQAMALETLE----IRPDTFILLDV-PDELLVERVVG-----RRLDPVTGKIYHLKYSPP--E--NEEIASR
+2ak3a      RTLPQAEALDRAY-----QIDTVINLNV-PFEVIKQRLTA-----RWIHPGSGRVYNIEFNPPKTMGIDDLTGEP
+3adk       REVKQGEEFERKI----GQPTLLLYVDA-GPETMTKRLLKRGETS------------------------------
+1uky       RKMDQAISFERDI----VESKFILFFDC-PEDIMLERLLERGKTS------------------------------
+1uke       RNEENNNSWEENMK-DFVDTKFVLFFDC-PEEVMTQRLLKRGESS------------------------------
+1gky       IDMQGVKSVKAI---PELNA-RFLFIAPPSVEDLKKRLEGRG---------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1aky       LVQRSDDNADALKKRLAAYHAQTEPIVDFYKKT---G--IWAGVDASQPPATVWADILNKLGKN-----------
+1akea      LTTRKDDQEETVRKRLVEYHQMTAPLIGYYSKEAEAGNTKYAKVDGTKPVAEVRADLEKILG-------------
+1zin       LYQRADDNEATVANRLEVNMKQMKPLVDFYEQK---G--YLRNINGEQDMEKVFADIRELLGGLAR---------
+1zaka      LTQRFDDTEEKVKLRLETYYQNIESLLSTYEN-------IIVKVQGDATVDAVFAKIDELLGSILEKKNEMVSST
+2ak3a      LVQREDDRPETVVKRLKAYEAQTEPVLEYYRKK---G--VLETFSGT-ETNKIWPHVYAFLQTKLPQRSQETSVT
+3adk       --GRVDDNEETIKKRLETYYKATEPVIAFYEKR---G--IVRKVNAEGSVDDVFSQVCTHLDTLK----------
+1uky       --GRSDDNIESIKKRFNTFKETSMPVIEYFETK---S--KVVRVRCDRSVEDVYKDVQDAIRDSL----------
+1uke       --GRSDDNIESIKKRFNTFNVQTKLVIDHYNKFD-----KVKIIPANRDVNEVYNDVENLFKSMGF---------
+1gky       -----TETEESINKRLSAAQA-ELAYAET--------GAHDKVIVND-DLDKAYKELKDFIFAEK----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1aky       -*
+1akea      -*
+1zin       -*
+1zaka      -*
+2ak3a      P*
+3adk       -*
+1uky       -*
+1uke       -*
+1gky       -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9]
+
+  1-1aky       100.0  46.7  41.5  34.9  39.9  28.9  23.0  25.4  11.3
+  2-1akea       46.7 100.0  46.3  43.0  39.7  34.0  28.6  29.0  11.8
+  3-1zin        41.5  46.3 100.0  39.6  35.9  34.0  28.6  25.9  11.8
+  4-1zaka       34.9  43.0  39.6 100.0  34.5  38.1  28.6  26.4  12.4
+  5-2ak3a       39.9  39.7  35.9  34.5 100.0  27.3  26.0  27.5  11.3
+  6-3adk        28.9  34.0  34.0  38.1  27.3 100.0  43.3  40.4  15.1
+  7-1uky        23.0  28.6  28.6  28.6  26.0  43.3 100.0  50.8  17.2
+  8-1uke        25.4  29.0  25.9  26.4  27.5  40.4  50.8 100.0  14.0
+  9-1gky        11.3  11.8  11.8  12.4  11.3  15.1  17.2  14.0 100.0
+
+***************************************************************************

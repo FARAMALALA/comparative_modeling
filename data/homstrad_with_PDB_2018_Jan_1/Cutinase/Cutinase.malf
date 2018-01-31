@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cex       structureX:1cex:  17 : : 213 : :cutinase:Fusarium solani: 1.0: -1
+[  2] 1bs9       structureX:1bs9:   1 : : 207 : :acetylxylan esterase:Penicillium purpurogenum: 1.10: -1
+
+
+1cex       RTTRDDLINGNSASCADVIFIYARGSTETGNLGTLGPSIASNLESAFGKDGVWIQGVGGAYRATL--GDNA--LP
+1bs9       -------------SCPAIHVFGARETTASPGYG-SSSTVVNGVLSAYP--GSTAEAIN--YPACGGQSSCGGASY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cex       RGTSSAAIREMLGLFQQANTKCPDATLIAGGYSQGAALAAASIE--------------DLDSAIRDKIAGTVLFG
+1bs9       SSSVAQGIAAVASAVNSFNSQCPSTKIVLVGYSQGGEIMDVALCGGGDPNQGYTNTAVQLSSSAVNMVKAAIFMG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cex       YTKNL--------QNRGRIPNYP--------ADRTKVFCNTGDLVCTGSLIVAAPHLAYGPDARGPAPEFLIEKV
+1bs9       DPMFRAGLSYEVGTCAAGGFDQRPAGFSCPSAAKIKSYCDASDPYCCNGS-NAATHQGYGSEYGSQALAFVKSKL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cex       RAVRGS*
+1bs9       G-----*
+           ====|=
+               0230 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cex       100.0  18.3
+  2-1bs9        18.3 100.0
+
+***************************************************************************

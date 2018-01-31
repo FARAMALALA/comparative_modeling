@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1c20a      structureX:1c20:   3 :A: 130 :A:DNA-binding domain from the dead ringer protein:Drosophila melanogaster: -1: -1
+[  2] 1ig6a      structureX:1ig6:   1 :A: 107 :A:human MRF-2 domain:Homo sapiens: -1: -1
+
+
+1c20a      GWSFEEQFKQVRQLYEINDDPKRKEFLDDLFSFMQKRGTPINRLPIMAKSVLDLYELYNLVIARGGLVDVINKKL
+1ig6a      -------------------RADEQAFLVALYKYMKERKTPIERIPYLGFKQINLWTMFQAAQKLGGYETITARRQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c20a      WQEIIKGLHLPSSITSAAFTLRTQYMKYLYPYECEKK----NLSTPAELQAAIDGNR*
+1ig6a      WKHIYDELGGNPGSTSAATCTRRHYERLILPYERFIKGEEDKPLPPIKPRK------*
+           ====|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c20a      100.0  25.2
+  2-1ig6a       25.2 100.0
+
+***************************************************************************

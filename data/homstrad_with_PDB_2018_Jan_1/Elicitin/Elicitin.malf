@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1lria      structureX:1lri:   1 :A:  98 :A:beta-elicitin cryptogein:Phytophthora cryptogea: 1.45: 13.1
+[  2] 1ljpa      structureX:1ljp:   1 :A:  98 :A:beta-elicitin cinnamomin:Phytophthora cinnamomi: 1.80: 19.8
+
+
+1lria      TACTASQQTAAYKTLVSILSDASFNQCSTDSGYSMLTAKALPTTAQYKLMCASTACNTMIKKIVTLNPPNCDLTV
+1ljpa      TACTATQQTAAYKTLVSILSESSFSQCSKDSGYSMLTATALPTNAQYKLMCASTACNTMIKKIVALNPPDCDLTV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lria      PTSGLVLNVYSYANGFSNKCSSL*
+1ljpa      PTSGLVLDVYTYANGFSSKCASL*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lria      100.0  86.7
+  2-1ljpa       86.7 100.0
+
+***************************************************************************

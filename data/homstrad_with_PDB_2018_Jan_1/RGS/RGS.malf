@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1cmza      structureX:1cmz:  79 :A: 206 :A:regulator of G-protein signaling 19:Homo sapiens: -1: -1
+[  2] 1agre      structureX:1agr:  51 :E: 178 :E:regulator of G-protein signaling 4:Rattus norvegicus: 2.8: 21.6
+[  3] 1fqia      structureX:1fqi: 283 :A: 420 :A:regulator of G-protein signaling 9:Bos taurus: 1.94: 22.3
+[  4] 1dk8a      structureX:1dk8: 111 :A: 257 :A:RGS-homologous domain of axin:Homo sapiens: 1.57: 17.2
+
+
+1cmza      ----PSPEEVQSWAQSFDKLMHSPAGRSVFRAFLRTEYSEENMLFWLACEELKAEAN----QHVVDEKARLIYED
+1agre      ----VSQEEVKKWAESLENLINHECGLAAFKAFLKSEYSEENIDFWISCEEYKKIKS----PSKLSPKAKKIYNE
+1fqia      KLVDIPTKRVERWAFNFSELIRDPKGRQSFQHFLRKEFSGENLGFWEACEDLKYG-D----QSKVKEKAEEIYKL
+1dk8a      -GSASPTPPYLKWAESLHSLLDDQDGISLFRTFLKQEGCADLLDFWFACTGFRKLEPCDSNEEKRLKLARAIYRK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cmza      YVSI-LSPKEVSLDSRVREGINKKMQ--EPSAHTFDDAQLQIYTLMHRDSYPRFLSSPTYRALL---------*
+1agre      FISV-QATKEVNLDSCTREETSRNML--EPTITCFDEAQKKIFNLMEKDSYRRFLKSRFYLDLT---------*
+1fqia      FLAP-GARRWINIDGKT-DITVKGLK--HPHRYVLDAAQTHIYL--KKDSYARYLKSPIYKELAKAI----EP*
+1dk8a      YILDNNGIVSRQTKPATKSFIKGCIMKQLIDPAMFDQAQTEIQATMEENTYPSFLKSDIYLEYTRTGSESPKV*
+           ====|=========|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130      0140     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1cmza      100.0  44.5  36.7  25.8
+  2-1agre       44.5 100.0  35.2  30.5
+  3-1fqia       36.7  35.2 100.0  24.8
+  4-1dk8a       25.8  30.5  24.8 100.0
+
+***************************************************************************

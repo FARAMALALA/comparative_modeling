@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1wod       structureX:1wod:   3 : : 233 : :molybdate-binding periplasmic protein:Escherichia coli: 1.75: 16.3
+[  2] 1atg       structureX:1atg:   2 : : 232 : :periplasmic molybdate-binding protein:Azotobacter vinelandii: 1.2: 16.44
+
+
+1wod       GKITVFAAASLTNAMQDIATQFKKEKGVDVVSSFASSSTLARQIEAGAPADLFISADQKWMDYAVDKKAIDTATR
+1atg       -ELKVVTATNFLGTLEQLAGQFAKQTGHAVVISSGSSGPVYAQIVNGAPYNVFFSADEKSPEKLDNQGFALPGSR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1wod       QTLLGNSLVVVAPKASVQKDFTIDSKTNWTSLLNG-GRLAVGDPEHVPAGIYAKEALQKLGAWDTLSP--KLAPA
+1atg       FTYAIGKLVLWSAK-PGLVD----NQGKVLAG-NGWRHIAISNPQIAPYGLAGTQVLTHLGLLDKLTAQERIVEA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1wod       EDVRGALALVERNEAPLGIVYGSDAV--ASKGVKVVATFPEDSHKKVEYPVAVVEG-HNNATVKAFYDYLKGPQA
+1atg       NSVGQAHSQTASGAADLGFVALAQIIQAAAKIPGSHWFPPANYYEPIVQQAVITKSTAEKANAEQFMSWMKGPKA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1wod       AEIFKRYGFTIK-*
+1atg       VAIIKAAGYVLPQ*
+           ====|========
+               0230     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1wod       100.0  25.1
+  2-1atg        25.1 100.0
+
+***************************************************************************

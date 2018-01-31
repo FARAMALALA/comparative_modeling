@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1isia      structureX:1isi:   2 :A: 251 :A:Bone marrow stromal cell antigen 1:Homo sapiens: 2.10: 21.9
+[  2] 1lbea      structureX:1lbe:   1 :A: 250 :A:ADP ribosyl cyclase:Aplysia californica: 2.40: 21.4
+
+
+1isia      WRAEGTSAHLRDIFLGRCAEYRALLSPEQR---NKDCTAIWEAFKVAL-DKDPCSVLPSDYDLFITLSRHSIPRD
+1lbea      ---IVPTRELENVFLGRCKDYEITRYLDILPRVRSDCSALWKDFFKAFSFKNPCDLDLGSYKDFFTSAQQQLPKN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1isia      KSLFWENSHLLVNSFADNTRRFMPLSDVLYGRVADFLSWCRQKADSGLDYQSCPTSEDCENNPVDSFWKRASIQY
+1lbea      KVMFWSGVYDEAHDYANTGRKYITLEDTLPGYMLNSLVWCGQRANPGFNEKVCPDFKTCPVQARESFWGMASSSY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1isia      SKDSSGVIHVMLNGSEPT-GAYPIKGFFADYEIPNLQKEKITRIEIWVMHEIGGPNVESCGEGSMKVLEKRLKDM
+1lbea      AHSAEGEVTYMVDGSNPKVPAYRPDSFFGKYELPNLT-NKVTRVKVIVLHRLGEKIIEKCGAGSLLDLEKLVKAK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1isia      GFQYSCINDYRPVKLLQCVDHSTHPDCALK*
+1lbea      HFAFDCVENPRAVLFLLCSDNPNARECRL-*
+           ====|=========|=========|=====
+               0230      0240      0250  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1isia      100.0  32.8
+  2-1lbea       32.8 100.0
+
+***************************************************************************

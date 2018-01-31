@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1doza      structureX:1doz:   2 :A: 310 :A:ferrochelatase:Bacillus subtilis: 1.80: 18.3
+[  2] 1hrka      structureX:1hrk:  65 :A: 423 :A:ferrochelatase:Homo sapiens: 2.00: 20.2
+
+
+1doza      SRKKMGLLVMAYGTPYKEEDIERYYTHIRR---GRKPE----------PEMLQDLKDRYEAIGGISPLAQITEQQ
+1hrka      RKPKTGILMLNMGGPETLGDVHDFLLRLFLDRDLMTLPIQNKLAPFIAKRLTPKIQEQYRRIGGGSPIKIWTSKQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1doza      AHNLEQHLNEIQDE-ITFKAYIGLKHIEPFIEDAVAEMHKDGITEAVSIVLAPHFSTFSVQSYNKRAKEEAEKLG
+1hrka      GEGMVKLLDELSPNTAPHKYYIGFRYVHPLTEEAIEEMERDGLERAIAFTQYPQYSCSTTGSSLNAIYRYYNQVG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1doza      ---GLTITSVESWYDEPKFVTYWVDRVKETYASMPEDERENAMLIVSAHSLPEKIKEFGDPYPDQLHESAKLIAE
+1hrka      RKPTMKWSTIDRWPTHHLLIQCFADHILKELDHFPLEKRSEVVILFSAHSLPMSVVNRGDPYPQEVSATVQKVME
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1doza      GAGVS-EYAVGWQSEGNTPDPWLGPDVQDLTRDLFEQKGYQAFVYVPVGFVADHLEVLYDNDYECK-VVTDDIGA
+1hrka      RLEYCNPYRLVWQSKV-GPMPWLGPQTDESIKGLCER-GRKNILLVPIAFTSDHIETLYELDIEYSQVLAKECGV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1doza      -SYYRPEMPNAKPEFIDALATVVLKKLGR--------------------------------*
+1hrka      ENIRRAESLNGNPLFSKALADLVHSHIQSNELCSKQLTLSCPLCVNPVCRETKSFFTSQQL*
+           =========|=========|=========|=========|=========|=========|=
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1doza      100.0  26.5
+  2-1hrka       26.5 100.0
+
+***************************************************************************

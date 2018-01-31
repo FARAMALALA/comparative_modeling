@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1axca      structureX:1axc:   1 :A: 255 :A:proliferating cell nuclear antigen:Homo sapiens: 2.6: 19.2
+[  2] 1plq       structureX:1plq:   1 : : 258 : :proliferating cell nuclear antigen:Saccharomyces cerevisiae: 2.3: 18.7
+
+
+1axca      MFEARLVQGSILKKVLEALKDLINEACWDISSSGVNLQSMDSSHVSLVQLTLRSEGFDTYRCDRNLAMGVNLTSM
+1plq       MLEAKFEEASLFKRIIDGFKDCVQLVNFQCKEDGIIAQAVDDSRVLLVSLEIGVEAFQEYRCDHPVTLGMDLTSL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1axca      SKILKCAGNEDIITLRAEDNADTLALVFEAPE--KVSDYEMKLMDLDVEQLGIPEQEYSCVVKMPSGEFARICRD
+1plq       SKILRCGNNTDTLTLIADNTPDSIILLFEDTKKDRIAEYSLKLMDIDADFLKIEELQYDSTLSLPSSEFSKIVRD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1axca      LSHIGDAVVISCAKDGVKFSASGELGNGNIKLSQTS----EEEAVTIEMNEPVQLTFALRYLNFFTKATPLSSTV
+1plq       LSQLSDSINIMITKETIKFVADGDIGSGSVIIKPFVDMEHPETSIKLEMDQPVDLTFGAKYLLDIIKGSSLSDRV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1axca      TLSMSADVPLVVEYKIADMGHLKYYLAPKI----*
+1plq       GIRLSSEAPALFQFDLK-SGFLQFFLAPKFNDEE*
+           ====|=========|=========|=========
+               0230      0240      0250      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1axca      100.0  35.7
+  2-1plq        35.7 100.0
+
+***************************************************************************

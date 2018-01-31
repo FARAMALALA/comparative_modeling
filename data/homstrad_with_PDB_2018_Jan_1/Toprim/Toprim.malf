@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1d6ma      structureX:1d6m:   1 :A: 135 :A:DNA topoisomerase III:Escherichia coli: 3.00: 23.7
+[  2] 1ecl       structureX:1ecl:   3 : : 140 : :DNA topoisomerase I (omega-protein):Escherichia coli: 1.9: 21.8
+[  3] 1dd9a      structureX:1dd9: 259 :A: 341 :A:DNA primase:Escherichia coli: 1.6: 23.1
+
+
+1d6ma      MRLFIAEKPSLARAIADVLPKPHRKGDGFIECGNGQVVTWCIGHLLEQAQ-PDAYDSRYARWNLADLPIVPEKWQ
+1ecl       KALVIVESPAKAKTINKYLG-------------SDYVVKSSVGHIRDLPDERGALVNRMG-VDPWHN----WEAH
+1dd9a      NRLLVVEGYMDVVALAQY---------------GINYAVASLG--------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d6ma      LQPRPSVTKQLNVIKRFLHEASEIVHAGDPDREGQLLVDEVLDYLQ--LAPEKRQQ-VQRCLIN*
+1ecl       YEVLPGKEKVVSELKQLAEKADHIYLATDLDREGEAIAWHLREVIG--GD---DAR-YSRVVFN*
+1dd9a      -------STTADHIQLLFRATNNVICCYDGDRAGRDAAWRALETALPYMTD---GRQLRFMFLP*
+           ====|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1d6ma      100.0  22.6  14.6
+  2-1ecl        22.6 100.0  18.3
+  3-1dd9a       14.6  18.3 100.0
+
+***************************************************************************

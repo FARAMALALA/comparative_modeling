@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1svfa      structureX:1svf: 122 :A: 185 :A:fusion glycoprotein precursor [contains fusion glycoprotein f2]:Simian virus 5: 1.40: 18.1
+[  2] 1svfb      structureX:1svf: 440 :B: 477 :B:fusion glycoprotein precursor [contains fusion glycoprotein f2]:Simian virus 5: 1.40: 18.1
+
+
+1svfa      --------TAAVALVKANENAAAILNLKNAIQKTNAAVADVVQATQSLGTAVQAVQDHINSVVSPAITAANY*
+1svfb      QILSIDPL--------DISQNLAAVNKSLSDALQHLAQSDTYLSAI--------------------------*
+           =========|=========|=========|=========|=========|=========|=========|==
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1svfa      100.0  10.5
+  2-1svfb       10.5 100.0
+
+***************************************************************************

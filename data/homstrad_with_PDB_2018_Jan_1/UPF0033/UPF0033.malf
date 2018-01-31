@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dcja      structureX:1dcj:   1 :A:  81 :A:yhhP protein:Escherichia Coli: -1: -1
+[  2] 1jdqa      structureX:1jdq:   1 :A:  98 :A: Hypothetical Protein Tm0983:Thermotoga maritima: -1: -1
+
+
+1dcja      MT-----------------DLFSSPDHTLDALGLRCPEPVMMVRKTVRNMQPGETLLIIADDPATTRDIPGFCTF
+1jdqa      GSSHHHHHHSSGLVPRGSHMAKYQVTKTLDVRGEVCPVPDVETKRALQNMKPGEILEVWIDY-PMSKERIPETVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dcja      M-EHELVAKETDG-LPYRYLIRKGG*
+1jdqa      KLGHEVLEIEEVGPSEWKIYIKVK-*
+           ====|=========|=========|
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dcja      100.0  23.5
+  2-1jdqa       23.5 100.0
+
+***************************************************************************

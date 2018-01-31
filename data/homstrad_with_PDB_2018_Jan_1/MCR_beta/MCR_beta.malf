@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1mrob      structureX:1mro: 189 :B: 443 :B:methyl-coenzyme M reductase I beta subunit:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  2] 1e6vb      structureX:1e6v: 190 :B: 442 :B:methyl-coenzyme M reductase beta subunit:Methanopyrus kandleri: 2.7: 23.9
+[  3] 1e6yb      structureX:1e6y:2186 :B:2433 :B:methyl-coenzyme M reductase beta subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1mrob      GYALRNIMVNHVVAATLKNTLQAAALSTILEQTAMFEMGDAVGAFERMHLLGLAYQGMNADNLVFDLVKANGKEG
+1e6vb      GYALRNIMVNHIVAATRKNTMQAVCLAATLQQTAMFEMGDALGPFERLHLLGYAYQGLNADNMVYDIVKKHGKEG
+1e6yb      GFSLRNIMANHVAAISNRNAMNASALSSIYEQSGIFEMGGAVGMFERHQLLGLAYQGLNANNLLYDIVKENGKDG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mrob      TVGSVIADLVERALEDGVIKVEKELT-DYKVYGTDDLAMWNAYAAAGLMAATMVNQGAARAAQGVSSTLLYYNDL
+1e6vb      TVGTVVREVVERALEDGVIEVKEELP-SFKVYKANDMDLWNAYAAAGLVAAVMVNQGAARAAQGVSATILYYNDL
+1e6yb      TIGTVIESVVRRAIEAGIISVDKTAPSGYNFYKANDVPKWNACAAVGTLAATLVNCGAGRAAQNVSSTLLYFNDI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mrob      IEFETGLPSVDFGKVEGTAVGFSFFSHSIYGGGGPGIFNGNHIVTRHSKGFAIPCVAAAMALDAGTQMFSPEATS
+1e6vb      LEYETGLPGVDFGRAEGTAVGFSFFSHSIYGGGGPGIFHGNHIVTRHSKGFAIPPVAAAMALDAGTQMFSPEVTS
+1e6yb      LEKETGLPGCDYGKVEGTAVGFSFFSHSIYGGGGPGVFNGNHVVTRHSRGFAIPCVCAAVALDAGTQMFSIESTS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mrob      GLIKEVFSQVDEFREPLKYVVEAAAEIKNEI*
+1e6vb      KLIGDVFGEIDEFREPMKYITEAAAEEAK--*
+1e6yb      GLIGDVFGAIPEFREPIKAVAGV--------*
+           ====|=========|=========|======
+               0230      0240      0250   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mrob      100.0  76.3  65.7
+  2-1e6vb       76.3 100.0  63.7
+  3-1e6yb       65.7  63.7 100.0
+
+***************************************************************************

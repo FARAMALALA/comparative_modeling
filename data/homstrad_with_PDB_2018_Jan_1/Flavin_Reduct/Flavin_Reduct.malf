@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1i0ra      structureX:1i0r:   1 :A: 161 :A:Ferric reductase:Archaeoglobus fulgidus: 1.50: 20.5
+[  2] 1ejea      structureX:1eje:   1 :A: 192 :A:FMN-binding protein:Methanobacterium thermoautotrophicum: 2.2: 22.5
+
+
+1i0ra      ---------------MDVEAFYKI-SYGLYIVTSESN-GRKCGQIANTVFQLTSKPVQIAVCLNKENDTHNAVKE
+1ejea      GSQAAHMMSMDFEDFPVESAHRILTPRPTVMVTTVDEEGNINAAPFSFTMPVSIDPPVVAFASAPDHHTARNIES
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1i0ra      SGAFGVSVLELETPMEFIGRFGFRKSSEFEKFD--GVEYKTGKT-GVPLVTQHAVAVIEAKVVKECDVGTHTLFV
+1ejea      THEFVINITPADI-IERMWVTARDIPAGENELEAAGLAWTSSRRVKPPRIV-EAPGHLECELLRMFEVGDHNLIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1i0ra      GEAVDAEVLKDAE---VLTYADYHLMKKGKTPRT---------------*
+1ejea      GSVVSASVRSGAVKEGLLDVESVK-----PVLHVGGNKFVVGDHVRHVE*
+           =========|=========|=========|=========|=========
+                    0160      0170      0180      0190      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1i0ra      100.0  14.3
+  2-1ejea       14.3 100.0
+
+***************************************************************************

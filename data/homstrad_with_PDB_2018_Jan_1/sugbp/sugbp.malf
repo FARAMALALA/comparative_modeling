@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 2dri       structureX:2dri:   1 : : 271 : :D-ribose binding protein:Escherichia coli: 1.60:19.40
+[  2] 1abe       structureX:1abe:   2 : : 306 : :L-arabinose-binding protein:Escherichia coli: 1.70:13.70
+[  3] 1gca       structureX:1gca:   1 : : 309 : :D-galactose-binding periplasmic protein:Salmonella typhimurium: 1.7: 19
+[  4] 1rpja      structureX:1rpj:   1 :A: 288 :A:D-allose-binding protein:Escherichia coli: 1.80: 19.4
+
+
+2dri       -KDTIALVVSTLNNPFFVSLKDGAQKEADKL-GYNLVVLDSQ--NNPAKELANVQDLTVRGTKILLINPTDSDAV
+1abe       -NLKLGFLVKQPEEPWFQTEWKFADKAGKDL-GFEVIKIAVP---DGEKTLNAIDSLAASGAKGFVICTPDPKLG
+1gca       ADTRIGVTIYKYDDNFMSVVRKAIEKDGKSAPDVQLLMNDSQ--NDQSKQNDQIDVLLAKGVKALAINLVDPAAA
+1rpja      -AAEYAVVLKTLSNPFWVDMKKGIEDEAKTL-GVSVDIFASPSEGDFQSQLQLFEDLSNKNYKGIAFAPLSSVNL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2dri       GNAVKMANQANIPVITLDRQAT-------KGEVVSHIASDNVLGGKIAGDYIAKKAG----------EGAKVIEL
+1abe       SAIVAKARGYDMKVIAVDDQFVNAKGKPMD--TVPLVMMAATKIGERQGQELYKEMQKRG-WD---VKESAVMAI
+1gca       GTVIEKARGQNVPVVFFNKEPSRKALDSYD--KAYYVGTDSKESGVIQGDLIAKHWQANQGWDLNKDGKIQYVLL
+1rpja      VMPVARAWKKGIYLVNLDEKIDMDNLKKAGGNVEAFVTTDNVAVGAKGASFIIDKLGA---------EGGEVAII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2dri       QGIAGTSAARERGEGFQQAVAAHK--FN---VLASQPADFDRIKGLNVMQNLLT-AHP--DVQAVFAQNDEMALG
+1abe       TA-NELDTARRRTTGSMDALKAAG--FPEKQIYQVPTKSNDIPGAFDAANSMLV-QHPEVKHWLIVGMNDSTVLG
+1gca       KGEPGHPDAEARTTYVVKELNDKGIQTE---QLALDTAMWDTAQAKDKMDAWLSGPNAN-KIEVVIANNDAMAMG
+1rpja      EGKAGNASGEARRNGATEAFKKAS-QIK---LVASQPADWDRIKALDVATNVLQ-RNP--NIKAIYCANDTMAMG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2dri       ALRALQTAG-KS-DVMVVGFDGTPDGEKAVN---DGKLAATIAQLPDQIGAKGVETADKVLKGEKVQ--------
+1abe       GVRATEGQGFKAADIIGIGING-VDAVSELSKAQATGFYGSLLPSPDVHGYKSSEMLYNWVAKDVEPP-------
+1gca       AVEALKAHN-KS-SIPVFGVDALPEALALVK---SGAMAGTVLNDANNQAKATFDLAKNLAEGKGAADGTSWKIE
+1rpja      VAQAVANAG-KTGKVLVVGTDGIPEARKMVE---AGQMTATVAQNPADIGATGLKLMVDAEKSGKVIPLDKAP--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2dri       -AKYPV-DLKLVVKQ--------------*
+1abe       -KFTEVTDVVLITRDNFKEELEKKGLGGK*
+1gca       NKIVRV-PYVGVDKDNLSEFTQK------*
+1rpja      -EFKLV-DSILVT-Q--------------*
+           =========|=========|=========
+                    0310      0320      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2dri       100.0  20.7  24.4  35.4
+  2-1abe        20.7 100.0  20.0  18.4
+  3-1gca        24.4  20.0 100.0  20.8
+  4-1rpja       35.4  18.4  20.8 100.0
+
+***************************************************************************

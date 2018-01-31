@@ -1,0 +1,50 @@
+      Code       Title
+
+[  1] 1pama      structureX:1pam: 583 :A: 686 :A:Cyclodextrin glucanotransferase:Bacillus Sp. Strain 1011: 1.8: 16.1
+[  2] 1d3ca      structureX:1d3c: 584 :A: 686 :A:Cyclodextrin glycosyltransferase:Bacillus circulans: 1.78: 22.0
+[  3] 1cgt       structureX:1cgt: 580 : : 684 : :Cyclodextrin glycosyltransferase:Bacillus circulans, strain 8: 2.0: 16.6
+[  4] 1ciu       structureX:1ciu: 579 : : 683 : :Cyclodextrin glycosyltransferase:Thermoanaerobacterium thermosulfurigenes EM1: 2.3: -1
+[  5] 1cyg       structureX:1cyg: 575 : : 680 : :Cyclodextrin glucanotransferase:Bacillus stearothermophilus: 2.5: 15.4
+[  6] 1qhpa      structureX:1qhp: 577 :A: 686 :A:Alpha amylase:Bacillus stearothermophilus: 1.70: 15.3
+[  7] 1kum       structureN:1kum: 509 : : 616 : :Glucoamylase:Aspergillus niger: -1: -1
+[  8] 1cqya      structureX:1cqy: 418 :A: 516 :A:Beta amylase:Bacillus cereus: 1.95: 18.1
+
+
+1pama      --TGDQVTVRFVINNA-TTALGQNVFLTGNVSELGNWDPN------NAIGPMYNQVVYQ--YPTWYYDVSVPAGQ
+1d3ca      ---GDQVSVRFVVNNA-TTALGQNVYLTGSVSELGNWDPA------KAIGPMYNQVVYQ--YPNWYYDVSVPAGK
+1cgt       -LTGDQVTVRFVVNNA-STTLGQNLYLTGNVAELGNWSTGS-----TAIGPAFNQVIHQ--YPTWYYDVSVPAGK
+1ciu       -LTGNQICVRFVVNNA-STVYGENVYLTGNVAELGNWDTS------KAIGPMFNQVVYQ--YPTWYYDVSVPAGT
+1cyg       -LTNDQVSVRFVVNNA-TTNLGQNIYIVGNVYELGNWDTS------KAIGPMFNQVVYS--YPTWYIDVSVPEGK
+1qhpa      -LSGTQTSVVFTVKSAPPTNLGDKIYLTGNIPELGNWSTDTSGAVNNAQGPLLAP---N--YPDWFYVFSVPAGK
+1kum       CTTPTAVAVTFDLT-A-TTTYGENIYLVGSISQLGDWETS------DGI-ALSAD-KYTSSDPLWYVTVTLPAGE
+1cqya      ----TPVMQTIVVKNV-PTTIGDTVYITGNRAELGSWDTK-----QYPIQLYYDSHS-----NDWRGNVVLPAER
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pama      TIEFKFLKKQGS-TVTWEGGANRTFT-TPTS---GTATVNVNWQP*
+1d3ca      TIEFKFLKKQGS-TVTWEGGSNHTFT-APSS---GTATINVNWQP*
+1cgt       QLEFKFFKKNGS-TITWESGSNHTFT-TPAS---GTATVTVNWQ-*
+1ciu       TIQFKFIKKNGN-TITWEGGSNHTYT-VPSS---STGTVIVNWQQ*
+1cyg       TIEFKFIKKDSQGNVTWESGSNHVYT-TPTN---TTGKIIVDWQN*
+1qhpa      TIQFKFFIKRADGTIQWENGSNHVAT-TPTG---ATGNITVTWQN*
+1kum       SFEYKFIRIESDDSVEWESDPNREYT-VPQACGTSTATVTDTWR-*
+1cqya      NIEFKAFIKSKDGTVKSWQTIQQSWNPVPL----KTTSHTSSW--*
+           ====|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1pama      100.0  87.4  75.0  72.1  66.3  47.1  37.5  30.3
+  2-1d3ca       87.4 100.0  74.8  74.8  69.9  50.5  36.9  31.3
+  3-1cgt        75.0  74.8 100.0  74.3  65.7  53.3  37.1  32.3
+  4-1ciu        72.1  74.8  74.3 100.0  69.5  51.4  39.0  31.3
+  5-1cyg        66.3  69.9  65.7  69.5 100.0  53.8  38.7  30.3
+  6-1qhpa       47.1  50.5  53.3  51.4  53.8 100.0  31.5  33.3
+  7-1kum        37.5  36.9  37.1  39.0  38.7  31.5 100.0  27.3
+  8-1cqya       30.3  31.3  32.3  31.3  30.3  33.3  27.3 100.0
+
+***************************************************************************

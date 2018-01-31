@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 1asza      structureX:1asz:  68 :A: 557 :A:aspartyl-tRNA synthetase:Saccharomyces cerevisiae:3.00:20.3
+[  2] 1lyla      structureX:1lyl:  14 :A: 502 :A:lysyl-tRNA synthetase:Escherichia coli:2.80:19.3
+[  3] 1b8aa      structureX:1b8a:   1 :A: 438 :A:aspartyl-tRNA synthetase:Pyrococcus kodakaraensis: 1.90: 16.8
+
+
+1asza      EDTAKDNYGKLPLIQSRDSDR--------------TGQKRVKFVDLD-------EAKDSD--KEVLFRARVHNTR
+1lyla      -----------FNDELRNRREKLAALRQQGVAFPNDFRRDHTSDQLHEEFDAKDNQELESLNIEVSVAGRMMTRR
+1b8aa      ------------------------------------MYRTHYSSEIT-------E-ELNG--QKVKVAGWVWEVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1asza      QQGATLAFLTLRQQASLIQGLVKANKEGTISKNMVK-WAGSLNLESIVLVRGIVKKVDEPIKSATVQNLEIHITK
+1lyla      IMG-KASFVTLQDVGGRIQLYVAR---DSLPEGVYNDQFKKWDLGDIIGARGTLFKTQTG-------ELSIHCTE
+1b8aa      DLG-GIKFLWIRDRDGIVQITAPK---KKVDPELFK-LIPKLRSEDVVAVEGVVNFTP-KAK----LGFEILPEK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1asza      IYTISETPEALPILLEDASRSEAEAEAAGLPVVNLDTRLDYRVIDLR-TVTNQAIFRIQAGVCELFREYLATKKF
+1lyla      LRLLTKALRPLP---------------------DQEVRYRQRYLDLIANDKSRQTFVVRSKILAAIRQFMVARGF
+1b8aa      IVVLNRAETPLPLDPTGK------------VKAELDTRLNNRFMDLR-RPEVMAIFKIRSSVFKAVRDFFHENGF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1asza      TEVHTPKLLGAPSEGGSSVFEVTYF--KGKAYLAQSPQFNKQQLIVADFERVYEIGPVFRAENSNTHRHMTEFTG
+1lyla      MEVETPMMQVIPGGASARPFITHHNALDLDMYLRIAPELYLKRLVVGGFERVFEINRNFRNEG-ISVRHNPEFTM
+1b8aa      IEIHTPKIIATATEGGTELFPMKYF--EEDAFLAESPQLYKEIMMASGLDRVYEIAPIFRAEEHNTTRHLNEAWS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1asza      LDMEMAFEEHYHEVLDTLSELFVFIFSELPKRFAHEIELVRKQYPVEEFKLPKDGKMVRLTYKEGIEMLRAA---
+1lyla      MELYMAYA-DYHDLIELTESLFRTLAQEVLG---------TTKVTYGEHVFDFGKPFEKLTMREAIKKYRPETDM
+1b8aa      IDSEMAFIEDEEEVMSFLERLVAHAINYVREHNAKELDILN--FELEEPKL----PFPRVSYDKALEILGDL---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1asza      ----------------GKEIGDFEDLSTENEKFLGKLVRDKYDTDFYILDKFPLEIRPFYTMPDPANPKYSNSYD
+1lyla      ADLDNFDAAKALAESIGITVEKSWGLGRIVTEIFDEVAEAHLI-QPTFITEYPAEVS-PLARRNDVNPEITDRFE
+1b8aa      ----------------GKEIPWGEDIDTEGERLLGKYMMENENAPLYFLYQYPSEAKPFYIMKYDNKPEICRAFD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1asza      FFMRGEEILSGAQRIHDHALLQERMKAH------GLSPEDPGLKDYCDGFSYGCPPHAGGGIGLERVVMFYLDLK
+1lyla      FFIGGREIGNGFSELNDAEDQAERFQEQVNAKAAGDDEAMFYDEDYVTALEYGLPPTAGLGIGIDRMIMLFTNSH
+1b8aa      LEYRGVEISSGGQREHRHDILVEQIKEK------GLNPE--SFEFYLKAFRYGMPPHGGFGLGAERLIKQMLDLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1asza      NIRRASLFPRDPKRLRP*
+1lyla      TIRDVILFPAMRP----*
+1b8aa      NIREVILFPRDRRRLTP*
+           ====|=========|==
+               0530      0540 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1asza      100.0  21.4  35.6
+  2-1lyla       21.4 100.0  23.5
+  3-1b8aa       35.6  23.5 100.0
+
+***************************************************************************

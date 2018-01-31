@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1aaza      structureX:1aaz:   1 :A:  87 :A:glutaredoxin:Bacteriophage T4: 2.00:21.0
+[  2] 1ego       structureN:1ego:   1 : :  85 : :glutaredoxin 1:Escherichia coli:-1.00:-1.00
+[  3] 1thx       structureX:1thx:   1 : : 108 : :thioredoxin:Anabaena sp.:1.70:17.5
+[  4] 2trxa      structureX:2trx:   1 :A: 108 :A:thioredoxin:Escherichia coli: 1.70:16.5
+[  5] 3trx       structureN:3trx:   1 : : 105 : :thioredoxin:Homo sapiens:-1.00:-1.00
+[  6] 3grx       structureX:3grx:   1 : :  82 : :glutaredoxin 3:Escherichia coli: -1: -1
+
+
+1aaza      ------------------------MFKVYGYDSNIHKCVYCDNAKRLLTVKK-----QPFEFINIMPEKGVFDDE
+1ego       -----------------------MQTVIFGRS----GCPYCVRAKDLAEKLSNERDDFQYQYVDIRAE-----GI
+1thx       SKGVITI-TDAEFESEVLKAE-QPVLVYFWASWCGPCQLMSPLINLAANTYS---DRLKVVKLEID---------
+2trxa      SDKIIHL-TDDSFDTDVLKAD-GAILVDFWAEWCGPCKMIAPILDEIADEYQ---GKLTVAKLNID---------
+3trx       --MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPCKMIKPFFHSLSEKYS----NVIFLEVDVD---------
+3grx       -----------------------ANVEIYTKE----TCPYSHRAKALLSSKG-----VSFQELPIDGN-----AA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aaza      KIAELLTKLGRDTQIGLTMPQVFAPD----GSHIGG---FDQLREYFK---------*
+1ego       TKEDLQQKAGKP---VETVPQIFV-D----QQHIGG---YTDFAAWVKENLDA----*
+1thx       PNPTTVKKYKVE-----GVPALRLVKGEQILDSTEGVISKDKLLSFLDTHLN-----*
+2trxa      QNPGTAPKYGIR-----GIPTLLLFKNGEVAATKVGALSKGQLKEFLDANLA-----*
+3trx       DCQDVASECEVK-----CTPTFQFFKKGQKVGEFSGAN-KEKLEATINELV------*
+3grx       KREEMIKRSGR-----TTVPQIFI-D----AQHIGG---YDDLYALDARGGLDPLLK*
+           ====|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1aaza      100.0  25.9   6.9  10.3   5.7  30.5
+  2-1ego        25.9 100.0  14.1  11.8  15.3  32.9
+  3-1thx         6.9  14.1 100.0  42.6  23.8  12.2
+  4-2trxa       10.3  11.8  42.6 100.0  25.7  12.2
+  5-3trx         5.7  15.3  23.8  25.7 100.0  12.2
+  6-3grx        30.5  32.9  12.2  12.2  12.2 100.0
+
+***************************************************************************

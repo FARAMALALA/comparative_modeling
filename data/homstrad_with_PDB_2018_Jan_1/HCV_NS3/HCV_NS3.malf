@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jxpa      structureX:1jxp:   3 :A: 232 :C:NS3 protein:Hepatitis c virus: 2.2: 24.5
+[  2] 1a1rb      structureX:1a1r:  28 :B:  40 :D:NS3 protein:Hepatitis c virus: 2.5: 21.6
+
+
+1jxpa      -ITAYSQQTRGLLGCIITSLTGRDKNQVEGEVQVVSTATQSFLATCVNGVCWTVYHGAGSKTLAGPKGPITQMYT
+1a1rb      PITAYAQQTRGLLGCIITSLTGRDKNQVEGEVQIVSTATQTFLATCINGVCWTVYHGAGTRTIASPKGPVIQMYT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jxpa      NVDQDLVGWQAPPGARSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPVSYLKGSSGGPLLCPSGHAV
+1a1rb      NVDQDLVGWPAPQGSRSLTPCTCGSSDLYLVTRHADVIPVRRRGDSRGSLLSPRPISYLKGSSGGPLLCPTGHAV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jxpa      GIFRAAVCTRGVAKAVDFVPVESMETTM--GSVVIVGRIILS--------*
+1a1rb      GLFRAAVCTRGVAKAVDFIPVENLETTMRKGSVVIVGRIVLSGKPAIIPK*
+           =========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jxpa      100.0  89.4
+  2-1a1rb       89.4 100.0
+
+***************************************************************************

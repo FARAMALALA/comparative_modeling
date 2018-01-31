@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1r1ba      structureN:1r1b:   1 :A:  56 :A:tRNA synthetase:Cricetulus griseus: -1: -1
+[  2] 1fyja      structureN:1fyj:   1 :A:  57 :A:Multifunctional aminoacyl-tRNA synthetase:Homo sapiens: -1: -1
+
+
+1r1ba      ---MVYDKIAAQGEVVRKLKAEKAPKAKVTEAVECLLSLKAEYKEKTGKEYVPGLEHHH*
+1fyja      DSLVLYNRVAVQGDVVRELKAKKAPKEDVDAAVKQLLSLKAEYKEKTGQEYKPG--NPP*
+           =========|=========|=========|=========|=========|=========
+                    0010      0020      0030      0040      0050      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1r1ba      100.0  60.7
+  2-1fyja       60.7 100.0
+
+***************************************************************************

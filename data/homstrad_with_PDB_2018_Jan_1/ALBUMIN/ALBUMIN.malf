@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1bj51      structureX:1bj5:   3 : : 197 : :serum albumin:Homo sapiens: 2.5: 22.44
+[  2] 1bj52      structureX:1bj5: 198 : : 389 : :serum albumin:Homo sapiens: 2.5: 22.44
+[  3] 1bj53      structureX:1bj5: 390 : : 584 : :serum albumin:Homo sapiens: 2.5: 22.44
+
+
+1bj51      HKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPFEDHVKLVNEVTEFAKTCVADE--SAENCDKSLHTLFGDKLC
+1bj52      ---LKCASLQKFGERAFKAWAVARLSQRFPKAEFAEVSKLVTDLTKVHTECCH----GDLLECADDRADLAKYIC
+1bj53      ---QNCELFEQLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHPEAKRMPCAEDYLSVVLNQLC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bj51      TVATLRETYGEMADCCAKQEPERNECFLQH-KDDNPNLPRLVRP---EVDVMCTAFHDNEETFLKKYLYEIARRH
+1bj52      ENQDS--ISSKLKECCEKPLLEKSHCIAEVENDEMPADLPSLAADFVESKDVCKNYAEAKDVFLGMFLYEYARRH
+1bj53      VLHEKTPVSDRVTKCCTESLVNRRPCFSALEVDETYVPKEFNAETFTFHADICTLSEKERQIKKQTALVELVKHK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bj51      PYFYAPELLFFAKRYKAAFTECCQAADKAACLLPKLDELRDEGKASSAKQR*
+1bj52      PDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEEPQNLIK*
+1bj53      PKATKEQLKAVMDDFAAFVEKCCKADDKETCFA---EEGKKLVAASQAALG*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bj51      100.0  23.4  17.9
+  2-1bj52       23.4 100.0  21.9
+  3-1bj53       17.9  21.9 100.0
+
+***************************************************************************

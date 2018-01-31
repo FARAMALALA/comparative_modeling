@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1boo       structureX:1boo:  16 :A: 335 :A:modification methylase pvuII:Proteus vulgaris: 2.80: 19.3
+[  2] 1eg2a      structureX:1eg2:  36 :A: 314 :A:modification methylase rsrI:Rhodobacter sphaeroides: 1.75: 21.4
+
+
+1boo       NFGKKPAYTTSNGSMYIGDSLELLESFPEESISLVMTSPPFALQRKKEYGNLEQHEYVDWFLSFAKVVNKKLKPD
+1eg2a      G--------TTRHVYDVCDCLDTLAKLPDDSVQLIICDPPY---NIMLADWDDHMDYIGWAKRWLAEAERVLSPT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1boo       GSFVVDFGGAYMKGVPARSIYNFRVLIRMIDEVGFFLAEDFYWFNPSKLPSPIEWVNKRKIRVKDAVNTVWWFSK
+1eg2a      GSIAIFGGLQYQ--GEAGSGDLISIISHMRQNSKMLLANLIIWNYPNGM-SAQ-------RFFANRHEEIAWFAK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1boo       TEWPKSDITKVLAS------------------------IPPNLLQISNSESNGQYLANCKLMGIKAHPARFPAKL
+1eg2a      TKKYFFDLDAVREPYDEETKAAYMKDKRLNPESVEKGRNPTNVWRMSRLNGNSLERVG--------HPTQKPAAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1boo       PEFFIRMLTEPDDLVVDIFGGSNTTGLVAERESRKWISFEMKPEYVAASAFRFL-DNNIS----EEKITDIYNRI
+1eg2a      IERLVRALSHPGSTVLDFFAGSGVTARVAIQEGRNSICTDAAPVFKEYYQKQLTFLRSYEIVEGAANFGAALQR-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1boo       LNGESLDLNSI*
+1eg2a      -----------*
+           =========|=
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1boo       100.0  20.7
+  2-1eg2a       20.7 100.0
+
+***************************************************************************

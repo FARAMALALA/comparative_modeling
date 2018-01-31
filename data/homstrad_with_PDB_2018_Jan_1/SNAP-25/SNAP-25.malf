@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1kild      structureX:1kil: 139 :D: 204 :D:Snare motif:Rattus norvegicus: 2.30: 24.5
+[  2] 1l4ad      structureX:1l4a: 136 :D: 210 :D:S-Snap25 fusion protein:Loligo pealei: 2.95: 29.7
+
+
+1kild      ----------GSARENEMDENLEQVSGIIGNLRHMALDMGNEIDTQNRQIDRIMEKADSNKTRIDEANQRATKML
+1l4ad      PSSGYVTRITNDAREDDMENNMKEVSSMIGNLRNMAIDMGNEIGSQNRQVDRIQQKAESNESRIDEANKKATKLL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kild      W*
+1l4ad      -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kild      100.0  62.1
+  2-1l4ad       62.1 100.0
+
+***************************************************************************

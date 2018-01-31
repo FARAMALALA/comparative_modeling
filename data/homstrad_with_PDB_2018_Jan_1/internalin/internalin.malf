@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1d0ba      structureX:1d0b:  36 :A: 242 :A:internalin B:Listeria monocytogenes: 1.86: 20.7
+[  2] 1a9na      structureX:1a9n:   2 :A: 163 :A:U2 small nuclear ribonucleoprotein A':Homo sapiens: 2.38: 28.2
+
+
+1d0ba      ETITVSTPIKQIFPDDAFAETIKDNLKKKSVTDAVTQNELNSIDQIIANNSDIKSVQGIQYLP-NVTKLFLNGNK
+1a9na      --------------VKLTAELIEQA-------AQYTNA--VRDRELDLRGYKIPVIENLGATLDQFDAIDFSDNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d0ba      LTDIKPLTNLKNLGWLFLDENKIKDL-SSLK-DLKKLKSLSLEHNGIS---DINGLVHLPQLESLYLGNNKIT--
+1a9na      IRKLDGFPLLRRLKTLLVNNNRICRIGEGLDQALPDLTELILTNNSLVELGDLDPLASLKSLTYLCILRNPVTNK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d0ba      ---DITVLSRLTKLDTLSLEDNQISDIVPLAGLTKLQNLYLSKNHISDLRALAGLKNLDVLELFSQEC*
+1a9na      KHYRLYVIYKVPQVRVLDF---QKVKLKERQEAEKMFK------------------------------*
+           =========|=========|=========|=========|=========|=========|========
+                    0160      0170      0180      0190      0200      0210     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1d0ba      100.0  17.3
+  2-1a9na       17.3 100.0
+
+***************************************************************************

@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1edha1     structureX:1edh:   3 :A:  99 :A:epithelial-cadherin (E-cadherin):Mus musculus: 2.00:20.6
+[  2] 1edha2     structureX:1edh: 100 :A: 213 :A:epithelial-cadherin (E-cadherin):Mus musculus: 2.00:20.6
+[  3] 1ncia      structureX:1nci:  -2 :A: 100 :A:neural-cadherin (N-cadherin):Mus musculus: 1.90:19.50
+
+
+1edha1     -----------VIPPISCPENEKGEFPKNLVQIKS--N-RDKET---KVFYSITGQGADKPPVGVFIIERETGWL
+1edha2     DQNDNRPEFTQEVFEGSVAEGA--VPGTSVMKVSATDADDDVNTYNAAIAYTIVSQDPELPHKNMFTVNRDTGVI
+1ncia      -------GSDWVIPPINLPENSRGPFPQELVRIRS--G-RDKNL---SLRYSVTGPGADQPPTGIFIINPISGQL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1edha1     KVTQP-LDREAIAKYILYSHAVSSN-GEAVEDPMEIVITVT-*
+1edha2     SVLTSGLDRESYPTYTLVVQAADLQGEGL-STTAKAVITVKD*
+1ncia      SVTKP-LDRELIARFHLRAHAVDIN-GNQVENPIDIVINVID*
+           ====|=========|=========|=========|=======
+               0080      0090      0100      0110    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1edha1     100.0  24.7  56.7
+  2-1edha2      24.7 100.0  20.6
+  3-1ncia       56.7  20.6 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 7odca      structureX:7odc:   2 :A: 418 :A:ornithine decarboxylase:Mus musculus: 1.6: 19.9
+[  2] 1d7ka      structureX:1d7k:   7 :A: 427 :A:ornithine decarboxylase:Homo sapiens: 2.10: 21.2
+[  3] 1f3ta      structureX:1f3t:  37 :A: 418 :A:ornithine decarboxylase:Trypanosoma brucei brucei: 2.00: 23.7
+
+
+7odca      SSFTKDEFDCHILDEGFTAKDILDQKIN------DKDAFYVAFTLAVNIIAKKTVW----EQTFMYYVNDGVYGS
+1d7ka      -----EEFDCHFLDEGFTAKDILDQKINEVSSSDDKDAFYVAFTLAVNIIAKKIVLKEQTEQTFMYYVNDGVYGS
+1f3ta      -----------------------------------GDPFFVAFTLAVNVIAKKVT------QSFMYYVNDGVYGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+7odca      FNCILYDHAHVKALLQKRPKPDEKYYSSSIWGPTCDGLDRIVERCNLPEMHVGDWMLFENMGAYTVAAASTFNGF
+1d7ka      FNCILYDHAHVKPLLQKRPKPDERYYSSSIWGPTCDGLDRIVERCDLPEMHVGDWMLFENMGAYTVAAASTFNGF
+1f3ta      FNCILYDHAVVRPLPQREPIPNEKLYPSSVWGPTCDGLDQIVERYYLPEMQVGEWLLFEDMGAYTVVGTSSFNGF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+7odca      QRPNIYYVMS--RPMWQLMK---------*
+1d7ka      QRPTIYYVMS--GPAWQLMQQFQNPDFPP*
+1f3ta      QSPTIYYVVSGLPDHVVR-----------*
+           =========|=========|=========
+                    0160      0170      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-7odca      100.0  89.9  68.5
+  2-1d7ka       89.9 100.0  69.3
+  3-1f3ta       68.5  69.3 100.0
+
+***************************************************************************

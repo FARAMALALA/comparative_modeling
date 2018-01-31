@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1tdj       structureX:1tdj:   5 : : 335 : :biosynthetic threonine deaminase:Escherichia coli: 2.8: 20.0
+[  2] 2tysb      structureX:2tys:   3 :B: 397 :B:tryptophan synthase beta chain:Salmonella typhimurium: 1.9: 17.1
+
+
+1tdj       --------------QPLSGAPEGAEYLRAVLRA------------PVYEAAQ-VTPLQKMEKLSSRLDNVILVKR
+2tysb      TLLNPYFGEFGGMYVPQILMPALNQLEEAFVRAQKDPEFQAQFADLLKNYAGRPTALTKCQNITAGTRTTLYLKR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tdj       EDRQPVHSFKLRGAYAMMAGLTEEQKAHGVITASAG--NHAQGVAFSSARLGVKALIVMPTATA---DIKVDAVR
+2tysb      EDLLHGGAHTTNQVLGQALLAKRMGKS--EIIAETGAGQHGVASALASALLGLKCRIYMGAKDVERQSPNVFRMR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tdj       GFGGEVLLHG---ANFDEAKAKAIELSQQQ--GFTWVPPFD------HPMVIAGQGTLALELLQQDA-----HLD
+2tysb      LMGAEVIPVHSGSATLKDACNEALRDWSGSYETAHYMLGTAAGPHPYPTIVREFQRMIGEETKAQILDKEGRLPD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1tdj       RVFVPVGGGGLAAGVAVLIKQLMPQIKVIAVEAE--------DSACLKAALDAG-------HPVDLP------RV
+2tysb      AVIACVGGGSNAIGMFADFIN-DTSVGLIGVEPGGHGIETGEHGAPLKHG--RVGIYFGMKAPMMQTADGQIEES
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1tdj       GLFAEGVAVKRIGDETFRLCQE-YLDDIITVDSDAICAAMKDLFEDVRAVAEPSGALALAGMKKYIALHNIRGER
+2tysb      YSISAGLDFPSVG-PQHAYLNSIGRADYVSITDDEALEAFKTLCRHEGIIPALESSHALAHALKMMREQPEKEQL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1tdj       LAHILSGANVNFHGLRYVSERCELGE--*
+2tysb      LVVNLSGRG--DKDIFTVHDILKARGEI*
+           ====|=========|=========|===
+               0380      0390      0400 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tdj       100.0  20.8
+  2-2tysb       20.8 100.0
+
+***************************************************************************

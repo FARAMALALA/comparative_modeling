@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1lxa       structureX:1lxa:   1 : : 180 : :acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase:Escherichia coli: 2.6: -1
+[  2] 1qrea      structureX:1qre:   9 :A: 175 :A:gamma-carbonic anhydrase active site:Methanosarcina thermophila: 1.46: 18.5
+[  3] 3tdt       structureX:3tdt: 102 : : 236 : :2,3,4,5-tetrahydropyridine-2-carboxylate n-succinyltransferase:Mycobacterium bovis: 2.0: 15.2
+
+
+1lxa       MIDKSAFVHPTAIVEEGASIGANAHIGPFCIVGP---HVEIGEGTVLKSHVVVNGHTKIGRDNEIYQFASIGEVN
+1qrea      ---------------------SNIRENPVTPWNPEPSAPVIDPTAYIDPQASVIGEVTIGANVMVSPMASIRSD-
+3tdt       -------------------------------------GFRVVPPATVRQGAFIARNTVLMP-SYVNIGAYVDE--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lxa       QDLKYAGEPTRVEIGDRNRIRESVTIHRGTV---------QGG-------GLTKVGSDNLLMI--------NAHI
+1qrea      -------EGMPIFVGDRSNVQDGVVLHALETINEEGEPIEDNIVEVDGKEYAVYIGNNVSLAH--------QSQV
+3tdt       ----------GTMVDTWATVGSCAQIGK-----------------------NVHLSGGVGIGGVLEPLQANPTII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lxa       AHDCTVGNRCILANNATLAGHVSVDDFAIIGG-------------MTAVHQFCIIGAHVMVGGCSGVAQD*
+1qrea      HGPAAVGDDTFIGMQAFVF-KSKVGNNCVLEP-------------RSAAI-GVTIPDGRYIPAGMVVTS-*
+3tdt       EDNCFIGARSEVVEGVIVEEGSVISMGVYLGQSTRIYDRETGEIHYGRVPAGSVVVSG------------*
+           =========|=========|=========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200      0210      0220 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1lxa       100.0  15.6   7.4
+  2-1qrea       15.6 100.0  11.1
+  3-3tdt         7.4  11.1 100.0
+
+***************************************************************************

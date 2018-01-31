@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1gc5a      structureX:1gc5:   1 :A: 467 :A:ADP-dependent glucokinase:Thermococcus litoralis: 2.30: 20.4
+[  2] 1l2la      structureX:1l2l:   7 :A: 457 :A:ADP-dependent glucokinase:Pyrococcus horikoshii: 2.00: 21.3
+
+
+1gc5a      MKESLKDRIRLWKRLYVNAFENALNAIPNVKGVLLAYNTNIDAIKYLDADDLEKRVTEKGKEKVFEIIENPPEKI
+1l2la      -----------WESLYEKALDKVEASIRKVRGVLLAYNTNIDAIKYLKREDLEKRIEKVGKEEVLRYSEELPKEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gc5a      SSIEELLGGILRSIKLGKAMEWFVESEEVRRYLREWGWDELRIGGQAGIMANLLGGVYRIPTIVHVPQNPKLQAE
+1l2la      ETIPQLLGSILWSIKRGKAAELLVVSREVREYMRKWGWDELRMGGQVGIMANLLGGVYGIPVIAHVPQLSELQAS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gc5a      LFVDGPIYVPVFEGNKLKLVHPKDAIAEEEELIHYIYEFPRGFQVFDVQAPRENRFIANADDYNARVYMRREFRE
+1l2la      LFLDGPIYVPT------RLIHPREF----EDCIHYIYEFPRNFKVLDFEAPRENRFIGAADDYNPILYVREEWIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gc5a      GFEEITRNVELAIISGLQVLKEYYPDGTTYKDVLDRVESHLNILNRYNVKSHFEFAYTANRRVREALVELLPKFT
+1l2la      RFEEIAKRSELAIISGLHPLTQE-----NHGKPIKLVREHLKILNDLGIRAHLEFAFTPDEVVRLEIVKLLKHFY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gc5a      SVGLNEVELASIMEIIGDEELAKEVLE---GHIFSVIDAMNVLMDETGIERIHFHTYGYYLALTQYRGEEVRDAL
+1l2la      SVGLNEVELASVVSVMGEKELAERIISKDPADPIAVIEGLLKLIKETGVKRIHFHTYGYYLALTREKGEHVRDAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1gc5a      LFASLAAAAKAMKGNLERIEQIRDALSVPTNERAIVLEEELEKEFTEFENGLIDMVDRQLAFVPTKIVASPKSTV
+1l2la      LFSALAAATKAMKGNIEKLSDIREGLAVPIGEQGLEVEKILEKEFSLR-DGIGSIEDYQLTFIPTK---------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1gc5a      GIGDTISSSAFVSEFGMRKR*
+1l2la      GIGDTISSSAFVSEFSLH--*
+           =========|=========|
+                    0460      0470 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gc5a      100.0  57.2
+  2-1l2la       57.2 100.0
+
+***************************************************************************

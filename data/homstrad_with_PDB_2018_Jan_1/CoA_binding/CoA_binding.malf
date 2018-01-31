@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2scua      structureX:2scu:   1 :A: 121 :A:succinyl-CoA synthetase alpha chain:Escherichia coli: 2.30: 19.5
+[  2] 1euda      structureX:1eud:   1 :A: 130 :A:phosphorylated GTP-specific succinyl-CoA synthetase from pig heart:Sus scrofa: 2.10: 15.6
+
+
+2scua      -------SIL-IDKNTKVICQGFTGSQGTFHSEQAIAYGTKMVGGVTPGKGGTTHLGLPVFNTVREAVAATGATA
+1euda      CSYTASRKHLYVDKNTKVICQGFTGKQGTFHSQQALEYGTNLVGGTTPGKGGKTHLGLPVFNTVKEAKEQTGATA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2scua      SVIYVPAPFCKDSILEAIDAGIKLIITITEGIPTLDMLTVKVKLDEAG-VRMIGP*
+1euda      SVIYVPPPFAAAAINEAIDAEVPLVVCITEGIPQQDMVRVKHRLLRQGKTRLIGP*
+           ====|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2scua      100.0  68.6
+  2-1euda       68.6 100.0
+
+***************************************************************************

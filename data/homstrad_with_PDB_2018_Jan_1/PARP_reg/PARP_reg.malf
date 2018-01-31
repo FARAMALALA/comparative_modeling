@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1efya      structureX:1efy: 662 :A: 796 :A:poly [ADP-ribose] polymerase-1:Gallus gallus: 2.20: 19.4
+[  2] 1gs0a      structureX:1gs0: 207 :A: 340 :A:poly [ADP-ribose] polymerase-2:Mus musculus: 2.80: 24.4
+
+
+1efya      KSKLAKPIQDLIKMIFDVESMKKAMVEFEIDLQKMPLGKLSKRQIQSAYSILNEVQQAVSDGGSESQILDLSNRF
+1gs0a      ESQLDLRVQELLKLICNVQTMEEMMIEMKYDTKRAPLGKLTVAQIKAGYQSLKKIEDCIRAGQHGRALVEACNEF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1efya      YTLIPHDFGMKKPPLLSNLEYIQAKVQMLDNLLDIEVAYSLLRGGNEDGDKDPIDINYEK*
+1gs0a      YTRIPHDFGLSIPPVIRTEKELSDKVKLLEALGDIEIALKLVK-------EHPLDQHYRN*
+           ====|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1efya      100.0  35.2
+  2-1gs0a       35.2 100.0
+
+***************************************************************************

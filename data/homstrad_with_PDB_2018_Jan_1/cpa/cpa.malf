@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 2ctc       structureX:2ctc:   1 : : 307 : :carboxypeptidase A:Bos taurus:1.40:16.1
+[  2] 1pca       structureX:1pca:   1 : : 308 : :carboxypeptidase A:Sus scrofa:2.00:16.9
+[  3] 1nsa       structureX:1nsa:   4 : : 308 : :carboxypeptidase B:Sus scrofa:2.30:16.9
+[  4] 1obr       structureX:1obr:   1 : : 323 : :carboxypeptidase T:Thermoactinomyces vulgaris:2.30:15.2
+
+
+2ctc       ARSTNTFNYATYHTLDEIYDFMDLLVAEHPQLVSKLQIGRSYEGRPIYVLKFSTG---GSNRPAIWIDLGIHSRE
+1pca       ARTTSTFNYATYHTLEEIYDFMDILVAEHPALVSKLQIGRSYEGRPIYVLKFSTG---GSNRPAIWIDSGIHSRE
+1nsa       TTG---HSYEKYNNWETIEAWTEQVTSKNPDLISRSAIGTTFDGDNIYLLKVGKP---GSNKPAIFMDCGFHARE
+1obr       -DFPSYDS--GYHNYNEMVNKINTVASNYPNIVKKFSIGKSYEGRELWAVKISDNVGTDENEPEVLYTALHHARE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ctc       WITQATGVWFAKKFTEDYGQDPSFTAILDSMDIFLEIVTNPDGFAFTHSQ--NRLWRKTRSVTSSSLCVGVDANR
+1pca       WITQASGVWFAKKITENYGQNSSFTAILDSMDIFLEIVTNPNGFAFTHSD--NRLWRKTRSKASGSLCVGSDSNR
+1nsa       WISQAFCQWFVRDAVRTYGYEAHMTEFLDNLDFYVLPVLNIDGYIYTWTK--NRMWRKTRSTNAGSSCTGTDPNR
+1obr       HLTVEMALYTLDLFTQNYNLDSRITNLVNNREIYIVFNINPDGGEYDISSGSYKSWRKNRQPNSGSSYVGTDLNR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2ctc       NWDAGFGKA-GASSSPCSETYHGKYANSEVEVKSIVDFVKDHG-----NFKAFLSIHSYSQLLLYPYGYTTQ-SI
+1pca       NWDAGFGGA-GASSSPCAETYHGKYPNSEVEVKSITDFVKNNG-----NIKAFISIHSYSQLLLYPYGYKTQ-SP
+1nsa       NFNAGWCTV-GASVNPCNETYCGSAAESEKETKALADFIRNNL----SSIKAYLTIHSYSQMILYPYSYDYK-LP
+1obr       NYGYKWGCCGGSSGSPSSETYRGRSAFSAPETAAMRDFINSRVVGGKQQIKTLITFHTYSELILYPYGYTYTDVP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2ctc       P-----DKTELNQVAKSAVEALKSLYGTSYKYGSIITTIYQASGGSIDWSYNQGIKYSFTFELRDTG-RYGFLLP
+1pca       A-----DKSELNQIAKSAVAALKSLYGTSYKYGSIITVIYQASGGVIDWTYNQGIKYSFSFELRDTG-RRGFLLP
+1nsa       E-----NDAELNSLAKGAVKELASLYGTSYSYGPGSTTIYPAAGGSDDWAYNQGIKYSFTFELRDKG-RFGFVLP
+1obr       SDMTQDDFNVFKTMANTMAQTN----G--YTPQQASD-LYITDGDMTDWAYGQHKIFAFTFEMYPTSYNPGFYPP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2ctc       ASQIIPTAQETWLGVLTIMEHTLNN--------*
+1pca       ASQIIPTAQETWLALLTIMEHTLNNS-------*
+1nsa       ESQIQATCQETMLAVKYVTNYTLEHL-------*
+1obr       DEVIGRETSRNKEAVLYVAEKADCPYSVIGKSC*
+           =========|=========|=========|===
+                    0310      0320      0330 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2ctc       100.0  87.3  48.0  30.3
+  2-1pca        87.3 100.0  48.0  30.2
+  3-1nsa        48.0  48.0 100.0  29.7
+  4-1obr        30.3  30.2  29.7 100.0
+
+***************************************************************************

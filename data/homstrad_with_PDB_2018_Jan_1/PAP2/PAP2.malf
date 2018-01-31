@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1qi9a      structureX:1qi9:   2 :A: 556 :A:vanadium-dependent haloperoxidase:Ascophyllum nodosum: 2.05: 16.5
+[  2] 1qhba      structureX:1qhb:   2 :A: 596 :A:vanadium bromoperoxidase:Corallina officinalis: 2.30: 17.2
+
+
+1qi9a      TCSTSDDADDPTPPNERDDEAFASRVAAAKRELEGTGTVCQINNGET-----------DLAAKFHKSLPHDDLGQ
+1qhba      ----GIPADNLQS---RAKASFDTRVAAAELALAR-GAVPSFANGEELLYRNSETGDPSFIGSFTKGLPHDDNGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qi9a      V-DADAFAALEDCILNGDLSICEDVPVGNSE-----------------GDPVGRLVNPTAAFAIDISGPAFSATT
+1qhba      IIDPDDFLAFVRAINSGDEKEIAALTLGPARDPETGLPIWRSDLANSLDLEVRGWENSSAGLTFDLEGPDAQSVA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qi9a      IPPVPTLPSPELAAQLAEVYWMALARDVPFMQYG---TDDITVTAAANLAGMEGFPN---------LDAVSIGSD
+1qhba      MPPAPVLTSPELIAEMAELYLMALGRDIEFSEFDSPKNAAFIRSAIERLNGLEWFNTPAKLGDPPAEIRRRRG--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qi9a      GTVDPLSQLFRATFVGVETGPFISQLLVNSFTID--------------------------SITVEPKQETFAPDV
+1qhba      -EVTV-GNLFRGILPGSEVGPYLSQFIIVGSKQIGSATVGNKTLVSPNAADEFDGEIAYGSITISQRVRIATPGR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qi9a      NYMVDFDEWLNIQNGGPPAGPELLDDELRFVRNARDLARVTFTDNINTEAYRGALILLGLDAFNRAGVNGPFIDI
+1qhba      DFMTDLKVFLDVQDAADFRGFESYEPGARLIRTIRDLATWVHFDSLYEAYLNACLILLANGVPFDP--NLPFQQE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qi9a      D---RQAGFVNFGISHYFRLIGAAE-LAQRSSWYQKWQVHRFARPEALGGTLHLTIKG-----ELNADFDLSLLE
+1qhba      DKLDNQDVFVNFGSAHVLSLVTEVATRALKAVRYQKFNIHRRLRPEATGGLISVNKNAFLKSESVFPEVDVLVEE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1qi9a      NAELLKRVAAINAAQNPNN-----EVTYLLPQAIQEGSPTHPSYPSGHATQNGAFATVLKALIGLDRGGDCYPDP
+1qhba      LSSILDDSASSNEKQNIADGDVSPGKSFLLPMAFAEGSPFHPSYGSGHAVVAGACVTILKAFFD---ANFQIDQV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1qi9a      VYPDDDGLKLIDFR-GSCLTFEGEINKLAVNVAFGRQMLGIHYRFDGIQGLLLGETITVRTLHQELMTFAEESTF
+1qhba      FEVDTDEDKLVKSSFPGPLTVAGELNKLADNVAIGRNMAGVHYFSDQFESLLLGEQIAIGILEEQSLTYGENFFF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1qi9a      EFRLFTGEVIKLFQDGTFTIDGFKCPGLVYTGVENCV*
+1qhba      NLPKFDGTTIQI-------------------------*
+           =========|=========|=========|=======
+                    0610      0620      0630    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qi9a      100.0  32.4
+  2-1qhba       32.4 100.0
+
+***************************************************************************

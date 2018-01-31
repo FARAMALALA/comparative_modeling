@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1fvia      structureX:1fvi:   2 :A: 189 :A:DNA ligase-adenylate:Chlorella virus: 2.00: 19
+[  2] 1a0i       structureX:1a0i:   2 : : 240 : :DNA ligase:Bacteriophage T7: 2.6: 22.2
+
+
+1fvia      --AITKPLLAATLEN--IEDVQ---FPCLATPKIAGIRSVKQ---T---QMLSRTFKPIRN--------SVMNRL
+1a0i       VNIKTNPFKAVSFVESAIKKALDNAGYLIAEIKYDGVRGNICVDNTANSYWLSRVSKTIPALEHLNGFDVRWKRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fvia      LT-ELLP----EGSDGEISIEGATFQDTTSAVMTGHA---------------------KFSYYWFDYVTD-----
+1a0i       LNDDRCFYKDGFMLDGELMVKGVDFNTGSGLLRTKWTDTKNQEFHRKKDKVPFKLHTGHLHIKLYAILPLHIVES
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fvia      --DPLKKYIDRVEDMKNYITVHPHILEHAQVKIIPLIPVEINNITELLQYERDVLSKGFEGVMIRKPDGKYKFGR
+1a0i       GEDCDVMTLLMQEHVKNMLPLLQEYFP--EIEWQAAESYEVYDMVELQQLYEQKRAEGHEGLIVKDPMCIYKRGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fvia      STLKEGILLKMKQ*
+1a0i       KS----GWWKMK-*
+           ====|========
+               0230     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fvia      100.0  22.3
+  2-1a0i        22.3 100.0
+
+***************************************************************************

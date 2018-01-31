@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1aoza      structureX:1aoz:   1 :A: 552 :A:ascorbate oxidase:Cucurbita pepo medullosa: 1.9: -1
+[  2] 1a65a      structureX:1a65:   1 :A: 504 :A:type-2 Cu-depleted laccase:Coprinus cinereus: 2.23: 16
+
+
+1aoza      -SQIRHYKWEVEYMFWAPNCNENIVMGINGQFPGPTIRANAGDSVVVELTNKLH--T--EGVVIHWHGILQRGTP
+1a65a      QIVNSVDTMTLTNANVSPDGFTRAGILVNGVH-GPLIRGGKNDNFELNVVNDLDNPTMLRPTSIHWHGLFQRGTN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aoza      WADGTASISQCAINPGETFFYNFTVD-NPGTFFYHGHLGMQRSAGLYGSLIVDPPQGKKEPF--HYDGEI---NL
+1a65a      WADGADGVNQCPISPGHAFLYKFTPAGHAGTFWYHSHFGTQYCDGLRGPMVIYDD---NDPHAALYDEDDENTII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1aoza      LLSDWWHQSIHKQEVGLSSKPIRWIGEPQTILLNGRGQFDCSIAAKYDSNLEPCKLKGSESCAPYIFHVSPKKTY
+1a65a      TLADWYHIPAPSIQ--------GAA-QPDATLINGKGRYV-----------------GGPAAELSIVNVEQGKKY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1aoza      RIRIASTTALAALNFAIGNHQLLVVEADGNYVQPFYTSDIDIYSGESYSVLITTDQNPSENYWVSVGTRARH---
+1a65a      RMRLISLSCDPNWQFSIDGHELTIIEVDGELTEPHTVDRLQIFTGQRYSFVLDANQPV-DNYWIRAQPNKGRNGL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1aoza      PNTP---PGLTLLNYLPNSVSKLPTSPPPQTPAWDDFDRSKNFTYRITAAMGSPKPPV----KFNRRIFLLNTQN
+1a65a      AGTFANGVNSAILRYAGAAN-ADPTTSANPNPAQLN-------EADLHALIDPAAPGIPTPGAADVNLRFQLGFS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1aoza      VINGYVKWAINDVSLALPPTPYLGAMKYNLL---HAFDQNPPPEVFPEDYDIDTPPTNEKTRIGNGVYQFKIGEV
+1a65a      G----GRFTINGTAYESPSVPTLLQIMSGAQSANDLLPA-------------------------GSVYELPRNQV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1aoza      VDVILQNANMMKENLSETHPWHLHGHDFWVLGYGDGKFSAEEESSLNLKNPPLRNTVVIFP-YGWTAIRFVADNP
+1a65a      VELVVPAGVL-----GGPHPFHLHGHAFSVVRSAGSS-------TYNFVNPVKRDVVSLGVTGDEVTIRFVTDNP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1aoza      GVWAFHCHIEPHLHMGMGVVFAEGVEKVG---RIPTKALACGGTAKSLINNPKNP---------*
+1a65a      GPWFFHCHIEFHLMNGLAIVFAEDMANTVDANNPPVEWAQLCEIYDDLP-----PEATSIQTVV*
+           ====|=========|=========|=========|=========|=========|=========
+               0530      0540      0550      0560      0570      0580      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1aoza      100.0  27.2
+  2-1a65a       27.2 100.0
+
+***************************************************************************

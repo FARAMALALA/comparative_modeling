@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1lba       structureX:1lba:   1 : : 150 : :lysozyme:Bacteriophage T7: 2.20: 19.0
+[  2] 1j3ga      structureN:1j3g:   1 :A: 187 :A:ampd protein:Citrobacter freundii:-1:-1
+
+
+1lba       ------------------AKQRE---STDAIFVHCSATKPSQNVGVREIRQWHKEQ-----------GW--LDVG
+1j3ga      MLLDEGWLAEARRVPSPHYDCRPDDENPSLLVVHNISLPP--GEFGGPWIDALFTGTIDPNAHPYFAGIAHLRVS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lba       YHFIIKRDGTVEAGRDEMAVGSHAK--------GYNHNSIGVCLVGGIDDKGKFDANFTPAQMQSLRSLLVTLLA
+1j3ga      AHCLIRRDGEIVQYVPFDKRAWHAGVSSYQGRERCNDFSIGIELEGTD------TLAYTDAQYQQLAAVTNALIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lba       KYEGA--VLRAHHEVAP--KAC--PSFDLKRWWEKNELVTSDRG----*
+1j3ga      RYPAIANNMTGHCNIAPERKTDPGPSFDWARFRAL---VTPSSHKEMT*
+           =========|=========|=========|=========|========
+                    0160      0170      0180      0190     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lba       100.0  26.0
+  2-1j3ga       26.0 100.0
+
+***************************************************************************

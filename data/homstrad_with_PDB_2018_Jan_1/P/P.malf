@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1ps2       structureX:1ps2:   1 : :  60 : :ps2 protein:Homo sapiens: -1: -1
+[  2] 2pspa2     structureX:2psp:   2 :A:  50 :A:pancreatic spasmolytic polypeptide:Sus scrofa: 1.95: 19.8
+[  3] 2pspa1     structureX:2psp:  51 :A: 106 :A:pancreatic spasmolytic polypeptide:Sus scrofa: 1.95: 19.8
+
+
+1ps2       EAQT-ETC-TVAPRERQNCGFPGVTPSQCANKGCCFDDTVRGVPWCFYPNTIDVPPEEESEF*
+2pspa2     -KPAACRCSRQDPKNRVNCGFPGITSDQCFTSGCCFDSQVPGVPWCFKPL------------*
+2pspa1     PAQESEEC-VMQVSARKNCGYPGISPEDCAARNCCFSDTIPEVPWCFFPMSVEDCHY-----*
+           =========|=========|=========|=========|=========|=========|==
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ps2       100.0  51.0  42.9
+  2-2pspa2      51.0 100.0  38.8
+  3-2pspa1      42.9  38.8 100.0
+
+***************************************************************************

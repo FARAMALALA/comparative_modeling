@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ekga      structureX:1ekg:  90 :A: 208 :A:frataxin (friedreich's ataxia protein):Homo sapiens: 1.80: 19.7
+[  2] 1ew4a      structureX:1ew4:   1 :A: 106 :A:CyaY protein:Escherichia coli: 1.40: 18.8
+
+
+1ekga      LDETTYERLAEETLDSLAEFFEDLADKPYTFEDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSSGPK
+1ew4a      MNDSEFHRLADQLWLTIEERLDDW-DGDS---DIDCEINGGVLTITF-ENGSKIIINRQEPLHQVWLATKQ-GGY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ekga      RYDWTGKNWVYSHDGVSLHELLAAELTKALKTKLDLSSLAYSGK*
+1ew4a      HFDLKGDEWICDRSGETFWDLLEQAATQQAGETVSFR-------*
+           ====|=========|=========|=========|=========
+               0080      0090      0100      0110      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ekga      100.0  25.5
+  2-1ew4a       25.5 100.0
+
+***************************************************************************

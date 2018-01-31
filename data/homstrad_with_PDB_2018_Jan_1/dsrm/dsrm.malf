@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1qu6a2     structureX:1qu6:  91 :A: 179 :A:the double-stranded ribonucleic acid-binding domain of the protein kinase pkr:Homo sapiens: -1: -1
+[  2] 1qu6a1     structureX:1qu6:   1 :A:  90 :A:the double-stranded ribonucleic acid-binding domain of the protein kinase pkr:Homo sapiens: -1: -1
+[  3] 1stu       structureX:1stu:   1 : :  68 : :maternal effect protein staufen:Drosophila melanogaster: -1: -1
+
+
+1qu6a2     ---------LLTTTNSSEGLSMGNYIGLINRIAQKKRLTVNYEQCAS-GVHGPEGFHYKCKMGQKEYSIGTGSTK
+1qu6a1     GSHMEMAGDL----------SAGFFMEELNTYRQKQGVVLKYQELPNSGPPHDRRFTFQVIIDGREFPEGEGRSK
+1stu       ------------------------PISQVHEIGIKRNMTVHFKVLREEGPAHMKNFITACIVGS-IVTEGEGNGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qu6a2     QEAKQLAAKLAYLQILSEETGSG-C*
+1qu6a1     KEAKNAAAKLAVEILNKEKKAVSPL*
+1stu       KVSKKRAAEKMLVELQKL-------*
+           ====|=========|=========|
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qu6a2     100.0  24.7  22.1
+  2-1qu6a1      24.7 100.0  26.5
+  3-1stu        22.1  26.5 100.0
+
+***************************************************************************

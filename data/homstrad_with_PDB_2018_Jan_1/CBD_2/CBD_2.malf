@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1exh       structureX:1exh:   1 : : 110 : :exoglucanase-xylanase:Cellulomonas fimi: -1: -1
+[  2] 2xbd       structureX:2xbd: 247 : : 333 : :endo-1,4-beta-xylanase D (xylanase D):Cellulomonas fimi: -1: -1
+
+
+1exh       ASSGPAGCQVLWG-VNQWNTGFTANVTVKNTSSAPVDGWTLTFSFPSGQQVTQAWSSTVTQSGSAVTVRNAPWNG
+2xbd       T-----GCSVTATRAEEWSDRFNVTYSVSG-----SSAWTVNLALNGSQTIQASWNANVTGSGSTRTVTPNGSG-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1exh       SIPAGGTAQFGFNGSHTGTNAAPTAFSLNGTPCTVG*
+2xbd       -------NTFGVTVMKNGSSTTPAATCAGS------*
+           ====|=========|=========|=========|=
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1exh       100.0  25.3
+  2-2xbd        25.3 100.0
+
+***************************************************************************

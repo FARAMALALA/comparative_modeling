@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1hpi       structureX:1hpi:   1 : :  71 : :high potential iron-sulfur protein, isozyme 2:Ectothiorhodospira vacuolata: 1.80:16.30
+[  2] 2hipa      structureX:2hip:   1 :A:  71 :A:high potential iron-sulfur protein, isozyme 1:Ectothiorhodospira halophila: 2.50:18.40
+[  3] 1ckua      structureX:1cku:   1 :A:  85 :A:high potential iron-sulfur protein:Chromatium vinosum: 1.20: -1
+[  4] 1isua      structureX:1isu:    1 :A:  62 :A:high potential iron-sulfur protein:Rhodocyclus tenius: 1.50:17.30
+[  5] 3hipa      structureX:3hip: 102 :A: 183 :A:high potential iron-sulfur protein:Chromatium purpuratum:2.8:22.4
+
+
+1hpi       ---MERLSEDDPAAQALEYRHDASSVQH-PAYE-----EGQTCLNCLLYTDAS---AQDWGPCS--VFPGK-LVS
+2hipa      ---EPRAEDG----HAHDYVNEAADASGHPRYQ-----EGQLCENCAFWGEAVQ---DGWGRCTHPDFDEV-LVK
+1ckua      SAPANAVAADDATAIALKYNQDATKSERVAAARPGLPPEEQHCANCQFMQADAAGATDEWKGCQ--LFPGK-LIN
+1isua      ----GTNA---AMRKAFNYQDTAKN--------------GKKCSGCAQFVPGASP--TAAGGCK--VIPGDNQIA
+3hipa      -VPANAVTESDPAAVALKYHRDAASSERVAAARPGLPPEEQHCENCQFMNPDS--AAADWKGCQ--LFPGK-LIN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hpi       ANGWCTAWVAR--*
+2hipa      AEGWCSVYAPAS-*
+1ckua      VNGWCASWTLKAG*
+1isua      PGGYCDAFIVKK-*
+3hipa      LSGWCASWTLRAG*
+           ====|========
+               0080     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1hpi       100.0  32.4  36.6  22.6  45.1
+  2-2hipa       32.4 100.0  23.9  17.7  25.4
+  3-1ckua       36.6  23.9 100.0  25.8  74.4
+  4-1isua       22.6  17.7  25.8 100.0  21.0
+  5-3hipa       45.1  25.4  74.4  21.0 100.0
+
+***************************************************************************

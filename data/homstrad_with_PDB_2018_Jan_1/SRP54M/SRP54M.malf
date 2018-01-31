@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2ffha      structureX:2ffh: 319 :A: 418 :A:signal sequence binding protein Ffh:Thermus aquaticus: 3.2: 25.7
+[  2] 1qb2a      structureX:1qb2: 326 :A: 431 :A:signal recognition particle 54 kd protein:Homo sapiens: 2.10: 24.5
+
+
+2ffha      ELSLEDFLKQMQNLKRLGPFSEILGLLP---------GVPQGLKVDEKAIKRLEAIVLSMTPEERK--DPRILN-
+1qb2a      QFTLRDMYEQFQNIMKMGPFSQILGMIPGFGTDFMSK---GNEQESMARLKKLMTIMDSMNDQELDSTDGAKVFS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ffha      --GSRRKRIAKGSGTSVQEVNRFIKAFEEMKALMKSLEK*
+1qb2a      KQPGRIQRVARGSGVSTRDVQELLTQYTKFAQMV-----*
+           ====|=========|=========|=========|====
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2ffha      100.0  28.0
+  2-1qb2a       28.0 100.0
+
+***************************************************************************

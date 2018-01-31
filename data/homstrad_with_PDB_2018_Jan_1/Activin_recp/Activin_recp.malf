@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1es7b      structureX:1es7: 232 :B: 317 :B:bone morphogenetic protein receptor type IA:Homo sapiens: 2.90: 19.1
+[  2] 1btea      structureX:1bte:   7 :A: 102 :A:activin receptor type II:Mus musculus: 1.50: 18.1
+
+
+1es7b      TLPFLKCYCSGHCPD--DAIN-NTCIT--NGHCFAIIEE-DE--TTLASGCMKYE--GSDFQCKDS-PKAQLRRT
+1btea      --ETQECLFFNANWERDRTNQTGVEPCYGRRHCFATWKNISGSIEIVKQGCWLDDINCYDRT-DCIEKKDSPEVY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1es7b      IECCRTNLCNQYLQPTLPP-*
+1btea      FCCCEGNMCNEKFSYFPEME*
+           ====|=========|=====
+               0080      0090  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1es7b      100.0  16.9
+  2-1btea       16.9 100.0
+
+***************************************************************************

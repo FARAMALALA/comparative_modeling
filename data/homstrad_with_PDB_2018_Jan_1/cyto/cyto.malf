@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1bgd       structureX:1bgd:  10 : : 173 : :Granulocyte colony stimulating factor:Canis familiaris:2.30:20.7
+[  2] 1bgc       structureX:1bgc:   9 : : 173 : :Granulocyte colony stimulating factor:Bos taurus:1.70:21.30
+[  3] 1rhga      structureX:1rhg:   9 :A: 172 :A:Granulocyte colony stimulating factor:Homo sapiens: 2.20:21.50
+
+
+1bgd       -LPQSFLLKCLEQMRKVQADGTALQETLCATHQLCHPEELVLLGHALGIPQPPLSSCSSQALQLMGCLRQLHSGL
+1bgc       SLPQSFLLKCLEQVRKIQADGAELQERLCAAHKLCHPEELMLLRHSLGIPQAPLSSCSSQSLQLRGCLNQLHGGL
+1rhga      -LPQSFLLKCLEQVRKIQGDGAALQEKLCATYKLCHPEELVLLGHSLGIPWAPL---------LAGCLSQLHSGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bgd       FLYQGLLQALAGISPELAPTLDTLQLDTTDFAINIWQQMEDLGMAP-TMPAFTSAFQRRAGGVLVASNLQSFLEL
+1bgc       FLYQGLLQALAGISPELAPTLDTLQLDVTDFATNIWLQMEDLGAAP-AMPTFTSAFQRRAGGVLVASQLHRFLEL
+1rhga      FLYQGLLQALEGISPELGPTLDTLQLDVADFATTIWQQMEELGM----MPAFASAFQRRAGGVLVASHLQSFLEV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bgd       AYRALRHFA*
+1bgc       AYRGLRYLA*
+1rhga      SYRVLRHLA*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bgd       100.0  82.8  82.8
+  2-1bgc        82.8 100.0  81.4
+  3-1rhga       82.8  81.4 100.0
+
+***************************************************************************

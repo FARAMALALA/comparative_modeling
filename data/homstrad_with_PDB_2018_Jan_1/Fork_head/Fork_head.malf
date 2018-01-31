@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1d5va      structureX:1d5v:   1 :A:  94 :A:forkhead box protein c2:Homo sapiens: -1: -1
+[  2] 2hfh       structureX:2hfh:   1 : :  93 : :Genesis:Rattus norvegicus: -1: -1
+[  3] 1e17a      structureX:1e17:  92 :A: 181 :A:putative fork head domain transcription factor afx1:Homo sapiens: -1: -1
+
+
+1d5va      --MLVKPPYSYIALITMAIQNAPEKKITLNGIYQFIMDRFPFYREN-----KQGWQNSIRHNLSLNECFVKVPRD
+2hfh       ---MVKPPYSYIALITMAILQSPQKKLTLSGICEFISNRFPYYREK-----FPAWQNSIRHNLSLNDCFVKIPRE
+1e17a      SRRNAWGNQSYAELISQAIESAPEKRLTLAQIYEWMVRTVPYFKDKGDSNSSAGWKNSIRHNLSLHSKFIKVHNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d5va      DKKPGKGSYWTLDPDSYNMFENGSFL*
+2hfh       PGNPGKGNYWTLDPQSEDMFDNGSFL*
+1e17a      --ATGKSSWWMLNPEGG---------*
+           ====|=========|=========|=
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1d5va      100.0  71.0  38.9
+  2-2hfh        71.0 100.0  37.8
+  3-1e17a       38.9  37.8 100.0
+
+***************************************************************************

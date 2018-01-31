@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1axia      structureX:1axi:   3 :A: 191 :A:growth hormone:Homo sapiens: 2.1: 19
+[  2] 1huw       structureX:1huw:   1 : : 191 : :growth hormone:Homo sapiens: 2.0: 18.5
+
+
+1axia      --TIPLSRLFDNAMLRAHRLHQLAFDTYQEFEEAYIPKEQKYSFLQNP--SLCFSESIPTPSNREETQQKSNLEL
+1huw       FPTIPLSRLADNAWLRADRLNQLAFDTYQEFEEAYIPKEQIHSFWWNPQTSLCPSESIPTPSNKEETQQKSNLEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1axia      LRISLLLIQSWLEPVQFLRSVFANSLVYGASDSNVYDLLKDLEERIQTLMGRLTGQIFKQTYSKFDTALLKNYGL
+1huw       LRISLLLIQSWLEPVQFLRSVFANSLVYGASDSNVYDLLKDLEEGIQTLMGRLE-------------ALLKNYGL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1axia      LYCFRRDMTYVATYLRIVQCRSVEGSCGF*
+1huw       LYCFNKDMSKVSTYLRTVQCRSVEGSCGF*
+           =========|=========|=========
+                    0160      0170      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1axia      100.0  86.7
+  2-1huw        86.7 100.0
+
+***************************************************************************

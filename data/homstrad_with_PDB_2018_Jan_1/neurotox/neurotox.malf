@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1chl       structureN:1chl:   1 : :  36 : :chlorotoxin:Leiurus quinquestriatus:-1.00:-1.00
+[  2] 1sis       structureN:1sis:   1 : :  35 : :insectotoxin I5A:Buthus eupeus:-1.00:-1.00
+[  3] 1pnh       structureX:1pnh:   1 : :  31 : :scorpion toxin analog:Androctonus mauretanicus mauretanicus:-1.00:-1.00
+
+
+1chl       MCMPCFTTDHQMARKCDDCCGGKG-RGKCYGPQCLCR--*
+1sis       MCMPCFTTDPNMAKKCRDCCGG---NGKCFGPQCLCNR-*
+1pnh       T--------VCNLRRCQLSCRSLGLLGKCIGVKCECVKH*
+           =========|=========|=========|=========
+                    0010      0020      0030      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1chl       100.0  77.1  32.3
+  2-1sis        77.1 100.0  25.8
+  3-1pnh        32.3  25.8 100.0
+
+***************************************************************************

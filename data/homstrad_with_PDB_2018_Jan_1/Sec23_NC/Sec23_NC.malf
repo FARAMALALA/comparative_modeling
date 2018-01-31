@@ -1,0 +1,71 @@
+      Code       Title
+
+[  1] 1m2oa      structureX:1m2o:   2 :A: 765 :A:protein transport protein Sec23:Saccharomyces cerevisiae: 2.50: 23.8
+[  2] 1m2vb      structureX:1m2v:  61 :B: 926 :B:protein transport protein Sec24:Saccharomyces cerevisiae: 2.75: 21
+
+
+1m2oa      ----------------------------------------------------DFETNEDINGVRFTWNVFPSTRS
+1m2vb      FLTPAQEQLHQQIRPMNQLYPIDLLTELPPPITDLTLPPPPLVIPPERMLVPSELSNASPDYIRSTLNAVPKNSS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1m2oa      DANSNVVPVGCLYTPLKE-YD---ELNVAP-YNPVVCSGPHCKSILNPYCVIDPRNSSWSCPICNSRNHLPPQYT
+1m2vb      LLKKSKLPFGLVIRPYQHLYDDIDPPPLNEDGLIVRCR--RCRSYMNPFVTFIEQGRRWRCNFCRLANDVPMQMD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1m2oa      N--------ENMPLELQSTTIEYITNKPVT----VPPIFFFVVDLT--SET-ENLDSLKESIITSLSLLPP---N
+1m2vb      QSDPNDPKSRYDRNEIKCAVMEYMAPKEYTLRQPPPATYCFLIDVSQSSIKSGLLATTINTLLQNLDSIPNHDER
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1m2oa      ALIGLITYGNVVQLHDLSSETIDRCNVFRGDREYQLEALTEMLTGQKPTVTPFSLNRFFLPLEQVEFKLNQLLEN
+1m2vb      TRISILCVDNAIHYFKIPLDQINMMDIADLE-----------------EPFLPRPNSMVVSLKACRQNIETLLTK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1m2oa      LSPDQWSVPAGHRPLRATGSALNIASLLLQGCYKNIPARIILFASGPGTVAPGLIVNSELKDPLRSHHDIDSDHA
+1m2vb      IPQIFQSNL---ITNFALGPALKSAYHLIGG----VGGKIIVVSGTLPNLGIGKLQ-------RRNENT--SKET
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1m2oa      -QHYKKACKFYNQIAQRVAANGHTVDIFAGCYDQIGMSEMKQLTDSTGGVLLLT--DAFS----TAIFKQSYLRL
+1m2vb      AQLLSCQDSFYKNFTIDCSKVQITVDLFLASEDYMDVASLSNLSRFTAGQTHFYPGFSGKNPNDIVKFSTEFAKH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1m2oa      FAKDEEGYLKMAFNGNMAVKTSKDLKVQGLIGHASAVKKTDANNISESEIGIGATSTWKMASLSPYHSYAIFFEI
+1m2vb      IS------MDFCMETVMRARGSTGLRMSRFYGHFFNR----------------SSDLCAFSTMPRDQSYLFEVNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1m2oa      AN---THLAYTQFITTYQHSSGTNRIRVTTVANQLLPFGTPAIAASFDQEAAAVLMARIAVHKAETDDGADVIRW
+1m2vb      DESIMADYCYVQVAVLLSLNNSQRRIRIITLAMPTTES-LAEVYASADQLAIASFYNSKAVEKALNSSLDDARVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1m2oa      LDRTLIKLCQKYA---DYNKDDPQSF-RLAPNFSLYPQFTYYLRRSQFLSVFNNSPDETAFYRHIFTREDTTNSL
+1m2vb      INKSVQDILATYKKEIVVSNTAGGAPLRLCANLRMFPLLMHSLTKHMAFRSGIVPSDHRASALNNLESLPLKYLI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1m2oa      IMIQPTLTSFSMED-----------DPQPVLLDSISVKPNTILLLDTFFFILIYHGEQIAQWRKAGYQDDPQYAD
+1m2vb      KNIYPDVYSL-HDMADEAGLPGTIVLPQPINATSSLFERYGLYLIDNGNELFLWMGGDAVPALV-----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1m2oa      FKALLEEPKLEAAELLV--DRFPLPRFIDTEAG--GSQARFLLSKLNPSTIVLTDDVSLQNFMTHLQQVAVS*
+1m2vb      --FFNQRVRNIINQLRNHDDVITYQSLYIVRAREVATLRLWASSTLVEDKIL--NNESYREFLQIMKARISK*
+           =========|=========|=========|=========|=========|=========|=========|==
+                    0760      0770      0780      0790      0800      0810      0820 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1m2oa      100.0  16.4
+  2-1m2vb       16.4 100.0
+
+***************************************************************************

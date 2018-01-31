@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 1prc       structureX:1prc:   1 :L: 258 :H:photosynthetic reaction center:Rhodopseudomonas viridis: 2.30:19.30
+[  2] 1aij       structureX:1aij:   1 :L: 256 :H:photosynthetic reaction center:Rhodobacter sphaeroides: 2.2: 21.6
+
+
+1prc       ALLSFERKYRVRGGTLIGGDLFDFWVGPYFVGFFGVSAIFFIFLGVSLIGYAASQGPTWDPFAISINPPDLKYGL
+1aij       ALLSFERKYRVPGGTLVGGNLFDFWVGPFYVGFFGVATFFFAALGIILIAWSAVLQGTWNPQLISVYPPALEYGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1prc       GAAPLLEGGFWQAITVCALGAFISWMLREVEISRKLGIGWHVPLAFCVPIFMFCVLQVFRPLLLGSWGHAFPYGI
+1aij       GGAPLAKGGLWQIITICATGAFVSWALREVEICRKLGIGYHIPFAFAFAILAYLTLVLFRPVMMGAWGYAFPYGI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1prc       LSHLDWVNNFGYQYLNWHYNPGHMSSVSFLFVNAMALGLHGGLILSVANPGDGDKVKTAEHENQYFRDVVGYSIG
+1aij       WTHLDWVSNTGYTYGNFHYNPAHMIAISFFFTNALALALHGALVLSAANPEKGKEMRTPDHEDTFFRDLVGYSIG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1prc       ALSIHRLGLFLASNIFLTGAFGTIASGPFWTRGWPEWWGWWLDIPFWS---------ADYQTIYTQIQARGP-HI
+1aij       TLGIHRLGLLLSLSAVFFSALCMIITGTIWFDQWVDWWQWWVKLPWWANIPGGING-AEYQNIFSQVQVRGPADL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1prc       TVSGEWGDNDRVGKPFYSYWLGKIGDAQIGPIYLGASGIAAFAFGSTAILIILFNMAAEVHFDPLQFFRQFFWLG
+1aij       GMTEDVNLANRSGVGPFSTLLGWFGNAQLGPIYLGSLGVLSLFSGLMWFFTIGIWFWYQAGWNPAVFLRDLFFFS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1prc       LYPPKAQYGMGI-PPLHDGGWWLMAGLFMTLSLGSWWIRVYSRARALGLGTHIAWNFAAAIFFVLCIGCIHPTLV
+1aij       LEPPAPEYGLSFAAPLKEGGLWLIASFFMFVAVWSWWGRTYLRAQALGMGKHTAWAFLSAIWLWMVLGFIRPILM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1prc       GSWSEGVPFGIWPHIDWLTAFSIRYGNFYYCPWHGFSIGFAYGCGLLFAAHGATILAVARFGGDREIEQITDRGT
+1aij       GSWSEAVPYGIFSHLDWTNNFSLVHGNLFYNPFHGLSIAFLYGSALLFAMHGATILAVSRFGGERELEQIADRGT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1prc       AVERAALFWRWTIGFNATIESVHRWGWFFSLMVMVSASVGILLTGTFVDNWYLWCVKHGAAPDYPAYLPATPDPA
+1aij       AAERAALFWRWTMGFNATMEGIHRWAIWMAVLVTLTGGIGILLSGTVVDNWYVWGQNHD----------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1prc       SLPGAPKM-YHGALAQHLDIAQLVWYAQWLVIWTVVLLYLRREDRREGYPLVEPLGLVKLAPEDGQ-VYELPYPK
+1aij       -------------------LASLAIYSFWIFLAG-LIYYLQTENMREGYPLENEDG----TPAANQGPFPLPKPK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1prc       TFVLPH-GGTVTVPRRRPETRELKLAQTDGFEGAPLQPTGNPLVDAVGPASYAERAEVVDATVDGKAKIVPLRVA
+1aij       TFILPHGRGTLTVPGPESEDRPIALARTAVSEGFPHAPTGDPMKDGVGPASWVARRDLPELDGHGHNKIKPMKAA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1prc       TDFSIAEGDVDPRGLPVVAADGVEAGTVTDLWVDRSEHYFRYLELSVAGSARTALIPLGFCDVKKDKIVVTSILS
+1aij       AGFHVSAGKN-PIGLPVRGCDLEIAGKVVDIWVDIPEQMARFLEVELK-DGSTRLLPMQMVKVQSNRVHVNALSS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0760      0770      0780      0790      0800      0810      0820  
+
+1prc       EQFANVPRLQSRDQITLREEDKVSAYYAGGLLYATPER---AESLL*
+1aij       DLFAGIPTIKSPTEVTLLEEDKICGYVAGGLMYAAPKRKSVVAAML*
+           ====|=========|=========|=========|=========|=
+               0830      0840      0850      0860      0870 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1prc       100.0  49.3
+  2-1aij        49.3 100.0
+
+***************************************************************************

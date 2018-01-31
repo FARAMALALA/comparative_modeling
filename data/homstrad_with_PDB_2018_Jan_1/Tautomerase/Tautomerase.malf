@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1otfa      structureX:1otf:   2 :A:  60 :A:4-oxalocrotonate tautomerase:Pseudomonas sp: 1.9: 20.2
+[  2] 1bjpa      structureX:1bjp:   1 :A:  62 :A:4-oxalocrotonate tautomerase:Pseudomonas putida: 2.4: 20.6
+
+
+1otfa      PIAQLYIIEGRTDEQKETLIRQVSEAMANSLDAPLERVRVLITEMPKNHFGIGGEPASK---*
+1bjpa      PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASKVRR*
+           =========|=========|=========|=========|=========|=========|==
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1otfa      100.0  76.3
+  2-1bjpa       76.3 100.0
+
+***************************************************************************

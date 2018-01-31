@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1aqza      structureX:1aqz:   1 :A: 149 :A:ribonuclease mitogillin:Aspergillus restrictus and aspergillus fumigatus: 1.7: 23.7
+[  2] 1de3a      structureX:1de3:   1 :A: 150 :A:ribonuclease alpha-sarcin:Aspergillus giganteus: -1: -1
+
+
+1aqza      A-TWTCINQQL-------EDKRLLYSQAKAESNSHHAPLSDGKTGSSYPHWFTNGYDGNGKLIKGRTPIKFGKAD
+1de3a      AVTWTCLNDQKNPKTNKYETKRLLYNQNKAESNSHHAPLSDGKTGSSYPHWFTNGYDGDGKLPKGRTPIKFGKSD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aqza      CDRPPKHSQNGMGKDDHYLLEFPTFPDGHDYKFDSKKPKENPGPARVIYTYPNKVFCGIVAHQRGNQGDLRLCSH
+1de3a      CDRPPKHSKDGNGKTDHYLLEFPTFPDGHDYKFDSKKPKENPGPARVIYTYPNKVFCGIIAHTKENQGELKLCSH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1aqza      100.0  86.6
+  2-1de3a       86.6 100.0
+
+***************************************************************************

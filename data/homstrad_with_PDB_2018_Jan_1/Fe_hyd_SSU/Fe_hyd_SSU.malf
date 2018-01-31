@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1hfes      structureX:1hfe:  36 :S:  96 :S:periplasmic [Fe] hydrogenase small subunit:Desulfovibrio vulgaris: 1.6: 15.8
+[  2] 1feha      structureX:1feh: 516 :A: 574 :A:periplasmic [Fe] hydrogenase 1:Clostridium pasteurianum: 1.80: 18
+
+
+1hfes      --VKQIKDYMLDRINGVYGADAKFPVRASQDNTQVKALYKSYLEKPLGHKSHDLLHTHWFDKS*
+1feha      DLEKV--DIKKVRASVLYNQDEHLSKRKSHENTALVKMYQNYFGKPGEGRAHEILHFKYKK--*
+           =========|=========|=========|=========|=========|=========|===
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hfes      100.0  27.1
+  2-1feha       27.1 100.0
+
+***************************************************************************

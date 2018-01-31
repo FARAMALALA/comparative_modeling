@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1gym       structureX:1gym:   1 : : 296 : :phosphatidylinositol-specific phospholipase c:Bacillus cereus:2.20:17.8
+[  2] 2plc       structureX:2plc:  21 : : 294 : :phosphatidylinositol-specific phospholipase c:Listeria monocytogenes:2.00:19.8
+
+
+1gym       ASSVNELENWSKWMQPIPDSIPLARISIPGTHDSGTFKLQN--PIKQVWGMTQEYDFRYQMDHGARIFDIRGRLT
+2plc       -------VTTKQWMSALPDTTNLAALSIPGTHDTMSYNGDITWTLTKPLAQTQTMSLYQQLEAGIRYIDIRAK--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gym       DDNTIVLHHGPLYLYVTLHEFINEAKQFLKDNPSETIIMSLKKEYEDMKGAEDSFSSTFEKKYFV-DPIFLKTE-
+2plc       DNL--NIYHGPIFLNASLSGVLETITQFLKKNPKETIIMRLKDEQNS----NDSFDYRIQPLINIYKDYFYTTPR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gym       -----GNIKLGDARGKIVLLKRYS---GSN---EPGGYNNFYWPDNETFTTTVNQNANVTVQDKY-KVSYDEKVK
+2plc       TDTSNKIPTLKDVRGKILLLSENHTKKPLVINSRKFGMQF--GAP------------NQVIQDDYNGPSVKTKFK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gym       SIKDTMDETMNNSEDLNHLYINFTSLSSGGTAWNSPYYYASYINPEIANYIKQK---NPARVGWVIQDYINEKWS
+2plc       EIVQTAYQASK---ADNKLFLNHISATSL---TFTPRQYAAALNNKVEQFVLNLTSEKVRGLGILIMDFPE----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gym       PLLYQEVIRANKSLI*
+2plc       KQTIKNIIKNNKF--*
+           =========|=====
+                    0310  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gym       100.0  28.8
+  2-2plc        28.8 100.0
+
+***************************************************************************

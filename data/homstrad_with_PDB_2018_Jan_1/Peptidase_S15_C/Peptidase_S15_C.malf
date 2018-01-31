@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1ju3a      structureX:1ju3: 352 :A: 574 :A:cocaine esterase:Rhodococcus sp. mb1: 1.58: 19.9
+[  2] 1lnsa      structureX:1lns: 551 :A: 763 :A:Xaa-Pro dipeptidyl-peptidase:Lactococcus lactis: 2.20: 18.4
+
+
+1ju3a      PLPDTAYTPFYLGGSGAANTSTGGGTLSTSISGTESADTYLYDPADPVPSLGGTLLFHNGDNGPADQRPIHD-RD
+1lnsa      GAN--TQIKLPLGKT------------------AVSFAQFDNN----YDDETFK---KYSKDFNVFKKDLFENKA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ju3a      DVLCYSTEVLTDPVEVTGTVSARLFVSSSAVDTDFTAKLVDVFPD------------------------------
+1lnsa      NEAVIDLE-LPSMLTINGPVELELRLKLNDTKGFLSAQILDFGQKKRLEDKVRVKDFKVLDRGRNFMLDDLVELP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ju3a      ---GRAIALCDGIVRMRYRETLVNPTLIEAGEIYEVAIDMLATSNVFLPGHRIMVQVSSSNFPKYDRNSNTGGVI
+1lnsa      LVESPYQLVTKGFTNLQ-NQSLLTVSDLKADEWFTIKFELQPTIYHLEKADKLRVILYSTDFEHTVRDNR-----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ju3a      AREQLEEMCTAVNRIHRGPEHPSHIVLPIIKR--*
+1lnsa      ---------KVTYEID-LSQ--SKLIIPIESVKN*
+           ====|=========|=========|=========
+               0230      0240      0250      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ju3a      100.0  10.8
+  2-1lnsa       10.8 100.0
+
+***************************************************************************

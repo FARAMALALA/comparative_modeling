@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1bk7a      structureX:1bk7:   1 :A: 190 :A:ribonuclease MC:Momordica charantia: 1.75: 19.2
+[  2] 1bola      structureX:1bol:   1 :A: 222 :A:ribonuclease Rh:Rhizopus niveus: 2.00: 18.5
+
+
+1bk7a      -----------------------FDSFWFVQQWPPAVCSFQKSGSCPGSGLRTFTIHGLWPQQ-SGTSLT-NCPG
+1bola      SSCSSTALSCSNSANSDTCCSPEYGLVVLNMQWAPG---------YGPD--NAFTLHGLWPDKCSGAYAPSGGCD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bk7a      --SPFD------ITKISHLQSQLNTLWPNVLRANNQQFWSHEWTKHGTCSES-----------TFNQAAYFKLAV
+1bola      SNRASSSIASVIKSKDSSLYNSMLTYWPSNQ-GNNNVFWSHEWSKHGTCVSTYDPDCYDNYEEGEDIVDYFQKAM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bk7a      DMRNNYDIIGALRPHAAGPNGRTKSRQAIKGFLKAKFGKFPGLRCRTDPQTKVSYLVQVVACFAQ--DGS-TLID
+1bola      DLRSQYNVYKAFSSNGITP-GGTYTATEMQSAIESYFGAKAKIDCS---S---GTLSDVALYFYVRGRDTYVITD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bk7a      CTR-DTCGANFIF---*
+1bola      ALSTGSCSGDVEYPTK*
+           ====|=========|=
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bk7a      100.0  25.8
+  2-1bola       25.8 100.0
+
+***************************************************************************

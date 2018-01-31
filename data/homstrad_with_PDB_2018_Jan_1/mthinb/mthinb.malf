@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 2mrb       structureN:2mrb:   1 : :  30 : :metallothionein (beta domain):Oryctolagus cuniculus:-1.00:-1.00
+[  2] 2mhu       structureN:2mhu:   1 : :  30 : :metallothionein (beta domain):Homo sapiens:-1.00:-1.00
+[  3] 2mrt       structureN:2mrt:   1 : :  30 : :metallothionein (beta domain):Rattus rattus:-1.00:-1.00
+
+
+2mrb       MDPNCSCAAAGDSCTCANSCTCKACKCTSCK*
+2mhu       MDPNCSCA-AGDSCTCAGSCKCKECKCTSCK*
+2mrt       MDPNCSCA-TDGSCSCAGSCKCKQCKCTSCK*
+           =========|=========|=========|=
+                    0010      0020      0030 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2mrb       100.0  90.0  76.7
+  2-2mhu        90.0 100.0  83.3
+  3-2mrt        76.7  83.3 100.0
+
+***************************************************************************

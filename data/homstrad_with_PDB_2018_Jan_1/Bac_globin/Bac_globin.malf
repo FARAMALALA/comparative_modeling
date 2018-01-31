@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dlwa      structureX:1dlw:   1 :A: 116 :A:myoglobin:Paramecium caudatum: 1.54: 13.3
+[  2] 1dlya      structureX:1dly:   1 :A: 121 :A:globin li637:Chlamydomonas eugametos: 1.80: 19.2
+
+
+1dlwa      SLFEQLGGQAAVQAVTAQFYANIQADATVATFFNGIDMPNQTNKTAAFLCAALGGPNAWTGRNLKEVHANM--GV
+1dlya      SLFAKLGGREAVEAAVDKFYNKIVADPTVSTYFSNTDMKVQRSKQFAFLAYALGGASEWKGKDMRTAHKDLVPHL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dlwa      SNAQFTTVIGHLRSALTGAGVAAALVEQTVAVAETVRGDVVTV---*
+1dlya      SDVHFQAVARHLSDTLTELGVPPEDITDAMAVVASTRTEVLNMPQQ*
+           ====|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dlwa      100.0  38.8
+  2-1dlya       38.8 100.0
+
+***************************************************************************

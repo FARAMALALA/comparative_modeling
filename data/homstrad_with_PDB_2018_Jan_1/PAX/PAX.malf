@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 6paxa      structureX:6pax:   1 :A: 133 :A:pax-6 paired domain:Homo sapiens: 2.50: 23.3
+[  2] 1pdnc      structureX:1pdn:   2 :C: 124 :C:segmentation protein paired:Drosophila melanogaster: 2.5: -1
+
+
+6paxa      SHSGVNQLGGVFVNGRPLPDSTRQRIVELAHSGARPCDISRILQVSNGCVSKILGRYYATGSIRPRAIGGSKPRV
+1pdnc      -QGRVNQLGGVFINGRPLPNNIRLKIVEMAADGIRPCVISRQLRVSHGCVSKILNRYQETGSIRPGVIGGSKPRI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+6paxa      ATPEVVSKIAQYKQECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQ*
+1pdnc      ATPEIENRIEEYKRSSPGMFSWEIREKLIREGVCDRSTAPSVSAISRLV---------*
+           ====|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-6paxa      100.0  61.0
+  2-1pdnc       61.0 100.0
+
+***************************************************************************

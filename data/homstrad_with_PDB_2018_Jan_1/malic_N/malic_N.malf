@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1qr6a      structureX:1qr6:  23 :A: 279 :A:Malic Enzyme 2:Homo sapiens: 2.10: 22.8
+[  2] 1llqa      structureX:1llq:   2 :A: 295 :A:NAD-dependent malic enzyme:Ascaris suum: 2.30: 24.7
+
+
+1qr6a      -----------------------------------EKGKPLL-NPRTNKG-AFTLQERQ-LGLQGLLPPKIETQD
+1llqa      SVAHHEDVYSHNLPPMDEKEMALYKLYRPERVTPKKRSAELLKEPRLNKGMGFSLYERQYLGLHGLLPPAFMTQE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qr6a      IQALRFHRNLKK-TSPLEKYIYI-GIQERNEKLFYRILQDDIESL-PIVYTPTVGLACSQYGHIFRRPKGLFISI
+1llqa      QQAYRVITKLREQPNDLARYIQLDGLQDRNEKLFYRVVCDHVKELMPIVYTPTVGLACQNFGYIYRKPKGLYITI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qr6a      SDRG--HVRSIVDNWPENHVKAVVVTDGERILGLGDLGVYG-GIPVGKLCLYTACAGIRPDRCLPVCIDVGTDNI
+1llqa      NDNSVSKIYQILSNWHEEDVRAIVVTDGERILGLGDLGAYGIGIPVGKLALYVALGGVQPKWCLPVLLDVGTNNM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qr6a      ALLKDPFY-GLYQKRDRTQQYDDLIDEF-KAITDRYGRNTLIQFEDFGNHNAFRFLRKYREKYCTFNDD*
+1llqa      DLLNDPFYIGLRHKRVRGKDYDTLLDNFMKACTKKYGQKTLIQFEDFANPNAFRLLDKYQDKYTMFNDD*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qr6a      100.0  60.5
+  2-1llqa       60.5 100.0
+
+***************************************************************************

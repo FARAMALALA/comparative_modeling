@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fyha1     structureX:1fyh:   0 :A: 124 :A:interferon gamma:Homo sapiens: 2.04: 19.4
+[  2] 1d9ca      structureX:1d9c:   1 :A: 121 :A:bovine interferon-gamma:Bos taurus: 2.00: 20.1
+
+
+1fyha1     MQDPYVKEAENLKKYFNAGHSDVADNGTLFLGILKNWKEESDRKIMQSQIVSFYFKLFKNFKDDQSIQKSVETIK
+1d9ca      -QGQFFREIENLKEYFNASSPDVAKGGPLFSEILKNWKDESDKKIIQSQIVSFYFKLFENLKDNQVIQRSMDIIK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fyha1     EDMNVKFFNSNKKKRDDFEKLTNYSVTDLNVQRKAIDELIQVMAELGANV*
+1d9ca      QDMFQKFLNGSSEKLEDFKKLIQIPVDDLQIQRKAINELIKVMNDLS---*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fyha1     100.0  59.5
+  2-1d9ca       59.5 100.0
+
+***************************************************************************

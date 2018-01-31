@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 2bbva      structureX:2bbv:  56 :A: 379 :D:coat protein:Black beetle virus: 2.8: 22.1
+[  2] 1nova      structureX:1nov:  55 :A: 383 :D:coat protein:Nodamura virus: 3.3: 29.6
+
+
+2bbva      -LTRLSQPGLAFLKCAFAPPDFNTDPGKGIPDRFEGKVVTRKDVLNQSINFTANRDTFILIAPTPGVAYWVADVP
+1nova      NMLKMSAPGLDFLKCAFASPDFSTDPGKGIPDKFQGLVLPKKHCLTQSITFTPGKQTMLLVAPIPGIACLKAEAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2bbva      AGTFPISTTTFNAVNFPGFNSMFGNAAASRSDQVSSFRYASMNVGIYPTSNLMQFAGSITVWKCPVKLSNVQFPV
+1nova      VGASF-SGVPLASVEFPGFDQLFGTSATDTAANVTAFRYASMAAGVYPTSNLMQFAGSIQVYKIPLKQVLNSYSQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2bbva      ATT----PATSALVHTLVGLDGVLAVGPDNFSESFIKGVFSQSVCNEPDFEFSDILEGIQTLPPANVTVATSGQP
+1nova      TVATVPPTNLAQNTIAIDGLEALDALPNNNYSGSFIEGCYSQSVCNEPEFEFHPIMEGYASVPPANVTNAQASMF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2bbva      FNLAAGAEAVSGIVGWGNMDTIVIRVSAPTGAVNSAILKTWACLEYRPNPNAMLYQFGHDSPPCDEVALQEYRTV
+1nova      TNLTFS---GARYTGLGDMDAIAILVTTPTGAVNTAVLKVWACVEYRPNPNSTLYEFARESPANDEYALAAYRKI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2bbva      ARSLPVAVIAAQNASMWERVKSIIKSSLA----*
+1nova      ARDIPIAVACKDNATFWERVRSILKSGLNFAST*
+           =========|=========|=========|===
+                    0310      0320      0330 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2bbva      100.0  49.7
+  2-1nova       49.7 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 3cd42      structureX:3cd4:  99 : : 176 : :CD4 domain 2:Homo sapiens: 2.20:19.70
+[  2] 1cid2      structureX:1cid: 106 : : 177 : :CD4 domain 4:Rattus rattus: 2.80:23.30
+
+
+3cd42      GLTANSDTHLLQGQSLTLTLESPPGSSPSVQCRSPRG-KNIQG-GKTLSVSQLELQDSGTWTCTVLQ-NQKKVEF
+1cid2      VMKVTQ-PD---SNTLTCEVMGPTSPKMRLILKQENQEARVSRQEKVIQVQAP---EAGVWQCLLSEGEEVKMDS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3cd42      KIDIVV*
+1cid2      KIQV--*
+           ====|=
+               0080 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3cd42      100.0  15.3
+  2-1cid2       15.3 100.0
+
+***************************************************************************

@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1k20a      structureX:1k20: 191 :A: 311 :A:probable manganese-dependent inorganic pyrophosphatase:Streptococcus gordonii challis: 1.50: 17.5
+[  2] 1i74a      structureX:1i74: 189 :A: 309 :A:probable manganese-dependent inorganic pyrophosphatase:Streptococcus mutans: 2.2: 20.9
+[  3] 1k23a      structureX:1k23: 189 :A: 306 :A:manganese-dependent inorganic pyrophosphatase:Bacillus subtilis: 3.00: 26
+
+
+1k20a      TNLASKSAEELIDIDAKTFEL-NGNNVRVAQVNTVDIAEVLERQAEIEAAIEKAIADNGYSDFVLMITDIINSNS
+1i74a      TNLASKTAAQLVDIDAKTFEL-NGSQVRVAQVNTVDINEVLERQNEIEEAIKASQAANGYSDFVL-ITDILNSNS
+1k23a      ADLSKKTVEELISLDAKEFT-LGSKKVEIAQVNTVDIEDVKKRQAELEAVISKVVAEKNLDLFLLVITDILENDS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k20a      EILAIGSNMDKVEAAFNFVLENNHAFLAGAVSRKKQVVPQLTESFNA*
+1i74a      EILALGNNTDKVEAAFNFTLKNNHAFLAGAVSRKKQVVPQLTESFNG*
+1k23a      LALAIGNEAAKVEKAFNVTLENNTALLKGVVSRKKQVVPVLTDA---*
+           ====|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1k20a      100.0  82.5  54.2
+  2-1i74a       82.5 100.0  50.8
+  3-1k23a       54.2  50.8 100.0
+
+***************************************************************************

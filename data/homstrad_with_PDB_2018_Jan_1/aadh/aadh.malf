@@ -1,0 +1,116 @@
+      Code       Title
+
+[  1] 1c1da      structureX:1c1d:   1 :A: 349 :A:L-phenylalanine dehydrogenase:Rhodococcus sp. m4: 1.25: 19.30
+[  2] 1leha      structureX:1leh:   1 :A: 364 :A:leucine dehydrogenase:Bacillus sphaericus: 2.20: 20.10
+[  3] 1gtma      structureX:1gtm:   3 :A: 419 :A:glutamate dehydrogenase:Pyrococcus furiosus: 2.20: 17.40
+[  4] 1bvua      structureX:1bvu:   3 :A: 418 :A:glutamate dehydrogenase:Thermococcus litoralis: 2.50: 19.20
+[  5] 1euza      structureX:1euz:   4 :A: 419 :A:glutamate dehydrogenase:Thermococcus profundus: 2.25: 18.70
+[  6] 1b26a      structureX:1b26:   4 :A: 412 :A:glutamate dehydrogenase:Thermotoga maritima: 3.00: 22.50
+[  7] 1hwxa      structureX:1hwx:   1 :A: 501 :A:glutamate dehydrogenase:Bos taurus: 2.50: 17.00
+[  8] 1bgva      structureX:1bgv:   1 :A: 449 :A:glutamate dehydrogenase:Clostridium symbiosum: 1.90: 17.30
+
+
+1c1da      -------------------------------------------------------SIDSALN-WDGEMTVTRFDA
+1leha      ------------------------------------------------------MEIFKYMEKYDYEQLVFCQDE
+1gtma      -----------------ADPYEIVIKQLERAAQYM--EIS------------E----EALEFLKRPQRIVEVTIP
+1bvua      -----------------QDPFEIAVKQLERAAQYM--DIS------------E----EALEFLKRPQRIVEVSIP
+1euza      -----------------IDPFEMAVKQLERAAQYM--DIS------------E----EALEWLKKPMRIVEVSVP
+1b26a      ------------------SLYEMAVEQFNRAASLM--DLE------------S----DLAEVLRRPKRVLIVEFP
+1hwxa      -----------ADREDDPNFFKMVEGFFDRGASIVEDKLVEDLKTRQTQEQKRNRVRGILRIIKPCNHVLSLSFP
+1bgva      SKYVDRVIAEVEKKYADEPEFVQTVEEVLSSLGPVVDAHP------------EYEEVALLERMVIPERVIEFRVP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c1da      -------MTGAHFVIRLDSTQLGPAAGGTRAAQYSNLADALTDAGKLAGAMTLKMAVSNLPMGGGKSVIALPAPR
+1leha      -------ASGLKAVIAIHDTTLGPALGGARMWTYNAEEEAIEDALRLARGMTYKNAAAGLNLGGGKTVII--GDP
+1gtma      VEMDDGSVKVFTGFRVQHNWARGPTKGGIRWHP----EETLSTVKALAAWMTWKTAVMDLPYGGGKGGII--VDP
+1bvua      VEMDDGSVKVFTGFRVQYNWARGPTKGGIRWHP----EETLSTVKALAAWMTWKTAVMDLPYGGGKGGVI--CNP
+1euza      IEMDDGSVKVFTGFRVQHNWARGPTKGGIRWHP----AETLSTVKALATWMTWKVAVVDLPYGGGKGGII--VNP
+1b26a      VRMDDGHVEVFTGYRVQHNVARGPAKGGIRYHP----DVTLDEVKALAFWMTWKTAVMNLPFGGGKGGVR--VDP
+1hwxa      IRRDDGSWEVIEGYRAQHSHQRTPCKGGIRYST----DVSVDEVKALASLMTYKCAVVDVPFGGAKAGVK--INP
+1bgva      WEDDNGKVHVNTGYRVQFNGAIGPYKGGLRFAP----SVNLSIMKFLGFEQAFKDSLTTLPMGGAKGGSD--FDP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1c1da      HSIDPSTWARILRIHAENIDK--LSG--NYWTGPDVNTNSADMDTLNDTTE------------FVFGRSLERGGA
+1leha      FADKN---EDMFRALGRFIQG--LNG--RYITAEDVGTTVDDMDLIHQETD------------YVTGISPAFGSS
+1gtma      KKLSDREKERLARGYIRAIYD--VISPYEDIPAPDVYTNPQIMAWMMDEYET-ISRRKTPAFGIITGKPLSIGGS
+1bvua      KEMSDREKERLARGYVRAIYD--VISPYTDIPAPDVYTNPQIMAWMMDEYET-ISRRKDPSFGVITGKPPSVGGI
+1euza      KELSEREQERLARAYIRAVYD--VIGPWTDIPAPDVYTNPKIMGWMMDEYET-IMRRKGPAFGVITGKPLSIGGS
+1b26a      KKLSRNELERLSRRFFSEIQV--IIGPYNDIPAPDVNTNADVIAWYMDTYSM-NVG--HTVLGIVTGKPVELGGS
+1hwxa      KNYTDEDLEKITRRFTMELAKKGFIGPGVDVPAPNMSTGEREMSWIADTYASTIGHYDINAHACVTGKPISQGGI
+1bgva      NGKSDREVMRFCQAFMTELYR--HIGPDIDVPAGDLGVGAREIGYMYGQYRK-IVG--GFYNGVLTGKARSFGGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1c1da      GSSAFTTAVGVFEAMKATVAHRGLG-------SLDGLTVLVQGLGAVGGSLASLAAE-AGAQL-LVADTD-----
+1leha      GNPSPVTAYGVYRGMKAAAKEAFGS------DSLEGLAVSVQGLGNVAKALCKKLNT-EGAKL-VVTDVN-----
+1gtma      LGRIEATARGASYTIREAAKVL------GWD-TLKGKTIAIQGYGNAGYYLAKIMSEDFGMKVVAVSDSKGGIYN
+1bvua      VARMDATARGASYTVREAAKAL------GM--DLKGKTIAIQGYGNAGYYMAKIMSEEYGMKVVAVSDTKGGIYN
+1euza      LGRGTATAQGAIFTIREAAKAL------GI--DLKGKKIAVQGYGNAGYYTAKLAKEQLGMTVVAVSDSRGGIYN
+1b26a      KGREEATGRGVKVCAGLAMDVL------GI--DPKKATVAVQGFGNVGQFAALLISQELGSKVVAVSDSRGGIYN
+1hwxa      HGRISATGRGVFHGIENFIENASYMSILGMTPGFGDKTFAVQGFGNVGLHSMRYLHR-FGAKCVAVGESDGSIWN
+1bgva      LVRPEATGYGSVYYVEAVMKHE------ND--TLVGKTVALAGFGNVAWGAAKKLAE-LGAKAVTLSGPDGYIYD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1c1da      ------TERVAHAVAL---------------GHTAVALEDVLSTPCDVFAPCAMGGVITTEVARTL---DCSVVA
+1leha      ------KAAVSAAVAEE--------------GADAVAPNAIYGVTCDIFAPCALGAVLNDFTIPQL---KAKVIA
+1gtma      PDGLNADEVLKWKNEH-----GSVKDFP---GATNITNEELLELEVDVLAPAAIEEVITKKNADNI---KAKIVA
+1bvua      PDGLNADEVLAWKKKT-----GSVKDFP---GATNITNEELLELEVDVLAPSAIEEVITKKNADNI---KAKIVA
+1euza      PDGLDPDEVLKWKREH-----GSVKDFP---GATNITNEELLELEVDVLAPAAIEEVITEKNADNI---KAKIVA
+1b26a      PEGFDVEELIRYKKEH-----GTVVTYP---KGERITNEELLELDVDILVPAALEGAIHAGNAERI---KAKAVV
+1hwxa      PDGIDPKELEDFKLQH-----GTILGFP---KAKIYEG-SILEVDCDILIPAASEKQLTKSNAPRV---KAKIIA
+1bgva      PEGITTEEKINYMLEMRASGRNKVQDYADKFGVQFFPGEKPWGQKVDIIMPCATQNDVDLEQAKKIVANNVKYYI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1c1da      GAANNVIADEAASDILHAR-GILYAPDFVANAGGAIHLVGREVL-------------------------------
+1leha      GSADNQLKDPRHGKYLHEL-GIVYAPDYVINAGGVINVAD-ELY-------------------------------
+1gtma      EVANGPV-TPEADEILFEK-GILQIPDFLCNAGGVTVSYFEWVQNITG---------------------------
+1bvua      ELANGPT-TPEADEILYEK-GILIIPDFLCNAGGVTVSYFEWVQNITG---------------------------
+1euza      EVANGPV-TPEADDILREK-GILQIPDFLCNAGGVTVSYFEWVQNING---------------------------
+1b26a      EGANGPT-TPEADEILSRR-GILVVPDILANAGGVTVSYFEWVQDLQS---------------------------
+1hwxa      EGANGPT-TPQADKIFLER-NIMVIPDLYLNAGGVTVSYFQILKNLNHVSYGRLTFKYERDSNYHLLMSVQESLE
+1bgva      EVANMPT-TNEALRFLMQQPNMVVAPSKAVNAGGVLVSGFEMSQNSER---------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1c1da      ------------------------GWSESVVHERAV-AIGDTLNQVFEISDNDG--VTPDEAARTLAGRRAREAS
+1leha      ------------------------GYNRTRAMKRVD-GIYDSIEKIFAISKRDG--VPSYVAADRMAEERIAKVA
+1gtma      -----------------------YYWTIEEVRERLDKKMTKAFYDVYNIAKEKN--IHMRDAAYVVAVQRVYQAM
+1bvua      -----------------------DYWTVEETRAKLDKKMTKAFWDVYNTHKEKN--INMRDAAYVVAVSRVYQAM
+1euza      -----------------------YYWTEEEVREKLDKKMTKAFWEVYNTHKDKN--IHMRDAAYVVAVSRVYQAM
+1b26a      -----------------------FFWDLDQVRNALEKMMKGAFNDVMKVKEKYN--VDMRTAAYILAIDRVAYAT
+1hwxa      RKFGKHGGTIPIVPTAEFQDRISGASEKDIVHSGLAYTMERSARQIMRTAMKYNLGLDLRTAAYVNAIEKVFRVY
+1bgva      -----------------------LSWTAEEVDSKLHQVMTDIHDGSAAAAERYGLGYNLVAGANIVGFQKIADAM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1c1da      -----------------*
+1leha      KARSQFLQDQRNILNGR*
+1gtma      LDRGWVKH---------*
+1bvua      KDRGWIKK---------*
+1euza      KDRGWVKK---------*
+1b26a      KKRG-------------*
+1hwxa      NEAGVTFT---------*
+1bgva      MAQGI-AW---------*
+           ====|=========|==
+               0530      0540 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1c1da      100.0  36.7  27.2  25.8  27.8  27.2  20.6  18.3
+  2-1leha       36.7 100.0  24.7  23.4  23.9  21.7  22.3  19.2
+  3-1gtma       27.2  24.7 100.0  87.0  84.4  55.3  37.4  33.8
+  4-1bvua       25.8  23.4  87.0 100.0  82.7  53.5  36.5  33.2
+  5-1euza       27.8  23.9  84.4  82.7 100.0  53.8  38.2  34.1
+  6-1b26a       27.2  21.7  55.3  53.5  53.8 100.0  43.5  34.7
+  7-1hwxa       20.6  22.3  37.4  36.5  38.2  43.5 100.0  26.1
+  8-1bgva       18.3  19.2  33.8  33.2  34.1  34.7  26.1 100.0
+
+***************************************************************************

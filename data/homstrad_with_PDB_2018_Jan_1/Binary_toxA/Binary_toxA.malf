@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1g24a      structureX:1g24:  41 :A: 250 :A:Exoenzyme C3:Clostridium botulinum D bacteriophage: 1.70: 24.0
+[  2] 1qs1a2     structureX:1qs1: 265 :A: 461 :A:ADP-ribosyltransferase (VIP2):Bacillus cereus: 1.50: 23.5
+[  3] 1qs1a1     structureX:1qs1:  60 :A: 264 :A:ADP-ribosyltransferase (VIP2):Bacillus cereus: 1.50: 23.5 
+
+
+1g24a      AYSNTYQEFTN--IDQAKAWGNAQYKKY--GLSKSEKEAIVSYTK-SASEINGKLRQNKGVINGFPSNLIKQVEL
+1qs1a2     -----SLDFKNDINAEAHSWGMKNYEEWAKDLTDSQREALDGYARQDYKEINNYLRN---QGGSGNEKLDAQIKN
+1qs1a1     --TDKVEDFKED-KEKAKEWGKEKEKEW--KLTATEKGKMNNFLD-NKNDIKTNYKEITFSMAGSFEDEIKDLKE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g24a      LDKSFNKMKTPENIMLFRGDDPAYLGTEFQNTLLNSNGTINKTAFEKAKAKFLNKDRLEYGYISTSLMNVS--QF
+1qs1a2     ISDALGKKPIPENITVYRWCGMPEFG--YQISD-----PLPS--LKDFEEQFLNTIKEDKGYMSTSLSSERLAAF
+1qs1a1     IDKMFDKTNLSNSIITYKNVEPTTIGFNK--SLTEG-NTINSDAMAQFKEQFLDRDIKFDSYLDTHLTAQQVSS-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1g24a      AGRPIITKFKVAK------GSKAGY---IDPISAFAGQLEMLLPRHSTYHIDDMRLSSD--GKQIIITATMMGTA
+1qs1a2     GSRKIILRLQVPK------GSTGAY---LSAIGGFASEKEILLDKDSKYHIDKVTEVIIKGVKRYVVDATLLT--
+1qs1a1     -KERVILKVTVPSGKGSTTPTKAGVILNN-------SEYKMLIDNGYMVHVDKVSKVVKKGVECLQIEGTLKK--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1g24a      INP*
+1qs1a2     ---*
+1qs1a1     ---*
+           ===
+              
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1g24a      100.0  29.4  21.5
+  2-1qs1a2      29.4 100.0  23.9
+  3-1qs1a1      21.5  23.9 100.0
+
+***************************************************************************

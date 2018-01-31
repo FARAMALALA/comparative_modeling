@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1d2ka      structureX:1d2k: 293 :A: 354 :A:chitinase 1:Coccidioides immitis: 2.2: 17
+[  2] 1edqa      structureX:1edq: 444 :A: 516 :A:chitinase A:Serratia marcescens: 1.55: 18.7
+[  3] 1e9la      structureX:1e9l: 267 :A: 337 :A:macrophage secretory protein:Mus musculus: 2.5: 19.8
+[  4] 1e15a      structureX:1e15: 292 :A: 379 :A:chitinase:Serratia marcescens: 1.9: 18.3
+
+
+1d2ka      YGRAFASTD------GIGTSFNGV-----------GG-GSW-----ENGVWDYKDMPQQ-----GAQVTELEDIA
+1edqa      YGRGWTGVNGYQNNIPFTGTATGP-----------VK-GTW-----ENGIVDYRQIAGQFMSG-EWQYTYDATAE
+1e9la      YGHTFILSDPS--KTGIGAPTIST-----------GPPGKYT---DESGLLAYYEVC-TFLNE-GATEVWDAPQE
+1e15a      YGRAFKGVSG--GNGGQYSSHSTPGEDPYPSTDYWLVGCEECVRDKDPRIASYRQLEQMLQGNYGYQRLWNDKTK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d2ka      ASYSYDKNKRYLISY-*
+1edqa      APYVFKPSTGDLITFD*
+1e9la      VPYAYQG--NEWVGYD*
+1e15a      TPYLYHAQNGLFVTY-*
+           ====|=========|=
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1d2ka      100.0  29.0  27.4  22.6
+  2-1edqa       29.0 100.0  18.3  23.3
+  3-1e9la       27.4  18.3 100.0  16.9
+  4-1e15a       22.6  23.3  16.9 100.0
+
+***************************************************************************

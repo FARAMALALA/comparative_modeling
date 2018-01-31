@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1b7yb      structureX:1b7y:  39 :B: 151 :B:phenylalanyl-tRNA synthetase beta chain:Thermus aquaticus: 2.50: 23
+[  2] 1gd7a      structureX:1gd7:   1 :A: 109 :A:Export-related chaperone, CsaA:Thermus thermophilus: 2.00: 21.7
+[  3] 1fl0a      structureX:1fl0: 150 :A: 255 :A:emap2-ribonucleic acid-binding domain of the p43 protein:Homo sapiens: 1.50: 22.1
+
+
+1b7yb      -----FPIPRGVVFARVLEAHPIPGT--RLKRLVLDAG--RTVEVVSGA-ENAR----KGIGVALALPGTELPGL
+1gd7a      MTPLEAFQILDLRVGRVLRAEPHEKARKPSYKLWVDLGPLGVKQSSAQITELYRPEDLVGRLVVCAVNL------
+1fl0a      ----IDVSRLDLRIGCIITARKHPDAD-SLYVEEVDVGEIAPRTVVSGLVNHVPLEQMQNRMVILLCNL------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b7yb      GQKVGERVIQGVRSFGMALSPRELGVGEYG-GGLLEFPEDALPPGTPLSEAWP*
+1gd7a      ----GAKRVAGFLSEVLVLG----VPDEAGRVVLLAPD-REVPLGGKVF----*
+1fl0a      ----KPAKMRGVLSQAMVMC----ASSPE-KIEILAPP-NGSVPGDRITFD-A*
+           ====|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1b7yb      100.0  21.1  17.9
+  2-1gd7a       21.1 100.0  23.6
+  3-1fl0a       17.9  23.6 100.0
+
+***************************************************************************

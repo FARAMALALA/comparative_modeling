@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1ll3a      structureX:1ll3:   0 :A: 265 :A:Glycogenin-1:Oryctolagus cuniculus: 1.90: 21.0
+[  2] 1ga8a      structureX:1ga8:   2 :A: 282 :A:Galactosyl transferase LGTC:Neisseria meningitidis: 2.00: 18.9
+
+
+1ll3a      MTDQAFVTLTTNDAYAKGALVLGSSLKQH--RTSRRLAVLTTPQVSDTMRKALEIVF------DEVITVDILDSG
+1ga8a      ----DIVFAAD-DNYAAYLCVAAKSVEAAHPDTEIRFHVLDA-GISEANRAAVAANLRGGGGNIRFIDVNPE---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ll3a      DSAHLTLMKRPEL-GVTLTKLHCWS-LTQYSKCVFMDADTLVLANIDDLFERE----ELSAAPDPG---------
+1ga8a      -DFAGFPLNIRHISITTYARLKLGEYIADCDKVLYLDIDVLVRDSLTPLWDTDLGDNWLGASIDLFVERQEGYKQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ll3a      -----WPDCFNSGVFVYQPS---VETYNQLLHVASEQGSFDGGDQGLLNTFFNSWATTDIRKHLPFIYNLSSISI
+1ga8a      KIGADGEYYFNAGVLLINLKKWRRHDIFKSSEWVEQYKDVQYQDQDILNGLFKG--GVC---YANSRFNF-PTNY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ll3a      YS----YLPAFKA--FGANAKVVHFLGQTKPWNYTYDTKTKSVRSEMTHPQFLNVWWDIFTTSVVPLLQQFG-L*
+1ga8a      AFASRHTDPLYRDRTNTVPVAVSHYCGPAKPWHR------------DCTAWGAERFTELAGSLTTVPEEWRGKL*
+           ====|=========|=========|=========|=========|=========|=========|=========
+               0230      0240      0250      0260      0270      0280      0290      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ll3a      100.0  17.2
+  2-1ga8a       17.2 100.0
+
+***************************************************************************

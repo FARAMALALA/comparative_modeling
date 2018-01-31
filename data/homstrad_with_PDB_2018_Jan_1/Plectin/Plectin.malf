@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1lm7a      structureX:1lm7:2209 :A:2448 :A:subdomain of desmoplakin C-terminal domain:Homo sapiens: 3.00: 24.9
+[  2] 1lm5a      structureX:1lm5:2616 :A:2811 :A:subdomain of desmoplakin C-terminal domain:Homo sapiens: 1.80: 20.3
+
+
+1lm7a      SFQGIRQPVTVTELVDSGILRPSTVNELESGSYDEVGERIKDFLQGSSCIAGIYNETTKQKLGIYEAMKIGLVRP
+1lm5a      ----------------------------------------------SSPIAAIFDTENLEKISITEGIERGIVDS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lm7a      GTALELLEAQAATGFIVDPVSNLRLPVEEAYKRGLVGIEFKEKLLSAERAVTGYNDPETGNIISLFQAMNKELIE
+1lm5a      ITGQRLLEAQACTGGIIHPTTGQKLSLQDAVSQGVIDQDMATRLKPAQKAFIGF-------KMSAAEAVKEKWLP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lm7a      KGHGIRLLEAQIATGGIIDPKESHRLPVDIAYKRGYFNEELSEILSDPSDDTKGFFDPNTEENLTYLQLKERCIK
+1lm5a      YEAGQRFLEFQYLTGGLVDPEVHGRISTEEAIRKGFIDGRAAQRLQDTSSYAKILTCPKTKLKISYKDAINRSMV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1lm7a      DEETGLCLLPLKE----*
+1lm5a      EDITGLRLLEAASVSSK*
+           ====|=========|==
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lm7a      100.0  29.6
+  2-1lm5a       29.6 100.0
+
+***************************************************************************

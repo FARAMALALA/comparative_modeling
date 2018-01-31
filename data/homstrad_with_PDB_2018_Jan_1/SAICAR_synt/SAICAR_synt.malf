@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1kuta      structureX:1kut:   7 :A: 230 :A:phosphoribosylaminoimidazole-succinocarboxamide synthase:Thermotoga maritima: 2.20: 24.5
+[  2] 1a48       structureX:1a48:   2 : : 306 : :SAICAR synthase:Saccharomyces cerevisiae: 1.90: 15.3
+
+
+1kuta      ------------------TKIVKVTG-DYALLEFKDD-----------LTGKGSICAETTAIL-KYLSEKGIKTH
+1a48       SITKTELDGILPLVARGKVRDIYEVDAGTLLFVATDRISAYDVIMENSIPEKGILLTKLSEFWFKFLSN-DVRNH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kuta      LVEYIP----------------------PRTLKVIPLK-FPLEVVVRLKKAGSFVRRYG-------------GAE
+1a48       LVDIAPGKTIFDYLPAKLSEPKYKTQLEDRSLLVHKHKLIPLEVIVRGYITGSAWKEYVKTGTVHGLKQPQGLKE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kuta      GEDLPVPLVEFFIKDDERHDPVCVDHLEILGIATKKQAEK-KEAAVKITLALKEFFERANFELWDIKYEFGLD-K
+1a48       SQEFPEPIFTPSTD-----ENISPAQAAEL--VGEDLSRRVAELAVKLYSKCKDYAKEKGIIIADTKFEFGIDEK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kuta      DGNVVLGDEI-SPDTFRLRKKGEIFD---------KDVYRRDLG-----------------DPLKKYREVLELCR
+1a48       TNEIILVDEVLTPDSSRFWNGASYKVGESQDSYDKQFLRDWLTANKLNGVNGVKMPQDIVDRTRAKYIEAYETLT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1kuta      SLN-SQ*
+1a48       GSKWSH*
+           ======
+                 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kuta      100.0  24.4
+  2-1a48        24.4 100.0
+
+***************************************************************************

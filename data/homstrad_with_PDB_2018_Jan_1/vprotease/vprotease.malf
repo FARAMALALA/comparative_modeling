@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1wyka      structureX:1wyk: 113 :A: 264 :A:virus capsid protein:Sindbis virus:2.0:19.7
+[  2] 1vcpa      structureX:1vcp: 119 :A: 267 :A:virus capsid protein:Semliki forest virus: 3.0: 15.7
+
+
+1wyka      MRLFDVKNEDGDVIGHALAMEGKVMKPLHVKGTIDHPVLSKLKFTKSSAYDMEFAQLPVNMRSEAFTYTSEHPEG
+1vcpa      -CIFEVKHE-GKVTGYACLVGDKVMKPAHVKGVIDNADLAKLAFKKSSKYDLECAQIPVHMRSDASKYTHEKPEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1wyka      FYNWHHGAVQYSGGRFTIPRGVGGRGDSGRPIMDNSGRVVAIVLGGADEGTRTALSVVTWNSKGKTIKTTPEGTE
+1vcpa      HYNWHHGAVQYSGGRFTIPTGAGKPGDSGRPIFDNKGRVVAIVLGGANEGSRTALSVVTWNK-DMVTRVTPEGSE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1wyka      EW*
+1vcpa      EW*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1wyka      100.0  68.5
+  2-1vcpa       68.5 100.0
+
+***************************************************************************

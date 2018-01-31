@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1ncan      structureX:1nca:  81 :N: 468 :N:neuraminidase:Influenza virus A-Tern-G70C: 2.50:19.1
+[  2] 2bat       structureX:2bat:  82 : : 469 : :neuraminidase N2:Influenza virus A-Tokyo-67: 2.00:21.0
+[  3] 1nsba      structureX:1nsb:  76 :A: 465 :A:neuraminidase:Influenza virus B-Beijing-87: 2.20:14.8
+
+
+1ncan      IREFNNLTKGLCTINSWHIYGKDNAVRIGED---SDVLVTREPYVSCDPDECRFYALSQGTTIRGKHSNGTIHDR
+2bat       -VEYRNWSKPQCQITGFAPFSKDNSIRLSAG---GDIWVTREPYVSCDPVKCYQFALGQGTTLDNKHSNDTVHDR
+1nsba      EPEWTYP-RLSCQGSTFQKALLISPHRFGEARGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTREDR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ncan      SQYRDLISWPLSSPPTVYNSRVECIGWSSTSCHDGRARMSICISGPNNNASAVIWYNRRPVTEINTWARNILRTQ
+2bat       IPHRTLLMNELGVPFHL-GTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYDGRLVDSIGSWSQNILRTQ
+1nsba      NKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGREWTYIGVDGPDSNALIKIKYGEAYTDTYHSYANNILRTQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ncan      ESECVCQNGVCPVVFTDGSATGPAETRIYYFKEGKILKWEPLTGTAKHIEECSCYGE-QAGVTCTCRDNWQGSNR
+2bat       ESECVCINGTCTVVMTDGSASGRADTRILFIEEGKIVHISPLAGSAQHVEECSCYPR-YPGVRCICRDNWKGSNR
+1nsba      ESACNCIGGDCYLMITDGSASGISKCRFLKIREGRIIKEIFPTGRVEHTEECTCGFASNKTIECACRDNSYTAKR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ncan      PVIQIDPVAMTHTSQYICSPVLTDNPRPNDPT-VGKCNDPYPGNNNNGVKGFSYLD----GGNTWLGRTISIASR
+2bat       PVVDINMEDYSIDSSYVCSGLVGDTPRNDDRSSNSNCRNPNNERGTQGVKGWAFDN----GNDLWMGRTISKDLR
+1nsba      PFVKLNVETDTAEIRLMCTETYLDTPRPDDGSITGPCE-SNGDKGRGGIKGGFVHQRMASKIGRWYSRTMSKTER
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ncan      SGYEMLKVPN--ALTDDRSK-PTQGQTIVLNTDWSGYSGSFMDYWAEGECYRACFYVELIRGRPKEDKVWWTSNS
+2bat       SGYETFKVIG--GWSTPNSKSQINRQVIVDSDNRSGYSGIFSVE-GK-SCINRCFYVELIRGRKQETRVWWTSNS
+1nsba      MGMELYVRYDGDPWTDS-DA-LAHSGVMVSMKEPGWYSFGFEIK-DK-KCDVPCIGIEMVHDG--GKK-TWHSAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ncan      IVSMCSSTEFLGQWNWPDGAKIEYFL-*
+2bat       IVVFCGTSGTYGTGSWPDGANINFMPI*
+1nsba      TAIYCLMGSGQLLWDTVTGVDMAL---*
+           ====|=========|=========|==
+               0380      0390      0400 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ncan      100.0  48.5  30.3
+  2-2bat        48.5 100.0  29.9
+  3-1nsba       30.3  29.9 100.0
+
+***************************************************************************

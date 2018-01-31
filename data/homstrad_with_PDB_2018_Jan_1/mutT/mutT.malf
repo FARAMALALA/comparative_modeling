@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1tum       structureX:1tum:   1 : : 129 : :mutator mutT protein:Escherichia coli: -1: -1
+[  2] 1f3ya      structureX:1f3y:   1 :A: 165 :A:nudix enzyme diadenosine tetraphosphate hydrolase:Lupinus angustifolius: -1: -1
+
+
+1tum       ----------MKKLQIAVGIIRNENNEIFITRRAADAHMANKLEFPGGKIEMGETPEQAVVRELQEEVGITPQHF
+1f3ya      GPLGSMDSPPEGYRRNVGICLMNNDKKIFAASRL---DIPDAWQMPQGGIDEGEDPRNAAIRELREETGVTSAEV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tum       --SLFEKLEYEFP-------------D-RHITLWFWLVERWEG--EPWGKE------GQPGEWMSLVGLNADDFP
+1f3ya      IAEVPYWLTYDFPPKVREKLNIQWGSDWKGQAQKWFLFKFTGQDQEINLLGDGSEKPEFGEWSWVTPEQLIDLTV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tum       PANEPVIAKLKRL-----*
+1f3ya      EFKKPVYKEVLSVFAPHL*
+           =========|========
+                    0160     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tum       100.0  21.7
+  2-1f3ya       21.7 100.0
+
+***************************************************************************

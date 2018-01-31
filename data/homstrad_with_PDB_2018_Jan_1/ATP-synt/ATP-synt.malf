@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 1mabb      structureX:1mab:   1 :B: 477 :B:ATP synthase beta chain, mitochondrial:Rattus norvegicus: 2.80: 21.7
+[  2] 1maba      structureX:1mab:  10 :A: 510 :A:ATP synthase alpha chain, mitochondrial:Rattus norvegicus: 2.80: 21.7
+[  3] 1skye      structureX:1sky:   1 :E: 470 :E:ATP synthase beta chain:Bacillus ps3: -1: 22.2
+[  4] 1skyb      structureX:1sky:  21 :B: 502 :B:ATP synthase alpha chain:Bacillus ps3: -1: 22.2
+
+
+1mabb      ---------SAAPKAGTATGQIVAVIGAVVDVQF-DEGLPPILNALEVQGRE-------SRLVLEVAQHLGESTV
+1maba      SSILEERIGADTSVDLEETGRVLSIGDGIARVHGLR--NVQAEEMVEFSS----------GLKGMSLNLEP-DNV
+1skye      ----------------MTRGRVIQVMGPVVDVKFENGHLPAIYNALKIQHKARNENEVDIDLTLEVALHLGDDTV
+1skyb      -----------SQIQVSDVGTVIQVGDGIARAHGLD--NVMSGEAVEFAN----------AVMGMALNLEE-NNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mabb      RTIAMDGTEGLVRGQKVLDSGAPIKIPVGPETLGRIMNVIGEPIDERGPIKTK-QFAPIHAEAPEFIEMSVEQEI
+1maba      GVVVFGNDKLIKEGDIVKRTGAIVDVPVGDELLGRVVDALGNAIDGKGPVGSK-IRRRVGLKAPGIIPRISVREP
+1skye      RTIAMASTDGLIRGMEVIDTGAPISVPVGQVTLGRVFNVLGEPIDLEGDIPADARRDPIHRPAPKFEELATEVEI
+1skyb      GIVILGPYTGIKEGDEVRRTGRIMEVPVGETLIGRVVNPLGQPVDGLGPVETT-ETRPIESRAPGVMDRRSVHEP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mabb      LVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAH-------GGYSVFAGVGERTREGNDLYHEM
+1maba      MQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKKLYCIYVAIGQKRSTVAQLVKRL
+1skye      LETGIKVVDLLAPYIKGGKIGLFGGAGVGKTVLIQELIHNIAQEH-------GGISVFAGVGERTREGNDLYHEM
+1skyb      LQTGIKAIDALVPIGRGQRELIIGDRQTGKTSVAIDTIINQKDQ--------NMICIYVAIGQKESTVATVVETL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mabb      IESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEGQDVLLFIDNIFRFTQAGSEVSALLGRI
+1maba      TDADAM------KYTIVVSATASDAAPLQYLAPYSGCSMGEYFRDN-GKHALIIYDDLSKQAVAYRQMSLLLRRP
+1skye      KDSGVI------SKTAMVFGQMNEPPGARMRVALTGLTMAEYFRDEQGQDGLLFIDNIFRFTQAGSEVSALLGRM
+1skyb      AKHGAP------DYTIVVTASASQPAPLLFLAPYAGVAMGEYFMIM-GKHVLVVIDDLSKQAAAYRQLSLLLRRP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mabb      PSAVGYQPTLATDMGTMQERITTTK----KGSITSVQAIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYP
+1maba      PGREAYPGDVFYLHSRLLERAAKMNDSFGGGSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRP
+1skye      PSAIGYQPTLATEMGQLQERITSTA----KGSITSIQAIYVPADDYTDPAPATTFSHLDATTNLERKLAEMGIYP
+1skyb      PGREAYPGDIFYLHSRLLERAAKLSDAKGGGSLTALPFVETQAGDISAYIPTNVISITDGQIFLQSDLFFSGVRP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mabb      AVDPLDSTSRIMDPNIVGSEHYDVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVA
+1maba      AINVGLSVSRVG-SAAQTRAMKQVAGTMKLELAQYREVAAFAQF--GSDLDAATQQLLSRGVRLTELLKQGQY--
+1skye      AVDPLVSTSRALAPEIVGEEHYQVARKVQQTLERYKELQDIIAILGMDELSDEDKLVVHRARRIQFFLSQNFHVA
+1skyb      AINAGLSVSRVG-GAAQIKAMKKVAGTLRLDLAAYRELEFAQFS--D---DKATQANVARGARTVEVLKQDLH--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1mabb      EVFTGHMGKLVPLKETIKGFQQILAGDYDHLPEQAFYMVGPIEEAVAKAD----------KLAEE----------
+1maba      --------SPMAIEEQVAVIYAGVRGYLDKLEPSKITKFESAFLSHVVSQHQSLLGNIRTDGKISEQSDAKLKEI
+1skye      EQFTGQPGSYVPVKETVRGFKEILEGKYDHLPEDRFRLVGRIEEVVEKAKAM-----------------------
+1skyb      --------QPIPVEKQVLIIYALTRGFLDDIPVEDVRRFEKEFYLWLDQNGQHLLEHIRTTKDLPNEDDLNQAIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1mabb      ---------H*
+1maba      VTNFLAGFEP*
+1skye      ---------G*
+1skyb      AFKKTFVVSQ*
+           ====|=====
+               0530  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1mabb      100.0  19.5  69.6  19.1
+  2-1maba       19.5 100.0  22.3  58.5
+  3-1skye       69.6  22.3 100.0  22.6
+  4-1skyb       19.1  58.5  22.6 100.0
+
+***************************************************************************

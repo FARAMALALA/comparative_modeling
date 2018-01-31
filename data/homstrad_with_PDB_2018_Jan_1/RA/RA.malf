@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1lfda      structureX:1lfd:  14 :A: 100 :A:RAS-interacting domain of RALGDS:Rattus norvegicus: 2.1: 20.6
+[  2] 1rlf       structureX:1rlf: 646 : : 735 : :RAS-binding domain of RALGDS-like factor:Mus musculus: -1: -1
+
+
+1lfda      G--DCCIIRVSLDVDNGN-MYKSILVTSQDKAPTVIRKAMDKHNLDEDEPEDYELLQIISEDHKLKIPENA--NV
+1rlf       GSSDCRIIRVQMELGEDGSVYKSILVTSQDKAPSVISRVLKKNNRDSAVASEFELVQLL--PGDRELTIPHSANV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lfda      FYAMNSAANYDFILKKR-*
+1rlf       FYAMDG-ASHDFLLRQRR*
+           ====|=========|===
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lfda      100.0  44.8
+  2-1rlf        44.8 100.0
+
+***************************************************************************

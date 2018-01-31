@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1tbge      structureX:1tbg: 501 :E: 568 :E:guanine nucleotide-binding protein G(t) gamma-1 subunit (transducin gamma chain):Bos taurus: 2.1: 20
+[  2] 1gp2g      structureX:1gp2:   8 :G:  61 :G:guanine nucleotide-binding protein G(i)-G(s)-G(o) gamma-2 subunit (G gamma-i):Bos taurus: 2.3: 22.6
+
+
+1tbge      APVINIEDLTEKDKLKMEVDQLKKEVTLERMLVSKCCEEFRDYVEERSGEDPLVKGIPEDKNPFKELK*
+1gp2g      ----------SIAQARKLVEQLKMEANIDRIKVSKAAADLMAYCEAHAKEDPLLTPVPASENPF----*
+           =========|=========|=========|=========|=========|=========|========
+                    0010      0020      0030      0040      0050      0060     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tbge      100.0  35.2
+  2-1gp2g       35.2 100.0
+
+***************************************************************************

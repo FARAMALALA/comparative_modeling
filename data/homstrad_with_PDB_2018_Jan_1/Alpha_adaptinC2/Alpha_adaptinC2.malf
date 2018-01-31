@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1qtsa      structureX:1qts: 692 :A: 824 :A:AP-2 clathrin adaptor alpha- appendage:Mus musculus: 1.40: 17.8
+[  2] 1e42a      structureX:1e42: 705 :A: 824 :A:adapter-related protein complex 2 beta 1 subunit:Homo sapiens: 1.7: 19.6
+
+
+1qtsa      GSPGIRLGSSEDNFARFVCKNNGVLFEN---QLLQIGLKSEFRQNLGRMFIFYGNKTSTQFLNFTPTLICADDLQ
+1e42a      G--------------GYV-APKAVWLPAVKAKGLEISGTFTHRQGHIYMEMNFTNKALQHMTDFAIQFNK---NS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qtsa      TNLNLQTK-PVDPTVDGGAQVQQVVNIECI---SDFT--EAPVLNIQFRYGGTFQNVSVKLPITLNK*
+1e42a      FGVIPSTPLAIHTPLMPNQSIDVSLPLNTLGPVMKMEPLNNLQVAVKNN----IDVFYFSCLIPLNV*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qtsa      100.0  12.5
+  2-1e42a       12.5 100.0
+
+***************************************************************************

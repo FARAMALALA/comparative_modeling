@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1unaa      structureX:1una:   2 :A: 130 :A:coat protein:Bacteriophage ga: 2.80: 20.4
+[  2] 1msc       structureX:1msc:   1 : : 129 : :coat protein:Bacteriophage ms2: 2.0: 20
+[  3] 1frsa      structureX:1frs:   1 :A: 129 :A:coat protein:Bacteriophage fr: 3.5: -1
+[  4] 1qbea      structureX:1qbe:   1 :A: 132 :A:coat protein:Bacteriophage q-beta: 3.5: 30.4
+
+
+1unaa      A-TLHSFVLVDNG--GTGNVTVVPVSN-A-NGVAEWLSN-NSRSQAYRVTASYRASGADKRKYTIKLEVPKI---
+1msc       ASNFTQFVLVDNG--GTGDVTVAPSNFA--NGVAEWISS-NSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQ
+1frsa      ASNFEEFVLVDNG--GTGDVKVAPSNF-A-NGVAEWISS-NSRSQAYKVTCSVRQSSANNRKYTVKVEVPKVATQ
+1qbea      A-KLETVTLGNIGKDGKQTLVLNPRGVNPTNGVASLSQAGAVPALEKRVTVSVSQ---PNYKVQVKIQNPTACT-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1unaa      ----VELPVSAWKAYASIDLTIPIFAATDDVTVISKSLTGLFKVGNPIAEAISSQSGFYA*
+1msc       TVGGVELPVAARRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGIY-*
+1frsa      VQGGVELPVAAWRSYMNMELTIPVFATNDDCALIVKALQGTFKTGNPIATAIAANSGIY-*
+1qbea      -----CDPSVTRQAYADVTFSFTQYSTDEERAFVRTELAALLAS-PLLIDAIDQLNPAY-*
+           ====|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1unaa      100.0  60.7  62.3  21.3
+  2-1msc        60.7 100.0  85.3  22.8
+  3-1frsa       62.3  85.3 100.0  23.6
+  4-1qbea       21.3  22.8  23.6 100.0
+
+***************************************************************************

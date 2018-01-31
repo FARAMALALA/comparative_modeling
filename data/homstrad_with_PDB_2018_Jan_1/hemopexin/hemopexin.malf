@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1fbl       structureX:1fbl: 272 : : 466 : :fibroblast (interstitial) collagenase:Sus scrofa:2.50:21.7
+[  2] 1pex       structureX:1pex: 274 : : 466 : :collagenase-3:Homo sapiens:2.70:19.5
+[  3] 1gen       structureX:1gen: 461 : : 660 : :gelatinase A:Homo sapiens:2.15:18.8
+[  4] 1hxn       structureX:1hxn: 225 : : 434 : :hemopexin:Oryctolagus cuniculus:1.80:17.6
+
+
+1fbl       --PQTPQVCDSKLTFDAITTLR-GELMFFKDRFYMRTNSFYPEVE-LNFISVFWPQVPNGLQAAYEIADRDEVRF
+1pex       ----TPDKCDPSLSLDAITSLR-GETMIFKDRFFWRLHPQQVDAE-LFLTKSFWPELPNRIDAAYEHPSHDLIFI
+1gen       LGPVTPEICKQDIVFDGIAQIR-GEIFFFKDRFIWRTVTPRDKPMGPLLVATFWPELPEKIDAVYEAPQEEKAVF
+1hxn       ----ESTRCDPDLVLSAMVSDNHGATYVFSGSHYWRLDTNRDGWH-SWPIAHQWPQGPSTVDAAFSWE--DKLYL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fbl       FKGNKYWAVR---GQDVLYGYPKDIHRSFGFPS--TVKNIDAAVFEEDTGKTYFFVAHECWRYDEYKQ--SMDTG
+1pex       FRGRKFWALN---GYDILEGYPKKIS-ELGLPK--EVKKISAAVHFEDTGKTLLFSGNQVWRYDDTNH--IMDKD
+1gen       FAGNEYWIYS---ASTLERGYPKPLT-SLGLPP--DVQRVDAAFNWSKNKKTYIFAGDKFWRYNEVKK--KMDPG
+1hxn       IQDTKVYVFLTKGGYTLVNGYPKRLEKELGSPPVISLEAVDAAFVCPGSSRLHIMAGRRLWWLDLKSGAQATW--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fbl       YPKMIAEEFPGIGNKVDAVFQKD------------GFLYFFHGTRQYQFDFK-----TKRILTLQKANS-WFNC-
+1pex       YPRLIEEDFPGIGDKVDAVYEKN------------GYIYFFNGPIQFEYSIW-----SNRIVRVMPANS-ILWC-
+1gen       FPKLIADAWNAIPDNLDAVVDLQG----------GGHSYFFKGAYYLKLENQ-----SLKSVKFGSIKSDWLGC-
+1hxn       TELP----WP--HEKVDGALCMEKPLGPNSCSTSGPNLYLIHGPNLYCYRHVDKLNAAKNLPQPQRVSR-LLGCT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fbl       -*
+1pex       -*
+1gen       -*
+1hxn       H*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1fbl       100.0  48.4  35.9  21.0
+  2-1pex        48.4 100.0  35.9  24.0
+  3-1gen        35.9  35.9 100.0  22.5
+  4-1hxn        21.0  24.0  22.5 100.0
+
+***************************************************************************

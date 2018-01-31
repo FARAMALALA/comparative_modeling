@@ -1,0 +1,418 @@
+      Code       Title
+
+[  1] 1bf2       structureX:1bf2: 163 : : 750 : :Isoamylase:Pseudomonas amyloderamosa: 2.0: 16.1
+[  2] 1ehaa      structureX:1eha:  91 :A: 557 :A:Glycosyltrehalose trehalohydrolase:Sulfolobus solfataricus KM1: 3.00: -1
+[  3] 1hx0a      structureX:1hx0:   2 :A: 496 :A:Alpha amylase:Sus scrofa: 1.38: -1
+[  4] 1smd       structureX:1smd:   2 : : 496 : :Amylase:Homo sapiens: 1.6: 18.4
+[  5] 1jae       structureX:1jae:   2 : : 471 : :Alpha amylase:Tenebrio molitor: 1.65: 17.7
+[  6] 1g94a      structureX:1g94:   1 :A: 448 :A:Alpha amylase:Pseudoalteromonas haloplanctis: 1.74: 15.6
+[  7] 1bag       structureX:1bag:   1 : : 425 : :Alpha amylase:Bacillus subtilis: 2.5: 19.8
+[  8] 1smaa      structureX:1sma: 124 :A: 588 :A:Maltogenic amylase:Thermus sp.: 2.80: 20.9
+[  9] 1bvza      structureX:1bvz: 121 :A: 585 :A:Alpha amylase II:Thermoactinomyces vulgaris R-47: 2.60: 19.6
+[ 10] 1uok       structureX:1uok:   1 : : 558 : :Oligo-1,6-glucosidase:Bacillus cereus: 2.0: 19.2
+[ 11] 2aaa       structureX:2aaa:   1 : : 476 : :Acid alpha amylase:Aspergillus niger: 2.1: -1
+[ 12] 7taa       structureX:7taa:   1 : : 476 : :Taka amylase:Aspergillus oryzae: 1.98: 15.9
+[ 13] 1cgt       structureX:1cgt:   1 : : 494 : :Cyclodextrin glycosyltransferase:Bacillus circulans, strain 8: 2.0: 16.6
+[ 14] 1d3ca      structureX:1d3c:   1 :A: 496 :A:Cyclodextrin glycosyltransferase:Bacillus circulans: 1.78: 22.0
+[ 15] 1ciu       structureX:1ciu:   1 : : 495 : :Cyclodextrin glycosyltransferase:Thermoanaerobacterium thermosulfurigenes EM1: 2.3: -1
+[ 16] 1cyg       structureX:1cyg:   1 : : 491 : :Cyclodextrin glucanotransferase:Bacillus stearothermophilus: 2.5: 15.4
+[ 17] 1qhpa      structureX:1qhp:   1 :A: 495 :A:Alpha amylase:Bacillus stearothermophilus: 1.70: 15.3
+[ 18] 1hvxa      structureX:1hvx:   1 :A: 483 :A:Alpha amylase:Bacillus stearothermophilus: 2.00: 15.4
+[ 19] 1vjs       structureX:1vjs:   3 : : 482 : :Alpha amylase:Bacillus licheniformis: 1.7: 19.9
+[ 20] 1gcya      structureX:1gcy:   1 :A: 418 :A:Glucan 1,4-alpha-maltotetrahydrolase:Pseudomonas stutzeri: 1.6: 25.9
+[ 21] 1avaa      structureX:1ava:   1 :A: 403 :A:Alpha amylase 2:Hordeum vulgare: 1.9: 20.8
+[ 22] 1g5aa      structureX:1g5a:  77 :A: 628 :A:Amylosucrase:Neisseria polysaccharea: 1.40: 18.9
+[ 23] 1gjwa      structureX:1gjw:  68 :A: 636 :A:Maltodextrin glycosyltransferase:Thermotoga maritima: 2.1: 19.7
+
+
+1bf2       ---PSTQSTGTKPTRAQKD--DVIYEVHVRGFTEQDT-------------------------------SIPAQYR
+1ehaa      --------FNNETFLKKED--LIIYEIHVGTFTP----------------------------------------E
+1hx0a      -----------------------------------------------YAPQTQS--GRTSIVHLF---------E
+1smd       -----------------------------------------------YSSNTQQ--GRTSIVHLF---------E
+1jae       -----------------------------------------------KDANFAS--GRNSIVHLF---------E
+1g94a      --------------------------------------------------------TPTTFVHLF---------E
+1bag       --------------------------------------------------LTAPSIKSGTILHAW---------N
+1smaa      --------DLFQAPDWVKD--TVWYQIFPERFANGNP-AISPKGA--RPWGSEDPTPT----SFF---------G
+1bvza      ---------VFTTPEWAKE--AVIYQIFPERFANGDPSNDPPGTE--QWAKDARPRHD----SFY---------G
+1uok       -----------MEKQWWKE--SVVYQIYPRSFMDS----------------------N----GDG---------I
+2aaa       -----------LSAASWRT--QSIYFLLTDRFGRTDNSTTA----------TCNTGNE----IYC---------G
+7taa       -----------ATPADWRS--QSIYFLLTDRFARTDGSTTA----------TCNTADQ----KYC---------G
+1cgt       -----DPDTAVTNKQSFST--DVIYQVFTDRFLDGNPSNNPT---GAAYDATCS-NLK----LYC---------G
+1d3ca      -----APDTSVSNKQNFST--DVIYQIFTDRFSDGNPANNPT---GAAFDGTCT-NLR----LYC---------G
+1ciu       -----ASDTAVSNVVNYST--DVIYQIVTDRFVDGNTSNNPT---GDLYDPTHT-SLK----KYF---------G
+1cyg       -----AG---NLNKVNFTS--DVVYQIVVDRFVDGNTSNNPS---GALFSSGCT-NLR----KYC---------G
+1qhpa      -----------SSSASVKG--DVIYQIIIDRFYDGDTTNNNPAKSYGLYDPTKS-KWK----MYW---------G
+1hvxa      -----------------------------------------------------AAPFNGTMMQYFEWYLPD--DG
+1vjs       --------------------------------------------------------LNGTLMQYFEWYMPN--DG
+1gcya      ------------------------------------------DQAGKSPNAVRYHGGDEIILQGFHWNVVREAPN
+1avaa      ----------------------------------------------------------QVLFQGFNWESWK-HNG
+1g5aa      SSLKDIDIARENNPDWILSNKQVGGVCYVDLFAG-----------------------------------------
+1gjwa      ---PLSFLKGEKTPDWIKR--SVVYGSLPRTTAAYNHKGS---------------------GYYEENDVLGFREA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bf2       GTYYGAGLKAS--YLASLGVTAVEFLPVQETQNDANDVVPNSDA-NQNYWGYMTENYFSPDRRYAYNKAAGGP--
+1ehaa      GTFEGVIRKLD--YLKDLGITAIEIMPIAQFPG-------------KRDWGYDGVYLYAVQ---------NSYGG
+1hx0a      WRWVDIALECER-YLGPKGFGGVQVSPPNENIVVT----NPS---RPWWERYQPVSYKLCT---------R-SGN
+1smd       WRWVDIALECER-YLAPKGFGGVQVSPPNENVAIH----NPF---RPWWERYQPVSYKLCT---------R-SGN
+1jae       WKWNDIADECER-FLQPQGFGGVQISPPNEYLVAD------G---RPWWERYQPVSYIINT---------R-SGD
+1g94a      WNWQDVAQECEQ-YLGPKGYAAVQVSPPNEHITG-----------SQWWTRYQPVSYELQS---------R-GGN
+1bag       WSFNTLKHNMK--DIHDAGYTAIQTSPINQVKEGN----QGDKSMSNWYWLYQPTSYQIGN---------RYLGT
+1smaa      GDLQGIIDHLD--YLADLGITGIYLTPIFRAP---------------SNHKYDTADYFEID---------PHFGD
+1bvza      GDLKGVIDRLP--YLEELGVTALYFTPIFASP---------------SHHKYDTADYLAID---------PQFGD
+1uok       GDLRGIISKLD--YLKELGIDVIWLSPVYESPN--------------DDNGYDISDYCKIM---------NEFGT
+2aaa       GSWQGIIDHLD--YIEGMGFTAIWISPITEQLPQDTA-----DG--EAYHGYWQQKIYDVN---------SNFGT
+7taa       GTWQGIIDKLD--YIQGMGFTAIWITPVTAQLPQTTA-----YG--DAYHGYWQQDIYSLN---------ENYGT
+1cgt       GDWQGLINKINDNYFSDLGVTALWISQPVENIFATINYSG-VTN--TAYHGYWARDFKKTN---------PYFGT
+1d3ca      GDWQGIINKINDGYLTGMGVTAIWISQPVENIYSIINYSG-VNN--TAYHGYWARDFKKTN---------PAYGT
+1ciu       GDWQGIINKINDGYLTGMGVTAIWISQPVENIYAVLPDSTFGGS--TSYHGYWARDFKRTN---------PYFGS
+1cyg       GDWQGIINKINDGYLTDMGVTAIWISQPVENVFSVMNDA--SGS--ASYHGYWARDFKKPN---------PFFGT
+1qhpa      GDLEGVRQKLP--YLKQLGVTTIWLSPVLDNLDTLAG----TDN--TGYHGYWTRDFKQIE---------EHFGN
+1hvxa      TLWTKVANEAN--NLSSLGITALWLPPAYKGT-------------SRSDVGYGVYDLYDLGEFNQKGAVRTKYGT
+1vjs       QHWKRLQNDSA--YLAEHGITAVWIPPAYKGT-------------SQADVGYGAYDLYDLGEFHQKGTVRTKYGT
+1gcya      DWYNILRQQAA--TIAADGFSAIWMPVPWRDFSS--------WSKSGGGEGYFWHDF-NKN---------GRYGS
+1avaa      GWYNFLMGKVD--DIAAAGITHVWLPPASQSV---------------AEQGYMPGRLYDLD--------ASKYGN
+1g5aa      -DLKGLKDKIP--YFQELGLTYLHLMPLFKCPE----------G--KSDGGYAVSSYRDVN---------PALGT
+1gjwa      GTFFKMMLLLP--FVKSLGADAIYLLPVSRMSDLFKK--------GDAPSPYSVKNPMELDERYHDPLLE--PFK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bf2       -TAEFQAMVQAFHNAGIKVYMDVVYNHTAEGGTWTS----------------------SDPTTATIYS----WRG
+1ehaa      -PEGFRKLVDEAHKKGLGVILDVVYNHVGPEGNYMV---------------------------------------
+1hx0a      -ENEFRDMVTRCNNVGVRIYVDAVINHMCGS---------GAAAGTG---TTCGSYCNPGNREF--------PAV
+1smd       -EDEFRNMVTRCNNVGVRIYVDAVINHMCGN---------AVSAGTS---STCGSYFNPGSRDF--------PAV
+1jae       -ESAFTDMTRRCNDAGVRIYVDAVINHMTGM------------NGV----GTSGSSADHDGMNY--------PAV
+1g94a      -RAQFIDMVNRCSAAGVDIYVDTLINHMAAG------------SGT----GTAGNSFG--NKSF--------P--
+1bag       -EQEFKEMCAAAEEYGIKVIVDAVINHTTFD----------------------------YAAIS--------NEV
+1smaa      -KETLKTLVKRCHEKGIRVMLDAVFNHCGYEFAPFQDVLK-----------------NGAASR------------
+1bvza      -LPTFRRLVDEAHRRGIKIILDAVFNHAGDQFFAFRDVLQ-----------------KGEQSR------------
+1uok       -MEDWDELLHEMHERNMKLMMDLVVNHTSDEHNWFIESRKSK------------------DNK------------
+2aaa       -ADNLKSLSDALHARGMYLMVDVVPDHMGYAGNGNDV---DYSV-FD---PFDS---------------------
+7taa       -ADDLKALSSALHERGMYLMVDVVANHMGYDGAGSSV---DYSV-FK---PFSS---------------------
+1cgt       -MADFQNLITTAHAKGIKIVIDFAPNHTSPA-METDTSFAENGR-LY---DNGTLVGGYTNDT------------
+1d3ca      -IADFQNLIAAAHAKNIKVIIDFAPNHTSPA-SSDQPSFAENGR-LY---DNGTLLGGYTNDT------------
+1ciu       -FTDFQNLINTAHAHNIKVIIDFAPNHTSPA-SETDPTYAENGR-LY---DNGTLLGGYTNDT------------
+1cyg       -LSDFQRLVDAAHAKGIKVIIDFAPNHTSPA-SETNPSYMENGR-LY---DNGTLLGGYTNDA------------
+1qhpa      -WTTFDTLVNDAHQNGIKVIVDFVPNHSTPF-KANDSTFAEGGA-LY---NNGTYMGNYFDDA------------
+1hvxa      -KAQYLQAIQAAHAAGMQVYADVVFDHKGGAD------------GTE---WVDAVEVNPS---DRNQE----ISG
+1vjs       -KGELQSAIKSLHSRDINVYGDVVINHKGGAD------------ATE---DVTAVEVDPA---DRNRV----ISG
+1gcya      -DAQLRQAASALGGAGVKVLYDVVPNHMN-RG------------YP-----------------------------
+1avaa      -KAQLKSLIGALHGKGVKAIADIVINHRT-AE------------HKD---G------------------------
+1g5aa      -IGDLREVIAALHEAGISAVVDFIFNHTSNEHEWAQRCAA--------------------GDP------------
+1gjwa      VDEEFKAFVEACHILGIRVILDFIPRTAARDSDLIRE-HPDWFYWIKVEELADYTPPRAEELPFKVPDEDELEII
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bf2       L-----------------------DNATYYELTS-----------------------------------------
+1ehaa      ------------------------KLGPYFSQ------------------------------------------K
+1hx0a      P-----------------------YSAWDFN--DGKC--KTA---SGGIE----SYN-------DP----YQVRD
+1smd       P-----------------------YSGWDFN--DGKC--KTG---SGDIE----NYN-------DA----TQVRD
+1jae       P-----------------------YGSGDFH--S--P--C-------EVN----NYQ-------DA----DNVRN
+1g94a      I-----------------------YSPQDFH--E--S--C-------TIN--NSDYG------NDR----YRVQN
+1bag       K-----------------------SIPNWT-----HG--NT------QIK----NWS-------DR----WDVTQ
+1smaa      -------------------------YKDWFHIREF-----------PLQTE--------------------PRPN
+1bvza      -------------------------YKDWFFIEDF-----------PVSKT--------------------SRTN
+1uok       -------------------------YRDYYIWRPGK---E--GKEPNNWGAAFSG---------SAWQYDEMTDE
+2aaa       --------------------------SSYFHPY-------------CLITDW--D---------NL----TMVED
+7taa       --------------------------QDYFHPF-------------CFIQNY--E---------DQ----TQVED
+1cgt       --------------------------NGYFHHN-------------GGSD-F--S---------SL----ENGIY
+1d3ca      --------------------------QNLFHHN-------------GGTD-F--S---------TT----ENGIY
+1ciu       --------------------------NGYFHHY-------------GGTD-F--S---------SY----EDGIY
+1cyg       --------------------------NMYFHHN-------------GGTT-F--S---------SL----EDGIY
+1qhpa      -------------------------TKGYFHHN-------------GDISNW--D---------DR----YEAQW
+1hvxa      TYQ-------IQAWTK--------FDFPGRGNTYSSF--KWRW--YHFDGVDWDESRKLSRIYKFRGIGKAWDWE
+1vjs       EHL-------IKAWTH--------FHFPGRGSTYSDF--KWHW--YHFDGTDWDESRKLNRIYKFQG--KA----
+1gcya      ---------------------------------DKEI--NLPAGQGFW------RNDCADPGNY----PNDCDDG
+1avaa      ----------RGIYCI--------FEGGTP---DARL--DWGP--HMI------CRDDRPYADG----TGNPDTG
+1g5aa      ------------------------LFDNFYYIFPDR---RMPDQYDRTLREIFPDQH------PGGFSQLEDGRW
+1gjwa      YNKENVKRHLKKFTLPPNLIDPQKWEKIKREE---GNILELIVKEFGIITPPGFSDLINDPQPTWDDVTFLRLYL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bf2       ---GNQYFYDNTG--IGANFNTY------------NTVAQNLIVDSLAYWANTMGVDGFRFDLASVLGNSCLNGA
+1ehaa      YKTPW-----------GLTFNFDD---------AESDEVRKFILENVEYWIKEYNVDGFRLDAVHAIIDTSP---
+1hx0a      CQLV-----------GLLDLALE------------KDYVRSMIADYLNKLID-IGVAGFRIDASKHMWPGDIKAV
+1smd       CRLS-----------GLLDLALG------------KDYVRSKIAEYMNHLID-IGVAGFRIDASKHMWPGDIKAI
+1jae       CELV-----------GLRDLNQG------------SDYVRGVLIDYMNHMID-LGVAGFRVDAAKHMSPGDLSVI
+1g94a      CELV-----------GLADLDTA------------SNYVQNTIAAYINDLQA-IGVKGFRFDASKHVAASDIQSL
+1bag       NSLL-----------GLYDWNTQ------------NTQVQSYLKRFLERALN-DGADGFRFDAAKHIELPDDGSY
+1smaa      YDTFA-FV----P--HMPKLNTA------------HPEVKRYLLDVATYWIREFDIDGWRLDVANEID-------
+1bvza      YETFAVQV----P--AMPKLRTE------------NPEVKEYLFDVARFWM-EQGIDGWRLDVANEVD-------
+1uok       YYL-HLFS----K--KQPDLNWD------------NEKVRQDVYEMMKFWLE-KGIDGFRMDVINFISKEEGLPT
+2aaa       CWEGDT-I----V--SLPDLDTT------------ETAVRTIWYDWVADLVSNYSVDGLRIDSVLEVQ-------
+7taa       CWLGDN-T----V--SLPDLDTT------------KDVVKNEWYDWVGSLVSNYSIDGLRIDTVKHVQ-------
+1cgt       KNLY-----------DLADFNHN------------NATIDKYFKDAIKLWLD-MGVDGIRVDAVKHMP-------
+1d3ca      KNLY-----------DLADLNHN------------NSTVDVYLKDAIKMWLD-LGIDGIRMNAVKHMP-------
+1ciu       RNLF-----------DLADLNQQ------------NSTIDSYLKSAIKVWLD-MGIDGIRLDAVKHMP-------
+1cyg       RNLF-----------DLADLNHQ------------NPVIDRYLKDAVKMWID-MGIDGIRMDAVKHMP-------
+1qhpa      KNFTDPAG----F--SLADLSQE------------NGTIAQYLTDAAVQLVA-HGADGLRIDAVKHFN-------
+1hvxa      VDTENGNYDYLM----YADLDMD------------HPEVVTELKSWGKWYVNTTNIDGFRLDAVKHIK-------
+1vjs       -------YDYLM----YADIDYD------------HPDVAAEIKRWGTWYANELQLDGFRLDAVKHIK-------
+1gcya      DRFI------GG----DADLNTG------------HPQVYGMFRDEFTNLRSQYGAGGFRFDFVRGYA-------
+1avaa      ADF-------GA----APDIDHL------------NLRVQKELVEWLNWLKADIGFDGWRFDFAKGYS-------
+1g5aa      VWT--TFN----S--FQWDLNYS------------NPWVFRAMAGEMLFLAN-LGVDILRMDAVAFIWKQMG---
+1gjwa      DHP--EASKRFLDPNQPPYVLYDVIKASKFPGKEPNRELWEYLAGVIPHYQKKYGIDGARLDMGHALP-------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bf2       YTASAPNCP-NGGYNFDAADSNVAINRILREFTVRPAAGGSGLDLFAEPWAIG--------------GNSYQLGG
+1ehaa      ---------------------KHILEEIADVVH---KY-N--RIVIAESD--------------------LNDPR
+1hx0a      LDKLHNLNTNW-FPA------------------------GSRPFIFQEVIDLG--------------GEAIKSSE
+1smd       LDKLHNLNSNW-FPE------------------------GSKPFIYQEVIDLG--------------GEPIKSSD
+1jae       FSGLKNLNTDYGFAD------------------------GARPFIYQEVIDLG--------------GEAISKNE
+1g94a      MAKVNG-----------------------------------SPVVFQEVIDQG--------------GEAVGASE
+1bag       ---GSQFWPNITNT--------------------------SAEFQYGQILQD----------------SASRDAA
+1smaa      ---------------------HQFWREFRQAVK---AL-KPDVYILGEIWH--------------------DAMP
+1bvza      ---------------------HAFWREFRRLVK---SL-NPDALIVGEIWH--------------------DASG
+1uok       VETEEEGYVSGHKHFMNGPNIHKYLHEMNEEVL---SH-YD-IMTVGEMPGVT----------------TEEAKL
+2aaa       ---------------------PDFFPGYNKASG---------VYCVGEIDNG----------------NPASDCP
+7taa       ---------------------KDFWPGYNKAAG---------VYCIGEVLDG----------------DPAYTCP
+1cgt       ---------------------LGWQKSWMSSIY---AH-KP-VFTFGEWFL-GSA-----------A-SDADNTD
+1d3ca      ---------------------FGWQKSFMAAVN---NY-KP-VFTFGQWFL-GVN-----------E-VSPENHK
+1ciu       ---------------------FGWQKNFMDSIL---SY-RP-VFTFGEWFL-GTN-----------E-IDVNNTY
+1cyg       ---------------------FGWQKSLMDEID---NY-RP-VFTFGEWFL-SEN-----------E-VDANNHY
+1qhpa      ---------------------SGFSKSLADKLY---QK-KD-IFLVGEWYGDDPG-----------TANHLEKVR
+1hvxa      ---------------------FSFFPDWLSYVR---SQTGKPLFTVGEYWSY----------------DINKLHN
+1vjs       ---------------------FSFLRDWVNHVR---EKTGKEMFTVAEYWQN----------------DLGALEN
+1gcya      ---------------------PERVNSWMTDSA-------DNSFCVGELWKGPSEYPN--WDWRNTASWQQIIKD
+1avaa      ---------------------ADVAKIYIDRSE-------PS-FAVAEIWTSL-AYGGDGKPNLNQDQHRQELVN
+1g5aa      ------------TSCENLPQAHALIRAFNAVMR---IA-APAVFFKSEAIV-----------------HPDQVVQ
+1gjwa      ---------------------KELLDLIIKNVK---EY-DPAFVMIAEEL------------------DMEKDKA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1bf2       FPQ--------GWSEWNGLFRDSL--RQAQNELG----SMTIYVTQDANDFSGSSNLF----QSS----------
+1ehaa      VVNPKEKVGYNIDAQWVDDFHHSI--HAYLTGERQGYYTDFGNLDDIVKSYKDVFVYDGKYSN-FRRKTHGEPVG
+1hx0a      YFG--------NGRVTEFKYGAKL--GTVV------RKWSGEKMSYLKNWGEGW-----------------GFMP
+1smd       YFG--------NGRVTEFKYGAKL--GTVI------RKWNGEKMSYLKNWGEGW-----------------GFMP
+1jae       YTG--------FGCVLEFQFGVSL--GNAF------QG--GNQLKNLANWGPEW-----------------GLLE
+1g94a      YLS--------TGLVTEFKYSTEL--GNTF------RN---GSLAWLSNFGEGW-----------------GFMP
+1bag       YAN--------YMDVTASNYGHSI--RSAL------KN-RNLGVSNISHYASD--------------------VS
+1smaa      WLR-----GDQFDAVMNYPLADAA--LRFF-AKE------DMSASEFADRLMHVLH----------------SYP
+1bvza      WLM-----GDQFDSVMNYLFRESV--IRFF-ATG------EIHAERFDAELTRARM----------------LYP
+1uok       YTGEE---RKELQMVFQFEHMDLDSGE--GGKWDVK----PCSLLTLKENLTKWQK----------------ALE
+2aaa       YQK------VLD-GVLNYPIYWQL--LYAF-ESS------SGSISNLYNMIKSVAS----------------DCS
+7taa       YQN------VMD-GVLNYPIYYPL--LNAF-KST------SGSMDDLYNMINTVKS----------------DCP
+1cgt       FAN------KSGMSLLDFRFNSAV--RNVF-RDN------TSNMYALDSMINSTAT----------------DYN
+1d3ca      FAN------ESGMSLLDFRFAQKV--RQVF-RDN------TDNMYGLKAMLEGSAA----------------DYA
+1ciu       FAN------ESGMSLLDFRFSQKV--RQVF-RDN------TDTMYGLDSMIQSTAS----------------DYN
+1cyg       FAN------ESGMSLLDFRFGQKL--RQVL-RNN------SDNWYGFNQMIQDTAS----------------AYD
+1qhpa      YAN------NSGVNVLDFDLNTVI--RNVF-GTF------TQTMYDLNNMVNQTGN----------------EYK
+1hvxa      YIMKTN----GTMSLFDAPLHNKF--YTASKS------GGTFDMRTLMT-------------NTLMK--------
+1vjs       YLNKTN----FNHSVFDVPLHYQF--HAASTQ------GGGYDMRKLLN-------------STVVS--------
+1gcya      WSDRAK------CPVFDFALKERM--QNG-------------SIADWK--------------HGLNGNPD-----
+1avaa      WVDKVGGK--GPATTFDFTTKGIL--NVAVEG----------ELWRLRG--------TDGKAPGMIG--------
+1g5aa      YIGQ-----DECQIGYNPLQMALL--WNTL-----A----TREVNLLHQALTYRHN-----------------LP
+1gjwa      SKE------AGYDVILGS-SWYFA--GRVE------------EIGKLPDIAE-----------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1bf2       GRSPWN-SINFIDVHDGMTLKDVYSCNGANNSQAWPYGPSDGGTSTNYSWDQGMSAG------------------
+1ehaa      ELDGCN-FVVYIQNHDQVGNRGKGERIIKLVD-------------------------------------------
+1hx0a      ---SDR-ALVFVDNHDNQRG-----HGAGG---------------------------------------------
+1smd       ---SDR-ALVFVDNHDNQRG-----HGAGG---------------------------------------------
+1jae       ---GLD-AVVFVDNHDNQRT--------GG---------------------------------------------
+1g94a      ---SSS-AVVFVDNHDNQRG-----HG-GA---------------------------------------------
+1bag       ---ADK-LVTWVESHDTYAN-----D-------------------------------------------------
+1smaa      KQVNEA-AFNLLGSHDTPRLLTVCG--------------------------------------------------
+1bvza      EQAAQG-LWNLLDSHDTERFLTSCG--------------------------------------------------
+1uok       HTG--W-NSLYWNNHDQPRVVSRFG--------------------------------------------------
+2aaa       --DPTL-LGNFIENHDNPRFAKY-T--------------------------------------------------
+7taa       --DSTL-LGTFVENHDNPRFASY-T--------------------------------------------------
+1cgt       --QVND-QVTFIDNHDMDRFKTS-A--------------------------------------------------
+1d3ca      --QVDD-QVTFIDNHDMERFHAS-N--------------------------------------------------
+1ciu       --FIND-MVTFIDNHDMDRFYNG-G--------------------------------------------------
+1cyg       --EVLD-QVTFIDNHDMDRFMID-G--------------------------------------------------
+1qhpa      --YKEN-LITFIDNHDMSRFLSV-N--------------------------------------------------
+1hvxa      -DQPTL-AVTFVDNHDTEP-----GQALQSWVD------------------------------------------
+1vjs       -KHPLK-AVTFVDNHDTQP-----GQSLESTVQ------------------------------------------
+1gcya      PRWREV-AVTFVDNHDTGYSPGQNGGQHHWALQ------------------------------------------
+1avaa      -WWPAK-AVTFVDNHDTGST------QHMWPFP------------------------------------------
+1g5aa      E---HTAWVNYVRSHDDIGWTFADEDAAYLGISGYDHRQFLNRFFVNRFDGSFARGVPFQYNPSTGDCRVSGTAA
+1gjwa      --ELVLPFLASVETPDTPRIATRK---------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1bf2       -----TGAAVDQRRAARTGMAFEMLS-AGTPLMQ-GGDEYLRTLQCNNNAYNLDSSANWLTYSWT----------
+1ehaa      ------------RESYKIAAALYLLS-PYIPMIF-MGEEYGEENPFYFFSDFSDSKLIQGVREGRKKENGQDTDP
+1hx0a      ----SSILTFWDARLYKIAVGFMLAHPYGFTRVMSSYRWARNFV-------NGEDV-----NDWIGPPNN-----
+1smd       ----ASILTFWDARLYKMAVGFMLAHPYGFTRVMSSYRWPRYFE-------NGKDV-----NDWVGPPND-----
+1jae       ----SQILTYKNPKPYKMAIAFMLAHPYGTTRIMSSFDFT---------------------DNDQGPPQDG----
+1g94a      ----GNVITFEDGRLYDLANVFMLAYPYGYPKVMSSYDFH---------------G-----DTDAGGPN------
+1bag       ----DEESTWMSDDDIRLGWAVIASRSGSTPLFFSRPE-GGGN--------------------GVRFPG------
+1smaa      ------G----DVRKVKLLFLFQLTF-TGSPCIY-YGDEIGMTGG------------------------------
+1bvza      ------G----NEAKFRLAVLFQMTY-LGTPLIY-YGDEIGMAGA------------------------------
+1uok       ------NDGMYRIESAKMLATVLHMM-KGTPYIY-QGEEIGMTNVRFESIDEYRDIETLNMYKEKVMERGEDIEK
+2aaa       ------S----DYSQAKNVLSYIFLS-DGIPIVY-AGEEQHYAGG------------------------------
+7taa       ------N----DIALAKNVAAFIILN-DGIPIIY-AGQEQHYAGG------------------------------
+1cgt       ------V----NNRRLEQALAFTLTS-RGVPAIY-YGTEQYLTGN------------------------------
+1d3ca      ------A----NRRKLEQALAFTLTS-RGVPAIY-YGTEQYMSGG------------------------------
+1ciu       -----------STRPVEQALAFTLTS-RGVPAIY-YGTEQYMTGN------------------------------
+1cyg       ------G----DPRKVDMALAVLLTS-RGVPNIY-YGTEQYMTGN------------------------------
+1qhpa      ------S----NKANLHQALAFILTS-RGTPSIY-YGTEQYMAGG------------------------------
+1hvxa      ------------PWFKPLAYAFILTRQEGYPCVF-YGDYYGI---PQY---------------------------
+1vjs       ------------TWFKPLAYAFILTRESGYPQVF-YGDMYGT---KGDSQ-------------------------
+1gcya      ------------DGLIRQAYAYILTS-PGTPVVY-WDHMYDW---------------------------------
+1avaa      ------------SDRVMQGYAYILTH-PGTPCIF-YDHFFDW---------------------------------
+1g5aa      ALVGLAQDDPHAVDRIKLLYSIALST-GGLPLIY-LGDEVGTLNDD--------------------------DWS
+1gjwa      ----------YASKMKKLAPFVTYFLPNSIPYVN-TGQEIGEKQPMNLGLDTD--PNLRKVLSP-----------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1bf2       -------------------------------------------------TDQSNFYTFAQRLIAFRKAHPALRPS
+1ehaa      QDESTFN----ASKLSWK--------------------------------IDEEIFSFYKILIKMRKEL-----S
+1hx0a      --------------------NGVIKEVTINADTTC-GN----------DWVCEHRWREIRNMVWFRNVVD-----
+1smd       --------------------NGVTKEVTINPDTTC-GN----------DWVCEHRWRQIRNMVNFRNVVD-----
+1jae       --------------------SGNLISPGINDDNTC-SN----------GYVCEHRWRQVYGMVGFRNAVE-----
+1g94a      ------------------------VPVHNNGNLECFAS----------NWKCEHRWSYIAGGVDFRNNTA-----
+1bag       --------------------------------KSQIGD----------RGSALFEDQAITAVNRFHNVMA-----
+1smaa      --------NDPECRKCMVWD-----------------------PEKQN----KELYEHVKQLIALRKQ----YRA
+1bvza      --------TDPDCRRPMIWE-----------------------EKEQN----RGLFEFYKELIRLRHR----LAS
+1uok       VMQSIYIKGRDNARTPMQWDDQNHAGFTTGEPWITVNPNYKEINVKQAIQNKDSIFYYYKKLIELRKN----NEI
+2aaa       --------KVPYNREATWLS-----------------------GYDTS----AELYTWIATTNAIRKLAIAADSA
+7taa       --------NDPANREATWLS-----------------------GYPTD----SELYKLIASANAIRNYAISKDTG
+1cgt       --------GDPDNRAKM--P-----------------------SFSKS----TTAFNVISKLAPLRKS----NPA
+1d3ca      --------TDPDNRARI--P-----------------------SFSTS----TTAYQVIQKLAPLRKC----NPA
+1ciu       --------GDPYNRAMM--T-----------------------SFNTS----TTAYNVIKKLAPLRKS----NPA
+1cyg       --------GDPNNRKMM--S-----------------------SFNKN----TRAYQVIQKLSSLRRN----NPA
+1qhpa      --------NDPYNRGMM--P-----------------------AFDTT----TTAFKEVSTLAGLRRN----NAA
+1hvxa      --------------------------------------------------NIPSLKSKIDPLLIARRDYAYG---
+1vjs       -------------------------------------------------REIPALKHKIEPILKARKQYAYG---
+1gcya      -----------------------------------------------------GYGDFIRQLIQVRRAAGVR---
+1avaa      -----------------------------------------------------GLKEEIDRLVSVRTRHGIH---
+1g5aa      QDSNKSDDSRWAHRPRYNEALYAQRNDP--------------------STAAGQIYQDLRHMIAVRQS----NPR
+1gjwa      -TDEFFGKLAFFDHYVLHWD-----------------------------SPDRGVLNFIKKLIKVRHEF---LDF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1bf2       SWYSGSQLTWYQPSGAVADSNYWNNTSNYAIAYAIN-GPSLGDSNSIYVAYNGWS---SSVTFT--LPAPPSG--
+1ehaa      IACD--RRVNVVNG-------------ENWLIIKGR---------EYFSLYVFS-----KSSIE---VKY-----
+1hx0a      --GQ---PFANWWD-NG----------SNQVAFGR--G---N-R--GFIVFNNDD---WQLSST---LQTG-LPG
+1smd       --GQ---PFTNWYD-NG----------SNQVAFGR--G---N-R--GFIVFNNDD---WTFSLT---LQTG-LPA
+1jae       --GT---QVENWWS-ND----------DNQIAFSR--G---S-Q--GFVAFTNG----GDLNQN---LNTG-LPA
+1g94a      --DN--WAVTNWWD-NT----------NNQISFGR--G---S-S--GHMAINKED---STLTAT---VQTD-MAS
+1bag       --GQ---PEE-LSNPNG---------NNQIFMNQR--G---S-H--GVVLANAGS---SSVSIN---TATK-LPD
+1smaa      LRRG--DVAFLTADD-----------EVNHLVYAKTDG---N--ETVMIIINRSN---EAAEIP--MPIDA--RG
+1bvza      LTRG--NVRSWHADK-----------QANLYAFVRTVQ---D--QHVGVVLNNRG---EKQTVL--LQVPE-SGG
+1uok       VVYG--SYDLILE-N-----------NPSIFAYVRTYG---V--EKLLVIANFTA---EECIFE--LPE-D-ISY
+2aaa       YITY--ANDAFYTD-------------SNTIAMAKGTS---G--SQVITVLSNKGSSGSSYTLT--LSGSG-YTS
+7taa       FVTY--KNWPIYKD-------------DTTIAMRKGTD---G--SQIVTILSNKGASGDSYTLS--LSGAG-YTA
+1cgt       IAYG--STQQRWIN-------------NDVYVYERKFG---K--SVAVVAVNRN-LS-TSASIT--GLSTS-LPT
+1d3ca      IAYG--STQERWIN-------------NDVLIYERKFG---S--NVAVVAVNRN-LN-APASIS--GLVTS-LPQ
+1ciu       IAYG--TTQQRWIN-------------NDVYIYERKFG---N--NVALVAINRN-LS-TSYNIT--GLYTA-LPA
+1cyg       LAYG--DTEQRWIN-------------GDVYVYERQFG---K--DVVLVAVNRS-SS-SNYSIT--GLFTA-LPA
+1qhpa      IQYG--TTTQRWIN-------------NDVYIYERKFF---N--DVVLVAINRN-TQ-SSYSIS--GLQTA-LPN
+1hvxa      ------TQHDYLDH-------------SDIIGWTREGVTEKP-GSGLAALITDG----PGGSKW---MYVGKQHA
+1vjs       ------AQHDYFDH-------------HDIVGWTREGDSSVA-NSGLAALITDG----PGGAKR---MYVGRQNA
+1gcya      -ADS--AISFHSGY--------------SGLVATVSGSQ-----QTLVVALNSD----LG--------NPGQVAS
+1avaa      -NES--KLQIIEAD-------------ADLYLAEIDG--------KVIVKLG-P----RY--------DVGNLIP
+1g5aa      FDGG--RLVTFNT-N-----------NKHIIGYIRN--------NALLAFGNFSE---YPQTVTAHTLQ-A-MP-
+1gjwa      VLNG--KFENLTT--------------KDLVMYSYEKN-----GQKIVIAANVGK--------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0760      0770      0780      0790      0800      0810      0820  
+
+1bf2       -TQWYRVTDTCDWNDG-ASTFVAPGSETLIGGAGT--TYGQCG---QSLLLLISK-----------*
+1ehaa      --SGTLLLSS---NN--------SFPQHIE-----EGKYEFDK----GFALYK-------------*
+1hx0a      -GTYCDVISG---DKV-G--NSCTGIKVYVSSDGTA-QFSISNSAEDPFIAIH--AESKL------*
+1smd       -GTYCDVISG---DKI-N--GNCTGIKIYVSDDGKA-HFSISNSAEDPFIAIH--AESKL------*
+1jae       -GTYCDVISG---ELS-G--GSCTGKSVTVGDNGSA-DISLGSAEDDGVLAIH--VNAKL------*
+1g94a      -GQYCNVLKG---ELS-ADAKSCSGEVITVNSDGTI-NLNIGA---WDAMAIH--KNAKLN-----*
+1bag       -GRYDNKAGA---------------GSFQVN-DGKL-TGTINA---RSVAVLY--PD---------*
+1smaa      -KWLVNLLT---------------GERFAAEA-ETL-CVSLPP---YGFVLYAVESW---------*
+1bvza      -KTWLDCLT---------------GEEVHGKQ-GQL-KLTLRP---YQGMILWNGR----------*
+1uok       S-EVELLI-H---NY--------DVENG------PIENITLRP---YEAMVFKLK-----------*
+2aaa       GTKLIEAYT---------------CTSVTVDSSGDI-PVPMAS---GLPRVLLP-ASVVDSSSLCG*
+7taa       GQQLTEVIG---------------CTTVTVGSDGNV-PVPMAG---GLPRVLYP-TEKLAGSKICS*
+1cgt       -GSYTDVLGG---VL--------NGNNITST-NGSINNFTLAA---GATAVWQYTTA---------*
+1d3ca      -GSYNDVLGG---LL--------NGNTLSVGSGGAASNFTLAA---GGTAVWQYTAAT--------*
+1ciu       -GTYTDVLGG---LL--------NGNSISVASDGSVTPFTLSA---GEVAVWQYVSS---------*
+1cyg       -GTYTDQLGG---LL--------DGNTIQVGSNGSVNAFDLGP---GEVGVWAYSAT---------*
+1qhpa      -GSYADYLSG---LL--------GGNGISVS-NGSVASFTLAP---GAVSVWQYSTS---------*
+1hvxa      GKVFYDLTGN---RS----------DTVTINSDGWG-EFKVN---GGSVSVWVPR-----------*
+1vjs       GETWHDITGN---RS----------EPVVINSEGWG-EFHVN---GGSVSIYVQ------------*
+1gcya      G--------------------------------SFS-EAVNA--SNGQVRVWRS------------*
+1avaa      G--------------------------------GFK-VAAHG--N--DYAVWEKI-----------*
+1g5aa      -FKAHDLIGG---------------KTVSLN-----QDLTLQP---YQVMWLEIA-----------*
+1gjwa      ------------EPKEITGGRVWNGKWSDEE------KVVLKP---LEFALVVQ------------*
+           ====|=========|=========|=========|=========|=========|=========|=
+               0830      0840      0850      0860      0870      0880      0890 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17] [ 18] [ 19] [ 20]
+               [ 21] [ 22] [ 23]
+
+  1-1bf2       100.0  16.7  11.9  10.9  13.2  15.2  15.3  15.5  18.1  12.0
+                15.3  15.1  17.8  17.1  17.2  17.9  16.4  13.0  13.4  13.7
+                14.6  12.3  10.9
+  2-1ehaa       16.7 100.0  10.1  10.3  10.7  10.7  12.7  18.5  17.2  18.8
+                14.3  14.8  14.8  15.2  14.8  16.3  16.1  13.1  13.5  10.6
+                12.4  13.7  15.4
+  3-1hx0a       11.9  10.1 100.0  86.1  54.5  50.0  21.4  12.0  11.8   9.7
+                14.1  16.2  16.0  17.0  16.8  16.7  16.6  13.0  13.6  12.5
+                12.7  11.1   8.5
+  4-1smd        10.9  10.3  86.1 100.0  54.3  47.8  21.9  11.6  11.0  10.5
+                14.5  16.8  15.0  15.8  16.2  16.3  16.0  12.8  13.6  13.0
+                13.2  11.5   8.5
+  5-1jae        13.2  10.7  54.5  54.3 100.0  43.8  21.4  12.3  13.3  11.9
+                13.8  16.0  17.4  17.4  18.1  18.1  17.4  13.2  13.6  13.5
+                14.6  13.0   7.0
+  6-1g94a       15.2  10.7  50.0  47.8  43.8 100.0  20.9  12.7  12.9  10.9
+                15.4  16.7  17.9  17.2  18.1  16.5  17.6  15.4  14.3  13.7
+                13.9  12.5   8.5
+  7-1bag        15.3  12.7  21.4  21.9  21.4  20.9 100.0  11.5  13.6  11.8
+                13.6  14.8  17.2  18.8  18.6  18.8  17.9  15.5  15.3  13.7
+                15.1  16.2  11.5
+  8-1smaa       15.5  18.5  12.0  11.6  12.3  12.7  11.5 100.0  49.2  24.7
+                20.6  21.1  19.6  21.5  21.3  23.9  23.0  14.4  14.2  13.3
+                14.6  18.9  18.1
+  9-1bvza       18.1  17.2  11.8  11.0  13.3  12.9  13.6  49.2 100.0  23.9
+                18.1  18.9  21.9  21.9  21.9  22.8  24.9  14.2  13.5  12.8
+                15.6  19.4  17.0
+ 10-1uok        12.0  18.8   9.7  10.5  11.9  10.9  11.8  24.7  23.9 100.0
+                15.1  16.8  18.8  18.5  18.8  20.4  18.6  12.8  11.7  11.6
+                12.4  19.6  13.1
+ 11-2aaa        15.3  14.3  14.1  14.5  13.8  15.4  13.6  20.6  18.1  15.1
+               100.0  66.6  22.1  21.0  22.5  22.7  23.9  16.0  14.7  16.4
+                16.6  14.3  10.3
+ 12-7taa        15.1  14.8  16.2  16.8  16.0  16.7  14.8  21.1  18.9  16.8
+                66.6 100.0  22.3  22.9  22.7  23.1  24.6  17.6  17.3  16.1
+                16.6  15.8  13.2
+ 13-1cgt        17.8  14.8  16.0  15.0  17.4  17.9  17.2  19.6  21.9  18.8
+                22.1  22.3 100.0  74.1  72.1  63.7  47.2  17.2  16.0  17.1
+                17.4  16.6  11.3
+ 14-1d3ca       17.1  15.2  17.0  15.8  17.4  17.2  18.8  21.5  21.9  18.5
+                21.0  22.9  74.1 100.0  71.5  66.2  44.8  18.2  16.6  16.4
+                16.6  17.9  11.9
+ 15-1ciu        17.2  14.8  16.8  16.2  18.1  18.1  18.6  21.3  21.9  18.8
+                22.5  22.7  72.1  71.5 100.0  71.5  48.7  18.8  17.7  15.4
+                16.4  16.6  12.1
+ 16-1cyg        17.9  16.3  16.7  16.3  18.1  16.5  18.8  23.9  22.8  20.4
+                22.7  23.1  63.7  66.2  71.5 100.0  44.4  18.0  16.2  16.6
+                16.9  17.9  12.4
+ 17-1qhpa       16.4  16.1  16.6  16.0  17.4  17.6  17.9  23.0  24.9  18.6
+                23.9  24.6  47.2  44.8  48.7  44.4 100.0  16.4  14.7  17.3
+                18.4  15.4  11.7
+ 18-1hvxa       13.0  13.1  13.0  12.8  13.2  15.4  15.5  14.4  14.2  12.8
+                16.0  17.6  17.2  18.2  18.8  18.0  16.4 100.0  64.6  20.2
+                23.8  14.5  11.4
+ 19-1vjs        13.4  13.5  13.6  13.6  13.6  14.3  15.3  14.2  13.5  11.7
+                14.7  17.3  16.0  16.6  17.7  16.2  14.7  64.6 100.0  19.3
+                23.3  14.3  11.1
+ 20-1gcya       13.7  10.6  12.5  13.0  13.5  13.7  13.7  13.3  12.8  11.6
+                16.4  16.1  17.1  16.4  15.4  16.6  17.3  20.2  19.3 100.0
+                27.5  11.6  10.4
+ 21-1avaa       14.6  12.4  12.7  13.2  14.6  13.9  15.1  14.6  15.6  12.4
+                16.6  16.6  17.4  16.6  16.4  16.9  18.4  23.8  23.3  27.5
+               100.0  12.9  12.2
+ 22-1g5aa       12.3  13.7  11.1  11.5  13.0  12.5  16.2  18.9  19.4  19.6
+                14.3  15.8  16.6  17.9  16.6  17.9  15.4  14.5  14.3  11.6
+                12.9 100.0  10.1
+ 23-1gjwa       10.9  15.4   8.5   8.5   7.0   8.5  11.5  18.1  17.0  13.1
+                10.3  13.2  11.3  11.9  12.1  12.4  11.7  11.4  11.1  10.4
+                12.2  10.1 100.0
+
+***************************************************************************

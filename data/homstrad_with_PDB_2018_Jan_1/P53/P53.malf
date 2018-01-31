@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1aie       structureX:1aie: 326 : : 356 : :cellular tumor antigen p53:Homo sapiens: 1.5: 19.1
+[  2] 1a1ua      structureX:1a1u:  26 :A:  54 :A:cellular tumor antigen p53:Homo sapiens: -1: -1
+
+
+1aie       EYFTLQIRGRERFEMFRELNEALELKDAQAG*
+1a1ua      EYFTLQIRGRERFEKIREYNEALELKDAQ--*
+           =========|=========|=========|=
+                    0010      0020      0030 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1aie       100.0  89.7
+  2-1a1ua       89.7 100.0
+
+***************************************************************************

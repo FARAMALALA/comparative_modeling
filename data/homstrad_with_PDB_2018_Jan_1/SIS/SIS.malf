@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1moq1      structureX:1moq: 243 : : 425 : :glucosamine--fructose-6-phosphate aminotransferase [isomerizing]:Escherichia coli: 1.57: 18.5
+[  2] 1moq2      structureX:1moq: 426 : : 608 : :glucosamine--fructose-6-phosphate aminotransferase [isomerizing]:Escherichia coli: 1.57: 18.5
+
+
+1moq1      GDKGIYRHYMQKEIYEQPNAIKNTLTGRISHGQVDLSELGPNADELLSKVEHIQILACGTSYNSGMVSRYWFESL
+1moq2      --DASIEHDIVHGLQALPSRIEQMLSQD--------KRIE-ALAEDFSDKHHALFLGRGDQYPIALEGALKLKEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1moq1      AGIPCDVEIASEFRYRKSAVRR-NSLMITLSQSGETADTLAGLRLSKEL--GYLGSLAICNVPGSSLVRESDLAL
+1moq2      SYIHAEAYAAGELKHGPLALIDADMPVIVVAPN--NELLEKLKSNIEEVRARGGQLYVFADQDAGFVSSDNMHII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1moq1      MTNAGTEIGVASTKAFTTQLTVLLMLVAKLSRLKGL---------------*
+1moq2      EMP--HVE---EVIAPIFYTVPLQLLAYHVALIKGTDVDQPRNLAKSVTVE*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1moq1      100.0  11.5
+  2-1moq2       11.5 100.0
+
+***************************************************************************

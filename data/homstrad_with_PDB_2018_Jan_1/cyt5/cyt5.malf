@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1cch       structureN:1cch:   1 : :  82 : :cytochrome-c551:Pseudomonas stutzeri Zobbell: -1.00:-1.00
+[  2] 1cor       structureN:1cor:   2 : :  82 : :cytochrome-c551:Pseudomonas stutzeri: -1.00:-1.00
+[  3] 351c       structureX:351c:   1 : :  82 : :cytochrome-c551:Pseudomonas aeruginosa: 1.60:19.50
+[  4] 1cc5       structureX:1cc5:   5 : :  87 : :cytochrome-c5:Azotobacter vinelandii: 2.50:29.00
+[  5] 1a8c       structureX:1a8c:   1 : :  81 : :ferrocytochrome c-552:Nitrosomonas europaea: -1: -1
+[  6] 1ayg       structureX:1ayg:   1 : :  80 : :cytochrome c-552:Hydrogenobacter thermophilus: -1: -1
+
+
+1cch       ----QDGEALFKSKPCAACHSVDTKMV-GPALKE--VAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPP--NP-
+1cor       -----DGEALFKSKPCAACHSIDAKLV-GPAFKE--VAAKYAGQDGAADLLAGHIKNGSQGVWGPIPMPP--NP-
+351c       ----EDPEVLFKNKGCVACHAIDTKMV-GPAYKD--VAAKFAGQAGAEAELAQRIKNGSQGVWGPIPMPP--NA-
+1cc5       GGGARSGDDVVAKY-CNACHG--TGLLNAPKVGDSAAWKTRADAKGGLDGLLAQSLSGLN------AMPPKGTCA
+1a8c       -----DADLAKKNN-CIACHQVETKVV-GPALKD--IAAKYADKDDAATYLAGKIKGGSSGVWGQIPMPP--NVN
+1ayg       ------NEQLAKQKGCMACHDLKAKKV-GPAYAD--VAKKYAGRKDAVDYLAGKIKKGGSGVWGSVPMPPQ--N-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cch       -VTEEEAKILAEWVLSLK*
+1cor       -VTEEEAKILAEWILSQK*
+351c       -VSDDEAQTLAKWVLSQK*
+1cc5       DCSDDELKAAIGKMSGL-*
+1a8c       -VSDADAKALADWILTLK*
+1ayg       -VTDAEAKQLAQWILSIK*
+           ====|=========|===
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1cch       100.0  86.4  68.3  22.0  56.8  55.0
+  2-1cor        86.4 100.0  69.1  21.0  56.8  60.0
+  3-351c        68.3  69.1 100.0  22.0  55.6  56.2
+  4-1cc5        22.0  21.0  22.0 100.0  24.7  22.5
+  5-1a8c        56.8  56.8  55.6  24.7 100.0  56.2
+  6-1ayg        55.0  60.0  56.2  22.5  56.2 100.0
+
+***************************************************************************

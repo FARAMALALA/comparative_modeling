@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1fsea      structureX:1fse:   8 :A:  74 :A:GerE:Bacillus subtilis: 2.05: 21.4
+[  2] 1a04a      structureX:1a04: 150 :A: 216 :A:Nitratenitrite response regulator protein NarL:Escherichia coli: 2.2: 21.1
+
+
+1fsea      SKP--LLTKREREVFELLVQDKTTKEIASELFISEKTVRNHISNAMQKLGVKGRSQAVVELLRMGELEL*
+1a04a      ERDVNQLTPRERDILKLIAQGLPNKMIARRLDITESTVKVHVKHMLKKMKLKSRVEAAVWVHQERIF--*
+           =========|=========|=========|=========|=========|=========|=========
+                    0010      0020      0030      0040      0050      0060      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fsea      100.0  31.3
+  2-1a04a       31.3 100.0
+
+***************************************************************************

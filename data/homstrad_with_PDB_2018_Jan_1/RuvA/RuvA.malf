@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1cuk       structureX:1cuk:   1 : : 203 : :holliday junction DNA helicase RuvA:Escherichia coli: 1.9: 20.9
+[  2] 1bvsf      structureX:1bvs:   1 :F: 202 :F:holliday junction DNA helicase RuvA:Mycobacterium leprae: 3.00: 27.4
+
+
+1cuk       MIGRLRGIIIEKQPPLVLIEVGGVGYEVHMPMTCFYELPEAGQEAIVFTHFVVREDAQLLYGFNNKQERTLFKEL
+1bvsf      MIFSVRGEVLEVALDHAVIEAAGIGYRVNATPSALATL-NQGSQARLVTAMVVREDSMTLYGFSDAENRDLFLAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cuk       IKTNGVGPKLALAILSGMSAQQFVNAVEREEVGALVKLPGIGKKTAERLIVEMKDRFKGLHGDLFTPTDDAEQEA
+1bvsf      LSVSGVGPRLAMATLAVHDAAALRAALADSDVASLTRVPGIGARGAERIVLELADKVGP--------GNAVRGSV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cuk       VARLVALGYKPQEASRMVSKIARPDASSETLIREALRAAL--*
+1bvsf      VEALVGLGFAAKQAEEATDQVLDGEA-TSSALRAALSLLGKT*
+           =========|=========|=========|=========|==
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cuk       100.0  32.4
+  2-1bvsf       32.4 100.0
+
+***************************************************************************

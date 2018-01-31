@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1lip       structureX:1lip:   1 : :  91 : :non-specific lipid-transfer protein 1:Hordeum vulgare: -1: -1
+[  2] 1mzm       structureX:1mzm:   1 : :  93 : :non-specific lipid-transfer protein:Zea mays: 1.78: 17.1
+[  3] 1hyp       structureX:1hyp:   6 : :  80 : :hydrophobic seed protein:Glycine max: 1.80: 18.7
+[  4] 1rzl       structureX:1rzl:   1 : :  91 : :nonspecific lipid-transfer protein 1:Oryza sativa: 1.60: 18.6
+[  5] 1bwoa      structureX:1bwo:   1 :A:  90 :A:nonspecific lipid-transfer protein:Triticum aestivum: 2.10: 16.3
+
+
+1lip       -LNCGQVDSKMKPCLTYVQGGP-GPSGECCNGVRDLHNQAQSSGDRQTVCNCLKGIARGIHNLN-LNNAASIPSK
+1mzm       AISCGQVASAIAPCISYARGQGSGPSAGCCSGVRSLNNAARTTADRRAACNCLKNAAAGVSGLN-AGNAASIPSK
+1hyp       -PSCPD----LSICLNILGGSL-GTVDDCCALIGGLG--------DIEAIVCLCIQLRALGILNLNRNLQLILNS
+1rzl       -ITCGQVNSAVGPCLTYARGGA-GPSAACCSGVRSLKAAASTTADRRTACNCLKNAARGIKGLN-AGNAASIPSK
+1bwoa      -IDCGHVDSLVRPCLSYVQGGP-GPSGQCCDGVKNLHNQARSQSDRQSACNCLKGIARGIHNLN-EDNARSIPPK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lip       CN--VNVPYTISPDIDCSRIY*
+1mzm       CG--VSIPYTISTSTDCSRVN*
+1hyp       CGRSYPSNATCPRT-------*
+1rzl       CG--VSVPYTISASIDCSRVS*
+1bwoa      CG--VNLPYTISLNIDCSRV-*
+           ====|=========|======
+               0080      0090   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1lip       100.0  54.9  22.7  62.6  72.2
+  2-1mzm        54.9 100.0  24.0  78.0  57.8
+  3-1hyp        22.7  24.0 100.0  25.3  25.3
+  4-1rzl        62.6  78.0  25.3 100.0  61.1
+  5-1bwoa       72.2  57.8  25.3  61.1 100.0
+
+***************************************************************************

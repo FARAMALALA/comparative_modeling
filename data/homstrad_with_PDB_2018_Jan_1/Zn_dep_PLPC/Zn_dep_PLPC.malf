@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1ca1       structureX:1ca1:   1 : : 247 : :phospholipase C (N-terminal domain):Clostridium perfringens: 1.9: 20.8
+[  2] 1ah7       structureX:1ah7:   1 : : 245 : :phospholipase C:Bacillus cereus: 1.5: 20.281
+
+
+1ca1       WDGKIDGT---GTHAMIVTQGVSILENDLSKNEPESVRKNLEILKENMHELQLGSTYPDYDKNAY--DLYQDHFW
+1ah7       WSAEDKHKEGVNSHLWIVNRAIDIMSRNT-TLVK---QDRVAQLNEWRTELENGIYAADYENPYYDNSTFASHFY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ca1       DPDTDNNFSKDNSWYLAYSIPDTGESQIRKFSALARYEWQRGNYKQATFYLGEAMHYFGDIDTPYHPANVTAVDS
+1ah7       DPDNGKTYIP---------FAKQAKETGAKYFKLAGESYKNKDMKQAFFYLGLSLHYLGDVNQPMHAANFTNLSY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ca1       --AGHVKFETFAEERKEQYKINTVGCKTNEDFYADILKNKDFNAWSKEYARGFAKTGKSIYYSHASMSHSW----
+1ah7       PQGFHSKYENFVDTIKDNYKVTDGNGYWN-------WKGT----NPEEWIHGAAVVAKQDYSGIVNDNTKDWFVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ca1       ------------DDWDYAAKVTLANSQKGTAGYIYRFLHDVSEGN*
+1ah7       AAVSQEYADKWRAEVTPMTGKRLMDAQRVTAGYIQLWFDTYGDR-*
+           ====|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ca1       100.0  23.7
+  2-1ah7        23.7 100.0
+
+***************************************************************************

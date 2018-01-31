@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1ed9a      structureX:1ed9:   1 :A: 449 :A:Alkaline phosphatase:Escherichia coli: 1.75: 19.6
+[  2] 1ew2a      structureX:1ew2:   1 :A: 479 :A:Phosphatase:Homo sapiens: 1.82: 18.5
+
+
+1ed9a      TPEMPVLENRAAQGDITAPGGARRLTGDQTAALRDS-LSDKPAKNIILLIGDGMGDSEITAARNYAE------GA
+1ew2a      ----------IIPVEEENPDFWNREAAEALGAAKKLQPAQTAAKNLIIFLGDGMGVSTVTAARILKGQKKDKLGP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ed9a      GGFFKGIDALPLTGQYTHYALNKKTGKPDYVTDSAASATAWSTGVKTYNGALGVDIH----------EKDHPTIL
+1ew2a      EIPL-AMDRFPYVALSKTYNVD------KHVPDSGATATAYLCGVKGNFQTIGLSAAARFNQCNTTRGNEVISVM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ed9a      EMAKAAGLATGNVSTAELQDATPAALVAHVTSRKCYGPSATSEKCPGNALEKGGKGSITEQLLNA-RADVTLGGG
+1ew2a      NRAKKAGKSVGVVTTTRVQHASPAGTYAHTVNRNWYSDADVP---AS-ARQEG-CQDIATQLISNMDIDVILGGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ed9a      AKTFAET-ATAGEWQ-----------GKTLREQAQAR--GYQLVSDAASLNSVTEANQQKPLLGLFADGNMPVR-
+1ew2a      RKYMFRMGTPDPEYPDDYSQGGTRLDGKNLVQEWLAKRQGARYVWNRTELMQASLDPSVTHLMGLFEPGDMKYEI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ed9a      -WLGPKATYHGNIDKPAVTCTPNPQRNDSVPTLAQMTDKAIELLSKNEKGFFLQVEGASIDKQDHAANPCGQIGE
+1ew2a      HRDS-----------------------TLDPSLMEMTEAALRLLSRNPRGFFLFVEGGRIDHGHHESRAYRALTE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ed9a      TVDLDEAVQRALEFAKKEGNTLVIVTADHAHASQIVAP--DTKAPGLTQALNTKDG-AVMVMSYGNSE-------
+1ew2a      TIMFDDAIERAGQLTS-EEDTLSLVTADHSHVFSFGGYPLRGSSIFGLAPGKARDRKAYTVLLYGNGPGYVLKDG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ed9a      ----------------------EDSQEHTGSQLRIAAYGPHAANVVGLTDQTDLFYTMKAALGLK----------
+1ew2a      ARPDVTESESGSPEYRQQSAVPLDEETHAGEDVAVFARGPQAHLVHGVQEQTFIAHVMAFAACLEPYTACDLAPP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ed9a      100.0  28.3
+  2-1ew2a       28.3 100.0
+
+***************************************************************************

@@ -1,0 +1,106 @@
+      Code       Title
+
+[  1] 1h98a      structureX:1h98:   1 :A:  77 :A:ferredoxin:Thermus aquaticus: 1.64: 15.90
+[  2] 1bwea      structureX:1bwe:   1 :A:  77 :A:ferredoxin:Bacillus schlegelii: -1: -1
+[  3] 1clf       structureX:1clf:   1 : :  55 : :ferredoxin:Clostridium pasteurianum: -1: -1
+[  4] 2fdn       structureX:2fdn:   1 : :  55 : :ferredoxin:Clostridium acidi-urici: 0.94: 10.00
+[  5] 1dura      structureX:1dur:   1 :A:  55 :A:2[4Fe-4S] ferredoxin:Peptostreptococcus asaccharolyticus: 2.00: 15.50
+[  6] 7fd1a      structureX:7fd1:   1 :A: 106 :A:7-Fe ferredoxin I:Azotobacter vinelandii: 1.30: 15.80
+[  7] 1blu       structureX:1blu:   1 : :  80 : :ferredoxin:Chromatium vinosum: 2.10: 19.20
+[  8] 1xer       structureX:1xer:   1 : : 103 : :ferredoxin:Sulfolobus sp.: 2.00: 17.30
+[  9] 1hfel      structureX:1hfe:   2 :L:  86 :L:Fe-only hydrogenase (larger subunit):Desulfovibrio desulfuricans: 1.60: 15.80
+[ 10] 1dwla      structureX:1dwl:   1 :A:  59 :A:ferredoxin I:Desulfomicrobium norvegicum: -1: -1
+[ 11] 1vjw       structureX:1vjw:   1 : :  58 : :ferredoxin(A):Thermotoga maritima: 1.75: 15.90
+[ 12] 1fxd       structureX:1fxd:   1 : :  58 : :ferredoxin II:Desulfovibrio gigas: 1.70: 15.70
+[ 13] 1fxra      structureX:1fxr:   1 :A:  64 :A:ferredoxin I:Desulfovibrio africanus: 2.30: 18.20
+[ 14] 1k0ta      structureX:1k0t:   1 :A:  80 :A:PsaC subunit of photosystem I:Synechococcus sp. pcc 7002: -1: -1
+
+
+1h98a      ---------------------------------------------------------PHVIC-EPCIGVKDQSCV
+1bwea      ---------------------------------------------------------AYVIT-EPCIGTKCASCV
+1clf       ---------------------------------------------------------AYKIA-DSCV--SCGACA
+2fdn       ---------------------------------------------------------AYVIN-EACI--SCGACE
+1dura      ---------------------------------------------------------AYVIN-DSCI--ACGACK
+7fd1a      ---------------------------------------------------------AFVVT-DNCIKCKYTDCV
+1blu       ---------------------------------------------------------ALMIT-DECI--NCDVCE
+1xer       ----------------------GIDPNYRTNRQVVGEHSGHKVYGPVEPPVLGIHGTIVGVDFDLCI--ADGSCI
+1hfel      SRTVMERIEYEMHTPDPKADPDK--------------------------------LHFVQIDEAKCI--GCDTCS
+1dwla      ---------------------------------------------------------TIVIDHEECI--GCESCV
+1vjw       --------------------------------------------------------MKVRVDADACI--GCGVCE
+1fxd       ---------------------------------------------------------PIEVN-DDCM--ACEACV
+1fxra      -------------------------------------------------------ARKFYVDQDECI--ACESCV
+1k0ta      --------------------------------------------------------SHSVKIYDTCI--GCTQCV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h98a      EVCPVECIYDGG-------DQFYIH--PEECIDC------GACVPACPVNAIYPEEDVPEQWKSYIEKNRKLAGL
+1bwea      EVCPVDCIHEGE-------DQYYID--PDVCIDC------GACEAVCPVSAIYHEDFVPEEWKSYIQKNRDFFKK
+1clf       SECPVNAISQGD-------SIFVID--ADTCIDC------GNCANVCPVGAPVQ---E-----------------
+2fdn       PECPVNAISSGD-------DRYVID--ADTCIDC------GACAGVCPVDAPVQ---A-----------------
+1dura      PECPVNCIQEGS--------IYAID--ADSCIDC------GSCASVCPVGAPNP---ED----------------
+7fd1a      EVCPVDCFYEGP-------NFLVIH--PDECIDC------ALCEPECPAQAIFSEDEVPEDMQEFIQLNAELAEV
+1blu       PECPNGAISQGD-------ETYVIE--PSLCTECVGHYETSQCVEVCPVDCIIKDPSHEETEDELRAKYERITG-
+1xer       NACPVNVFQWYDTPGHPASEKKADPVNEQACIFC------MACVNVCPVAAIDVKPP------------------
+1hfel      QYCPTAAIFGE------MGEPHSIP-HIEACINC------GQCLTHCPENAIYEAQS------------------
+1dwla      ELCP-EVFAMID-----GEEKAMVT-APDSTA-----ECAQDAIDACPVEAISKE--------------------
+1vjw       NLCP-DVFQLGD-----DG-KAKVL-QPE-TDLP----CAKDAADSCPTGAISV---------------------
+1fxd       EICP-DVFEMNE-----EGDKAVVI-NPD-SDLD----CVEEAIDSCPAEAIVR---S-----------------
+1fxra      EIAP-GAFAMDP-----EIEKAYVK-DVEGASQE----EVEEAMDTCPVQCIHW---EDE---------------
+1k0ta      RACPLDVLEMVPWDGCKAGQIASSP-RTEDCVGCK------RCETACPTDFLSIRVYLGAETTRSMGLAY-----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h98a      -----------------------------*
+1bwea      -----------------------------*
+1clf       -----------------------------*
+2fdn       -----------------------------*
+1dura      -----------------------------*
+7fd1a      WPNITEKKDPLPDAEDWDGVKGKLQHLER*
+1blu       -----------------------------*
+1xer       -----------------------------*
+1hfel      -----------------------------*
+1dwla      -----------------------------*
+1vjw       -----------------------------*
+1fxd       -----------------------------*
+1fxra      -----------------------------*
+1k0ta      -----------------------------*
+           =========|=========|=========
+                    0160      0170      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14]
+
+  1-1h98a      100.0  63.6  36.4  43.6  41.8  46.8  27.3  24.7  26.0  33.9
+                20.7  22.4  21.9  18.2
+  2-1bwea       63.6 100.0  45.5  56.4  54.5  49.4  31.2  23.4  24.7  33.9
+                22.4  27.6  21.9  20.8
+  3-1clf        36.4  45.5 100.0  72.7  67.3  34.5  43.6  34.5  30.9  21.8
+                25.5  23.6  18.2  21.8
+  4-2fdn        43.6  56.4  72.7 100.0  67.3  36.4  49.1  34.5  32.7  27.3
+                27.3  25.5  16.4  23.6
+  5-1dura       41.8  54.5  67.3  67.3 100.0  40.0  40.0  38.2  30.9  25.5
+                27.3  23.6  21.8  25.5
+  6-7fd1a       46.8  49.4  34.5  36.4  40.0 100.0  25.0  16.7  16.5  27.1
+                25.9  31.0  25.0  22.5
+  7-1blu        27.3  31.2  43.6  49.1  40.0  25.0 100.0  22.5  25.0  27.1
+                25.9  19.0  26.6  16.2
+  8-1xer        24.7  23.4  34.5  34.5  38.2  16.7  22.5 100.0  21.2  28.8
+                36.2  25.9  25.0  20.0
+  9-1hfel       26.0  24.7  30.9  32.7  30.9  16.5  25.0  21.2 100.0  23.7
+                25.9  17.2  18.8  21.2
+ 10-1dwla       33.9  33.9  21.8  27.3  25.5  27.1  27.1  28.8  23.7 100.0
+                46.6  44.8  40.7  27.1
+ 11-1vjw        20.7  22.4  25.5  27.3  27.3  25.9  25.9  36.2  25.9  46.6
+               100.0  43.1  32.8  29.3
+ 12-1fxd        22.4  27.6  23.6  25.5  23.6  31.0  19.0  25.9  17.2  44.8
+                43.1 100.0  43.1  25.9
+ 13-1fxra       21.9  21.9  18.2  16.4  21.8  25.0  26.6  25.0  18.8  40.7
+                32.8  43.1 100.0  20.3
+ 14-1k0ta       18.2  20.8  21.8  23.6  25.5  22.5  16.2  20.0  21.2  27.1
+                29.3  25.9  20.3 100.0
+
+***************************************************************************

@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1hsla      structureX:1hsl:   1 :A: 238 :A:histidine-binding protein:Escherichia coli, strain k-12:1.89:19.9
+[  2] 1lst       structureX:1lst:   1 : : 240 : :lysine-, arginine-, ornithine-binding protein:Salmonella typhimurium:1.80:16.5
+[  3] 1ggga      structureX:1ggg:   5 :A: 224 :A:glutamine binding protein:Escherichia coli:2.30:20.3
+
+
+1hsla      AIPQKIRIGTDPTYAPFESKNAQGELVGFDIDLAKELCKRINTQCTFVENPLDALIPSLKAKKIDAIMSSLSITE
+1lst       ALPQTVRIGTDTTYAPFSSKDAKGEFIGFDIDLGNEMCKRMQVKCTWVASDFDALIPSLKAKKIDAIISSLSITD
+1ggga      -----LVVATDTAFVPFEFKQG-DLYVGFDVDLWAAIAKELKLDYELKPMDFSGIIPALQTKNVDLALAGITITD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hsla      KRQQEIAFTDKLYAADSRLVVAKNS-DIQP-TVASLKGKRVGVLQGTTQETFGNEHWAPKGIEIVSYQGQDNIYS
+1lst       KRQQEIAFSDKLYAADSRLIAAKGS-PIQP-TLESLKGKHVGVLQGSTQEAYANDNWRTKGVDVVAYANQDLIYS
+1ggga      ERKKAIDFSDGYYKSGLLVMVKANNNDVKSVKDLD--GKVVAVKSGTGSVDYAKANIKTK--DLRQFPNIDNAYM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hsla      DLTAGRIDAAFQDEVAASEGFLKQPVGKDYKFGGPAVKDEKLFGVGTGMGLRKEDNELREALNKAFAEMRADGTY
+1lst       DLTAGRLDAALQDEVAASEGFLKQPAGKEYAFAGPSVKDKKYFGDGTGVGLRKDDTELKAAFDKALTELRQDGTY
+1ggga      ELGTNRADAVLHDTPNIL-YFIKTAGNGQFKAVGDSLE-----AQQYGIAFPKGSDELRDKVNGALKTLRENGTY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hsla      EKLAKKYFDFDVYGG-*
+1lst       DKMAKKYFDFNVYGDK*
+1ggga      NEIYKKWFGTE-----*
+           ====|=========|=
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hsla      100.0  70.2  27.7
+  2-1lst        70.2 100.0  30.0
+  3-1ggga       27.7  30.0 100.0
+
+***************************************************************************

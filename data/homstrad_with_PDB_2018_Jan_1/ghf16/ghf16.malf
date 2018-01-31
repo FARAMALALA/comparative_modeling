@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 2ayh       structureX:2ayh:   1 : : 214 : :beta-glucanase:Paenibacillus macerans: 1.6: -1
+[  2] 1gbg       structureX:1gbg:   1 : : 214 : :beta-glucanase:Bacillus licheniformis: 1.8: -1
+
+
+2ayh       QTGGSFFEPFNSYNSGTWEKADGYSNGGVFNCTWRANNVNFTNDGKLKLGLTSSAYNKFDCAEYRSTNIYGYGLY
+1gbg       QTGGSFYEPFNNYNTGLWQKADGYSNGNMFNCTWRANNVSMTSLGEMRLSLTSPSYNKFDCGENRSVQTYGYGLY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ayh       EVSMKPAKNTGIVSSFFTYTGPAHGTQWDEIDIEFLGKDTTKVQFNYYTNGVGGHEKVISLGFDASKGFHTYAFD
+1gbg       EVNMKPAKNVGIVSSFFTYTGPTDGTPWDEIDIEFLGKDTTKVQFNYYTNGVGNHEKIVNLGFDAANSYHTYAFD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2ayh       WQPGYIKWYVDGVLKHTATANIPSTPGKIMMNLWNGTGVDDWLGSYNGANPLYAEYDWVKYTSN*
+1gbg       WQPNSIKWYVDGQLKHTATTQIPQTPGKIMMNLWNGAGVDEWLGSYNGVTPLYAHYNWVRYTKR*
+           =========|=========|=========|=========|=========|=========|====
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2ayh       100.0  76.6
+  2-1gbg        76.6 100.0
+
+***************************************************************************

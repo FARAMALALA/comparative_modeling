@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1noa       structureX:1noa:   1 : : 113 : :neocarzostatin:Streptomyces carzinostaticus: 1.50:17.20
+[  2] 2mcm       structureX:2mcm:   1 : : 112 : :macromycin:Streptomyces macromomyceticus: 1.50:16.20
+[  3] 1acx       structureX:1acx:   1 : : 107 : :actinoxanthin:Actinomyces globisporus: 2.00:-1.00
+[  4] 1akp       structureN:1akp:   1 : : 114 : :apokedarcin:Actinomycete strain L585-6:-1.00:-1.00
+
+
+1noa       AAPTATVTPSSGLSDGTVVKVAGAGLQAGTAYDVGQCAWVNTGVLACDPANFSSVTADANGSASTSLTVRRSFEG
+2mcm       -APGVTVTPATGLSNGQTVTVSATGLTPGTVYHVGQCAVVEPGVIGCDATTSTDVTADAAGKITAQLKVHSSFQA
+1acx       -APAFSVSPASGASDGQSVSVSVAAAG--ETYYIAQCAPVG-GQDACNPATATSFTTDASGAASFSFTVRKSYAG
+1akp       ASAAVSVSPATGLADGATVTVSASGFATSTSATALQCAILADGRGACNVAEFHDFSLSG-GEGTTSVVVRRSFTG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1noa       FLF-DGTRWGTVNCTT--AACQVGLSDAAGNGPEGVAISFN*
+2mcm       VVGADGTPWGTVNCKV--VSCSAGLGSDSGEG-AAQAITFA*
+1acx       QTP-SGTPVGSVDCAT--DACNLGAGNSGLNL-GHVALTFG*
+1akp       YVMPDGPEVGAVDCDTAPGGCEIVVGGNTGEY-GNAAISFG*
+           ====|=========|=========|=========|======
+               0080      0090      0100      0110   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1noa       100.0  48.2  44.4  35.4
+  2-2mcm        48.2 100.0  36.1  35.7
+  3-1acx        44.4  36.1 100.0  37.0
+  4-1akp        35.4  35.7  37.0 100.0
+
+***************************************************************************

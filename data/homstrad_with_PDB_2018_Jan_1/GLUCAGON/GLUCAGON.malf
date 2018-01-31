@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1gcn       structureX:1gcn:   1 : :  29 : :glucagon:Sus scrofa: 3.0: -1
+[  2] 1bh0       structureX:1bh0:   1 : :  29 : :glucagon:Homo sapiens: 3.0: -1
+
+
+1gcn       HSQGTFTSDYSKYLDSRRAQDFVQWLMNT*
+1bh0       HSQGTFTSDYSKYLDSKKAQEFVQWLMNT*
+           =========|=========|=========
+                    0010      0020      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gcn       100.0  89.7
+  2-1bh0        89.7 100.0
+
+***************************************************************************

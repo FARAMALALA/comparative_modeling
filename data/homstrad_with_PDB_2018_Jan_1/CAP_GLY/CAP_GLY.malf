@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ixda      structureN:1ixd:   1 :A: 104 :A:cylindromatosis tumour-suppressor cylD, CAP-Gly domain:Homo sapiens: -1: -1
+[  2] 1lpla      structureX:1lpl: 135 :A: 229 :A:hypothetical protein f53f4.3 in chromosome V:Caenorhabditis elegans: 1.77: 22
+
+
+1ixda      GSSGSSGLAMPPGNS-HGLEVGSLAEVKE-NPP-FYGVIRWIGQPPGLNEVLAGLELEDECAGCTDGTFRGTRYF
+1lpla      -------SDKLNEEAAKNIMVGNRCEVTVGAQMARRGEVAYVGATKFKEGVWVGVKYDEPV-GKNDGSVAGVRYF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ixda      TCALKKALFVKLKSCRPDSRFASLQPSGPSSG*
+1lpla      DCDPKYGGFVRPVDVKVGDFPELSIDEI----*
+           ====|=========|=========|=======
+               0080      0090      0100    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ixda      100.0  20.0
+  2-1lpla       20.0 100.0
+
+***************************************************************************

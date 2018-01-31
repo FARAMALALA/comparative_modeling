@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1atla      structureX:1atl:   3 :A: 202 :A:hemorrhagic metalloproteinase ht-d and ht-c:Crotalus atrox: 1.8: 16
+[  2] 1iag       structureX:1iag:   2 : : 202 : :adamalysin ii:Crotalus adamanteus: 2.0: 17.2
+[  3] 1buda      structureX:1bud:   4 :A: 200 :A:acutolysin A:Agkistrodon acutus: 1.90: 16.9
+
+
+1atla      -LPQRYIELVVVADHRVFMKYNSDLNTIRTRVHEIVNFINGFYRSLNIHVSLTDLEIWSNEDQINIQSASSDTLN
+1iag       NLPQRYIELVVVADRRVFMKYNSDLNIIRTRVHEIVNIINKFYRSLNIRVSLTDLEIWSGQDFITIQSSSSNTLN
+1buda      --FQRYMEIVIVVDHSMVKKYNGDSDSIKAWVYEMINTITESYSYLKIDISLSGLEIWSGKDLIDVEASAGNTLK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1atla      AFAEWRETDLLNRKSHDNAQLLTAIELDEETLGLAPLGTMCDPKLSIGIVQDHSPINLLMGVTMAHELGHNLGME
+1iag       SFGEWRERVLLIWKRHDNAQLLTAINFEGKIIGKAYTSSMCNPRSSVGIVKDHSPINLLVAVTMAHELGHNLGME
+1buda      SFGEWRAKDLIHRISHDNAQLLTATDFDGATIGLAYVASMCNPKRSVGVIQDHSSVNRLVAITLAHEMAHNLGVS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1atla      HDGKDCLRGASLCIMRPGLTKGRSYEFSDDSMHYYERFLKQYKPQCILNKP*
+1iag       HDGKDCLRGASLCIMRPGLTPGRSYEFSDDSMGYYQKFLNQYKPQCILNKP*
+1buda      HDEGSCSCGGKSCIMSPSISDETIKYFSDCSYIQCRDYISKENPPCILN--*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1atla      100.0  79.0  45.7
+  2-1iag        79.0 100.0  48.2
+  3-1buda       45.7  48.2 100.0
+
+***************************************************************************

@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1hrza      structureX:1hrz:   3 :A:  75 :A:sex-determining region y protein (testis-determining factor):Homo sapiens: -1: -1
+[  2] 1nhn       structureX:1nhn:   3 : :  81 : :high mobility group protein hmg1 (hmg-1) (fragment):Cricetulus griseus: -1: -1
+[  3] 1ckta      structureX:1ckt:   7 :A:  77 :A:high mobility group protein hmg1 (hmg-1):Rattus norvegicus: 2.50: 23.8
+[  4] 1hma       structureX:1hma:   2 : :  74 : :high mobility group protein d (hmg-d):Drosophila melanogaster: -1: -1
+[  5] 2lefa      structureX:2lef:   1 :A:  86 :A:lymphoid enhancer binding factor 1:Mus musculus: -1: -1
+
+
+1hrza      -DRVKRPMNAFIVWSRDQRRKMALENPRMR--NSEISKQLGYQWKMLTEAEKWPFFQEAQKLQAMHREKYPNYKY
+1nhn       -NAPKRPPSAFFLFCSEYRPKIKGEHPGLS--IGDVAKKLGEMWNNTAADDKQPYEKKAAKLKEKYEKDIAAYRA
+1ckta      --KPRGKMSSYAFFVQTCREEHKKKHPDASVNFSEFSKKCSERWKTMSAKEKGKFEDMAKADKARYEREMKTY--
+1hma       SDKPKRPLSAYMLWLNSARESIKRENP--GIKVTEVAKRGGELWRAMK--DKSEWEAKAAKAKDDYDRAVKEFEA
+2lefa      -MHIKKPLNAFMLYMKEMRANVVAEST--LKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hrza      R-------------*
+1nhn       KG-------KPDAA*
+1ckta      --------------*
+1hma       NG------------*
+2lefa      RDNYGKKKKRKREK*
+           ====|=========
+               0080      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1hrza      100.0  26.0  21.1  23.3  26.0
+  2-1nhn        26.0 100.0  28.2  39.7  19.0
+  3-1ckta       21.1  28.2 100.0  28.2   9.9
+  4-1hma        23.3  39.7  28.2 100.0  19.2
+  5-2lefa       26.0  19.0   9.9  19.2 100.0
+
+***************************************************************************

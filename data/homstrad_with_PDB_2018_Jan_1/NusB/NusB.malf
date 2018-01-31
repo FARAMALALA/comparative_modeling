@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1eyva      structureX:1eyv:   9 :A: 139 :A:N utilization substance protein B homolog:Mycobacterium tuberculosis: 1.6: 19
+[  2] 1ey1a      structureX:1ey1:   1 :A: 139 :A:N utilization substance protein B:Escherichia coli: -1: -1
+
+
+1eyva      ----GRHQARKRAVALLFEAEVRGISAAEVVDTRAALAEAKPDI-ARLHPYTAAVARGVSEHAAHIDDLITAHLR
+1ey1a      MKPAARRRARECAVQALYSWQLSQNDIADVEYQFLAEQ----DVKDVDVLYFRELLAGVATNTAYLDGLMKPYLS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eyva      GWTLDRLPAVDRAILRVSVWELLHAADVPEPVVVDEAVQLAKELSTDDSPGFVNGVLGQVM--------*
+1ey1a      R-LLEELGQVEKAVLRIALYELSKRSDVPYKVAINEAIELAKSFGAEDSHKFVNGVLDKAAPVIRPNKK*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eyva      100.0  32.1
+  2-1ey1a       32.1 100.0
+
+***************************************************************************

@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1rvva      structureX:1rvv:   1 :A: 154 :A:6,7-dimethyl-8-ribityllumazine synthase:Bacillus subtilis: 2.4: 23.7
+[  2] 1c2ya      structureX:1c2y:   1 :A: 155 :A:beta-subunit of the lumazine synthase-riboflavin synthase complex:Spinacia oleracea: 3.30: 31
+[  3] 1ejba      structureX:1ejb:   1 :A: 168 :A:6,7-dimethyl-8-ribityllumazine synthase:Saccharomyces cerevisiae: 1.85: 19.7
+[  4] 1c41a      structureX:1c41:   5 :A: 199 :A:beta-subunit of the lumazine synthase-riboflavin synthase complex:Magnaporthe grisea: 3.10: 24.8
+[  5] 1di0a      structureX:1di0:  11 :A: 155 :A:lumazine synthase:Brucella abortus: 2.7: 18
+
+
+1rvva      M---NIIQGNL-VGTGLKIGIVVGRFNDFITSKLLSGAEDALLRH---GVDTNDIDVAWVPGAFEIPFAAKKMAE
+1c2ya      M---NELEGYVTKAQSFRFAIVVARFNEFVTRRLMEGALDTFKKY---SVNE-DIDVVWVPGAYELGVTAQALGK
+1ejba      AVKGLGKPDQVYDGSKIRVGIIHARWNRVIIDALVKGAIERMASL---GVEENNIIIETVPGSYELPWGTKRFVD
+1c41a      GPTP-----QQHDGSALRIGIVHARWNETIIEPLLAGTKAKLLAC---GVKESNIVVQSVPGSWELPIAVQRLYS
+1di0a      --------------TSFKIAFIQARWHADIVDEARKSFVAELAAKTGGSVE---VEIFDVPGAYEIPLHAKTLAR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rvva      TK------KYDAIITLGTVIRGATTHYDYVCNEAAKGIAQAANTTGVPVIFGIVTTEN-------IEQAIERAGT
+1c2ya      SG------KYHAIVCLGAVVKGDTSHYDAVVNSASSGVLSAGLNSGVPCVFGVLTCDN-------MDQAINRAGG
+1ejba      RQAKLG-KPLDVVIPIGVLIKGSTMHFEYISDSTTHALMNLQEKVDMPVIFGLLTCMT-------EEQALARAGI
+1c41a      ASQLQSTGPFDALIAIGVLIKGETMHFEYIADSVSHGLMRVQLDTGVPVIFGVLTVLT-------DDQAKARAGV
+1di0a      TG------RYAAIVGAAFVIDGGIYDHDFVATAVINGMMQVQLETEVPVLSVVLTPHHFHESKEHHDFFHAH---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1rvva      ----KAGNKGVDCAVSAIEMANLNRSFE----*
+1c2ya      ----KAGNKGAESALTAIEMASLFEHHL---K*
+1ejba      DEAHSMHNHGEDWGAAAVEMAVKFGKNAF---*
+1c41a      IE--GSHNHGEDWGLAAVEMGVRRRDWAAGKT*
+1di0a      --FKV---KGVEAAHAALQIVSERSRIAA---*
+           =========|=========|=========|==
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1rvva      100.0  45.5  29.9  35.7  25.7
+  2-1c2ya       45.5 100.0  27.1  32.3  25.7
+  3-1ejba       29.9  27.1 100.0  49.7  20.9
+  4-1c41a       35.7  32.3  49.7 100.0  27.0
+  5-1di0a       25.7  25.7  20.9  27.0 100.0
+
+***************************************************************************

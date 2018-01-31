@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ayoa      structureX:1ayo:   3 :A: 132 :A:alpha-2-macroglobulin receptor binding domain:Bos taurus: 1.9: -1
+[  2] 1edya      structureX:1edy:   3 :A: 136 :A:alpha 1-macroglobulin receptor binding domain:Rattus norvegicus: 2.30: 22.8
+
+
+1ayoa      EFPFALEVQTLPQTCDGPKAHTSFQISLSVSYIGSRPASNMAIVDVKMVSGFIPLKPTVKMLER-SNVSRTEVSN
+1edya      EAPFTLKVNTLPLNFDKAEHHRKFQIHINVSYIGERPNSNMVIVDVKMVSGFIPVKPSVKKLQDQSNIQRTEVNT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ayoa      NHVLIYLDKVTNETLTLTFTVLQDIPVRDLKPAIVKVYDYYETDEFAVAEYSAPCS---*
+1edya      NHVLIYIEKLTNQTMGFSFAVEQDIPVKNLKPAPVKVYDYYETDEFAIEEYSAPFSSDS*
+           ====|=========|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ayoa      100.0  66.2
+  2-1edya       66.2 100.0
+
+***************************************************************************

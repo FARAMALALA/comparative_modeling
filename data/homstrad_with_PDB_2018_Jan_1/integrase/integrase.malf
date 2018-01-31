@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1c1aa      structureX:1c1a: 217 :A: 272 :A:RSV integrase:Rous sarcoma virus: 3.10: 25.6
+[  2] 1ihva      structureX:1ihv: 219 :A: 270 :A:HIV-1 integrase:Human immunodeficiency virus type 1: -1: -1
+
+
+1c1aa      VLTEGPPVKIRIET-GEWEKGWNVLVWGRGYAAVKNRDTDKVIWVPSRKVKPDITQK*
+1ihva      MIQN-FRVYYRDSRDPVWKGPAKLLWKGEGAVVIQDN--SDIKVVPRRKAKIIRD--*
+           =========|=========|=========|=========|=========|=======
+                    0010      0020      0030      0040      0050    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c1aa      100.0  21.2
+  2-1ihva       21.2 100.0
+
+***************************************************************************

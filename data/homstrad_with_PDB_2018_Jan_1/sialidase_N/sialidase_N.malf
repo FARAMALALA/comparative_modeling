@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1kit1      structureX:1kit:  25 : : 216 : :sialidase:Vibrio cholerae: 2.3: 17
+[  2] 1kit2      structureX:1kit: 347 : : 543 : :sialidase:Vibrio cholerae: 2.3: 17
+
+
+1kit1      ALFDYNATGDTEFDSPAKQGWMQDNTNNGSGVLTNAD-----GMPAWLVQGIGGRAQWTYSLSTNQHAQASSFGW
+1kit2      ------------------------------------DVTDQVKERSFQIAGWGGSELYRRNTS---LN--SQQDW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kit1      RMTTEMKVLSGGMITNYYANGTQRVLPIISLDSSGNLVVEFEGQTGRTVLATG-TAATEYHKFELVFLPGSNPSA
+1kit2      QSNAKIRIVDGAANQIQVADGSRKYVVTLSIDESGGLVANLNGVSAPIILQSEHAKVHSFHDYELQYSAL-NHTT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kit1      SFYFDGKLIRDNIQPTASKQNMIVWGNGSSNTDGVAAYRDIKFEIQGD---------------------------
+1kit2      TLFVDGQQITT-WAGEVSQENNIQFGNADAQIDGRLHVQKIVLTQQGHNLVEFDAFYLAQQTPEVEKDLEKLGWT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kit1      ---------------*
+1kit2      KIKTGNTMSLYGNAS*
+           ====|=========|
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kit1      100.0  18.2
+  2-1kit2       18.2 100.0
+
+***************************************************************************

@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1bqfa      structureX:1bqf:   1 :A:  25 :A:growth-blocking peptide:Apanteles kariyai: -1: -1
+[  2] 1b5na      structureX:1b5n:   1 :A:  23 :A:plasmatocyte-spreading peptide PSP1:pseudoplusia includens: -1: -1
+[  3] 1hrla      structureX:1hrl:   0 :A:  22 :A:paralytic peptide I:Manduca sexta: -1: -1
+
+
+1bqfa      ENFSGGCVAGYMRTPDGRCKPTFYQ*
+1b5na      ENFNGGCLAGYMRTADGRCKPTF--*
+1hrla      ENFAGGCATGYLRTADGRCKPTF--*
+           =========|=========|=====
+                    0010      0020  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bqfa      100.0  87.0  78.3
+  2-1b5na       87.0 100.0  82.6
+  3-1hrla       78.3  82.6 100.0
+
+***************************************************************************

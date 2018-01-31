@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 3csua      structureX:3csu:   1 :A: 310 :A:aspartate carbamoyltransferase catalytic chain:Escherichia coli: 1.88: 19
+[  2] 2otca      structureX:2otc:   1 :A: 333 :A:ornithine carbamoyltransferase chain I:Escherichia coli: 2.8: 21.3
+[  3] 1orta      structureX:1ort:   1 :A: 335 :A:ornithine carbamoyltransferase, catabolic:Pseudomonas aeruginosa: 3.0: 21.6
+[  4] 1a1s       structureX:1a1s:   1 : : 313 : :ornithine carbamoyltransferase:Pyrococcus furiosus: 2.7: 22.6
+[  5] 1otha      structureX:1oth:  34 :A: 354 :A:ornithine carbamoyltransferase:Homo sapiens: 1.85: 17.9
+
+
+3csua      ANPLYQKHIISINDLSRDDLNLVLATAAKLKAN-----PQPELLKHKVIASCFFEASTRTRLSFETSMHRLGASV
+2otca      -SGFYHKHFLKLLDFTPAELNSLLQLAAKLKADKK-SGKEEAKLTGKNIALIFEKDSTRTRCSFEVAAYDQGARV
+1orta      AFNMHNRNLLSLMHHSTRELRYLLDLSRDLKRAKY-TGTEQQHLKRKNIALIFEKTSTRTRCAFEVAAYDQGANV
+1a1s       VVSLAGRDLLCLQDYTAEEIWTILETAKMFKIWQK-IGKPHRLLEGKTLAMIFQKPSTRTRVSFEVAMAHLGGHA
+1otha      KVQLKGRDLLTLKNFTGEEIKYMLWLSADLKFRIKQKGEYLPLLQGKSLGMIFEKRSTRTRLSTETGFALLGGHP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3csua      VGFSDS---GKKGETLADTISVISTYVDAIVMRHPQEGAARLATEFSGNVPVLNAGDGSNQHPTQTLLDLFTIQE
+2otca      TYLGPSGSQIGHKESIKDTARVLGRMYDGIQYRGYGQEIVETLAEYAR-VPVWNGLTN-EFHPTQLLADLLTMQE
+1orta      TYIDPNSSQIGHKESMKDTARVLGRMYDAIGYRGFKQEIVEELAKFAG-VPVFNGLTD-EYHPTQMLADVLTMRE
+1a1s       LYLNAQDLQLRRGETIADTARVLSRYVDAIMARVYDHKDVEDLAKYAT-VPVINGLSD-FSHPCQALADYMTIWE
+1otha      CFLTTQDIHLGVNESLTDTARVLSSMADAVLARVYKQSDLDTLAKEAS-IPIINGLSD-LYHPIQILADYLTLQE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3csua      TQG--RLDNLHVAMVGDLKYGRTVHSLTQALAKFDGNRFYFIAPDALAMPQYILDMLDEK----GIAWSLHSSIE
+2otca      HLPGKAFNEMTLVYAGDAR-NNMGNSMLEAAALT-GLDLRLVAPQACWPEAALVTECRALAQQNGGNITLTEDVA
+1orta      HSD-KPLHDISYAYLGDAR-NNMGNSLLLIGAKL-GMDVRIAAPKALWPHDEFVAQCKKFAEESGAKLTLTEDPK
+1a1s       KKG--TIKGVKVVYVGDG--NNVAHSLMIAGTKL-GADVVVATPEGYEPDEKVIKWAEQNAAESGGSFELLHDPV
+1otha      HYS--SLKGLTLSWIGDG--NNILHSIMMSAAKF-GMHLQAATPKGYEPDASVTKLAEQYAKENGTKLLLTNDPL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3csua      EVMAEVDILYMTR--------------------FVLRASDLHNA-KANMKVLHPLPRV-----------------
+2otca      KGVEGADFIYTDVWVSMGEAKEKWAERIALLREYQVNSKMMQLTGNPEVKFLHCLPAFHDDQTTLGKKMAEEFG-
+1orta      EAVKGVDFVHTDVWVSMGEPVEAWGERIKELLPYQVNMEIMKATGNPRAKFMHCLPAFHNSETKVGKQIAEQYPN
+1a1s       KAVKDADVIYTDVWASMG-QEAEAEERRKIFRPFQVNKDLVKHA-KPDYMFMHCLPAHRG---------------
+1otha      EAAHGGNVLITDTWISMG-REEEKKKRLQAFQGYQVTMKTAKVA-ASDWTFLHCLPRK-P---------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+3csua      ----DEIATDVDKTPHAWYFQQAGNGIFARQALLALVLNRDLVL------*
+2otca      LHGGMEVTDEVFESAASIVFDQAENRMHTIKAVMVATLSK----------*
+1orta      LANGIEVTEDVFESPYNIAFEQAENRMHTIKAILVSTLADI---------*
+1a1s       ----EEVTDDVIDSPNSVVWDQAENRLHAQKAVLALVMGGIK--------*
+1otha      ----EEVDDEVFYSPRSLVFPEAENRKWTIMAVMVSLLTDYSPQLQKPKF*
+           =========|=========|=========|=========|=========|
+                    0310      0320      0330      0340      0350 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-3csua      100.0  27.1  27.1  28.8  23.6
+  2-2otca       27.1 100.0  57.7  40.3  37.7
+  3-1orta       27.1  57.7 100.0  40.3  38.3
+  4-1a1s        28.8  40.3  40.3 100.0  46.0
+  5-1otha       23.6  37.7  38.3  46.0 100.0
+
+***************************************************************************

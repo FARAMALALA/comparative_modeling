@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1dj3a      structureX:1dj3:  11 :A: 442 :A:adenylosuccinate synthetase:Triticum aestivum: 3.00: 24
+[  2] 1dj2a      structureX:1dj2:  15 :A: 443 :A:adenylosuccinate synthetase:Arabidopsis thaliana: 2.90: 23.3
+[  3] 1qf5a      structureX:1qf5:   1 :A: 431 :A:adenylosuccinate synthetase:Escherichia coli: 2.00: 19.6
+
+
+1dj3a      ADRVSSLSNVSGVLGSQWGDEGKGKLVDVLAPRFDIVARCQGGANAGHTIYNSEGKKFALHLVPSGILHEGTLCV
+1dj2a      ---IGSLSQVSGVLGCQWGDEGKGKLVDILAQHFDIVARCQGGANAGHTIYNSEGKKFALHLVPSGILNEDTTCV
+1qf5a      -------GNNVVVLGTQWGDEGKGKIVDLLTERAKYVVRYQGGHNAGHTLVIN-GEKTVLHLIPSGILRENVTSI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dj3a      VGNGAVIHVPGFFGEIDGLQSNGVSCDGRILVSDRAHLLFDLHQTVDGLREAELANSFIGTTKRGIGPCYSSKVT
+1dj2a      IGNGVVVHLPGLFKEIDGLESNGVSCKGRILVSDRAHLLFDFHQEVDGLRESELAKSFIGTTKRGIGPAYSSKVI
+1qf5a      IGNGVVLSPAALMKEMKELEDRGIPVRERLLLSEACPLILDYHVALDNAREKARGAKAIGTTGRGIGPAYEDKVA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dj3a      RNGLRVCDLRHMDTFGDKLDVLFEDAAARFE---GFKYSKGMLKEEVERYKKFAERLEPFIADTVHVLNESIRQK
+1dj2a      RNGIRVGDLRHMDTLPQKLDLLLSDAAARFQ---GFKYTPEMLREEVEAYKRYADRLEPYITDTVHFINDSISQK
+1qf5a      RRGLRVGDLFDKETFAEKLKEVMEYHNFQLVNYYKAEAV--DYQKVLDDTMAVADILTSMVVDVSDLLDQARQRG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dj3a      KKILVEGGQATMLDIDFGTYPFVTSSSPSAGGICTGLGIAPRVIGDLIGVVKAYTTRVGSGPFPTELLGEEGDVL
+1dj2a      KKVLVEGGQATMLDIDFGTYPFVTSSSPSAGGICTGLGIAPSVVGDLIGVVKAYTTRVGSGPFPTENLGTGGDLL
+1qf5a      DFVMFEGAQGTLLDIDHGTYPYVTSSNTTAGGVATGSGLGPRYVDYVLGILKAYSTRVGAGPFPTELFDETGEFL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1dj3a      RKAGMEFGTTTGRPRRCGWLDIVALKYCCDINGFSSLNLTKLDVLSGLPEIKLGVSYNQMDGEKLQSFPGDLDTL
+1dj2a      RLAGQEFGTTTGRPRRCGWLDIVALKFSCQINGFASLNLTKLDVLSDLNEIQLGVAYKRSDGTPVKSFPGDLRLL
+1qf5a      CKQGNEFGATTGRRRRTGWLDTVAVRRAVQLNSLSGFCLTKLDVLDGLKEVKLCVAYRMPDGREVTTTPLAADDW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1dj3a      EQVQVNYEVLPGWDSDISSVRSYSELPQAARRYVERIEELAGVPVHYIGVGPGRDALIYK------*
+1dj2a      EELHVEYEVLPGWKSDISSVRNYSDLPKAAQQYVERIEELVGVPIHYIGIGPGRDALIYK------*
+1qf5a      KGVEPIYETMPGWSESTFGVKDRSGLPQAALNYIKRIEELTGVPIDIISTGPDRTETMILRDPFDA*
+           ====|=========|=========|=========|=========|=========|=========|=
+               0380      0390      0400      0410      0420      0430      0440 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1dj3a      100.0  80.0  43.4
+  2-1dj2a       80.0 100.0  43.4
+  3-1qf5a       43.4  43.4 100.0
+
+***************************************************************************

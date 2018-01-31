@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1imua      structureX:1imu:   1 :A: 107 :A:hypothetical protein HI0257:Haemophilus influenzae: -1: -1
+[  2] 1l4sa      structureX:1l4s:   1 :A: 112 :A:protein yfiA:Escherichia coli: -1: -1
+
+
+1imua      MTLNITSKQMDITPAIREHLEERLAKLGKWQTQLISPHFVLNKVPNGFSVEASIGTPLGNLLASATSDDMYKAIN
+1l4sa      -TMNITSKQMEITPAIRQHVADRLAKLEKWQTHLINPHIILSKEPQGFVADATINTPNGVLVASGKHEDMYTAIN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1imua      EVEEKLERQLNKLQHKSESRRADERLKDSFEN------------------*
+1l4sa      ELINKLERQLNKLQHKGE------------ARRAATSVKDANFVEEVEEE*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1imua      100.0  57.0
+  2-1l4sa       57.0 100.0
+
+***************************************************************************

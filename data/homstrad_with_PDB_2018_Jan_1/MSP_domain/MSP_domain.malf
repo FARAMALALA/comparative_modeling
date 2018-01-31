@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1mspa      structureX:1msp:   3 :A: 126 :A:Major sperm protein, alpha isoform, pH 4.6:Ascaris suum: 2.5: -1
+[  2] 1grwa      structureX:1grw:   3 :A: 126 :A:Major Sperm Protein 31-40-142:Caenorhabditis elegans: 2.6: 22.8
+
+
+1mspa      SVPPGDINTQPSQKIVFNAPYDDKHTYHIKITNAGGRRIGWAIKTTNMRRLSVDPPCGVLDPKEKVLMAVSCDTF
+1grwa      SVPPGDIQTQPGTKIVFNAPYDDKHTYHIKVINSSARRIGYGIKTTNMKRLGVDPPCGVLDPKEAVLLAVSCDAF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mspa      NAATEDLNNDRITIEWTNTPDGAAKQFRREWFQGDGMVRRKNLPIEYNL*
+1grwa      AFGQEDTNNDRITVEWTNTPDGAAKQFRREWFQGDGMVRRKNLPIEYNP*
+           ====|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mspa      100.0  82.3
+  2-1grwa       82.3 100.0
+
+***************************************************************************

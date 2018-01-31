@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1iva       structureN:1iva:   1 : :  48 : :omega-agatoxin-IVA:Agelenopsis aperta:-1.00:-1.00
+[  2] 1oma       structureN:1oma:   1 : :  48 : :omega-agatoxin-IVB:Agelenopsis aperta:-1.00:-1.00
+
+
+1iva       KKKCIAKDYGRCKWGGTPCCRGRGCICSIMGTNCECKPRLIMEGLGLA*
+1oma       EDNCIAEDYGKCTWGGTKCCRGRPCRCSMIGTNCECTPRLIMEGLSFA*
+           =========|=========|=========|=========|========
+                    0010      0020      0030      0040     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1iva       100.0  70.8
+  2-1oma        70.8 100.0
+
+***************************************************************************

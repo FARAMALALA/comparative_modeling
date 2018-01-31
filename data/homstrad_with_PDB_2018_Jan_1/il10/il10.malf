@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 2ilk       structureX:2ilk:   6 : : 160 : :interleukin-10:Homo sapiens: 1.6: -1
+[  2] 1vlk       structureX:1vlk:  12 : : 157 : :interleukin-10:Epstein-barr virus: 1.9: 19.1
+
+
+2ilk       TQSENSCTHFPGNLPNMLRDLRDAFSRVKTFFQMKDQLDNLLLKESLLEDFKGYLGCQALSEMIQFYLEEVMPQA
+1vlk       ----------CDNFPQMLRDLRDAFSRVKTFFQTKDEVDNLLLKESLLEDFKGYLGCQALSEMIQFYLEEVMPQA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ilk       ENQDPDIKAHVNSLGENLKTLRLRLRRCHRFLPCENKSKAVEQVKNAFNKLQEKGIYKAMSEFDIFINYIEAYMT
+1vlk       ENQDPEAKDHVNSLGENLKTLRLRLRRCHRFLPCENKSKAVEQIKNAFNKLQEKGIYKAMSEFDIFINYIEAYMT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2ilk       MKIRN*
+1vlk       IK---*
+           =====
+                
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2ilk       100.0  91.5
+  2-1vlk        91.5 100.0
+
+***************************************************************************

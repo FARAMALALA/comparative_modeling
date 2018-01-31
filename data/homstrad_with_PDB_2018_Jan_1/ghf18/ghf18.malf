@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1edt       structureX:1edt:   6 : : 270 : :endo-beta-N-acetylglucosaminidase H:Streptomyces plicatus: 1.9: 19.9
+[  2] 2ebn       structureX:2ebn:   5 : : 289 : :endo-beta-N-acetylglucosaminidase F1:Flavobacterium meningose:2.0:15.8
+[  3] 2hvm       structureX:2hvm:   1 : : 273 : :hevamine A (chitinase-lysozyme):Hevea brasiliensis: 1.80: 14.9
+[  4] 1cnv       structureX:1cnv:   1 : : 283 : :concanavalin B (con b):Canavalia ensiformis: 1.65: 17.2
+[  5] 1nar       structureX:1nar:   1 : : 289 : :narbonin:Vicia narbonensis l.: 1.8: 15.9
+
+
+1edt       --KQGPTSVAYVEVN--N--NSMLNVGKYTLADGGGNAFDVAVIFAANINYDTG---TKTAYLHFNENVQ----R
+2ebn       TTKANIKLFSFTEVN--D--TNPLNNLNFTLKNSGKPLVDMVVLFSANINYDAA---NDKVFVSNNPNVQ----H
+2hvm       -----GGIAIYWGQN--GNEGTLTQTCST-------RKYSYVNIAFLNKFG-NG---Q-TPQINLAGHCNPAAG-
+1cnv       -DISSTEIAVYWGQ---REDGLLRDTCKT-------NNYKIVFISFLDKFG-CE---IRKPELELEGVCGPSVGN
+1nar       ---PKPIFREYIGVKPNSTTLHDFPTEIINTE----TLEFHYILGFAIESYYESGKGTGTFEESWDV--------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1edt       VLDNAVTQIRPLQQQ--GIKVLLSVLGNHQGAGFANFPSQQAASAFAKQLSDAVAK----------YGLDGVDFD
+2ebn       LLTNRAKYLKPLQDK--GIKVILSILGNHDRSGIANL-STARAKAFAQELKNTCDL----------YNLDGVFFD
+2hvm       GCTIVSNGIRSCQIQ--GIKVMLSLGGGIGSYTLA---SQADAKNVADYLWNNFLGGKSSSRPLGDAVLDGIDFD
+1cnv       PCSFLESQIKECQRM--GVKVFLALGGPKGTYSAC---SADYAKDLAEYLHTYFLSERR-EGPLGKVALDGIHFD
+1nar       -ELFGPEKVKNLKRRHPEVKVVISIGGRGVNTPFDPAEENVWVSNAKESLKLIIQKYSDDS----GNLIDGIDIH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1edt       DEYAEYG---NNGTAQPNDSSFVHLVTALRANMP------DKIISLYNI-----GPAASRLS-YGGVDVSDKFDY
+2ebn       DEYSAYQTPPPSGFVTPSNNAAARLAYETKQAMP------NKLVTVYVY-----SRTSSFPTAVDGVNAGSYVDY
+2hvm       IEH-G------------STLYWDDLARYLSAYSKQ-G--KKVYLTAAPQCPFPDRYLGTAL-N------TGLFDY
+1cnv       IQKPV------------DELNWDNLLEELYQIKDVYQ--STFLLSAAPGCLSPDEYLDNAI-Q------TRHFDY
+1nar       YEHIR------------SDEPFATLMGQLITELKKDDDLNINVVSIAPSEN-NSSHYQKLY-N-A---KKDYINW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1edt       AWNPYYG----TWQ---------VPG---IAL-PKAQLSPAAVEIGR-----TSRSTVADLARRTVDE------G
+2ebn       AIH-DYG----GSY---------DLATNYPGL-AKSGMVMSSQEFNQ-----GRY-ATAQALRNIVTK------G
+2hvm       VWVQFYNNPPCQYSSGNINNIINSWNRWTTSIN--AGKIFLGLPAAPEAAG-SGYVPPDVLISRILPEIKKSP-K
+1cnv       IFVRFYNDRSCQYSTGNIQRIRNAWLSWTKSVYPRDKNLFLELPASQATAPGGGYIPPSALIGQVLPYLPDLQTR
+1nar       VDYQFSNQQ-KPVS--TDDAFVEIFKSLEKDYHP--HKVLPGFSTDPLDTKHNKI-TRDIFIGGCTRLVQT--FS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1edt       YGVYLTYNLDGG--------DRTADVSAFTRELYGSEAVRT--------*
+2ebn       YGGHMIFAMDPNRSNFT--SGQLPALKLIAKELYGDELVYSNTPYSKDW*
+2hvm       YGGVMLWSKFYDDKN--------GYSSSILDSV----------------*
+1cnv       YAGIALWNRQADKET--------GYSTNIIRYL----------------*
+1nar       LPGVFFWNANDSVIPKRDGDKPFIVELTLQQLLAA--------------*
+           =========|=========|=========|=========|=========
+                    0310      0320      0330      0340      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1edt       100.0  33.2  17.4  13.2  11.3
+  2-2ebn        33.2 100.0  15.4  11.7   9.5
+  3-2hvm        17.4  15.4 100.0  42.1  14.3
+  4-1cnv        13.2  11.7  42.1 100.0  12.4
+  5-1nar        11.3   9.5  14.3  12.4 100.0
+
+***************************************************************************

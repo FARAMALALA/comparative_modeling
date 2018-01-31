@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1tml       structureX:1tml:   1 : : 286 : :endoglucanase E-2 (cellulase E2):Thermomonospora fusca: 1.8: 18.4
+[  2] 1qjwa      structureX:1qjw:  86 :A: 447 :A:exoglucanase II (CBHII):Trichoderma reesei: 1.9: 17.9
+[  3] 1bvwa      structureX:1bvw:  91 :A: 450 :A:cellobiohydrolase II:Humicola insolens: 1.92: 14.2
+
+
+1tml       --------NDSPFYVNPNMSSAEWVRNNP-----NDPRTPVIRDRIASVPQGTWFAHHNPGQITGQVDALMSAAQ
+1qjwa      ATYSGNPFVGVTPWANA--YYASEVSSLAIPSLT-GAMATAAAAV-AKVPSFMWLDT--LDKTP-LMEQTLADIR
+1bvwa      ----GNPFEGVQLWANN--YYRSEVHTLAIPQITDPALRAAASAV-AEVPSFQWLDR--NVTVDTLLVQTLSEIR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tml       AA-------GKIPILVVYNAPGRDCGNHSSGGAPS-----HSAYRSWIDEFAAGLK---NRPAYIIVEPDLISLM
+1qjwa      TANKNG--GNYAGQFVVFDLPDRDCAALASNGEYSIADGGVAKYKNYIDTIRQIVVEYSDIRTLLVIEPDSLANL
+1bvwa      EANQAGANPQYAAQIVVYDLPDRDCAAAASNGEWAIANNGVNNYKAYINRIREILISFSDVRTILVIEPDSLANM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tml       SSCM-----QHVQQEVLETMAYAGKALKAGSSQARIYFDAGHSAWH----SPAQMASWLQQADIS----NSAHGI
+1qjwa      VTNLGTPKCANAQSAYLECINYAVTQLN--LPNVAMYLDAGHAGWLGWPANQDPAAQLFANVYKNASSPRALRGL
+1bvwa      VTNMNVPKCSGAASTYRELTIYALKQLD--LPHVAMYMDAGHAGWLGWPANIQPAAELFAKIYEDAGKPRAVRGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1tml       ATNTSNYRWTA--------------DEVAYAKAVLSAI---GNPSLRAVIDTSRNGNGPAG----NEWCDPSGRA
+1qjwa      ATNVANYNGWNITSPPSYTQGNAVYNEKLYIHAIGPLLANHGWSNAFFITDQGRSGKQPTGQQQWGDWCNVIGTG
+1bvwa      ATNVANYNAWSVSSPPPYTSPNPNYDEKHYIEAFRPLLEARGFP-AQFIVDQGRSGKQPTGQKEWGHWCNAIGTG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1tml       IGTPSTTNTGDPMIDAFLWIKLPGEADG---CIAG-----------------AGQFVPQAAYEMAIAA-----*
+1qjwa      FGIRPSANTGDSLLDSFVWVKPGGECDGTSDSSAPRFDSHCALPDALQPAPQAGAWFQAYFVQLLTNANPSFL*
+1bvwa      FGMRPTANTGHQYVDAFVWVKPGGECDGTSDTTAARYDYHCGLEDALKPAPEAGQWFNEYFIQLLRNANPPF-*
+           =========|=========|=========|=========|=========|=========|=========|===
+                    0310      0320      0330      0340      0350      0360      0370 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1tml       100.0  24.8  26.6
+  2-1qjwa       24.8 100.0  64.2
+  3-1bvwa       26.6  64.2 100.0
+
+***************************************************************************

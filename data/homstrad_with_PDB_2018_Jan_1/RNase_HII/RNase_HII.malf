@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1io2a      structureX:1io2:   1 :A: 213 :A:Ribonuclease HII:Thermococcus kodakaraensis: 2.00: 22.3
+[  2] 1i39a      structureX:1i39:   1 :A: 200 :A:Ribonuclease HII:Archaeoglobus fulgidus: 1.95: 24.4
+[  3] 1ekea      structureX:1eke:   2 :A: 225 :A:Ribonuclease HII:Methanococcus janaschii: 2.00: 21.0
+
+
+1io2a      MKIAGIDEAGRGPVIGPMVIAAVVVDENSLPKLEELKVRDSKKLTPKRREKLFNEILGVLDDYVILELPPDVIGS
+1i39a      -MKAGIDEAGKGCVIGPLVVAGVACS--DEDRLRKLGVKDSKKLSQGRREELAEEIRKIC-RTEVLKVSPENLDE
+1ekea      -IIIGIDEAGRGPVLGP-VVCAFAIEKEREEELKKLGVK---ELTKNKRAYLKKLLENLG-YVEKRILEAEEINQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1io2a      R--EGTLNEFEVENFAKALNSL--KVKP----DVIYADAADVDEERFARELGERLNF-------EAEVVAKHKAD
+1i39a      RMAAKTINEILKECYAEIILRL----KP----EIAYVDSPDVIPERLSRELEEITG---------LRVVAEHKAD
+1ekea      L-NSINLNDIEINAFSKVAKNLIEKLNIRDDEIEIYIDACSTNTKKFEDSFKDKIEDIIKERNLNIKIIAEHKAD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1io2a      DIFPVVSAASILAKVTRDRAVEKLKEEYGEIGSGYPSDPRTRAFLENYYREHGEFPPIVRKGWKTLKKIAEKVES
+1i39a      EKYPLVAAASIIAKVEREREIERLKEKFGDFGSGYASDPRTREVLKEWIAS-GRIPSCVRMRWKTVSNLRQK---
+1ekea      AKYPVVSAASIIAKAERDEIIDYYKKIYGDIGSGYPSDPKTIKFLEDYFKKHKKLPDIARTHWKTCKRILDKSKQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1io2a      EKK*
+1i39a      ---*
+1ekea      T--*
+           ===
+              
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1io2a      100.0  46.0  37.6
+  2-1i39a       46.0 100.0  34.0
+  3-1ekea       37.6  34.0 100.0
+
+***************************************************************************

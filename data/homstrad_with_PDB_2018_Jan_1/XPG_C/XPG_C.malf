@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1b43a      structureX:1b43: 220 :A: 339 :A:fen-1:Pyrococcus furiosus: 2.00: 23.1
+[  2] 1a77       structureX:1a77: 209 : : 316 : :flap endonuclease-1:Methanococcus jannaschii: 2.0: 21.8
+
+
+1b43a      LTREKLIELAILVGTDYNPGGIKGIGLKKALEIVRHSKDPLAKFQKQSDVDLYAIKEFFLNPPVTDNYNLVWRDP
+1a77       ISLDDLIDIAIFMGTDYNPGGVKGIGFKRAYELVRS-GVAKDVLKKEV-EYYDEIKRIFKEPKVTDNYSLSLKLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b43a      DEEGILKFLCDEHDFSEERVKNGLERLKKAIKSGKQSTLESWFKR*
+1a77       DKEGIIKFLVDENDFNYDRVKKHVDKLYNLIANKT----------*
+           ====|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b43a      100.0  45.4
+  2-1a77        45.4 100.0
+
+***************************************************************************

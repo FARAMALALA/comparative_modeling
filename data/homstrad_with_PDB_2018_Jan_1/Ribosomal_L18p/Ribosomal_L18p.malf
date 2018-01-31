@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jj2m      structureX:1jj2:   1 :M: 186 :M:Ribosomal Protein L18:Haloarcula marismortui: 2.40: 18.9
+[  2] 1ilya      structureN:1ily:  22 :A: 111 :A:Ribosomal protein L18:Thermus thermophilus: -1: -1
+
+
+1jj2m      ATGPRYKVPMRRRREARTDYHQRLRLLKSGKPRLVARKSNKHVRAQLVTLGPNGDDTLASAHSSDLAEYGWEAPT
+1ilya      ------------------------------RLRLSVFRSLKHIYAQIIDDEK--GVTLVSASSLALK---LKGN-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jj2m      GNMPSAYLTGLLAGLRAQEAGVEEAVLDIGLNSPTPGSKVFAIQEGAIDAGLDIPHNDDVLADWQRTRGAHIAEY
+1ilya      -KTEVARQVGRALAEKALALGIKQVAFDRGPYKYH--GRVKALAEGAREGGLEF---------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jj2m      DEQLEEPLYSGDFDAADLPEHFDELRETLLDGDIEL*
+1ilya      ------------------------------------*
+           =========|=========|=========|======
+                    0160      0170      0180   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jj2m      100.0  28.9
+  2-1ilya       28.9 100.0
+
+***************************************************************************

@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1aoqa      structureX:1aoq:  17 :A: 567 :A:nitrite reductase:Paracoccus denitrificans: 1.80: 17.6
+[  2] 1nira      structureX:1nir:   6 :A: 543 :A:nitrite reductase (residue 6-25 swapped with chain B):Pseudomonas aeruginosa: 2.15: 20.9
+
+
+1aoqa      HKTRTDNRYEPSLDNLAQQDVAAPGAPEGVTALSDAQYNEANKIYFERCAGCHGVLRKGATGKALTPDLTRDLGF
+1nira      ----AAEQYQGAASAVDPAHVVRT---NGAPDMSESEFNEAKQIYFQRCAGCHGVLRKGATGKPLTPDITQQRGQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aoqa      DYLQSFITYASPAGMPNWGTSGELSAEQVDLMANYLLLDPAAPPEFGMKEMRESWKVHVAPEDRPTQQMNDWDLE
+1nira      QYLEALITYGTPLGMPNWGSSGELSKEQITLMAKYIQHTPPQPPEWGMPEMRESWKVLVKPEDRPKKQLNDLDLP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1aoqa      NLFSVTLRDAGQIALIDGSTYEIKTVLDTGYAVHISRLSASGRYLFVIGRDGKVNMIDLWMKEPTTVAEIKIGSE
+1nira      NLFSVTLRDAGQIALVDGDSKKIVKVIDTGYAVHISRMSASGRYLLVIGRDARIDMIDLWAKEPTKVAEIKIGIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1aoqa      ARSIETSKMEGWEDKYAIAGAYWPPQYVIMDGETLEPKKIQSTRGMTYDEQEYHPEPRVAAILASHYRPEFIVNV
+1nira      ARSVESSKFKGYEDRYTIAGAYWPPQFAIMDGETLEPKQIVSTRGMTVDTQTYHPEPRVAAIIASHEHPEFIVNV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1aoqa      KETGKILLVDYTDLNNLKTTEISAERFLHDGGLDGSHRYFITAANARNKLVVIDTKEGKLVAIEDTGGQTPHPGR
+1nira      KETGKVLLVNYKDIDNLTVTSIGAAPFLHDGGWDSSHRYFMTAANNSNKVAVIDSKDRRLSALVDV-GKTPHPGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1aoqa      GANFVHPTFGPVWATSHMGDDSVALIGTDPEGHPDNAWKILDSFPALGGGSLFIKTHPNSQYLYVDATLNPEAEI
+1nira      GANFVHPKYGPVWSTSHLGDGSISLIGTDPKNHPQYAWKKVAELQGQGGGSLFIKTHPKSSHLYVDTTFNPDARI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1aoqa      SGSVAVFDIKAMTGDGSDPEFKTLPIAEWAGITEGQPRVVQGEFNKDGTEVWFSVWNGKDQESALVVVDDKTLEL
+1nira      SQSVAVFDLKNLD-----AKYQVLPIAEWADLGEGAKRVVQPEYNKRGDEVWFSVWNGKNDSSALVVVDDKTLKL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1aoqa      KHVIKDERLVTPTGKFNVYNTMTDTY*
+1nira      KAVVKDPRLITPTGKFNVYNTQHDVY*
+           ====|=========|=========|=
+               0530      0540      0550 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1aoqa      100.0  66.5
+  2-1nira       66.5 100.0
+
+***************************************************************************

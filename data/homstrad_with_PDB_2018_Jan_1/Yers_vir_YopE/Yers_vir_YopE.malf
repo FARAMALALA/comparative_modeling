@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1hy5a      structureX:1hy5:1100 :A:1218 :A:Yersinia pestis virulence protein, YopeE, C-terminal domain:Yersinia pestis: 2.25: -1
+[  2] 1g4wr      structureX:1g4w: 171 :R: 290 :R:Protein tyrosine phosphatase, SPTP:Salmonella typhimurium: 2.2: 26.0
+[  3] 1he1a      structureX:1he1:  95 :A: 229 :A:Exoenzyme S, GAP-domain:Pseudomonas aeruginosa: 2.0: 17.5
+
+
+1hy5a      --------TSFSDSIKQLAAETLPK-YQQLNSLDAE-LQKNHDQFATGSGPLRGSITQCQGL-QFCG-GELQAEA
+1g4wr      --------------LLDIALKGLKRTLPQLEQMDGNSLR-----------PLRSLMTNLQNLNK-----QLNDYV
+1he1a      ASSAVVFKQMVLQQALPMTLKGLDK-ASELATLTPEGLAREHSRLASGDGALRSLSTALAGIRAGSQVEESRIQA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hy5a      SAILNTPVCGIPFSQWGTIGGAASAYVASGV--DLTQAANEIKGLAQQ-QKLLSL------*
+1g4wr      TTLTNIQVGVARFSQW-----EVERWVD-ASTHELTQAVKKIHVIAKELKNVTAELEKI--*
+1he1a      GRLLERSIGGIALQQWGTTGGAASQLVLDASPELRREITDQLHQVMSEVALLRQAVESEVS*
+           ====|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hy5a      100.0  26.5  26.1
+  2-1g4wr       26.5 100.0  23.5
+  3-1he1a       26.1  23.5 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1iow       structureX:1iow:   1 : : 306 : :D-alanine--D-alanine ligase B:Escherichia coli: 1.9: 15.8
+[  2] 1ehia      structureX:1ehi:   3 :A: 362 :A:D-alanine:D-lactate ligase:Leuconostoc mesenteroides: 2.38: 18.4
+
+
+1iow       MTDKIAVLLGGTSAEREVSLNSGAAVLAGLREGG-IDAYPVDPK----EVDVTQLK-------------------
+1ehia      -KKRVALIFGGNSSEHDVSKRSAQNFYNAIEATGKYEIIVFAIAQNGFFLDTESSKKILALEDEQPIVDAFMKTV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1iow       -------------SMG-FQKVFIALHGRGGEDGTLQGMLELMGLPYTGSGVMASALSMDKLRSKLLWQGAGLPVA
+1ehia      DASDPLARIHALKSAGDFDIFFPVVHGNLGEDGTLQGLFKLLDKPYVGAPLRGHAVSFDKALTKELLTVNGIRNT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1iow       PWVALTRAEFEKGLSDKQLAEISA-LGLPVIVKPSREGSSVGMSKVVAENALQDALRLAFQHDEEVLIEKWLSG-
+1ehia      KYIVVDPESANN-WS---WDKIVAELGNIVFVKAANQGSSVGISRVTNAEEYTEALSDSFQYDYKVLIEEAVNGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1iow       PEFTVAILG---EEILPSIRIQPSG-----TFYDYEAKFLS-DETQYFCPAGLEASQEANLQALVLKAWTTLGCK
+1ehia      RELEVGVIGNDQPLVSEIGAHTVPNQGSGDGWYDYNNKFVDNSAVHFQIPAQLSPEVTKEVKQMALDAYKVLNLR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1iow       GWGRIDVMLDSDGQFYLLEANTSPGMTSHSLVPMAARQAGMSFSQLVVRILELAD----------*
+1ehia      GEARMDFLLDENNVPYLGEPNTLPGFTNMSLFKRLWDYSDINNAKLVDMLIDYGFEDFAQNKKLS*
+           =========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1iow       100.0  30.1
+  2-1ehia       30.1 100.0
+
+***************************************************************************

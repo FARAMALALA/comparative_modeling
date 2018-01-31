@@ -1,0 +1,104 @@
+      Code       Title
+
+[  1] 1lfo       structureX:1lfo:   1 : : 127 : :fatty acid-binding protein, liver:Rattus norvegicus: 2.30: 20.2
+[  2] 1eioa      structureN:1eio:   1 :A: 127 :A:gastrotropin:Sus scrofa: -1: -1
+[  3] 3ifba      structureN:3ifb:   1 :A: 131 :A:fatty acid-binding protein, intestinal:Homo sapiens: -1: -1
+[  4] 1ifc       structureX:1ifc:   1 : : 131 : :intestinal fatty acid-binding apoprotein:Rattus norvegicus: 1.19: 16.9
+[  5] 1bwya      structureN:1bwy:   1 :A: 132 :A:fatty acid-binding protein, heart:Bos taurus: -1: -1
+[  6] 1hmt       structureX:1hmt:   1 : : 131 : :fatty acid binding protein, muscle:Homo sapiens: 1.40: 11.4
+[  7] 1fdqa      structureX:1fdq:   1 :A: 131 :A:fatty acid-binding protein, brain:Homo sapiens: 2.10: 18
+[  8] 1pmpa      structureX:1pmp:   1 :A: 131 :A:P2 myelin protein:Bos taurus: 2.70: 26.8
+[  9] 1lif       structureX:1lif:   1 : : 131 : :adipocyte lipid-binding protein:Mus musculus: 1.60: 18
+[ 10] 1b56       structureX:1b56:   3 : : 135 : :fatty acid-binding protein, epidermal:Homo sapiens: 2.05: 20.7
+[ 11] 1ftpa      structureX:1ftp:   1 :A: 133 :A:fatty-acid-binding protein, muscle:schistocerca gregaria: 2.20: 18.5
+[ 12] 1cbia      structureX:1cbi:   1 :A: 136 :A:retinoic acid-binding protein I, cellular:Mus musculus: 2.70: 19.6
+[ 13] 1cbs       structureX:1cbs:   1 : : 137 : :Cellular retinoic acid binding protein II:Homo sapiens: 1.80: 20
+[ 14] 1crb       structureX:1crb:   1 : : 134 : :Cellular retinol-binding protein:Rattus rattus: 2.10: 18.8
+[ 15] 1opba      structureX:1opb:   1 :A: 133 :A:Cellular retinol-binding protein II:Rattus rattus: 1.90: 17.3
+[ 16] 1ggla      structureX:1ggl:   1 :A: 134 :A:Cellular retinol binding protein III:Homo sapiens: 2.31: 22.9
+[ 17] 1mdc       structureX:1mdc:   1 : : 131 : :fatty-acid-binding protein 2:manduca sexta: 1.75: 17.3
+
+
+1lfo       --MNFS-GKYQVQSQENFEPFMKAMGLPEDLIQKGKDI--KGVSEIVHE-GKKVKLTITYG-SKVIHNEFTLGEE
+1eioa      ---AFT-GKYEIESEKNYDEFMKRLALPSDAIDKARNL--KIISEVKQD-GQNFTWSQQYPGGHSITNTFTIGKE
+3ifba      ---AFD-STWKVDRSENYDKFMEKMGVNIVKRKLAAHD--NLKLTITQE-GNKFTVKESSA-FRNIEVVFELGVT
+1ifc       ---AFD-GTWKVDRNENYEKFMEKMGINVVKRKLGAHD--NLKLTITQE-GNKFTVKESSN-FRNIDVVFELGVD
+1bwya      -VDAFV-GTWKLVDSKNFDDYMKSLGVGFATRQVGNMT--KPTTIIEVN-GDTVIIKTQST-FKNTEISFKLGVE
+1hmt       -VDAFL-GTWKLVDSKNFDDYMKSLGVGFATRQVASMT--KPTTIIEKN-GDILTLKTHST-FKNTEISFKLGVE
+1fdqa      -VEAFC-ATWKLTNSQNFDEYMKALGVGFATRQVGNVT--KPTVIISQE-GDKVVIRTLST-FKNTEISFQLGEE
+1pmpa      -SNKFL-GTWKLVSSENFDEYMKALGVGLATRKLGNLA--KPRVIISKK-GDIITIRTESP-FKNTEISFKLGQE
+1lif       -CDAFV-GTWKLVSSENFDDYMKEVGVGFATRKVAGMA--KPNMIISVN-GDLVTIRSEST-FKNTEISFKLGVE
+1b56       TVQQLE-GRWRLVDSKGFDEYMKELGVGIALRKMGAMA--KPDCIITCD-GKNLTIKTEST-LKTTQFSCTLGEK
+1ftpa      -VKEFAGIKYKLDSQTNFEEYMKAIGVGAIERKAGLAL--SPVIELEILDGDKFKLTSKTA-IKNTEFTFKLGEE
+1cbia      --PNFA-GTWKMRSSENFDELLKALGVNAMLRKVAVAAASKPHVEIRQD-GDQFYIKTSTT-VRTTEINFKVGEG
+1cbs       --PNFS-GNWKIIRSENFEELLKVLGVNVMLRKIAVAAASKPAVEIKQE-GDTFYIKTSTT-VRTTEINFKVGEE
+1crb       -PVDFN-GYWKMLSNENFEEYLRALDVNVALRKIANLL--KPDKEIVQD-GDHMIIRTLST-FRNYIMDFQVGKE
+1opba      -TKDQN-GTWEMESNENFEGYMKALDIDFATRKIAVRL--TQTKIIVQD-GDNFKTKTNST-FRNYDLDFTVGVE
+1ggla      -PPNLT-GYYRFVSQKNMEDYLQALNISLAVRKIALLL--KPDKEIEHQ-GNHMTVRTLST-FRNYTVQFDVGVE
+1mdc       ---SYLGKVYSLVKQENFDGFLKSAGLSDDKIQALVSD--KPTQKMEAN-GDSYSNTSTGGG-GAKTVSFKSGVE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lfo       -ELET--MTGEKVKAVVKMEGDNKMVTTFK-------GIKSVTEFNG-DTITNTMTLG--DIVYKRVSKRI-*
+1eioa      CDIET--IGGKKFKATVQMEG-GKVVVNSP-------NYHHTAEIVD-GKLVEVSTVG--GVSYERVSKKLA*
+3ifba      FNYNL--ADGTELRGTWSLEG-NKLIGKFKRTD-NGNELNTVREIIG-DELVQTYVYE--GVEAKRIFKKD-*
+1ifc       FAYSL--ADGTELTGTWTMEG-NKLVGKFKRVD-NGKELIAVREISG-NELIQTYTYE--GVEAKRIFKKE-*
+1bwya      FDETT--ADDRKVKSIVTLDG-GKLVHVQKWN---GQETSLVREMVD-GKLILTLTHG--TAVCTRTYEKQA*
+1hmt       FDETT--ADDRKVKSIVTLDG-GKLVHLQKWD---GQETTLVRELID-GKLILTLTHG--TAVCTRTYEKE-*
+1fdqa      FDETT--ADDRNCKSVVSLDG-DKLVHIQKWD---GKETNFVREIKD-GKMVMTLTFG--DVVAVRHYEKA-*
+1pmpa      FEETT--ADNRKTKSTVTLAR-GSLNQVQKWN---GNETTIKRKLVD-GKMVVECKMK--DVVCTRIYEKV-*
+1lif       FDEIT--ADDRKVKSIITLDG-GALVQVQKWD---GKSTTIKRKRDG-DKLVVECVMK--GVTSTRVYERA-*
+1b56       FEETT--ADGRKTQTVCNFTD-GALVQHQEWD---GKESTITRKLKD-GKLVVECVMN--NVTCTRIYEKVE*
+1ftpa      FDEET--LDGRKVKSTITQDGPNKLVHEQKGD----HPTIIIREFSK-EQCVITIKLG--DLVATRIYKAQ-*
+1cbia      FEEET--VDGRKCRSLPTWENENKIHCTQTLLEGDGPKTYWTRELAN-DELILTFGAD--DVVCTRIYVRE-*
+1cbs       FEEQT--VDGRPCKSLVKWESENKMVCEQKLLKGEGPKTSWTRELTNDGELILTMTAD--DVVCTRVYVRE-*
+1crb       FEEDLTGIDDRKCMTTVSWDG-DKLQCVQKGEK---EGRGWTQWIEG-DELHLEMRAE--GVTCKQVFKKVH*
+1opba      FDEHTKGLDGRNVKTLVTWEG-NTLVCVQKGEK---ENRGWKQWVEG-DKLYLELTCG--DQVCRQVFKKK-*
+1ggla      FEEDLRSVDGRKCQTIVTWEE-EHLVCVQKGEV---PNRGWRHWLEG-EMLYLELTAR--DAVCEQVFRKVH*
+1mdc       FDDVI--GAGDSVKSMYTVDG-NVVTHVVKGD---AGVATFKKEYNG-DDLVVTITSSNWDGVARRYYKA--*
+           ====|=========|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130      0140    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17]
+
+  1-1lfo       100.0  35.7  24.6  28.6  27.0  26.2  29.4  22.2  23.8  18.3
+                36.5  27.0  32.5  23.8  27.8  22.2  28.6
+  2-1eioa       35.7 100.0  22.8  23.6  27.6  26.8  25.2  23.6  22.8  22.0
+                24.4  22.0  25.2  24.4  27.6  22.0  20.5
+  3-3ifba       24.6  22.8 100.0  81.7  30.5  32.8  35.1  30.5  32.8  25.2
+                26.7  31.3  29.8  30.5  26.0  21.4  19.8
+  4-1ifc        28.6  23.6  81.7 100.0  31.3  32.1  32.1  27.5  29.0  23.7
+                28.2  29.0  32.1  30.5  30.5  25.2  19.1
+  5-1bwya       27.0  27.6  30.5  31.3 100.0  88.5  68.7  60.3  64.9  47.0
+                42.4  40.2  43.2  34.1  40.2  33.3  30.5
+  6-1hmt        26.2  26.8  32.8  32.1  88.5 100.0  66.4  60.3  64.1  49.6
+                42.7  42.0  43.5  32.1  40.5  35.1  32.1
+  7-1fdqa       29.4  25.2  35.1  32.1  68.7  66.4 100.0  58.8  56.5  45.0
+                43.5  38.9  42.0  37.4  36.6  26.7  26.7
+  8-1pmpa       22.2  23.6  30.5  27.5  60.3  60.3  58.8 100.0  64.9  56.5
+                40.5  42.7  41.2  37.4  35.1  33.6  24.4
+  9-1lif        23.8  22.8  32.8  29.0  64.9  64.1  56.5  64.9 100.0  52.7
+                40.5  38.9  37.4  36.6  38.2  30.5  30.5
+ 10-1b56        18.3  22.0  25.2  23.7  47.0  49.6  45.0  56.5  52.7 100.0
+                29.3  35.3  33.8  29.3  27.1  28.6  15.3
+ 11-1ftpa       36.5  24.4  26.7  28.2  42.4  42.7  43.5  40.5  40.5  29.3
+               100.0  37.6  36.1  26.3  31.6  25.6  33.6
+ 12-1cbia       27.0  22.0  31.3  29.0  40.2  42.0  38.9  42.7  38.9  35.3
+                37.6 100.0  76.5  40.3  36.1  33.6  21.4
+ 13-1cbs        32.5  25.2  29.8  32.1  43.2  43.5  42.0  41.2  37.4  33.8
+                36.1  76.5 100.0  42.5  38.3  36.6  22.1
+ 14-1crb        23.8  24.4  30.5  30.5  34.1  32.1  37.4  37.4  36.6  29.3
+                26.3  40.3  42.5 100.0  56.4  56.0  16.0
+ 15-1opba       27.8  27.6  26.0  30.5  40.2  40.5  36.6  35.1  38.2  27.1
+                31.6  36.1  38.3  56.4 100.0  50.4  25.2
+ 16-1ggla       22.2  22.0  21.4  25.2  33.3  35.1  26.7  33.6  30.5  28.6
+                25.6  33.6  36.6  56.0  50.4 100.0  20.6
+ 17-1mdc        28.6  20.5  19.8  19.1  30.5  32.1  26.7  24.4  30.5  15.3
+                33.6  21.4  22.1  16.0  25.2  20.6 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1cvl       structureX:1cvl:   1 : : 319 : :lipase (triacylglycerol lipase):Chromobacterium viscosum: 1.6: 17.8
+[  2] 4lipd      structureX:4lip:   2 :D: 320 :D:lipase precursor (triacylglycerol lipase):Burkholderia cepacia: 1.75: 17.8
+
+
+1cvl       ADTYAATRYPVILVHGLAGTDKFANVVDYWYGIQSDLQSHGAKVYVANLSGFQSDDGPNGRGEQLLAYVKQVLAA
+4lipd      -DNYAATRYPIILVHGLTGTDKYAGVLEYWYGIQEDLQQRGATVYVANLSGFQSDDGPNGRGEQLLAYVKTVLAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cvl       TGATKVNLIGHSQGGLTSRYVAAVAPQLVASVTTIGTPHRGSEFADFVQDVLKTDPTGLSSTVIAAFVNVFGTLV
+4lipd      TGATKVNLVGHSQGGLTSRYVAAVAPDLVASVTTIGTPHRGSEFADFVQGVLAYDPTGLSSTVIAAFVNVFGILT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cvl       SSSHNTDQDALAALRTLTTAQTATYNRNFPSAGLGAPGSCQTGAATETVGGSQHLLYSWGGTAIQPTST---VTG
+4lipd      SSSNNTNQDALAALKTLTTAQAATYNQNYPSAGLGAPGSCQTGAPTETVGGNTHLLYSWAGTAIQPTISVFGVTG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cvl       ATDTSTG-TLDVANVTDPSTLALLATGAVMINRASGQNDGLVSRCSSLFGQVISTSYHWNHLDEINQLLGVRGAN
+4lipd      ATDTSTIPLVDPANALDPSTLALFGTGTVMVNRGSGQNDGVVSKCSALYGQVLSTSYKWNHLDEINQLLGVRGAN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1cvl       AEDPVAVIRTHVNRLKLQGV*
+4lipd      AEDPVAVIRTHANRLKLAGV*
+           =========|=========|
+                    0310      0320 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cvl       100.0  83.9
+  2-4lipd       83.9 100.0
+
+***************************************************************************

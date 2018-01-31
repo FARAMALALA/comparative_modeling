@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 1d2ka      structureX:1d2k:  36 :A: 427 :A:chitinase 1:Coccidioides immitis: 2.2: 17
+[  2] 1edqa      structureX:1edq: 133 :A: 563 :A:chitinase A:Serratia marcescens: 1.55: 18.7
+[  3] 1e15a      structureX:1e15:   3 :A: 446 :A:chitinase:Serratia marcescens: 1.9: 18.3
+[  4] 1e9la      structureX:1e9l:  22 :A: 393 :A:macrophage secretory protein:Mus musculus: 2.5: 19.8
+
+
+1d2ka      -----------------------GGFRSVVYFVNWAIY----------GRGHNPQDLK---ADQFTHILYAFANI
+1edqa      TDGSHLAPLKEPLLEKNKPYKQNSGKVVGSYFVEWGVY----------GRNFTVDKIP---AQNLTHLLYGFIPI
+1e15a      -----------------------TRKAVIGYYFIPTNQINNYTETDTSVVPFPVSNITPAKAKQLTHINFSFLDI
+1e9la      -------------------------YQLMCYYTSWAKDRP-------IEGSFKPGNID---PCLCTHLIYAFAGM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d2ka      RP--------------------------SGEVYLSDTWADTDKHYPGDKWDEPGNNVYGCIKQMYLLKKNNRNLK
+1edqa      CGGNGINDSLKEIEGSFQALQRSCQGREDFKVSIHDPFAALQKAQKGVTAWDD--PYKGNFGQLMALKQAHPDLK
+1e15a      NS--------------------------NLECAWDP--------------ATNDAKARDVVNRLTALKAHNPSLR
+1e9la      Q---------------------------NNEITYTHEQDL------------------RDYEALNGLKDKNTELK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d2ka      TLLSIGGWTY-------SPNFKTPASTEEGRKKFADTSLKLMKDL-GFDGIDIDWEYPE---------DEKQAND
+1edqa      ILPSIGGWTL-------SDPFFF-MGDKVKRDRFVGSVKEFLQTWKFFDGVDIDWEFPGGKGANPNLGSPQDGET
+1e15a      IMFSIGGWYYSNDLGVSHANYVNAVKTPASRAKFAQSCVRIMKDY-GFDGVDIDWEYPQ----------AAEVDG
+1e9la      TLLAIGGWKF------GPAPFSAMVSTPQNRQIFIQSVIRFLRQY-NFDGLNLDWQYPGSR-----GSPPKDKHL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1d2ka      FVLLLKACREALDAYSAKHP-NGKKFLLTIASPAGPQNYNK-L-KLAEMDKYLDFWNLMAYDFSGSWD-KVSGHM
+1edqa      YVLLMKELRAMLDQLSVETG---RKYELTSAISAGKDKIDK-V-AYNVAQNSMDHIFLMSYDFYGAFDLKNLGHQ
+1e15a      FIAALQEIRTLLNQQTITDGRQALPYQLTIAGAGGAFFLSRYYSKLAQIVAPLDYINLMTYDLAGPWE-KVTNHQ
+1e9la      FSVLVKEMRKAFEEESVEKD--IPRLLLTSTGAGIIDVIKSGY-KIPELSQSLDYIQVMTYDLHDPKD-GYTGEN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1d2ka      SNVFPSTTK-----------------------PESTPFSSDKAVKDYIKA-GVPANKIVLGMPLYGRAFASTD--
+1edqa      TALNAPAWK------------------------PDTAYTTVNGVNALLAQ-GVKPGKIVVGTAMYGRGWTGVNGY
+1e15a      AALFGDAAGPTFYNALREANLGWSWEELTRAFPSPFSLTVDAAVQQHLMMEGVPSAKIVMGVPFYGRAFKGVSG-
+1e9la      SPLYKSPYDI----------------------GKSADLNVDSIISYWKDH-GAASEKLIVGFPAYGHTFILSD--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1d2ka      ----GIGTSFNGVG--------------G-GSW--ENGVWDYKDMPQQ-----GAQVTELEDIAASYSYDKNKRY
+1edqa      QNNIPFTGTATGPV--------------K-GTW--ENGIVDYRQIAGQFMSG-EWQYTYDATAEAPYVFKPSTGD
+1e15a      -GNGGQYSSHSTPGEDPYPSTDYWLVGCEECVRDKDPRIASYRQLEQMLQGNYGYQRLWNDKTKTPYLYHAQNGL
+1e9la      PSKTGIGAPTISTG--------------PPGKYTDESGLLAYYEVCTFLNE--GATEVWDAPQEVPYAYQG--NE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1d2ka      LISYDTVKIAGKKAEYITKNGMGGGMWWESSSDKT-------GNESLVGTVVNGLGGTGKLEQRENELSYPESVY
+1edqa      LITFDDARSVQAKGKYVLDKQLGGLFSWEIDADNG----------DILNSMNASLGNSAGVQ-------------
+1e15a      FVTYDDAESFKYKAKYIKQQQLGGVMFWHLGQDNR--------NGDLLAALDRYFNAA-----DYDDSQLDMGTG
+1e9la      WVGYDNVRSFKLKAQWLKDNNLGGAVVWPLDMDDFSGSFCHQRHFPLTSTLKGDLN----IHSAS----------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1d2ka      DNLKNGMPS*
+1edqa      ---------*
+1e15a      LRYTGVGPG*
+1e9la      ---------*
+           ====|====
+               0530 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1d2ka      100.0  27.8  26.5  24.5
+  2-1edqa       27.8 100.0  23.7  22.6
+  3-1e15a       26.5  23.7 100.0  25.8
+  4-1e9la       24.5  22.6  25.8 100.0
+
+***************************************************************************

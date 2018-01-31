@@ -1,0 +1,83 @@
+      Code       Title
+
+[  1] 1diia      structureX:1dii:   7 :A: 521 :A:P-cresol methylhydroxylase:Pseudomonas putida: 2.50: 17.2
+[  2] 1vaoa      structureX:1vao:   6 :A: 560 :A:vanillyl-alcohol oxidase:Penicillium simplicissimum: 2.5: 22
+[  3] 1f0xa      structureX:1f0x:   9 :A: 567 :A:D-lactate dehydrogenase :Escherichia coli: 1.90: 20.9
+[  4] 1i19a      structureX:1i19:  57 :A: 613 :A:cholesterol oxidase:Brevibacterium sterolicum: 1.70: 18.2
+
+
+1diia      ----AVLPKGVTQGEFNKAVQKFRALLGDDNVLVESD-----QLVPYNKIMMPVENAAH--APSAAVTATTVEQV
+1vaoa      EFRPLTLPPKLSLSDFNEFIQDIIRIVGSENVEVISVDGSYMKPTHTHDPHHVMDQDYF--LASAIVAPRNVADV
+1f0xa      ---------------NKAFLNELARLVGSSHLLTD-----PAKTARYRKGFRSGQ---G--DALAVVFPGSLLEL
+1i19a      ------------VAPLPT-PPNFPNDIA---LFQQ-----------AYQNWSK----EIMLDATWVCSPKTPQDV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1diia      QGVVKICNEHKIPIWTISTGRNFGYGSAAPVQ----RGQVILDLKK-MNKIIKIDP--EMCYALVEPGVTFGQMY
+1vaoa      QSIVGLANKFSFPLWPISIGRNSGYGGAAPRV----SGSVVLDMGKNMNRVLEVNV--EGAYCVVEPGVTYHDLH
+1f0xa      WRVLKACVTADKIILMQAANTGL-TEGSTPNGNDYDRDVVIISTLR-LDK-LHVLG--KGEQVLAYPGTTLYSLE
+1i19a      VRLANWAHEHDYKIRPRGAMHGW-TPLTVEK-GANVEKVILADTMTHLNG-ITVNTGGPVATVTAGAGASIEAIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1diia      DYIQENNL--PVML-SFSAPSAI-AGPVGNTMDRGVGYTP------------YGEHFMMQCGMEVVLA--NG--D
+1vaoa      NYLEANNLRDKLWL-DVPDL-GG-GSVLGNAVERGVGYTP------------YGDHWMMHSGMEVVLA--NG--E
+1f0xa      KALKPL----GREPHSVIGSSCIGASVIGGICNNSGGSLV------------QRGPA-YTEMSLFARINEDGKLT
+1i19a      TELQKH----DLGWANLPAP-GV-LSIGGALAVNAHGAALPAVGQTTLPGHTYGSLSNLVTELTAVVWNG-----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1diia      VYRTGMGGVP----------------GSN----------------TWQIFKWGYGP-------TLDGMFTQA-NY
+1vaoa      LLRTGMGALPDPKRPETMGLKPEDQPWSK----------------IAHLFPYGFGP-------YIDGLFSQS-NM
+1f0xa      LVNHLGI--DLGETPEQILSKLDDDRIKDDDVRHDGRHAHDYDYVHRVRDIEADTPARYNADPDRLFESSGCAGK
+1i19a      ---------------------------------------------------TTYALETYQRNDPRITPLLTNLGR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1diia      GICTKMGFWLMPKPPVFKPFEVIFEDEADIVEIVD----ALRPLRMS-NTIPNSVVIASTLWEAGSAHLTRAQYT
+1vaoa      GIVTKIGIWLMPNPRGYQSYLITLPKDGDLKQAVD----IIRPLRLG-MALQNVPTIRHILLDAAVL-GDKRSYS
+1f0xa      LAVFAVRLDTFEAEKNQQVFYIGTN---QPEVLTE----IRRHILANFENLPVAGEYMHRDIYDIAE--------
+1i19a      CFLTSVTMQAGPNF-RQRCQSYTDIPWRELFAPKGADGRTFEKFVAE----SGGAEAIWYPFTE---------KP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1diia      TEPGHTPDSVIKQMQKDTGM--GAWNLYAALYGTQEQVDVNWKIVTDVFKKLGKGRIVTQEEAGDTQPFKYRAQL
+1vaoa      SRTEPLSDEELDKIAKQLNL--GRWNFYGALYGPEPIRRVLWETIKDAFSAIPGVKFYFPEDTPENSVLRVRDKT
+1f0xa      ------LPPRMKNWRDK-----YEHHLLLKMAG--DGVGEAKSWLVDYFKQA-EGDFFVCT-----PEEGSKAFL
+1i19a      WMKVWTVSPSLVGKPPQAREVSGPYNYIFSDNLPEPITDMIGAINAGNPGIAPLF----GPAMYEITKLGLAATN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1diia      MSGVPNLQEFGLYNWRG-----GGGSMWFAPVSEAR----GSECKKQAAMAKRVLHK------YGLDYVAEFIVA
+1vaoa      MQGIPTYDELKWIDWLP-----NGAHLFFSPIAKVS----GEDAMMQYAVTKKRCQE------AGLDFIGTFTVG
+1f0xa      HRF---AAAGAAIRYQAVHSDEVEDILALDIALRRN----DTEWY--EHLPPEID-S------QLVHKLYYGHFM
+1i19a      ANDIWGW-SKDVQFYIKA---TTLRLTEGGGAVVTSRANIATVINDFTEWFHERIEFYRAKGEFPLNGPVEIRCC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1diia      PR----------------------------DMHHVIDVLYDRTNPEETKRADACFNELLDEFEKE------GYAV
+1vaoa      MR----------------------------EMHHIVCIVFNKKDLIQKRKVQWLMRTLIDDCAAN------GWGE
+1f0xa      C------------------------------YVFHQDYIVKK-----GVDVHALKEQMLELLQQR------GAQY
+1i19a      GLDQAADVKVPSVGPPTISATRPRPDHPDWDVAIWLNVLGVPGTP----GMFEFYREMEQWMRSHYNNDDATFRP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1diia      Y--RV------NTRFQDRVAQSYG---------PVKRKLEHAIKRAVDPNNILAPGRSGID-LNNDF-----*
+1vaoa      Y--RT------HLAFMDQIMETYNW------NNSSFLRFNEVLKNAVDPNGIIAPGKSGVWPSQYSHVTWKL*
+1f0xa      PAEHN------VGHLYKAP------------------ETLQKFYRENDPTNSMNPGIGKTSKRKNW------*
+1i19a      EWSKGWAFGPDPYTDNDIVTNKMRATYIEGVPTTENWDTARARYNQIDPHRVFTNGFMDKLLP---------*
+           =========|=========|=========|=========|=========|=========|=========|==
+                    0610      0620      0630      0640      0650      0660      0670 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1diia      100.0  32.8  10.6   7.8
+  2-1vaoa       32.8 100.0  11.0   8.9
+  3-1f0xa       10.6  11.0 100.0   9.0
+  4-1i19a        7.8   8.9   9.0 100.0
+
+***************************************************************************

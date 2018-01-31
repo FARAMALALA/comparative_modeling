@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1bvza      structureX:1bvz:   1 :A: 120 :A:neopullulanase:Thermoactinomyces vulgaris: 2.60: 19.6
+[  2] 1smaa      structureX:1sma:   1 :A: 123 :A:maltogenic amylase:Thermus sp.: 2.80: 20.9
+
+
+1bvza      MLLEAIFHEAKGSYAYPISETQLRVRLRAKKGDVVRCEVLYADRYASP--EEELAHALAGKAGSDERFDYFEALL
+1smaa      MRKEAIHHRSTDNFAYAYDSETLHLRLQTKKNDVDHVELLFGDPYEWHDGAWQFQTMPMRKTGSDGLFDYWLAEV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bvza      ECSTKRVKYVFLLTGPQGEAVYFGETGFSAERS---KAGVFQYAYIHRSE*
+1smaa      KPPYRRLRYGFVLRAG-GEKLVYTEKGFYHEAPSDDTAYYFCFPFLHRV-*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bvza      100.0  33.3
+  2-1smaa       33.3 100.0
+
+***************************************************************************

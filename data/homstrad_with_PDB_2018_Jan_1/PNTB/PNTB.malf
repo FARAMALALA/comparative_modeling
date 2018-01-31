@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1d4oa      structureX:1d4o:   5 :A: 181 :A:NAD(P) transhydrogenase:Bos taurus: 1.21: -1
+[  2] 1e3ta      structureX:1e3t:  29 :A: 203 :A:nicotinamide nucleotide transhydrogenase, subunit beta:Rhodospirillum rubrum: -1: -1
+
+
+1d4oa      GTHTEINLDNAIDMIREANSIIITPGYGLCAAKAQYPIADLVKMLSEQGKKVRFGIHPVAGRMPGQLNVLLAEAG
+1e3ta      RSVKAGSAEDAAFIMKNASKVIIVPGYGMAVAQAQHALREMADVLKKEGVEVSYAIHPVAGRMPGHMNVLLAEAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d4oa      VPYDIVLEMDEINHDFPDTDLVLVIGANDTVNSAAQEDPNSIIAGMPVLEVWKSKQVIVMKRSLGVGYAAVDNPI
+1e3ta      VPYDEVFELEEINSSFQTADVAFVIGANDVTNPAAKTDPSSPIYGMPILDVEKAGTVLFIKRSMASGYAGVENEL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d4oa      FYKPNTAMLLGDAKKTCDALQAKVRES*
+1e3ta      FFRNNTMMLFGDAKKMTEQIVQAMN--*
+           =========|=========|=======
+                    0160      0170    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1d4oa      100.0  45.7
+  2-1e3ta       45.7 100.0
+
+***************************************************************************

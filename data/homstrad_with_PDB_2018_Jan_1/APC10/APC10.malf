@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1gqpa      structureX:1gqp:  63 :A: 256 :A:APC10:Saccharomyces cerevisiae: 2.2: 21.3
+[  2] 1jhja      structureX:1jhj:   2 :A: 162 :A:APC10:Homo sapiens: 1.6: 20.9
+
+
+1gqpa      SVLVLDDRIVDAATKDLYVNGFQNPTPENLQHMFHQGIEILDSA-RMINVTHLALWKPSSFKLGNPVDFALDDNY
+1jhja      --------------------------ATPNKTPPGADPKQLERTGTVREIGSQAVWSLSSCKPGFGVDQLRDDNL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gqpa      DTFWQSDGGQPHQLDIMFSKRMDICVMAIFFSMIADESYAPSLVKVYAGHSPSDARFYKMLEVRNVNGWVALRF-
+1jhja      ETYWQSDGSQPHLVNIQFRRKTTVKTLCIYADYKSDESYTPSKISVRVGNNFHNLQEIRQLELVEPSGWIHVPLT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gqpa      -----LLKCQFIRLLFPVNHENGKDTHLRGIRLYVPS*
+1jhja      DNHKKPTRTFMIQIAVLANHQNGRDTHMRQIKIYTPV*
+           =========|=========|=========|=======
+                    0160      0170      0180    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gqpa      100.0  29.8
+  2-1jhja       29.8 100.0
+
+***************************************************************************

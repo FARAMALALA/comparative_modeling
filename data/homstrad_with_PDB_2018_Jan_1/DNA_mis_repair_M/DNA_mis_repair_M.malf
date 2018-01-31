@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1h7sa      structureX:1h7s: 232 :A: 364 :A:PMS1 protein homolog 2:Homo sapiens: 1.95: 21.8
+[  2] 1b63a      structureX:1b63: 217 :A: 331 :A:DNA mismatch repair protein MutL:Escherichia coli: 1.9: 21.3
+
+
+1h7sa      GQKQLQSLIPFVQLPPSDSVCEEYGLSCSDALHNLFYISGFISQCTHGVGRS-STDRQFFFINRRPCDPAKVCRL
+1b63a      GTAFLEQALAIEWQH------------------GDLTLRGWVADPN--HTTPALAEIQYCYVNGRMMRDRLINHA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h7sa      VNEVYH-YNR-HQYPFVVLNISVDSECVDIN------QILLQEEKLLLAVLKTSLIG-FD*
+1b63a      IRQACEDKLGADQQPAFVLYLEIDPHQVDVNVHPAKHEVRFHQSRLVHDFIYQGVLSVLQ*
+           ====|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h7sa      100.0  13.0
+  2-1b63a       13.0 100.0
+
+***************************************************************************

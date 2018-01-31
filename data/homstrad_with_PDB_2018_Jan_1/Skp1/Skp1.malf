@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fs1b      structureX:1fs1:   2 :B: 140 :B:SKP1-SKP2 complex:Homo sapiens: 1.80: 21.8
+[  2] 1vcbb      structureX:1vcb:  17 :B: 112 :B:VHL-elonginC-elonginB structure:Homo sapiens: 2.7: 23.8
+
+
+1fs1b      PSIKLQSSDGEIFEVDVEIAKQSVTIKTMLEDLGMDPVPLPNVNAAILKKVIQWCTHHKDDP-----VWDQEFLK
+1vcbb      MYVKLISSDGHEFIVKREHALTSGTIKAMLSGP--NEVNFREIPSHVLSKVCMYFTYKVRYTNSSTEIP--EF-P
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fs1b      VDQGTLFELILAANYLDIKGLLDVTCKTVANMIKGKTPEEIRKTFN*
+1vcbb      IAPEIALELLMAANFLDC----------------------------*
+           ====|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fs1b      100.0  34.1
+  2-1vcbb       34.1 100.0
+
+***************************************************************************

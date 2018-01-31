@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1kkoa      structureX:1kko: 161 :A: 411 :A:methylaspartate ammonia lyase:Citrobacter amalonaticus: 1.33: 16.2
+[  2] 1kd0a      structureX:1kd0: 161 :A: 413 :A:methylaspartate ammonia-lyase:Clostridium tetanomorphum: 1.90: 17.8
+
+
+1kkoa      PCVPEAIPLFGQSGDDRYIAVDKILKGVDVLPHALINNVEEKLGFKGEKLREYVRWLSDRILSLRSSPRYHPTLH
+1kd0a      GAEINAVPVFAQSGDDRYDNVDKIIKEADVLPHALINNVEEKLGLKGEKLLEYVKWLRDRIIKLRVREDYAPIFH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kkoa      IDVYGTIGLIFDDPVRCAEYIASLEKEAQGLPLYIEGPVDAGNKPDQIRLTAITKELTRLGSGVKIVADEWCNTY
+1kd0a      IDVYGTIGAAFDVDIKAADYIQTLAEAAKPFHLRIEGP-DVEDRQKQEA-RDLRAELDGRGVDAELVADEWCNTV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kkoa      QDIVDFTDAGSCHVQIKTPDLGGIHNIVDAVLYCNKHGEAYQGGTCNETEISARTCVHVALAARPR--LIKPGGF
+1kd0a      EDVKFFTDNKAGHVQIKTPDLGGVNNIADAI-YCKANGGAYCGGTCNETNRSAEVTTNIG-ACGARQVLAKPGGV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kkoa      DEGLNIVFNENRTIALLQT--*
+1kd0a      DEG--IVKNENRVLALVGRRK*
+           ====|=========|======
+               0230      0240   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kkoa      100.0  55.4
+  2-1kd0a       55.4 100.0
+
+***************************************************************************

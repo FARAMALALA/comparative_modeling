@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1ocka      structureX:1ock:   1 :A: 412 :B:malonamidase e2:Bradyrhizobium japonicum:1.8:19.0
+[  2] 1m22a      structureX:1m22:  42 :A: 531 :A:Peptide amidase:Stenotrophomonas maltophilia: 1.40: 18.8
+
+
+1ocka      -----MISLADLQRRIETGELSPNAAIAQSHAAIEAREK---EVHAFVRHDKSA--RAQA----------SGPLR
+1m22a      PFPYAETDVADLQARMTAGELDSTTLTQAYLQRIAALDRTGPRLRAVIELNPDALKEAAERDRERRDGRLRGPLH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ocka      GIAVGIKDIIDTANMPTEMGSEIYRGWQPRSDAPVVMMLKRAGATIIGKTTTTAFASR----DPT-------ATL
+1m22a      GIPLLLKDNINAAPMATSAGSLALQGFRP-DDAYLVRRLRDAGAVVLGKTNLSEWANFRGNDSISGWSARGGQTR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ocka      NPHNTGHSPGGSSSGSAAAVGAGMIPLALGTQTGGSVIRPAAYCGTAAIKPSFRMLPTVGVKCYSWALDTVGLFG
+1m22a      NPYRISHSPCGSSSGSAVAVAANLASVAIGTETDGSIVCPAAINGVVGLKPTVGLVSRDGIIPISFSQDTAGPMA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ocka      ARAEDLARGLLAMTGR----SEFS------------GIVP--AKAPRIGVVRQEFAGAVEPAAEQGLQAAIKAAE
+1m22a      RSVADAAAVLTAIAGRDDADPATATMPGRAVYDYTARLDPQGLRGKRIGLLQTPLLK--YRGMPPLIEQAATELR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ocka      RAGASVQAIDLPEAVHEAWRIHPIIQDFEAHRALAWEFS----------EHHDEIA--------PMLRASLDATV
+1m22a      RAGAVVVPVELP-NQGAWAEAERTLLLYEFKAGLERYFNTHRAPLRSLADLIAFNQAHSKQELGLFGQELLVEAD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ocka      GLT---PKEYDEARRIGRR-GRRE-LGEVFE--GVDVLLTYSAPGTAPAKALASTGDPRYNRLWTLMGNPCVNVP
+1m22a      ATAGLADPAYIRARSDARRLAGPEGIDAALAAHQLDALVAPTT-GVAWPIRSD--FPGESYSAAAVAGYPSLTVP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ocka      VLKVGGLPIGVQVIARFGNDAHALATAWFLEDALAK--------*
+1m22a      MGQIDGLPVGLLFMGTAWSEPKLIEMAYAYEQRTRARRPPHFDT*
+           =========|=========|=========|=========|====
+                    0460      0470      0480      0490 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ocka      100.0  27.7
+  2-1m22a       27.7 100.0
+
+***************************************************************************

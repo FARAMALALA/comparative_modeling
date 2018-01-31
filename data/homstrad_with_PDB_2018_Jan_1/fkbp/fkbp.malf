@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1pbk       structureX:1pbk: 109 : : 224 : :FKBP-25  C-terminal domain:Homo sapiens: 2.50:18.50
+[  2] 1rot       structureN:1rot:  21 : : 138 : :FKBP-59  N-terminal domain:Oryctolagus cuniculus:-1.00:-1.00
+[  3] 1fkb       structureX:1fkb:   1 : : 107 : :FKBP-12:Homo sapiens: 1.70:16.50
+[  4] 1yat       structureX:1yat:  -5 : : 107 : :12KDa FK506-binding protein:Saccharomyces cerevisiae: 2.50:17.70
+
+
+1pbk       ---------PKYTKSVLKKGDKTNFPKKGDVVHCWYTGTLQDGTVFDTNIQTSAKKKKNAKPLSFKVGVGKVIRG
+1rot       GVDISPKQDEGVLKVIKREGTGTETPMIGDRVFVHYTGWLLDGTKFDSSLDR-------KDKFSFDLGKGEVIKA
+1fkb       ----------GVQVETISPGDGRTFPKRGQTCVVHYTGMLEDGKKFDSSRDR-------NKPFKFMLGKQEVIRG
+1yat       SEVIE----GNVKIDRISPGDGATFPKTGDLVTIHYTGTLENGQKFDSSVDR-------GSPFQCNIGVGQVIKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pbk       WDEALLTMSKGEKARLEIEPEWAYGKKGQPDAKIPPNAKLTFEVELVDID-*
+1rot       WDIAVATMKVGELCRITCKPEYAYGSAGSPP-KIPPNATLVFEVELFEFKG*
+1fkb       WEEGVAQMSVGQRAKLTISPDYAYGATGHPG-IIPPHATLVFDVELLKLE-*
+1yat       WDVGIPKLSVGEKARLTIPGPYAYGPRGFPG-LIPPNSTLVFDVELLKVN-*
+           ====|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1pbk       100.0  42.2  42.1  41.6
+  2-1rot        42.2 100.0  50.5  45.1
+  3-1fkb        42.1  50.5 100.0  57.0
+  4-1yat        41.6  45.1  57.0 100.0
+
+***************************************************************************

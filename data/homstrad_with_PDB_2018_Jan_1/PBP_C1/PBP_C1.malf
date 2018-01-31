@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1k25a      structureX:1k25: 632 :A: 692 :A:PBP2X from a highly penicillin-resistant clinical isolate:Streptococcus pneumoniae: 3.2: 23.5
+[  2] 1qmea      structureX:1qme: 632 :A: 692 :A:penicillin-binding protein 2X:Streptococcus pneumoniae: 2.4: 19.7
+
+
+1k25a      TESSYAMPSIKDISPGELAEALRRNIVQPIVVGTGTKIKETSVEEGTNLAPNQQVLLLSDK*
+1qmea      QQSPYPMPSVKDISPGDLAEELRRNLVQPIVVGTGTKIKNSSAEEGKNLAPNQQVLILSDK*
+           =========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k25a      100.0  78.7
+  2-1qmea       78.7 100.0
+
+***************************************************************************

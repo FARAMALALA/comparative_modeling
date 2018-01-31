@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1fa0b      structureX:1fa0: 352 :B: 530 :B:poly(A) polymerase:Saccharomyces cerevisiae: 2.60: 23.3
+[  2] 1fa0a      structureX:1fa0: 352 :A: 523 :A:poly(A) polymerase:Saccharomyces cerevisiae: 2.60: 23.3
+[  3] 1f5aa      structureX:1f5a: 365 :A: 498 :A:poly(A) polymerase:Bos taurus: 2.50: 21.9
+
+
+1fa0b      NDFFFRYKFYLEITAYTRGSDEQHLKWSGLVESKVRLLVMKLEVLAGIKIAHPFTKPFESSYCCPTEDDYEMIQD
+1fa0a      NDFFFRYKFYLEITAYTRGSDEQHLKWSGLVESKVRLLVMKLEVLAGIKIAHPFTKPFESSYCCPTEDDYEMIQD
+1f5aa      PNFFQKYKHYIVLLASAP-TEKQRLEWVGLVESKIRILVGSLEKNEFITLAHVNPQSFPAK--------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fa0b      KYGSHKTETALNALKLVT------------PKAYLSTMYIGLDFNK------VDIHIPCTEFVNLCRSFNEDYGD
+1fa0a      ------------KLKLVTDENKEEESIKDAPKAYLSTMYIGLDFNIENKKEKVDIHIPCTEFVNLCRSFNEDYGD
+1f5aa      --------------------------------EEFRTWVIGLVFK--------DLTYDIQSFTDTVYRQAIN-SK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fa0b      HKVFNLALRFVKGYDLPDEVFDENEKRPS*
+1fa0a      HKVFNLALRFVKGYDLPDEVFD-------*
+1f5aa      FEVDKIAA-HVKRKQLHQLLP--------*
+           =========|=========|=========
+                    0160      0170      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1fa0b      100.0  87.5  31.6
+  2-1fa0a       87.5 100.0  31.6
+  3-1f5aa       31.6  31.6 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1i6aa      structureX:1i6a:  87 :A: 298 :A:hydrogen peroxide-inducible genes activator:Escherichia coli: 2.30: 16.9
+[  2] 1al3       structureX:1al3:  88 : : 324 : :Cys regulon transcriptional activator:Klebsiella aerogenes: 1.80: 17.9
+
+
+1i6aa      E-TMSGPLHIGLIPTVGPYLLPHIIPMLHQTFPKLEMYLHEAQTHQLLAQLDSGKLDAVILALV-KESEAFIEVP
+1al3       TWPDKGSLYVATTHTQARYALPGVIKGFIERYPRVSLHMHQGSPTQIAEAVSKGNADFAIATEALHLYDDLVMLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1i6aa      LFDEPMLLAIYEDHPWANREAVPMADLAGEKLLMLEDGHCLRDQAMGFCFEAGADEDTHFRATSLETLRNMVAAG
+1al3       CYHWNRSIVVTPEHPLATKGSVSIEELAQYPLVTYTFGFTGRSELDTAFNRAGLTPRIVFTATDADVIKTYVRLG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1i6aa      SGITLLPALAVPPERKRDGVVYLPAIKPEPRRTIGLVYRPGSPLRSRYEQLAEAIRARMD-GHFD----------
+1al3       LGVGVIASMAVDPVSDP-DLVKLDANGIFSHSTTKIGFRRSTFLRSYMYDFIQRFAPHLTRDVVDTAVALRSNED
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1i6aa      -------------*
+1al3       IEAMFKDIKLPEK*
+           ====|========
+               0230     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1i6aa      100.0  20.3
+  2-1al3        20.3 100.0
+
+***************************************************************************

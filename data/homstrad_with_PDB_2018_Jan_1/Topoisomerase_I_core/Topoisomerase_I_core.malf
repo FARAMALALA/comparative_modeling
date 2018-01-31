@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1a31a      structureX:1a31: 431 :A: 765 :A:DNA topoisomerase I:Homo sapiens: 2.1: 24.7
+[  2] 1a41       structureX:1a41:  81 : : 310 : :DNA topoisomerase I:Vaccinia virus: 2.3: 22.7
+
+
+1a31a      PSSRIKGEKDWQKYETARRLKKCVDKIRNQYREDWKSK-EMKVRQRAVALYFIDKLALRAGNEKEEGETADTVGC
+1a41       ---------NAKRDRIFVRVYNVMKRINCFINKNIKKSSTDSNYQLAVFMLMETMF------FKE----NETVGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a31a      CSLRVEHINLHPELDGQEYVVEFDFLGKDSIRYYNKVPVEKRVFKNLQLFMENKQPEDDLFDRLNTGILNKHLQD
+1a41       LTLKNKHIEISP------DEIVIKFVGKDKVSHEFVVHKSNRLYKPLLKLTDDSSPEEFLFNKLSERKVYECIKQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a31a      LMEGLTAKVFRTYNASITLQQQLKE---LTAPDEN-IPAKILSYNRANRAV--KLN--LDPRITVAWCKKW----
+1a41       F--GIRIKDLRTYGVNYTFLYNFWTNVKSISPLPSPKKLIALTIKQTAEVVGHTPSISKRAYMATTILEMVKDKN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a31a      GVPIEKIYNKTQREKFAWAIDMADEDYEF*
+1a41       FLDVVSKTTFDEFLSIVVDHVKS------*
+           ====|=========|=========|====
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a31a      100.0  16.7
+  2-1a41        16.7 100.0
+
+***************************************************************************

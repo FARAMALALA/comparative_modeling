@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1pina      structureX:1pin:  45 :A: 163 :A:peptidyl-prolyl cis-trans isomerase NimA-interacting 1:Homo sapiens: 1.35: 22.3
+[  2] 1eq3a      structureX:1eq3:  36 :A: 131 :A:human parvulin hpar14:Homo sapiens: -1: -1
+
+
+1pina      GKNGQGEPARVRCSHLLVKHSQSRRPSSWRQEKITRTKEEALELINGYIQKIKSGEEDFESLASQFSDCSSAKAR
+1eq3a      --------NAVKVRHILCEKH---------------------GKIMEAMEKLKSGM-RFNEVAAQYSEDK-ARQG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pina      GDLGAFSRGQMQKPFEDASFALR------TGEMSGPVFTDSGIHIILRTE--*
+1eq3a      GDLGWMTRGSMVGPFQEAAFALPVSGMDKPVFTDPPVKTKFGYHIIMVEGRK*
+           ====|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1pina      100.0  34.4
+  2-1eq3a       34.4 100.0
+
+***************************************************************************

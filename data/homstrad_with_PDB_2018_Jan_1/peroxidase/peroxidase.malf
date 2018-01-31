@@ -1,0 +1,70 @@
+      Code       Title
+
+[  1] 1qpaa      structureX:1qpa:   0 :A: 345 :A:lignin peroxidase:Basidiomycete phanerochaete chrysosporium:1.80:16.2
+[  2] 1lgaa      structureX:1lga:   1 :A: 343 :A:lignin peroxidase:Phanerochaete chryosporium: 2.03:15.00
+[  3] 1mn2       structureX:1mn2:   1 : : 357 : :manganese peroxidase:Phanerochaete chrysosporium:2.00:18.7
+[  4] 1arp       structureX:1arp:   9 : : 344 : :peroxidase:Arthromyces ramosus: 1.90:17.40
+[  5] 2cyp       structureX:2cyp:   2 : : 294 : :cytochrome c' peroxidase:Saccharomyces cerevisiae: 1.70:20.20
+
+
+1qpaa      -------VACPDGVHTASNAACCAWFPVLDDIQQNLFHGGQCG---AEAHEALRMVFHDSIAISPKLQSQGKFGG
+1lgaa      -------ATCANG-KTVGDASCCAWFDVLDDIQANMFHGGQCG---AEAHESIRLVFHDSIAISPAMEAKGKFGG
+1mn2       -------AVCPDG-TRVSHAACCAFIPLAQDLQETIFQ-NECG---QDAHEVIRLTFHDAIAISRSQGP---KAG
+1arp       ------SVTCPGG-QSTSNSQCCVWFDVLDDLQTNFYQGSKCE---SPVRKILRIVFHDAIGFSPALTAAGQFGG
+2cyp       TPLVHVASVEK-------GRSYEDFQKVYNAIALKLREDDEYDNYIGYGPVLVRLAWHTSGTWDKH------DNT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qpaa      GGADGSIITFSSIETTYHPNIGLDEVVAIQKPFIAKHG-VTPGDFIAFAGAVGVSNCPGAPQMQFFLGRPEAT--
+1lgaa      GGADGSIMIFDTIETAFHPNIGLDEVVAMQKPFVQKHG-VTPGDFIAFAGAVALSNCPGAPQMNFFTGRKPAT--
+1mn2       GGADGSMLLFPTVEPNFSANNGIDDSVNNLIPFMQKHNTISAADLVQFAGAVALSNCPGAPRLEFLAGRPNKT--
+1arp       GGADGSIIAHSNIELAFPANGGLTDTIEALRAVGINHG-VSFGDLIQFATAVGMSNCPGSPRLEFLTGRSNSS--
+2cyp       GGSYGGTYRF-KKEFNDPSNAGLQNGFKFLEPIHKEFPWISSGDLFSLGGVTAVQEM-QGPKIPWRCGRVDTPED
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qpaa      QAAPDGLVPEPFHTIDQVLARMLDAGGFDEIETV-LLSAHSIAAANDVDPTISGLPFDSTPGQFDSQFFVETQ-L
+1lgaa      QPAPDGLVPEPFHTVDQIIARVNDAGEFDELELVWMLSAHSVAAVNDVDPTVQGLPFDSTPGIFDSQFFVETQ-F
+1mn2       IAAVDGLIPEPQDSVTKILQRFEDAGGFTPFEVVSLLASHSVARANKVDQTIDAAPFDSTPFTFDTQVFLEVL-L
+1arp       QPSPPSLIPGPGNTVTAILDRMGDAG-FSPDEVVDLLAAHSLASQEGLNSAIFRSPLDSTPQVFDTQFYIETL-L
+2cyp       TTPDNGRLPDADKDADYVRTFFQRLN-MNDREVVALMGAHALGKTHLKNSGYE-GPWGAANNVFTNEFYLNLLNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qpaa      RGTAFPGKTGIQGTVMSPLK-------GEMRLQTDHLFARDSRTACEWQSFVNNQTKLQEDFQFIFTALSTLGHD
+1lgaa      RGTLFPGSGGNQGEVESGMA-------GEIRIQTDHTLARDSRTACEWQSFVGNQSKLVDDFQFIFLALTQLGQD
+1mn2       KGVGFPGSANNTGEVASPLPLGSGSDTGEMRLQSDFALAHDPRTACIWQGFVNEQAFMAASFRAAMSKLAVLGHN
+1arp       KGTTQPGPSLGFAEELSPFP-------GEFRMRSDALLARDSRTACRWQSMTSSNEVMGQRYRAAMAKMSVLGFD
+2cyp       DWKLEKNDANN--EQWDSKS-------GYMMLPTDYSLIQDPKYLSIVKEYANDQDKFFKDFSKAFEKLLENGIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qpaa      -MNAMIDCSEVIP-----APKPVNF-GP-SFFPAGKTHADIEQACASTPFPTLITAPG-PSASVA-------RIP
+1lgaa      -PNAMTDCSDVIP-----LSKPIPGNGPFSFFPPGKSHSDIEQACAETPFPSLVTLPG-PATSVA-------RIP
+1mn2       -RNSLIDCSDVVP-----VPKPAT-GQP-AMFPASTGPQDLELSCPSERFPTLTTQPGASQSLIAHCPDGSMSCP
+1arp       -RNALTDCSDVIP-----SAVSNN--AA-PVIPGGLTVDDIEVSCPSEPFPEIATASG-PLPSLAPAP-------
+2cyp       FPKDAPSPFIFKTLEEQGL--------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qpaa      PPPSP--N*
+1lgaa      PHKA----*
+1mn2       GVQFNGPA*
+1arp       --------*
+2cyp       --------*
+           ====|===
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1qpaa      100.0  72.3  47.2  45.2  16.4
+  2-1lgaa       72.3 100.0  45.2  43.2  17.1
+  3-1mn2        47.2  45.2 100.0  43.2  19.1
+  4-1arp        45.2  43.2  43.2 100.0  14.7
+  5-2cyp        16.4  17.1  19.1  14.7 100.0
+
+***************************************************************************

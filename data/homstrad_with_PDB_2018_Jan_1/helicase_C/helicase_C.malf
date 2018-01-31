@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1d9xa      structureX:1d9x: 415 :A: 595 :A:deoxyribonucleic acid repair protein uvrB:Bacillus caldotenax: 2.60: 25.6
+[  2] 1c4oa      structureX:1c4o: 410 :A: 583 :A:excinuclease ABC subunit B:Thermus aquaticus: 1.50: 25.2
+[  3] 1hv8a      structureX:1hv8: 211 :A: 365 :A:probable ATP-dependent RNA helicase mj0669:Methanococcus jannaschii: 3.00: 27
+[  4] 1fuka      structureX:1fuk: 233 :A: 394 :A:eukaryotic initiation factor 4a:Saccharomyces cerevisiae: 1.75: 22.1
+[  5] 1heia      structureX:1hei: 326 :A: 480 :A:RNA helicase:Hepatitis C virus: 2.1: 22
+
+
+1d9xa      ------TGLLDPTIDVR-PTK--------GQIDDLIGEIRERVERNERTLVTTLTKKMAEDLTDYLKEAGIKVAY
+1c4oa      ------TGLLDPLVRVK-PTE--------NQILDLMEGIRERAARGERTLVTVLTVRMAEELTSFLVEHGIRARY
+1hv8a      ------NANIEQSYVEV-NEN--------ERFEALCRLLKNKE--F-YGLVFCKTKRDTKELAS-LRDIGFKAGA
+1fuka      ---------IKQFYVNVEEEE--------YKYECLTDLYDSIS--VTQAVIFCNTRRKVEELTTKLRNDKFTVSA
+1heia      PGSVTVSHPNIEEVALSTTGEIPFYGKAI-----PLEVIKG-----GRHLIFCHSKKKCDELAAKLVALGINAVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d9xa      LHSEIKTLERIEIIRDLRLGKYDVLVGINLLREGLDIPEVSLVAILDADKE------------------GFLRSE
+1c4oa      LHHELDAFKRQALIRDLRLGHYDCLVGINLLREGLDIPEVSLVAILDADKE------------------GFLRSE
+1hv8a      IHGDLSQSQREKVIRLFKQKKIRILIATD-VSRGIDVNDLNCVINYHLPQ-----------------------NP
+1fuka      IYSDLPQQERDTIMKEFRSGSSRILISTDLLARGIDVQQVSLVINYDLPA-----------------------NK
+1heia      YYRGLD----VSVIP---TNGDVVVVSTDALMTG-FTGDFDSVIDCNTCVTQTVDFSLDPTFTIETTTLP--QDA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d9xa      RSLIQTIGRAARNA-NGHVIMYA-DTITKSMEIAIQETKRRR--AIQEEYNRKHGIVPRTVKKEIRDV*
+1c4oa      RSLIQTIGRAARNA-RGEVWLYA-DRVSEAMQRAIEETNRRR--ALQEAYNLEHGITPETV-------*
+1hv8a      ESY-HRIGRTGRAGKKGKAISIINRREYKKLRYIERA-KLKIKKLK----------------------*
+1fuka      ENYIHRIGRGG-----GVAINFVTNEDVGAMRELEKFYSTQIEELPS--------------DIATLLN*
+1heia      VSRTQRRGRTGR-GKPGIYRFVA--------PGE----------------------------------*
+           =========|=========|=========|=========|=========|=========|========
+                    0160      0170      0180      0190      0200      0210     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1d9xa      100.0  69.0  17.9  19.1  14.2
+  2-1c4oa       69.0 100.0  17.9  19.1  17.4
+  3-1hv8a       17.9  17.9 100.0  38.4  20.5
+  4-1fuka       19.1  19.1  38.4 100.0  15.5
+  5-1heia       14.2  17.4  20.5  15.5 100.0
+
+***************************************************************************

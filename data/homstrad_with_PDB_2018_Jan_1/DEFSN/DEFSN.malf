@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1dfna      structureX:1dfn:   2 :A:  31 :A:neutrophil defensins 3 (HNP-3):Homo sapiens: 1.9: -1
+[  2] 1bnb       structureX:1bnb:   1 : :  38 : :beta-defensin 12 (bndb-12):Bos taurus: -1: -1
+
+
+1dfna      --------DCYCRIPACIAGERRYGTCIYQGRLWAFCC--*
+1bnb       APLSCGRNGGVCIPIRCPVPMRQIGTCFGR--PVKCCRSW*
+           =========|=========|=========|=========|
+                    0010      0020      0030      0040 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dfna      100.0  23.3
+  2-1bnb        23.3 100.0
+
+***************************************************************************

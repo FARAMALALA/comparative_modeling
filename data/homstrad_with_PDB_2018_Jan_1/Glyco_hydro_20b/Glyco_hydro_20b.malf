@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1qba       structureX:1qba: 201 : : 337 : :chitobiase:Serratia marcescens: 1.85: 13.9
+[  2] 1hp5a      structureX:1hp5:   8 :A: 150 :A:beta-N-acetylhexosaminidase complexed with intermediate analogue NAG-thiazoline:Streptomyces plicatus: 2.10: 19.7
+
+
+1qba       SNADLQTLPAGALRG-KIVPTPMQVKVHAQDADLRKGVALDLSTLV--KPAADVVSQRFALL-GV--PVQTNG-Y
+1hp5a      ----DRKAPVRPTPLDRVIPAPASVDPGGAPYRITRGTHIRVDDSREARRVGDYLADLLRPATGYRLPVTAHGHG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qba       PIKTDIQPGKFKGAMAVSGAYELKIGKKEAQVIGFDQAGVFYGLQSILSLVPSD--------GSGKIATLDASDA
+1hp5a      GIRLRLAGGPYG-----DEGYRLDSGPAGVTITARKAAGLFHGVQTLRQLLPPAVEKDSAQPGPWLVAGGTIEDT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qba       PR*
+1hp5a      PR*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qba       100.0  19.7
+  2-1hp5a       19.7 100.0
+
+***************************************************************************

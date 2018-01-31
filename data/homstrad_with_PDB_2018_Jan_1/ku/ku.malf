@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1jeya      structureX:1jey:  34 :A: 534 :A:ATP-dependent DNA helicase II, 70 kda subunit:Homo sapiens: 2.50: 21.8
+[  2] 1jeyb      structureX:1jey:   6 :B: 545 :B:ATP-dependent DNA helicase II, 80 kda subunit:Homo sapiens: 2.50: 21.8
+
+
+1jeya      GRDSLIFLVDASKAMFESQSEDELTPFDMSIQCIQSVYISKIISSDRDLLAVVFYGTEKDKNSVN----FKNIYV
+1jeyb      NKAAVVLCMDVGFTMSNSIP-GIESPFEQAKKVITMFVQRQVFAENKDEIALVLFGTDGTDNPLSGGDQYQNITV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jeya      LQELDNPGAKRILELDQFKGQQGQKRFQDMMGHGSDYSLSEVLWVCANLFSDVQFKMSHKRIMLFTNEDNPHGND
+1jeyb      HRHLMLPDFDLLEDIES-----KIQPGS--QQADFLDALIVSMDVIQHETIGK--KFEKRHIEIFTDLSSRFS--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jeya      SAKASRARTKAGDLRDTGIFLDLMHLKKP------------------------GGFDISLFYRDIISVHFE-ESS
+1jeyb      ---KSQLDIIIHSLKKCDISLQFFLPFSLGGPFRLGGHGPSFPLKGITEQQKEGLEIVKMVMISLEGEDGLDEIY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jeya      KLEDLLR--KVRAKETRKRALSRLKLKLNKDIVISVGIYNLVQKALK-PPPIKLYRETNE--PVKTKTRTFNT-S
+1jeyb      SFSESLRKLCVFKKIERHSIHWPCRLTIGSNLSIRIAAYKSILQERVKKTWTVVDAKTLKKEDIQKETVYCLNDD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jeya      TGGLLLPSDTKRSQIYGSRQIILEKEETEELKRFDD-PGLMLMGFKPLVLLKKHHYL-RPSLFVYPEESLVIGSS
+1jeyb      DETEVLKEDIIQGFRYGSDIVPFSKVDEEQMKYKSEGKCFSVLGFCKSSQVQRRFFMGNQVLKVFAAR-DDEAAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1jeya      TLFSALLIKCLEKEVAALCRYTPRRNIPPYFVALVPQEEELDDQKIQVTPPGFQLVFLPFADDKRKMPFTEK---
+1jeyb      VALSSLIHALDDLDMVAIVRYAYDKRANPQVGVAFPHIK---HN-----YECLVYVQLPFMEDLRQYMFSSLKNS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1jeya      --IMATPEQVGKMKAIVEKLRF------------TYRSDSFENPVLQQHFRNLEALALDLMEP-EQAV----DLT
+1jeyb      KKYAPTEAQLNAVDALIDSMSLAKKDEKTDTLEDLFPTTKIPNPRFQRLFQCLLHRALHPREPLPPIQQHIWNML
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1jeya      LPKVEAMNKRLGSLVDEFKELVYPPDY-------*
+1jeyb      NPP-AEVTTKSQIPLSKIKTLFP----LIEAKKK*
+           ====|=========|=========|=========
+               0530      0540      0550      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jeya      100.0  16.2
+  2-1jeyb       16.2 100.0
+
+***************************************************************************

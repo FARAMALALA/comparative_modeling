@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1hcnb      structureX:1hcn:   2 :B: 111 :B:Chorionic gonadotropin:Homo sapiens: 2.6: 19.9
+[  2] 1fl7b      structureX:1fl7:   3 :B: 109 :B:Follicle stimulating protein beta chain:Homo sapiens: 3.00: 25.9
+
+
+1hcnb      KEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYRDVRFESIRLPGCPRGV
+1fl7b      -------CELTNITIAIEKEECRFCISINTAWCAGYCYTRDLVYKDPARPKIQKTCTFKELVYETVRVPGCAHHA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hcnb      NPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCD----*
+1fl7b      DSLYTYPVATQCHCGKCDSDSTDCTVRGLGPSYCSFGEM*
+           ====|=========|=========|=========|====
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hcnb      100.0  34.6
+  2-1fl7b       34.6 100.0
+
+***************************************************************************

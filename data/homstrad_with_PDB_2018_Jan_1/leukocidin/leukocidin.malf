@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1pvl       structureX:1pvl:   1 : : 301 : :panton-valentine leucocidin F component:Staphylococcus aureus: 2.0: 20.126
+[  2] 3lkfa      structureX:3lkf:   1 :A: 299 :A:leukocidin F:Staphylococcus aureus: 1.90: 19.9
+[  3] 7ahla      structureX:7ahl:   1 :A: 293 :A:alpha-hemolysin:Staphylococcus aureus: 1.9: 19.9
+
+
+1pvl       -------------AQHITPVSEKKVDDKITLYKTTATSDSDKLKISQILTFNFIKDKSYDKDTLILKAAGNIYSG
+3lkfa      -------------EGKITPVSVKKVDDKVTLYKTTATADSDKFKISQILTFNFIKDKSYDKDTLVLKATGNINSG
+7ahla      ADSDINIKTGTTDIGS-----------NTTVKTGDLVTYDKENGMHKKVFYSFIDDKNHNKKLLVIRTKGTIAGQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pvl       YTKPNPKDTISSQFYWGSKYNISINSDSNDSVNVVDYAPKNQNEEFQVQQTVGYSYGGDINISN-----------
+3lkfa      FVKPNPNDYDFSKLYWGAKYNVSISSQSNDSVNVVDYAPKNQNEEFQVQNTLGYTFGGDISISN-----------
+7ahla      YRVYSEEGANKSGLAWPSAFKVQLQLPDNEVAQISDYYPRNS------IDTKEYMSTLTYGFNGNVTGDDTGKIG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1pvl       GLSGGGKSFSETINYKQESYRTSLDKRTNFKKIGWDVEAHKIMNNGWGPYGRDSYHSTYGNEMFLGSRQSNLNAG
+3lkfa      GL----TAFSETINYKQESYRTTLSRNTNYKNVGWGVEAHKIMNNGWGPYGRDSFHPTYGNELFLAGRQSSAYAG
+7ahla      GLIGANVSIGHTLKYVQPDFKTILES-PTDKKVGWKVIFNNMVNQNWGPYDRDSWNPVYGNQLFMKTRNGSMKAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1pvl       QNFLEYHKMPVLSRGNFNPEFIGVLSRKQNA-AKKSKITVTYQREMDRYTNFWNQLHWIGNNYKDENRATHTSIY
+3lkfa      QNFIAQHQMPLLSRSNFNPEFLSVLSHRQDG-AKKSKITVTYQREMDLYQIRWNGFYWAGANYKNFKTRTFKSTY
+7ahla      DNFLDPNKASSLLSSGFSPDFATVITMDRKASKQQTNIDVIYERVRDDYQLHWTSTNWKGTNTKDKWTDRSSERY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1pvl       EVDWENHTVKLIDTQSKEKNPMS*
+3lkfa      EIDWENHKVKLLDTKETENNK--*
+7ahla      KIDWEKEEMTN------------*
+           =========|=========|===
+                    0310      0320 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1pvl       100.0  71.9  25.3
+  2-3lkfa       71.9 100.0  26.4
+  3-7ahla       25.3  26.4 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1n1ba      structureX:1n1b:  64 :A: 270 :A:(+)-bornyl diphosphate synthase:Salvia officinalis: 2.00: 20.3
+[  2] 5eau       structureX:5eau:  21 : : 220 : :5-epi-aristolochene synthase:Nicotiana tabacum: 2.15: 24.2
+
+
+1n1ba      ---LWDSNYIQSLNTPY-TEERHLDRKAELIVQVRILLKEK-MEPVQQLELIHDLKYLGLSDFFQDEIKEILGVI
+5eau       SPSLWGD-QFLSFSIDNQVAEKYAKEIEALKEQTRNMLLATGMKLADTLNLIDTIERLGISYHFEKEIDDILDQI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1n1ba      YNEHKCFHNNEVEKMDLYFTALGFRLLRQHGFNISQDVFNCFKNEKGIDFKASLAQDTKGMLQLYEASFLLRKGE
+5eau       YNQ------NSN-CNDLCTSALQFRLLRQHGFNISPEIFSKFQDENG-KFKESLASDVLGLLNLYEASHVRTHAD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1n1ba      DTLELAREFATKCLQKKLD--DENLLLWIRHSLDLPLHWRIQSVEARWFID-AYARRPD*
+5eau       DILEDALAFSTIHLESAAPHLKSPLREQVTHALEQCLHKGVPRVETRFFISSIYDKEQS*
+           =========|=========|=========|=========|=========|=========
+                    0160      0170      0180      0190      0200      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1n1ba      100.0  37.5
+  2-5eau        37.5 100.0
+
+***************************************************************************

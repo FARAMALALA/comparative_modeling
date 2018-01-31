@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1c9oa      structureX:1c9o:   1 :A:  66 :A:cold shock protein cspb:Bacillus caldolyticus: 1.17:12.5
+[  2] 1csp       structureX:1csp:   1 : :  67 : :major cold shock protein:Bacillus subtilis: 2.50:19.50
+[  3] 1mjc       structureX:1mjc:   2 : :  70 : :major cold shock protein 7.4:Escherichia coli: 2.00:18.70
+
+
+1c9oa      --MQRGKVKWFNNEKGYGFIEVE-GGSDVFVHFTAIQGEGFKTLEEGQEVSFEIVQGNRGPQAANVVKL-*
+1csp       --MLEGKVKWFNSEKGFGFIEVE-GQDDVFVHFSAIQGEGFKTLEEGQAVSFEIVEGNRGPQAANVTKEA*
+1mjc       SGKMTGIVKWFNADKGFGFITPDDGSKDVFVHFSAIQNDGYKSLDEGQKVSFTIESGAKGPAAGNVTSL-*
+           =========|=========|=========|=========|=========|=========|=========|
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1c9oa      100.0  83.3  57.6
+  2-1csp        83.3 100.0  59.7
+  3-1mjc        57.6  59.7 100.0
+
+***************************************************************************

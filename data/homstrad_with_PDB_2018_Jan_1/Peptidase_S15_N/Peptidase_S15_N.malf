@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1ju3a      structureX:1ju3:   5 :A: 351 :A:cocaine esterase:Rhodococcus sp. mb1: 1.58: 19.9
+[  2] 1lnsa      structureX:1lns: 165 :A: 550 :A:Xaa-Pro dipeptidyl-peptidase:Lactococcus lactis: 2.20: 18.4
+
+
+1ju3a      NYSVASNVMVPMRD-------GVRLAVDLYRPDADGPVPVLLVRNPYDKFDVFAWST------------------
+1lnsa      LLEREV-LWVESPVDSEQRGENDLIKIQIIRPKSTEKLPVVMTASPYHLGINDKANDLALHDMNVELEEKTSHEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ju3a      ------------------------------QSTN-WLEFVRDGYAVVIQDTRGLFASEGEFVPHV-DDEADAEDT
+1lnsa      HVEQKLPQKLSAKAKELPIVDKAPYRFTHGWTYSLNDYFLTRGFASIYVAGVGTRSSDGFQTSGDYQQIYSMTAV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ju3a      LSWILEQ---------------AWCDGNVGMFGVSYLGVTQWQAAVSGVGGLKAIAPSMASADLYRAPWYGPGGA
+1lnsa      IDWLNGRARAYTSRKKTHEIKASWANGKVAMTGKSYLGTMAYGAATTGVEGLELILAEAGISSWYN-YYRE-NGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ju3a      LSVE---ALLGWSALIGTGLITSRSDARPEDAADFVQLAAILNDVAGAASVTPLAEQPLLGRLIPWVIDQV-VDH
+1lnsa      VRSPGGFPGEDLDVLAALTYSRNLD------GADFL------------------KGNAEYEKRLAEMTAALDRKS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ju3a      PDNDESWQSISLFERLGGLATPALITAGWYDG--FVGESLRTFVAVKDNADARLVVGPWSHSNLTGRNADRKFGI
+1lnsa      GDYNQFWHDRNYLINTDKVKADVLIVHGLQDWNVTPEQAYNFWKALPEGHAKHAFLHRGAHIYMNSW-------Q
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ju3a      AATYPIQEATTMHKAFFDRHLRGETDALAGVPKVRLFVMGID-EWRDETDW*
+1lnsa      SI-----DFSETINAYFVAKLLDRDLNLN-LPPVILQENSKDQVWTMMNDF*
+           ====|=========|=========|=========|=========|======
+               0380      0390      0400      0410      0420   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ju3a      100.0  15.6
+  2-1lnsa       15.6 100.0
+
+***************************************************************************

@@ -1,0 +1,79 @@
+      Code       Title
+
+[  1] 1pfc       structureX:1pfc: 346 : : 446 : :immunoglobulin FC CH2:Cavia porcellus: 3.10:30.30
+[  2] 1fc1ac1    structureX:1fc1: 238 :A: 341 :A:immunoglobulin FC CH2:Homo sapiens: 2.90:22.00
+[  3] 1fc1ac2    structureX:1fc1: 346 :A: 443 :A:immunoglobulin FC CH3:Homo sapiens: 2.90:22.00
+[  4] 1mamhc     structureX:1mam: 125 :H: 217 :H:immunoglobulin FAB YS-T9.1:Mus musculus: 2.50:21.50
+[  5] 4fabhc     structureX:4fab: 124 :H: 216 :H:immunoglobulin FAB 4-4-20:Mus musculus: 2.70:21.50
+[  6] 3hflhc     structureX:3hfl: 119 :H: 223 :H:immunoglobulin FAB HyHEL-5 CH1:Mus musculus: 2.65:19.60
+[  7] 2fb4hc     structureX:2fb4: 124 :H: 221 :H:immunoglobulin FAB KOL CH1:Homo sapiens: 1.90:18.90
+[  8] 1dfblc     structureX:1dfb: 111 :L: 212 :L:immunoglobulin FAB 3D6 CL1:Homo sapiens: 2.70:17.70
+[  9] 2fbjlc     structureX:2fbj: 112 :L: 213 :L:immunoglobulin FAB J539 CL1:Mus musculus: 2.00:19.40
+[ 10] 2fb4lc     structureX:2fb4: 115 :L: 214 :L:immunoglobulin FAB KOL CL1:Homo sapiens: 1.90:18.90
+[ 11] 2fbjhc     structureX:2fbj: 124 :H: 220 :H:immunoglobulin FAB J539 CH1:Mus musculus: 2.00:19.40
+[ 12] 1cqka      structureX:1cqk:   4 :A: 104 :A:MAK33 antibody CH3:Mus musculus: 2.2: 19.6
+
+
+1pfc       ---PEVYLLPPPRNELSKK--KVSLTCMITGFY-PA-DINVEWDS---SEPS--DYKNTPPVFDT-DGSFFLYSR
+1fc1ac1    ---PSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPQVKFNWYVDG-VQVHNAKTKPR-EQQYN--STYRVVSV
+1fc1ac2    ---PQVYTLPPSREEMTKN--QVSLTCLVKGFY-PS-DIAVEWESNG-QPEN--NYKTTPPVLDS-DGSFFLYSK
+1mamhc     ---PSVYPLAPGCGDTTGS--SVTLGCLVKGYF-PE-SVTVTW--NSG-SLS-SSVHTFPALLQS--GLYTMSSS
+4fabhc     ---PSVYPLAPVCGDTTGS--SVTLGCLVKGYF-PE-PVTLTW--NSG-SLS-SGVHTFPAVLQS--DLYTLSSS
+3hflhc     ---PSVYPLAPGSAAQTNS--MVTLGCLVKGYF-PE-PVTVTW--NSG-SLS-SGVHTFPAVLQS--DLYTLSSS
+2fb4hc     ---PSVFPLAPSSKSTSGG--TAALGCLVKDYF-PQ-PVTVSW--NSG-ALT-SGVHTFPAVLQSS-GLYSLSSV
+1dfblc     ---PSVFIFPPSDEQLKSG--TASVVCLLNNFY-PR-EAKVQWKVDNALQSG--NSQESVTEQDSKDSTYSLSST
+2fbjlc     ---PTVSIFPPSSEQLTSG--GASVVCFLNNFY-PK-DINVKWKIDG-SERQ-NGVLNSWTDQDSKDSTYSMSST
+2fb4lc     ---PTVTLFPPSSEELQAN--KATLVCLISDFY-PG-AVTVAWKADG-SPVK-AGVETTKPSKQS-NNKYAASSY
+2fbjhc     ---PTIYPLTLPPALSS-D--PVIIGCLIHDYF-PSGTMNVTW--GKS-GKD-ITTVNFPPALASG-GRYTMSNQ
+1cqka      PAAPQVYTIPPPLEQMAKD--LVSLTCMITDFF-PE-DITVEWQWNG-QPAE--NYKNTQPIMDT-DGSYFVYSK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pfc       LKVDTDAWNNGESFTCSVMHEAL--PNHVIQKSISRSPG*
+1fc1ac1    LTVLHQNWLDGKEYKCKVSNKALP--APIEKTISKA-KG*
+1fc1ac2    LTVDKSRWQQGNVFSCSVMHEALHNH-YTQKSLSL----*
+1mamhc     VTVPSSTWP-SQTVTCSVAHPA---SSTTVDKKLE----*
+4fabhc     VTVTSSTWP-SQSITCNVAHPAS--STKVDKKIE-----*
+3hflhc     VTVPSSPRP-SETVTCNVAHPAS--STKVDKKI------*
+2fb4hc     VTVPSSSLG-TQTYICNVNHKPS--NTKVDKRVEPKS-C*
+1dfblc     LTLSKADYEKHKVYACEVTHQGLS--SPVTKSFNRGEC-*
+2fbjlc     LTLTKDEYERHNSYTCEATHKTST--SPIVKSFNRNEC-*
+2fb4lc     LSLTPEQWKSHRSYSCQVTHEG----STVEKTVAPTECS*
+2fbjhc     LTLPAVECPEGESVKCSVQHD-S--NPVQELDVNCSG--*
+1cqka      LNVQKSNWEAGNTFTCSVLHEGLHNH-HTEKSLSH----*
+           ====|=========|=========|=========|====
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12]
+
+  1-1pfc       100.0  19.2  54.1  26.9  28.0  28.3  21.4  22.2  27.3  28.3
+                24.7  48.5
+  2-1fc1ac1     19.2 100.0  22.4  19.4  21.5  18.5  23.5  28.4  22.5  24.0
+                14.4  23.8
+  3-1fc1ac2     54.1  22.4 100.0  35.5  34.4  34.8  29.6  30.6  29.6  31.6
+                22.7  62.2
+  4-1mamhc      26.9  19.4  35.5 100.0  79.6  76.1  55.9  19.4  21.5  26.9
+                33.3  29.0
+  5-4fabhc      28.0  21.5  34.4  79.6 100.0  84.8  64.5  20.4  22.6  29.0
+                29.0  24.7
+  6-3hflhc      28.3  18.5  34.8  76.1  84.8 100.0  65.2  21.7  22.8  28.3
+                33.7  26.1
+  7-2fb4hc      21.4  23.5  29.6  55.9  64.5  65.2 100.0  27.6  25.5  31.6
+                28.9  22.4
+  8-1dfblc      22.2  28.4  30.6  19.4  20.4  21.7  27.6 100.0  60.8  37.0
+                16.5  26.7
+  9-2fbjlc      27.3  22.5  29.6  21.5  22.6  22.8  25.5  60.8 100.0  41.0
+                21.6  28.7
+ 10-2fb4lc      28.3  24.0  31.6  26.9  29.0  28.3  31.6  37.0  41.0 100.0
+                21.6  29.0
+ 11-2fbjhc      24.7  14.4  22.7  33.3  29.0  33.7  28.9  16.5  21.6  21.6
+               100.0  23.7
+ 12-1cqka       48.5  23.8  62.2  29.0  24.7  26.1  22.4  26.7  28.7  29.0
+                23.7 100.0
+
+***************************************************************************

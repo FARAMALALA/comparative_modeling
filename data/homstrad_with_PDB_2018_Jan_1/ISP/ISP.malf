@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1rie       structureX:1rie:  70 : : 196 : :ubiquinol-cytochrome c reductase iron-sulfur subunit, mitochondrial:Bos taurus: 1.5: 18.7
+[  2] 1rfs       structureX:1rfs:  53 : : 179 : :cytochrome b6-f complex iron-sulfur subunit:Spinacia oleracea: 1.83: 17
+
+
+1rie       -----AMSKIEIK---LSDIPEGKNMAFKW-RGKPLFVRHRTKKEIDQEAAVEVSQLRDPQHDLERVKKPEWVIL
+1rfs       TIAKDALGNDVIAAEWLKTHAPGDRTLTQGLKGDPTYLVVES---------------------DK---TLATFGI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rie       IGVCTHLGCVPIANAGDFGGYYCPCHGSHYDASGRIRKGPAPLNLEVPSYEFTSDDMVIVG--------------
+1rfs       NAVCTHLGCVVPFNA-AENKFICPCHGSQYNNQGRVVRGPAPLSLALAHCDVD-DGKVVFVPWTETDFRTGEAPW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1rie       ---*
+1rfs       WSA*
+           ===
+              
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1rie       100.0  26.0
+  2-1rfs        26.0 100.0
+
+***************************************************************************

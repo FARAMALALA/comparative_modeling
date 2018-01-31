@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1a3qa      structureX:1a3q:  37 :A: 327 :A:nuclear factor nf-kappa-b p52 subunit:Homo sapiens: 2.1: 21.9
+[  2] 1nfka      structureX:1nfk:  39 :A: 350 :A:nuclear factor nf-kappa-b p50 subunit:Mus musculus: 2.3: 23
+
+
+1a3qa      GPYLVIVEQPKQRGFRFRYGCEGPSHGGLPGASSEKGRKTYPTVKICNYEGPAKIEVDLVTHSDPPRAHAHSLVG
+1nfka      GPYLQILEQPKQRGFRFRYVCEGPSHGGLPGASSEKNKKSYPQVKICNYVGPAKVIVQLVTNGKNIHLHAHSLVG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a3qa      KQCSELGICAVSVGPKDMTAQFNNLGVLHVTKKNMMGTMIQKLQRQRLRSRP-------------------QGLT
+1nfka      KHCE-DGVCTVTAGPKDMVVGFANLGILHVTKKKVFETLEARMTEACIRGYNPGLLVHSDLAYLQAEGGGDRQLT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a3qa      EAEQRELEQEAKELKKVMDLSIVRLRFSAFLRS------LPLKPVISQPIHDSKSPGASNLKISRMDKTAGSVRG
+1nfka      DREKEIIRQAAVQQTKEMDLSVVRLMFTAFLPDSTGSFTRRLEPVVSDAIYDSKAPNASNLKIVRMDRTAGCVTG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a3qa      GDEVYLLCDKVQKDDIEVRFYEDD--ENGWQAFGDFSPTDVHKQYAIVFRTPPYHKMKIERPVTVFLQLKRKRGG
+1nfka      GEEIYLLCDKVQKDDIQIRFYEEEENGGVWEGFGDFSPTDVHRQFAIVFKTPKYKDVNITKPASVFVQLRRKSDL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1a3qa      DVSDSKQFTYYP-*
+1nfka      ETSEPKPFLYYPE*
+           =========|===
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a3qa      100.0  59.6
+  2-1nfka       59.6 100.0
+
+***************************************************************************

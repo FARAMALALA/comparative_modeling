@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1onea      structureX:1one:   1 :A: 436 :A:enolase 1:Saccharomyces cerevisiae: 1.8: 17.7
+[  2] 1pdz       structureX:1pdz:   1 : : 433 : :enolase:Homarus gammarus: 2.2: 21.5
+
+
+1onea      AVSKVYARSVYDSRGNPTVEVELTTEKGVFRSIVPSGASTGVHEALEMRDGDKSKWMGKGVLHAVKNVNDVIAPA
+1pdz       SITKVFARTIFDSRGNPTVEVDLYTSKGLFRAAVPSGASTGVHEALEMRDGDKSKYHGKSVFNAVKNVNDVIVPE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1onea      FVKANIDVKDQKAVDDFLISLDGTANKSKLGANAILGVSLAASRAAAAEKNVPLYKHLADLSKSKTSPYVLPVPF
+1pdz       IIKSGLKVTQQKECDEFMCKLDGTENKSSLGANAILGVSLAICKAGAAELGIPLYRHIANLANYD--EVILPVPA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1onea      LNVLNGGSHAGGALALQEFMIAPTGAKTFAEALRIGSEVYHNLKSLTKKRYGASAGNVGDEGGVAPNIQTAEEAL
+1pdz       FNVINGGSHAGNKLAMQEFMILPTGATSFTEAMRMGTEVYHHLKAVIKARFGLDATAVGDEGGFAPNILNNKDAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1onea      DLIVDAIKAAGHDGKVKIGLDCASSEFFKD-GKYDLDFKNPNSDKSKWLTGPQLADLYHSLMKRYPIVSIEDPFA
+1pdz       DLIQEAIKKAGYTGKIEIGMDVAASEFYKQNNIYDLDFKTANNDGSQKISGDQLRDMYMEFCKDFPIVSIEDPFD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1onea      EDDWEAWSHFFKTAGIQIVADDLTVTNPKRIATAIEKKAADALLLKVNQIGTLSESIKAAQDSFAAGWGVMVSHR
+1pdz       QDDWETWSKMTSGTTIQIVGDDLTVTNPKRITTAVEKKACKCLLLKVNQIGSVTESIDAHLLAKKNGWGTMVSHR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1onea      SGETEDTFIADLVVGLRTGQIKTGAPARSERLAKLNQLLRIEEELGDNAVFAGENFHHGDKL*
+1pdz       SGETEDCFIADLVVGLCTGQIKTGAPCRSERLAKYNQILRIEEELGSGAKFAGKNFRAPS--*
+           ====|=========|=========|=========|=========|=========|=======
+               0380      0390      0400      0410      0420      0430    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1onea      100.0  64.2
+  2-1pdz        64.2 100.0
+
+***************************************************************************

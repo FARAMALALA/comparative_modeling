@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1cbja      structureX:1cbj:   1 :A: 151 :A:superoxide dismutase:Bos taurus: 1.65: 18.5
+[  2] 1mfma      structureX:1mfm:   1 :A: 153 :A:superoxide dismutase:Homo sapiens: 1.02: -1
+[  3] 1xsoa      structureX:1xso:   2 :A: 151 :A:superoxide dismutase:Xenopus laevis:1.49:10.4
+[  4] 1srda      structureX:1srd:   1 :A: 154 :A:superoxide dismutase:Spinacea oleracea: 2.00:24.9
+[  5] 1eso       structureX:1eso:   2 : : 148 : :superoxide dismutase:Escherichia coli: 2.00: 16.8
+[  6] 2apsa      structureX:2aps:  13 :A: 167 :A:superoxide dismutase:Actinobacillus pleuropneumoniae:1.90:22.1
+[  7] 1bzoa      structureX:1bzo:   2 :A: 148 :A:superoxide dismutase:Photobacterium leiognathi: 2.10: -1
+
+
+1cbja      -ATKAVCVLKGD-----GPVQGTIHFEAKG--DTVVVTGSITGLTEGDHGFHVHQFGDNTQ--------GCTSAG
+1mfma      -ATKAVAVLKGD-----GPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEEEDNTA--------GCTSAG
+1xsoa      --VKAVCVLAGS-----GDVKGVVHFEQQD-EGAVSVEGKIEGLTDGLHGFHIHVFGDNTN--------GCMSAG
+1srda      ATKKAVAVLKGT-----SNVEGVVTLTQED-DGPTTVNVRISGLAPGKHGFHLHEFGDTTN--------GCMSTG
+1eso       --ASEKVEMNLVTSQGVGQSIGSVTITET--DKGLEFSPDLKALPPGEHGFHIHAKGSCQPATKDGKASAAESAG
+2apsa      --EKLVVQVQQLDPVKGNKDVGTVEITES--AYGLVFTPHLHGLAQGLHGFHIHQNPSCEPKEKDGKLVAGLGAG
+1bzoa      --QDLTVKMTDLQT---GKPVGTIELSQN--KYGVVFIPELADLTPGMHGFHIHQNGSCASSEKDGKVVLGGAAG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cbja      PHFNPLSK-KHGGPKDEERHVGDLGNVTADKNGVAIVDIVDPLISLSGEYSIIGRTMVVHEKPDDLGRGGNEEST
+1mfma      PHFNPLSR-KHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHSIIGRTLVVHEKADDLGKGGNEQST
+1xsoa      SHFNPENK-NHGAPGDTDRHVGDLGNVTAE-GGVAQFKITDSLISLKGPNSIIGRTAVVHEKADDLGKGGNDESL
+1srda      PHFNPDKK-THGAPEDEVRHAGDLGNIVANTDGVAEATIVDNQIPLTGPNSVVGRALVVHELEDDLGKGGHELSP
+1eso       GHLDPQNTGKHEGPEG-AGHLGDLPALVVNNDGKATDAVIAPRLKSLD--EIKDKALMVHVGGDNMSDQ----PK
+2apsa      GHWDPKETKQHGYPWSDNAHLGDLPALFVEHDGSATNPVLAPRLKKLD--EVKGHSLMIHEGGDNHSDH----PA
+1bzoa      GHYDPEHTNKHGFPWTDDNHKGDLPALFVSANGLATNPVLAPRL-TLK--ELKGHAIMIHAGGDNHSDM----PK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cbja      KTGNAGSRLACGVIGIAK-*
+1mfma      KTGNAGSRLACGVIGIAQ-*
+1xsoa      KTGNAGGRLACGVIGYSP-*
+1srda      TTGNAGGRLACGVVGLTPV*
+1eso       PLGGGGERYACGVIK----*
+2apsa      PLGGGGPRMACGVIK----*
+1bzoa      ALGGGGARVACGVIQ----*
+           =========|=========
+                    0160      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7]
+
+  1-1cbja      100.0  80.8  66.7  54.3  25.2  27.2  28.5
+  2-1mfma       80.8 100.0  66.0  56.2  25.5  25.5  25.2
+  3-1xsoa       66.7  66.0 100.0  60.0  25.3  26.7  26.7
+  4-1srda       54.3  56.2  60.0 100.0  27.3  26.0  23.2
+  5-1eso        25.2  25.5  25.3  27.3 100.0  53.2  49.7
+  6-2apsa       27.2  25.5  26.7  26.0  53.2 100.0  60.9
+  7-1bzoa       28.5  25.2  26.7  23.2  49.7  60.9 100.0
+
+***************************************************************************

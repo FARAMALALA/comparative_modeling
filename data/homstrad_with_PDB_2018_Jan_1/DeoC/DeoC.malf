@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1jcla      structureX:1jcl:   0 :A: 251 :A:deoxyribose-phosphate aldolase:Escherichia coli: 1.05: 14.3
+[  2] 1o0ya      structureX:1o0y:  -3 :A: 247 :A:deoxyribose-phosphate aldolase:Thermotoga maritima: 1.90: 0
+
+
+1jcla      -------------------------HMTDLKASSLRALKLMDLTTLNDDDTDEKVIALCHQAKTPVGNTAAICIY
+1o0ya      HHHHMIEYRIEEAVAKYREFYEFKPVRE--SAGIEDVKSAIEHTNLKPFATPDDIKKLCLEA--RENRFHGVCVN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jcla      PRFIPIARKTLKEQGTPEIRIATVTNFPHGNDDIDIALAETRAAIAYGADEVDVVFPYRALMAGNEQVGFDLVKA
+1o0ya      PCYVKLAREELE--GT-DVKVVTVVGFPLGANETRTKAHEAIFAVESGADEIDMVINVGMLKAKEWEYVYEDIRS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jcla      CKEACAAANVLLKVIIETGELKDEALIRKASEISIKAGADFIKTSTGKVAVNATPESARIMMEVIRDMGVEKTVG
+1o0ya      VVESVK--GKVVKVIIETCYL-DTEEKIAACVISKLAGAHFVKTSTGFGTGGATAEDVHLMKWIVGD-----EMG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jcla      FKPAGGVRTAEDAQKYLAIADELFGADWADARHYRFGASSLLASLLKALG-HG*
+1o0ya      VKASGGIRTFEDAVKMIMYGA------------DRIGTSSGVKIVQGGEERYG*
+           ====|=========|=========|=========|=========|========
+               0230      0240      0250      0260      0270     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jcla      100.0  27.9
+  2-1o0ya       27.9 100.0
+
+***************************************************************************

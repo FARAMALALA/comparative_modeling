@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 2mjpa      structureX:2mjp:  10 :A: 193 :A:nucleoside-triphosphatase:Methanococcus jannaschii: 2.20: 20.4
+[  2] 1k7ka      structureX:1k7k: -11 :A: 197 :A:hypothetical protein yggvV:Escherichia coli: 1.50: 21.3
+
+
+2mjpa      -----------KIYFATGNPNKIKEANIILKDLKDVEIEQI----KISYPEIQGTLEEVAEFGAKWVYNILKKPV
+1k7ka      SSGRENLYFHQKVVLATGNVGKVRELASLLSDF-GLDIVAQTDLGVDSAEETGLTFIENAILKARHAAKVTALPA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2mjpa      IVEDSGFFVEALNGFPG-TYSKFVQET-----IGNEGILKLLEGK--DNRNAYFKTVIGYCDE---NGVRLFKGI
+1k7ka      IADDSGLAVDVLGGAP-GIYSARYSGEDATDQKNLQKLLET-KDVPDDQRQARFHCVLVYLRHAEDPTPLVCHGS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2mjpa      VKGRVSEEIRSKGYGFAYDSIFIPEEEERTFAEMTTEEKSQISHRKKAFEEFKKFLLDRI*
+1k7ka      WPGVITREPAG-TGGFGYDPIFFVPSEGKTAAELTREEKSAISHRGQALKLLLDALRNG-*
+           =========|=========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2mjpa      100.0  31.5
+  2-1k7ka       31.5 100.0
+
+***************************************************************************

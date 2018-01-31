@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1ctl       structureX:1ctl:   1 : :  85 : :cysteine-rich protein 1 (crp1):Gallus gallus , and: -1: -1
+[  2] 1qli       structureX:1qli: 117 : : 175 : :cysteine-rich protein 2 (crp2):Coturnix coturnix japonica: -1: -1
+[  3] 1a7i       structureX:1a7i:   8 : :  67 : :cysteine-rich protein 2 (crp2):Coturnix coturnix japonica: -1: -1
+[  4] 1b8ta1     structureX:1b8t:   1 :A:  69 :A:cysteine-rich protein 1 (crp1):Gallus gallus: -1: -1
+[  5] 1iml       structureX:1iml:   1 : :  76 : :cysteine-rich intestinal protein (crip):Rattus norvegicus: -1: -1
+
+
+1ctl       MAQKVGGSDGCPRCGQAVYAAEKVIGAGKSWHKSCFRCAKCGKSLESTTLADKDGEIYCK-GCYAKNFGPKGFGF
+1qli       -------AEKCSRCGDSVYAAEKVIGAGKPWHKNCFRCAKCGKSLESTTLTEKEGEIYCK-GCYAKN--------
+1a7i       --------NKCGACGRTVYHAEEVQCDGRSFHRCCFLCMVCRKNLDSTTVAIHDAEVYCK-SCYGKKYG------
+1b8ta1     M-PNWGGGKKCGVCQKAVYFAEEVQCEGSSFHKSCFLCMVCKKNLDSTTVAVHGDEIYCK-SCYGKKYGP-----
+1iml       --------PKCPKCDKEVYFAERVTSLGKDWHRPCLKCEKCGKTLTSGGHAEHEGKPYCNHPCYSAMFGPKGFGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ctl       GQGAGALIHSQ*
+1qli       -----------*
+1a7i       -----------*
+1b8ta1     ----------K*
+1iml       GGA--ESHTFK*
+           ====|======
+               0080   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1ctl       100.0  81.4  50.0  52.2  44.7
+  2-1qli        81.4 100.0  45.8  47.5  45.8
+  3-1a7i        50.0  45.8 100.0  75.0  40.0
+  4-1b8ta1      52.2  47.5  75.0 100.0  39.1
+  5-1iml        44.7  45.8  40.0  39.1 100.0
+
+***************************************************************************

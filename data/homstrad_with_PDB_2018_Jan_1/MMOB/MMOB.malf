@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 2mob       structureX:2mob:  35 :A: 128 :A:methane monooxygenase regulatory protein B:Methylosinus trichosporium: -1: -1
+[  2] 1ckv       structureX:1ckv:  35 : : 129 : :methane monooxygenase regulatory protein B:Escherichia coli: -1: -1
+[  3] 1hqi       structureX:1hqi:   1 : :  90 : :phenol hydroxylase P2 protein:Pseudomonas sp.: -1: -1
+
+
+2mob       -SNAVVLVLMKSDEIDAIIEDIVLKGGKAK-NPSIVVEDKAGFWWIKADGAIEIDAAEAGELLGKPFSVYDLLIN
+1ckv       -SDTVVLVLKKSDEINTFIEEILLTDYKKNVNPTVNVEDRAGYWWIKANGKIEVDCDEISELLGRQFNVYDFLVD
+1hqi       MSSLVYIAFQDND---NARYVVEAIIQD---NPHAVVQHHPAMIRIEAEKRLEIRRETVEENLGRAWDVQEMLV-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2mob       VSS---TVGRAYTLGTKFTITSEL*
+1ckv       VS---STIGRAYTLGNKFTITSEL*
+1hqi       --DVITIGGNVDEDDDRFVLEWKN*
+           ====|=========|=========
+               0080      0090      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2mob       100.0  63.8  20.0
+  2-1ckv        63.8 100.0  20.0
+  3-1hqi        20.0  20.0 100.0
+
+***************************************************************************

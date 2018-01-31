@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1d9ya      structureX:1d9y:   1 :A: 309 :A:ferric binding protein:Neisseria gonorrhoeae: 2.2: -1
+[  2] 1mrp       structureX:1mrp:   1 : : 309 : :iron-utilization periplasmic protein (major ferric ironbinding protein):Haemophilus influenzae: 1.6: 17.4
+[  3] 1anf       structureX:1anf:   1 : : 369 : :maltose-binding periplasmic protein (maltodextrin-binding protein):Escherichia coli: 1.67: 18.2
+
+
+1d9ya      -----DITVYNGQ--HKEAAQAVADAFTRATGIKVKLNCAKGDQLAGQIKEEGSR-SPADVFYSEQIPALATLSA
+1mrp       -----DITVYNGQ--HKEAATAVAKAFEQETGIKVTLNSGKSEQLAGQLKEEGDK-TPADVFYTEQTATFADLSE
+1anf       KIEEGKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPD--KLEEKFPQVAATGDGPDIIFW-AHDRFGGYAQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d9ya      ANLLEPLP--ASTINETRGK--GVPVAA-KKDWVALSGRSRVVVYDTRKLSEKDLEKSVLNYAT--PKWK----N
+1mrp       AGLLAPIS--EQTIQQTAQK--GVPLAP-KKDWIALSGRSRVVVYDHTKLSEKDMEKSVLDYAT--PKWK----G
+1anf       SGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKDLLP--NPPKTWEEIPALDKELKAKGKS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d9ya      RIGYVPTSGAFLEQIVAIVKLKG------------------EAAALKWLKGLKEY-----GKPYAKNSVALQAVE
+1mrp       KIGYVSTSGAFLEQVVALSKMKG------------------DKVALNWLKGLKEN-----GKLYAKNSVALQAVE
+1anf       ALMFNLQEPYFTWPLIAAD--GGYAFKYENGKYDIKDVGVDNAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1d9ya      NGEIDAALINNYYWHAFAREKGVQNVHTRLNFVRH---RDPGALVTYSGAAVLKSSQNKDEAKKFVA-FLAGKEG
+1mrp       NGEVPAALINNYYWYNLAKEKGVENLKSRLYFVRH---QDPGALVSYSGAAVLKASKNQAEAQKFVD-FLASKKG
+1anf       KGETAMTINGPWAWSNIDTSK----VNYGVTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1d9ya      QRALTAVRA-EYPLNPHVVSTFN----LEPIAKL-EAPQVSATTVSEKEHATRLLEQAGMK--------------
+1mrp       QEALVAARA-EYPLRADVVSPFN----LEPYEKL-EAPVVSATTAQDKEHAIKLIEEAGLK--------------
+1anf       LEAVNKDKPLGAVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEALKDA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1d9ya      -----*
+1mrp       -----*
+1anf       QTRIT*
+           ====|
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1d9ya      100.0  70.9  13.9
+  2-1mrp        70.9 100.0  16.2
+  3-1anf        13.9  16.2 100.0
+
+***************************************************************************

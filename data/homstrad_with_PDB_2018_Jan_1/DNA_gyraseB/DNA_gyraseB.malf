@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1kija      structureX:1kij: 221 :A: 392 :A:DNA gyrase subunit B, N-terminal domains:Thermus thermophilus: 2.30: 20.6
+[  2] 1ei1a      structureX:1ei1: 221 :A: 392 :A:DNA gyrase B, N-terminal domains:Escherichia coli: 2.30: 16.6
+
+
+1kija      GVASFAKALAEGEDLLYEKPFLIRGTHGEVEVEVGFLHTQGYNAEILTYANMIPTRDGGTHLTAFKSAYSRALNQ
+1ei1a      GIKAFVEYLNKNKTPIHPNIFYFSTEKDGIGVEVALQWNDGFQENIYCFTNNIPQRDGGTHLAGFRAAMTRTLNA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kija      YAKKAGLNKEKGPQPTGDDLLEGLYAVVSVKLPNPQFEGQTKGKLLNPEAGTAVGQVVYERLLEILEENPRIAKA
+1ei1a      YMDKEGYSKKAKVSATGDDAREGLIAVVSVKVPDPKFSSQTKDKLVSSEVKSAVEQQMNELLAEYLLENPTDAKI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kija      VYEKALRAAQAREAARKARELV*
+1ei1a      VVGKIIDAARAREAARRAREMT*
+           =========|=========|==
+                    0160      0170 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kija      100.0  43.6
+  2-1ei1a       43.6 100.0
+
+***************************************************************************

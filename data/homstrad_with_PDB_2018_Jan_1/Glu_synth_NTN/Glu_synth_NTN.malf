@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1llwa      structureX:1llw:   1 :A: 422 :A:ferredoxin-dependent glutamate synthase 2:Synechocystis sp.: 2.70: 23.6
+[  2] 1ea0a      structureX:1ea0:   1 :A: 424 :A:glutamate synthase [NADPH] large chain:Azospirillum brasilense: 3.00: 25.6
+
+
+1llwa      CGVGFIANLRGKPDHTLVEQALKALGCMEHRGGCSADNDSGDGAGVMTAIPRELLAQWFNTRNLPMPDGDRLGVG
+1ea0a      CGVGFIAAIDGKPRRSVVEKGIEALKAVWHRGAVDADGKTGDGAGIHVAVPQKFFKDHVKVIGHRAPDN-KLAVG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1llwa      MVFLPQ-EPSAREVARAYVEEVVRLEKLTVLGWREVPVNSDVLGIQAKNNQPHIEQILVTCPEGCAGDELDRRLY
+1ea0a      QVFLPRISLDAQEACRCIVETEILAFGYYIYGWRQVPINVDIIGEKANATRPEIEQIIVGNNKGVSDEQFELDLY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1llwa      IARSIIGKKLAE----DFYVCSFSCRTIVYKGMVRSIILGEFYLDLKNPGYTSNFAVYHRRFSTNTMPKWPLAQP
+1ea0a      IIRRRIEKAVKGEQINDFYICSLSARSIIYKGMFLAEQLTTFYPDLLDERFESDFAIYHQRYSTNTFPTWPLAQP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1llwa      MRLLGHNGEINTLLGNINWMAAREKELEVSGWTKAELEALTPIVNQANSDSYNLDSALELLVRTGRSPLEAAMIL
+1ea0a      FRMLAHNGEINTVKGNVNWMKAHETRMEHPAFGT-HMQDLKPVIGVGLSDSGSLDTVFEVMVRAGRTAPMVKMML
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1llwa      VPEAYKNQPALKDYPEISDFHDYYSGLQEPWDGPALLVFSDGKIVGAGLDRNGLRPARYCITKDDYIVLGSEAGV
+1ea0a      VPQALT-----TTPDNHKALIQYCNSVMEPWDGPAALAMTDGRWVVGGMDRNGLRPMRYTITTDGLIIGGSETGM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1llwa      VDLPEVDIVEKGRLAPGQMIAVDL-AEQKILKNYQIKQQAAQKYPYGEWIKIQ-*
+1ea0a      VKIDETQVIEKGRLGPGEMIAVDLQSGKLYRDRELKDHLATL-KPWDKWVQNTT*
+           ====|=========|=========|=========|=========|=========
+               0380      0390      0400      0410      0420      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1llwa      100.0  42.3
+  2-1ea0a       42.3 100.0
+
+***************************************************************************

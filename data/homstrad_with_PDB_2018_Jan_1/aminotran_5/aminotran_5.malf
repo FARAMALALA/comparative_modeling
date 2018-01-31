@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1bjoa      structureX:1bjo:   3 :A: 362 :A:phosphoserine aminotransferase:Escherichia coli: 2.80: 18.5
+[  2] 1bt4a      structureX:1bt4:   2 :A: 362 :A:phosphoserine aminotransferase:Bacillus circulans: 2.30: 18.4
+
+
+1bjoa      --QIFNFSSGPAMLPAEVLKQAQQELRDWNGLGTSVMEVSHRGKEFIQVAEEAEKDFRDLLNVPSNYKVLFCHGG
+1bt4a      SERAYNFNAGPAALPLEVLERAQAEFVDYQHTGMSIMEMSHRGAVYEAVHNEAQARLLALLGNPTGYKVLFIQGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bjoa      GRGQFAAVPLNILGDKTTADYVDAGYWAASAIKEAKKYCTPNVFDAKVTV--DGLRAVKPMREWQLSDNAAYMHY
+1bt4a      ASTQFAMIPMNFLKEGQTANYVMTGSWASKALKEAKLIGDTHVAASS---EASNYMTLPKLQEIQLQDNAAYLHL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bjoa      CPNETIDGIAIDETPDFGADVVVAADFSSTILSRPIDVSRYGVIYAGAQKNIGPAGLTIVIVREDLLGKANIACP
+1bt4a      TSNETIEGAQFKAFPDTG-SVPLIGDMSSDILSRPFDLNQFGLVYAGAQKNLGPSGVTVVIVREDLVAESPKHLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bjoa      SILDYSILNDNGSMFNTPPTFAWYLSGLVFKWLKANGGVAEMDKINQQKAELLYGVIDNS-DFYRNDVAKRNRSR
+1bt4a      TMLRYDTYVKNNSLYNTPPSFGIYMVNEVLKWIEERGGLEGVQQANRKKASLIYDAIDQSGGFYRGCVDVDSRSD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bjoa      MNVPFQLADSALDKLFLEESFAAGLHALKGHRVVGGMRASIYNAMPLEGVKALTDFMVEFERRHG*
+1bt4a      MNITFRLASEELEKEFVKASEQEGFVGLKGHRSVGGLRASIYNAVPYESCEALVQFMEHFKRSRG*
+           =========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bjoa      100.0  45.6
+  2-1bt4a       45.6 100.0
+
+***************************************************************************

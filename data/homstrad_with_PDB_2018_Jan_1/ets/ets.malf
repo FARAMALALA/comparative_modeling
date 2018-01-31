@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1flia      structureX:1fli: 276 :A: 373 :A:Fli-1 oncogene (ergb transcription factor):Homo sapiens: -1: -1
+[  2] 2stwa      structureX:2stw:  10 :A: 105 :A:C-Ets-1 protein:Homo sapiens: -1: -1
+[  3] 1puee      structureX:1pue: 171 :E: 258 :E:31 kd transforming protein (transcription factor PU.1):Homo sapiens: 2.1: 22.5
+[  4] 1bc8c      structureX:1bc8:   1 :C:  93 :C:serum response factor accessory protein 1a (sap-1a) ETS-domain:Homo sapiens: 1.93: 22
+
+
+1flia      P----------GSGQIQLWQFLLELLSDSANASCITWEG-TNGEFKMT--DPDEVARRWGERKSKP-NMNYDKLS
+2stwa      VIPAAALAGYTGSGPIQLWQFLLELLTDKSCQSFISWTG-DGWEFKLS--DPDEVARRWGKRKNKP-KMNYEKLS
+1puee      --------------KIRLYQFLLDLLRSGDMKDSIWWVDKDKGTFQFSSKHKEALAHRWGIQKGNRKKMTYEKMA
+1bc8c      -----------MDSAITLWQFLLQLLQKPQNKHMICWTS-NDGQFKLL--QAEEVARLWGIRKNKP-NMNYDKLS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1flia      RALRYYYDKNIMTKVHGKRYAYKFDFHGIAQALQPHP*
+2stwa      RGLRYYYDKNIIHKTAGKRYVYRFV------------*
+1puee      RALRNYGKTGEVKKVK-KKLTYQFSGEV---------*
+1bc8c      RALRYYYVKNIIKKVNGQKFVYKFVSYPEILNM----*
+           ====|=========|=========|=========|==
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1flia      100.0  61.5  34.1  52.7
+  2-2stwa       61.5 100.0  35.2  51.6
+  3-1puee       34.1  35.2 100.0  37.5
+  4-1bc8c       52.7  51.6  37.5 100.0
+
+***************************************************************************

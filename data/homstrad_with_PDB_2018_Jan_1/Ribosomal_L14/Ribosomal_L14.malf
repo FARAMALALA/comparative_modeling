@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1whi       structureX:1whi:   1 : : 122 : :50S ribosomal protein L14:Bacillus stearothermophilus: 1.5: 18.9
+[  2] 1jj2j      structureX:1jj2:   1 :J: 132 :J:50S ribosomal protein L14p:Haloarcula marismortui: 2.40: 18.9
+
+
+1whi       ----------MIQQESRLKVADNSGAREVLVIKVLGGS---GR-RYANIGDVVVATVKDATPGGVVKKGQVVKAV
+1jj2j      MEALGADVTQGLEKGSLITCADNTGARELKVISVHGYSGTKNRHPKAGLGDKITVSVTKGTPE---MRRQVLEAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1whi       VVRTKRGVRRPDGSYIRFDENACVIIRDDKSPRGTRIFGPVARELRDKDFMKIISLAPEVI*
+1jj2j      VVRQRKPIRRPDGTRVKFEDNAAVIVDENEDPRGTELKGPIAREVAQR-FGSVASAATMIV*
+           ====|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1whi       100.0  40.2
+  2-1jj2j       40.2 100.0
+
+***************************************************************************

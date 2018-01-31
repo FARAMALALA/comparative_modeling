@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1g72b      structureX:1g72:   1 :B:  57 :B:quinoprotein methanol dehydrogenase:Methylophilus methylotrophus: 1.90: 16.1
+[  2] 1h4ib      structureX:1h4i:   1 :B:  73 :B:methanol dehydrogenase subunit 2:Methylobacterium extorquens: 1.94: 19.85
+
+
+1g72b      YDGQNCKEPGNCWENKPGYPEKIAGSKYDPKHDPVELNKQEESIKAMDARNAKRIAN----------------*
+1h4ib      YDGTKCKAAGNCWEPKPGFPEKIAGSKYDPKHDPKELNKQADSIKQMEERNKKRVENFKKTGKFEYDVAKISA*
+           =========|=========|=========|=========|=========|=========|=========|===
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g72b      100.0  73.7
+  2-1h4ib       73.7 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jssa      structureX:1jss:  24 :A: 222 :A:Cholesterol-regulated StART Protein 4:Mus musculus: 2.20: 23.8
+[  2] 1em2a      structureX:1em2: 230 :A: 443 :A:MLN64 Protein, StAR-related domain:Homo sapiens: 2.2: 20.7
+
+
+1jssa      ---------ASISTKLQNTLIQYHSIEEDEWRVAKKAK-DVTVWRKPSEEFNGYLYKAQGVMDDVVNNVIDHIRP
+1em2a      SFSAQEREYIRQGKEATAVVDQILAQ-EENWKFEKNNEYGDTVYTIEVPFH-GKTFILKTFLPCPAELVYQEVIL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jssa      GPWRLDWDRLMTSLDVLEHFEENCCVMRYTTAGQLLNIISPREFVDFSYTVGYEEGLLSCGVSVEWS--ETRPEF
+1em2a      QPERVLWNKTVTACQILQRVEDNTLISYDVSAGAAGGVVSPRDFVNVRRIERRRDRYLSSGIATSHSAKPPTHKY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jssa      VRGYNHPCGWFCVPLKDSPSQSLLTGYIQTDLRGMIPQSAVDTAMASTLANFYSDLRKGLR----*
+1em2a      VRGENGPG-GIVLKSASNPRVCTFVWILNTDLKGRLPRYLIHQSLAAT-FEFAFHLRQRISELGA*
+           =========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jssa      100.0  21.1
+  2-1em2a       21.1 100.0
+
+***************************************************************************

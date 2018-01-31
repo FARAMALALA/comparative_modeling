@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1be9a      structureX:1be9: 301 :A: 402 :A:presynaptic density protein 95:Rattus norvegicus: 1.82: -1
+[  2] 1pdr       structureX:1pdr: 460 : : 555 : :presynaptic protein sap97:Homo sapiens: 2.8: 22.0
+[  3] 1qava      structureX:1qav:  75 :A: 164 :A:nitric-oxide synthase, brain:Mus musculus: 1.90: 20.8
+[  4] 1qaua      structureX:1qau:  14 :A: 102 :A:nitric-oxide synthase, brain:Rattus norvegicus: 1.25: 23.9
+[  5] 1i16       structureX:1i16:  27 : : 120 : :interleukin-16:Homo sapiens: -1: -1
+[  6] 1kwaa      structureX:1kwa: 487 :A: 573 :A:cask-lin-2 PDZ domain:Homo sapiens: 1.93: 25.1
+
+
+1be9a      FLGEEDIPREPRRIVIHRGS-TGLGFNIIGGE-D---GEGIFISFILAGGPADLS-GELRKGDQILSVNGVDLRN
+1pdr       ------ITREPRKVVLHRGS-TGLGFNIVGGE-D---GEGIFISFILAGGPADLS-GELRKGDRIISVNSVDLRA
+1qava      ------GSLQRRRVTVRKADAGGLGISIKGGREN---KMPILISKIFKGLAADQT-EALFVGDAILSVNGEDLSS
+1qaua      ---------NVISVRLFKRKVGGLGFLVKER-VS---KPPVIISDLIRGGAAEQS-GLIQAGDIILAVNDRPLVD
+1i16       -------EATVCTVTLEKMS-AGLGFSLEGGKGSLHGDKPLTINRIFKG-AASEQSETVQPGDEILQLGGTAMQG
+1kwaa      ---------RSRLVQFQKNTDEPMGITLKMNELN---H--CIVARIMHGGMIHRQ-GTLHVGDEIREINGISVAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1be9a      ASHEQAAIALKNAG--QTVTIIAQYKPEEYSRFEA*
+1pdr       ASHEQAAAALKNAG--QAVTIVAQYRPEEYSRQHA*
+1qava      ATHDEAVQALKKTG--KEVVLEVKYMK--------*
+1qaua      LSYDSALEVLRGIASETHVVLILRGPEG-------*
+1i16       LTRFEAWNIIKALPD-GPVTIVIRRKSLQ------*
+1kwaa      QTVEQLQKMLREMR--GSITFKIVPSYRE------*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1be9a      100.0  84.4  38.9  25.8  23.4  21.8
+  2-1pdr        84.4 100.0  36.7  25.8  23.4  20.7
+  3-1qava       38.9  36.7 100.0  31.5  31.1  20.7
+  4-1qaua       25.8  25.8  31.5 100.0  25.8  16.1
+  5-1i16        23.4  23.4  31.1  25.8 100.0  20.7
+  6-1kwaa       21.8  20.7  20.7  16.1  20.7 100.0
+
+***************************************************************************

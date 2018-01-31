@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dar       structureX:1dar: 600 : : 689 : :elongation factor G:Thermus thermophilus: 2.40: 22
+[  2] 1n0vc      structureX:1n0v: 723 :C: 826 :C:elongation factor 2:Saccharomyces cerevisiae: 2.85: 23.2
+
+
+1dar       VILEPIMRVEVTTPEEYMGDVIGDLNARRGQILGMEPRG--NAQVIRAFVPLAEMFGYATDLRSKTQGRGSFVMF
+1n0vc      KIQEPVFLVEIQCPEQAVGGIYSVLNKKRGQVVSEEQRPGTPLFTVKAYLPVNESFGFTGELRQATGGQAFPQMV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dar       FDHYQEVP------KQVQEKLIK------*
+1n0vc      FDHWSTLGSDPLDPTSKAGEIVLAARKRH*
+           ====|=========|=========|====
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dar       100.0  31.1
+  2-1n0vc       31.1 100.0
+
+***************************************************************************

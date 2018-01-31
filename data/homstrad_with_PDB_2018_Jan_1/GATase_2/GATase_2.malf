@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1ao0a      structureX:1ao0:   1 :A: 459 :A:glutamine phosphoribosylpyrophosphate amidotransferase:Bacillus subtilis: 2.8: 21.4
+[  2] 1ecfa      structureX:1ecf:   1 :A: 492 :A:glutamine phosphoribosylpyrophosphate amidotransferase:Escherichia coli: 2.0: 17.5
+[  3] 1gdoa      structureX:1gdo:   1 :A: 238 :A:glucosamine-6-phosphate synthase, glutaminase domain:Escherichia coli: 1.8: -1
+
+
+1ao0a      CGVFGIWGHEEAPQITYYGLHSLQHRGQEGAGIVATDG-EKLTAHKGQGLITEVFQNGELSKVKGKGAIGHVRYA
+1ecfa      CGIVGIAGVMPVNQSIYDALTVLQHRGQDAAGIITIDANNCFRLRKANGLVSDVFEARHMQRLQGNMGIGHVRYP
+1gdoa      CGIVGAIAQRDVAEILLEGLRRLEYRGYDSAGLAVVDAEGHMTRLRRLGKVQMLAQAAEEHPLHGGTGIAHTRWA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ao0a      TG----YENVQPLLFRSQNNGSLALAHNGNLVNATQLKQQLENQ-GSIFQTSSDTEVLAHLIKRSGHF-------
+1ecfa      TAGSSSASEAQPFYVNS--PYGITLAHNGNLTNAHELRKKLFEEKRRHINTTSDSEILLNIFASELDNFRHYPLE
+1gdoa      THGEPSEVNAHPHVSE-----HIVVVHNGIIENHEPLREELKAR-GYTFVSETDTEVIAHLVNWELKQGG-----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ao0a      --TLKDQIKNSLSMLKGAYAFLIMTE-T--EMIVALDPNGLRPLSIGMMG-----DAYVVASETCAFDVVGATYL
+1ecfa      ADNIFAAIAATNRLIRGAYACVAMIIGH--GMVAFRDPNGIRPLVLGKRDIDENRTEYMVASESVALDTLGFDFL
+1gdoa      --TLREAVLRAIPQLRGAYGTVIMDSRHPDTLLAARS---GSPLVIGLGM-----GENFIASDQLALLPV-TRRF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ao0a      REVEPGEMLIINDE-GMKSERFSM----NINRSICSMEYIYFSRPDSNIDGINVHSARKNLGKMLAQESA-----
+1ecfa      RDVAPGEAIYITEEGQLFTRQCAD----NPVSNPCLFEYVYFARPDSFIDKISVYSARVNMGTKLGEKIAREWED
+1gdoa      IFLEEGDIAEITRR-SVNIFDK-TGAEVKRQDIESNL--------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ao0a      VEADVVTGVPDSSISAAIGYAEATGIPYELGLIKNRYVGRTFI-------QPSQALREQGVRMKLSAVRGVVEGK
+1ecfa      LDIDVVIPIPETSCDIALEIARILGKPYRQGFVKNRYVGRTFIMPGQQLRRKSVR-------RKLNANRAEFRDK
+1gdoa      ---------------------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ao0a      RVVMVDDSIVRGTTSRRIVTMLREAGATEVHVKISSPPIAHPCFYGIDTSTHEELIASSHSVEEIRQEIGADTLS
+1ecfa      NVLLVDDSIVRGTTSEQIIEMAREAGAKKVYLASAAPEIRFPNVYGIDMPSATELIAHGREVDEIRQIIGADGLI
+1gdoa      ---------------------------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ao0a      FLSVEGLLKGIGRKYDDSNCGQCLACFTGKYPTE-IYQDTV-LPHVK-----------*
+1ecfa      FQDLNDLIDAVRAENP-DIQQFECSVFNGVYVTKDVDQGYLDFLDTLRNDDAKAVQRQ*
+1gdoa      ----------------------------------------------------------*
+           =========|=========|=========|=========|=========|========
+                    0460      0470      0480      0490      0500     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ao0a      100.0  38.9  24.8
+  2-1ecfa       38.9 100.0  26.5
+  3-1gdoa       24.8  26.5 100.0
+
+***************************************************************************

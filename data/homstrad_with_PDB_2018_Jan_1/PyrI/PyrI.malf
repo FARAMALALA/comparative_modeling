@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1d09b      structureX:1d09:   1 :B: 100 :B:aspartate carbamoyltransferase regulatory chain:Escherichia coli: 2.10: 20.3
+[  2] 2atcb      structureX:2atc:   1 :B: 100 :B:aspartate carbamoyltransferase catalytic chain:Escherichia coli: 3.0: -1
+
+
+1d09b      MTHDNKLQVEAIK-----RGTVIDHIPAQIGFKLLSLFKLTETDQRITIGLNLPSGEMGRKDLIKIENTFLSEDQ
+2atcb      MT-----HNDKLQVAEIKRGTVINHIPAEIGFKLLSLFKLTETQDRITIGLNLPSGEMGRKDLIKIENTFLSEDE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d09b      VDQLALYAPQATVNRIDNYEVVGKSRPSLP*
+2atcb      VDELALYAPQATVNRINDYEVVGKSRPSLP*
+           ====|=========|=========|=====
+               0080      0090      0100  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1d09b      100.0  81.0
+  2-2atcb       81.0 100.0
+
+***************************************************************************

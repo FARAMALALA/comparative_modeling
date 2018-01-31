@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1k4ia      structureX:1k4i:  12 :A: 227 :A:3,4-dihydroxy-2-butanone 4-phosphate synthase:Magnaporthe grisea: 0.98: 17.8
+[  2] 1g57a      structureX:1g57:   5 :A: 213 :A:3,4-dihydroxy-2-butanone 4-phosphate synthase:Escherichia coli: 1.40: 18.0
+
+
+1k4ia      --------FDAIPDVIQAFKNGEFVVVLDDPSRENEADLIIAAESVTTEQMAFMVRHSSGLICAPLTPERTTALD
+1g57a      LLSSFGTPFERVENALAALREGRGVMVLD----ENEGDMIFPAETMTVEQMALTIRHGSGIVCLCITEDRRKQLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k4ia      LPQMVTHNADPRGTAYTVSVDAEHPSTTTGISAHDRALACRMLAAPDAQPSHFRRPGHVFPLRAVAGGVRARRGH
+1g57a      LPMMVENNTSAYGTGFTVTIEAAE-GVTTGVSAADRITTVRAAIADGAKPSDLNRPGHVFPLRAQAGGVLTRGGH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1k4ia      TEAGVELCRLAGKRPVAVISEIVDDGQEVEGRAVRAAPGMLRGDECVAFARRWGLKVCTIEDMIAHVEKTEGKL*
+1g57a      TEATIDLMTLAGFKPAGVLCELTNDD-----------GTMARAPECIEFANKHNMALVTIEDLVAYRQAHE---*
+           =========|=========|=========|=========|=========|=========|=========|====
+                    0160      0170      0180      0190      0200      0210      0220 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k4ia      100.0  43.9
+  2-1g57a       43.9 100.0
+
+***************************************************************************

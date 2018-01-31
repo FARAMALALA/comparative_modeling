@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1fgs       structureX:1fgs: 297 : : 425 : :folylpolyglutamate synthase:Lactobacillus casei: 2.4: -1
+[  2] 1gg4a      structureX:1gg4: 313 :A: 447 :A:UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase:Escherichia coli: 2.30: 20.3
+[  3] 4uaga      structureX:4uag: 298 :A: 437 :A:UDP-N-acetylmuramoylalanine--D-glutamate ligase:Escherichia coli: 1.66: 19
+
+
+1fgs       -WPARLEKISDT--PLIVIDG-AHNPDGINGLITALKQLFSQPITVIAGYA-------AMADRLTAAF-----ST
+1gg4a      -VPGRLFPIQLAENQLLLDDSYNANVGST-AAVQVLA--EPGYRVLVVGDAELGAESEACHVQVGEAAKAAGIDR
+4uaga      GLPHRFEVVLEHNGVRWINDSKATNVGSTEAALNGLH--VDGTLHLLLGGDGK----SADFSPLARYLNG-DNVR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fgs       VYLVPVPG-------TPRGRLKDSWQEALAASLNDVP---DQPIVITG--SL----YLASAVRQTLLG------*
+1gg4a      VLSVGKQSHAISTASG-VGEHFADKTALITRLKLLIAEQQVITILVKG--SRSA----AEEVVRALQ-------*
+4uaga      LYCFGRDGAQLAALRPEVAEQTETMEQAMRLLAPRV--QPGDMVLLSPACASLDQFKNFEQRGNEFARLAKELG*
+           ====|=========|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      0140      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1fgs       100.0  18.9  12.6
+  2-1gg4a       18.9 100.0  18.3
+  3-4uaga       12.6  18.3 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1g63a      structureX:1g63:   1 :A: 174 :A:epidermin modifying enzyme:Staphylococcus epidermidis: 2.50: 23
+[  2] 1e20a      structureX:1e20:  18 :A: 202 :A:halotolerance protein:Arabidopsis thaliana: 2.02: 21
+
+
+1g63a      MYGKLLICATASINVININHYIVELKQHFDEVNILFSPSSKNFINTDVLKLFCDNLYDEIKDP--------LLNH
+1e20a      RKPRVLLAASGSVAAIKFGNLCHCFTEWA-EVRAVVTKSSLHFLDKLSLPQEV-TLYTDEDEWSSWNKIGDPVLH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g63a      INIVENHEYILVLPASANTINKIANGICDNLLTTVCLTG-YQK-LFIFPNMNIRMWGNPFLQKNIDLLKNNDVKV
+1e20a      IELRRWADVLVIAPLSANTLGKIAGGLCDNLLTCIIRAWDYTKPLFVAPAMNTLMWNNPFTERHLLSLDELGITL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1g63a      YSPDMN-KN-----NITMPNIENVLNFVLN-------*
+1e20a      IPPIKKRLACGDYGNGAMAEPSLIYSTVRLFWESQAH*
+           =========|=========|=========|=======
+                    0160      0170      0180    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g63a      100.0  28.0
+  2-1e20a       28.0 100.0
+
+***************************************************************************

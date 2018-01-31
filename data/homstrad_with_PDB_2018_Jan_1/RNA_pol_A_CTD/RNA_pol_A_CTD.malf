@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1doqa      structureX:1doq: 247 :A: 315 :A:RNA polymerase alpha subunit:Thermus thermophilus: -1: -1
+[  2] 1coo       structureX:1coo: 249 : : 329 : :DNA-directed RNA polymerase alpha chain:Escherichia coli and salmonella typhimurium: -1: -1
+
+
+1doqa      EQEEELDLPLEELGLSTRVLHSLKEEGIESVRALLALNLKDLKNIPGIGERSLEEIKEALEKKGFTLKE------
+1coo       -FDPILLRPVDDLELTVRSANCLKAEAIHYIGDLVQRTEVELLKTPNLGKKSLTEIKDVLASRGLSLGMRLENWP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1doqa      -------*
+1coo       PASIADE*
+           ====|==
+               0080 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1doqa      100.0  30.4
+  2-1coo        30.4 100.0
+
+***************************************************************************

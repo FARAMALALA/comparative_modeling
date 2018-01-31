@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1seia      structureX:1sei:   1 :A: 130 :A:30s ribosomal protein s8 (bs8):Bacillus subtilis: 1.90: 22.2
+[  2] 1an7a      structureX:1an7:   3 :A: 138 :A:30s ribosomal protein s8:Thermus aquaticus: 2.9: 16.2
+
+
+1seia      VMTDPIADMLTAIRNANMVRHEKLEVPASKIKREIAEILKREGFIRDYEYIEDNKQGILRIFLKYGP--------
+1an7a      --TDPIADMLTRIRNATRVYKESTDVPASRFKEEILRILAREGFIKGYERVDVDGKPYLRVYLKYGPRRQGPDPR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1seia      NERVITGLKRISKPGLRVYVKAHEVPRVLNGLGIAILSTSQGVLTDKEARQKGTGGEIIAYVI*
+1an7a      PEQVIHHIRRISKPGRRVYVGVKEIPRVRRGLGIAILSTSKGVLTDREARKLGVGGELICEVW*
+           ====|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1seia      100.0  60.8
+  2-1an7a       60.8 100.0
+
+***************************************************************************

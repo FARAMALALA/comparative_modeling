@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2mhr       structureX:2mhr:   1 : : 118 : :myohemerythrin:Themiste zostericola: 1.70:15.80
+[  2] 2hmqa      structureX:2hmq:   1 :A: 113 :A:hemerythrin:Themiste dyscritum: 2.00:17.30
+
+
+2mhr       GWEIPEPYVWDESFRVFYEQL-DEEHKKIFKGIFDCIRDNSAPNLATLVKVTTNHFTHEEAMMDAAKYSEVVPHK
+2hmqa      GFPIPDPYCWDISFRTFYTIVIDDEHKTLFNGILLLSQADNADHLNELRRCTGKHFLNEQQLMQASQYAGYAEHK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2mhr       KMHKDFLEKIGGLSAPVDAKNVDYCKEWLVNHIKGTDFKYKGKL*
+2hmqa      KAHDDFIHKLDTWD-----GDVTYAKNWLVNHIKTIDFKYRGKI*
+           ====|=========|=========|=========|=========
+               0080      0090      0100      0110      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2mhr       100.0  45.6
+  2-2hmqa       45.6 100.0
+
+***************************************************************************

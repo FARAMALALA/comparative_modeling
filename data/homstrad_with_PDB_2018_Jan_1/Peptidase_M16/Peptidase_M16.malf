@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1bgya      structureX:1bgy:   1 :A: 446 :A:ubiquinol-cytochrome c reductase complex core 1:Bos taurus: 3.0: 32.0
+[  2] 1bgyb      structureX:1bgy:  21 :B: 439 :B:ubiquinol-cytochrome c reductase complex core 2:Bos taurus: 3.0: 32.0
+
+
+1bgya      TATYAQALQSVPETQVSQLDNGLRVASEQSSQPTCTVGVWIDAGSRYESEKNNGAGYFVEHLAFKGTKNRPGNAL
+1bgyb      PQ----------DLEFTRLPNGLVIASLENYAPASRIGLFIKAGSRYENSNNLGTSHLLRLASSLTTKGASSFKI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bgya      EKEVESMGAHLNAYSTREHTAYYIKALSKDLPKAVELLADIVQNCSLEDSQIEKERDVILQELQENDTSMRDVVF
+1bgyb      TRGIEAVGGKLSVTSTRENMAYTVECLRDDVDILMEFLLNVTTAPEFRRWEVAALQPQLRIDKAVALQNPQAHVI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bgya      NYLHATAFQGTPLAQSVEGPSENVRKLSRADLTEYLSRHYKAPRMVLAAAGGLEHRQLLDLAQKHFSGLSGTYDE
+1bgyb      ENLHAAAY-RNALANSLYCPDYRIGKVTPVELHDYVQNHFTSARMALIG-LGVSHPVLKQVAEQFLNIRGG----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bgya      DAVPTLSPCRFTGSQICHREDGLPLAHVAIAVEGPGWAHPDNVALQVANAIIGHYDCTYGGGAHLSSPLASIAAT
+1bgyb      -LGLSGAKAKYHGGEIREQN-GDSLVHAALVAESAAIGSAEANAFSVLQHVLGAGPHVKRGSNA-TSSLYQAVAK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bgya      N-KLCQSFQTFNICYADTGLLGAHFVCDHMSIDDMMFVLQGQWMRLCT-SATESEVLRGKNLLRNALVSHLDGTT
+1bgyb      GVHQPFDVSAFNASYSDSGLFGFYTISQAASAGDVIKAAYNQVKTIAQGNLSNPDVQAAKNKLKAGYLMSVESSE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bgya      PVCEDIGRSLLTYGRRIPLAEWESRIAEVDARVVREVCSKYFYDQCPAVAGFGPIEQLPDYNRIRSGMFWLRF*
+1bgyb      GFLDEVGSQALAAGSYTPPSTVLQQIDAVADADVINAAKK-FVSGRKSMAASGNLGHTPFIDEL---------*
+           ====|=========|=========|=========|=========|=========|=========|========
+               0380      0390      0400      0410      0420      0430      0440     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bgya      100.0  22.2
+  2-1bgyb       22.2 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1cb8a      structureX:1cb8: 600 :A: 699 :A:chondroitinase AC:Pedobacter heparinus: 1.90: 19.5
+[  2] 1egua      structureX:1egu: 814 :A: 893 :A:hyaluronate lyase:Streptococcus pneumoniae: 1.56: 20
+
+
+1cb8a      -PKVLANTNQLQAVYHQQLDMVQAIFYTAGKLSVAGIEIETDKPCAVLIKHINGKQVIWAADPLQKEKTA---VL
+1egua      ESSLIENNETLQSVYDAKQGVWGIVKYDDSVSTISNQFQVL-KRGVYTIRKEGDEYKIAYYNPETQESAPDQEVF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cb8a      SIRDLKTGKTNRVKIDFPQQEFAGATVEL*
+1egua      KKQH-------------------------*
+           ====|=========|=========|====
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cb8a      100.0  15.4
+  2-1egua       15.4 100.0
+
+***************************************************************************

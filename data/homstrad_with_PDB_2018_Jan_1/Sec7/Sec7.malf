@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bc9       structureX:1bc9:  57 : : 256 : :cytohesin-1-b2-1 Sec7 domain:Homo sapiens: -1: -1
+[  2] 1pbv       structureX:1pbv:  52 : : 246 : :arf nucleotide-binding site opener Sec7 domain:Homo sapiens: 2.00: 18.2
+
+
+1bc9       ----MKNMQRNKQVAMGRKKFNMDPKKGIQFLIENDLLKNTCEDIAQFLYKGEGLNKTAIGDYLGERDEFNIQVL
+1pbv       ANEGSKTLQRNRKMAMGRKKFNMDPKKGIQFLVENELLQNTPEEIARFLYKGEGLNKTAIGDYLGEREELNLAVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bc9       HAFVELHEFTDLNLVQALRQFLWSFRLPGEAQKIDRMMEAFAQRYCQCNNGVFQSTDTCYVLSFAIIMLNTSLHN
+1pbv       HAFVDLHEFTDLNLVQALRQFLWSFRLPGEAQKIDRMMEAFAQRYCLCNPGVFQSTDTCYVLSFAVIMLNTSLHN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bc9       PNVKDKPTVERFIAMNRGINDGGDLPEELLRNLYESIKNEPFKIPELEHHHHHH*
+1pbv       PNVRDKPGLERFVAMNRGINEGGDLPEELLRNLYDSIRNEPFKIP---------*
+           =========|=========|=========|=========|=========|====
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bc9       100.0  84.1
+  2-1pbv        84.1 100.0
+
+***************************************************************************

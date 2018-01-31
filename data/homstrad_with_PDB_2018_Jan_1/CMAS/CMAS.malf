@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1kpha      structureX:1kph:   5 :A: 287 :A:cyclopropane-fatty-acyl-phospholipid synthase 1:Mycobacterium tuberculosis: 2.00: 19.4
+[  2] 1kpia      structureX:1kpi:  12 :A: 302 :A:cyclopropane-fatty-acyl-phospholipid synthase 2:Mycobacterium tuberculosis: 2.65: 20.8
+
+
+1kpha      -LKPHFANVQAHYDLSDDFFRLFLDPTQTYSCAYFERDDMTLQEAQIAKIDLALGKLGLQPGMTLLDVGCGWGAT
+1kpia      QLKPPVEAVRSHYDKSNEFFKLWLDPSMTYSCAYFERPDMTLEEAQYAKRKLALDKLNLEPGMTLLDIGCGWGST
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kpha      MMRAVEKYDVNVVGLTLSKNQANHVQQLVANSENLRSKRVLLAGWEQFDEPVDRIVSIGAFEHFG-------HER
+1kpia      MRHAVAEYDVNVIGLTLSENQYAHDKAMFDEVDSPRRKEVRIQGWEEFDEPVDRIVSLGAFEHFADGAGDAGFER
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kpha      YDAFFSLAHRLLPADGVMLLHTITGLHPKEIHERGLPMSFTFARFLKFIVTEIFPGGRLPSIPMVQECASANGFT
+1kpia      YDTFFKKFYNLTPDDGRMLLHTITIPDKEEAQELGLTSPMSLLRFIKFILTEIFPGGRLPRISQVDYYSSNAGWK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kpha      VTRVQSLQPHYAKTLDLWSAALQANKGQAIALQSEEVYERYMKYLTGCAEMFRIGYIDVNQFTCQK*
+1kpia      VERYHRIGANYVPTLNAWADALQAHKDEAIALKGQETCDIYMHYLRGCSDLFRDKYTDVCQFTLVK*
+           ====|=========|=========|=========|=========|=========|=========|=
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kpha      100.0  56.5
+  2-1kpia       56.5 100.0
+
+***************************************************************************

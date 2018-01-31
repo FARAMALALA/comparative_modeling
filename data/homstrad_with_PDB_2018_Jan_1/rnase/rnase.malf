@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1rds       structureX:1rds:   1 : : 105 : :ribonuclease MS:Aspergillus saitoi: 1.80: 20.4
+[  2] 1fus       structureX:1fus:   2 : : 107 : :ribonucelase F1:Fusarium moniliforme: 1.30:18.70
+[  3] 1bu4       structureX:1bu4:   1 : : 104 : :ribonuclease T1:Aspergillus oryzae: 1.9: 18
+
+
+1rds       ESCEYTCGSTCYWSSDVSAAKAKGYSLYESGDTI--DDYPHEYHDYEGFDFPVSGTYYEYPIMSDYDVYTGGSPG
+1fus       --SATTCGSTNYSASQVRAAANAACQYYQNDDTAGSSTYPHTYNNYEGFDFPVDGPYQEFPIKSG-GVYTGGSPG
+1bu4       -ACDYTCGSNCYSSSDVSTAQAAGYKLHEDGETVGSNSYPHKYNNYEGFDFSVSSPYYEWPILSSGDVYSGGSPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rds       ADRVIFNGDDELAGVITHTGASGDDFVACSSS-*
+1fus       ADRVVINTNCEYAGAITHTGASGNNFVGCSGTN*
+1bu4       ADRVVFNENNQLAGVITHTGASGNNFVECT---*
+           ====|=========|=========|========
+               0080      0090      0100     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1rds       100.0  56.2  65.4
+  2-1fus        56.2 100.0  58.7
+  3-1bu4        65.4  58.7 100.0
+
+***************************************************************************

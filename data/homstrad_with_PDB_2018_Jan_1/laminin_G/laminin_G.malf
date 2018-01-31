@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1dyka1     structureX:1dyk:2744 :A:2932 :A:laminin alpha-2 chain:Mus musculus: 2.0: 23.3
+[  2] 1dyka2     structureX:1dyk:2933 :A:3117 :A:laminin alpha-2 chain:Mus musculus: 2.0: 23.3
+[  3] 1d2sa      structureX:1d2s:  13 :A: 188 :A:sex hormone-binding globulin:Homo sapiens: 1.55: 20.5
+[  4] 1c4ra      structureX:1c4r:  82 :A: 291 :A:ligand-binding domain of neurexin 1beta:Rattus norvegicus: 2.60: 24.9
+
+
+1dyka1     HGPCVAESEPALLTGSKQFGL--SRNSHIAIAFD--DTKVKNRLTIELEVRTEAESGLLFYMARI-NHADFATVQ
+1dyka2     ----------NAES-GTYFDG----TGFAKAVGG--F-KVGLDLLVEFEFRTTRPTGVLLGVSSQ-K-MDGMGIE
+1d2sa      -------------PPAVHLSNGPGQEPIAVMTFDLTKIT---KTSSSFEVRTWDPEGVIFYGDTNPK-DDWFMLG
+1c4ra      -----------HAGTTYIFSK---GGGQITYKWPPNDRPSTRADRLAIGFSTVQKEAVLVRVDSSSGLGDYLELH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dyka1     LRNGFPYFSYDLGSGDTSTMIPT----KINDGQWHKIKIVRVKQEGILYVDD-ASSQTISPK-KADILDVVGILY
+1dyka2     MIDEKLMFHVDNGAGRFTAIYDAEIPGHMCNGQWHKVTAKKIKNRLELVVDG-NQVDAQSPNSASTSADTNDPVF
+1d2sa      LRDGRPEIQLHNHWAQLTVGAGP----RLDDGRWHQVEVKMEGDSVLLEVDGEEVLRLR-----QVSGHPIMRIA
+1c4ra      IHQGKIGVKFNVGTDDIAIEES---NAIINDGKYHVVRFTRSGGNATLQVDSWPVIERYPAGRQLTIFNSQATII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dyka1     VGGLPINYTTRRIGPVTYSLDGCVRNLHME-----QAPVDLDQ------PTSSFHVG--TCFA*
+1dyka2     VGGFPGGLNQ-FGLTTNIRFRGCIRSLKLTKGTGKPLEVNFAK------ALELRGVQPVSCPT*
+1d2sa      LGGLLF-PASNLRLPLVPALDGCLRRDSWLD------------KQAEISASAPTSLR--SC--*
+1c4ra      IGGKEQG----------QPFQGQLSGLYYN-----GLKVLNMAAENDANIAIVGNVRLVG-EV*
+           =========|=========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1dyka1     100.0  20.5  18.2  13.9
+  2-1dyka2      20.5 100.0  18.8  15.6
+  3-1d2sa       18.2  18.8 100.0  13.5
+  4-1c4ra       13.9  15.6  13.5 100.0
+
+***************************************************************************

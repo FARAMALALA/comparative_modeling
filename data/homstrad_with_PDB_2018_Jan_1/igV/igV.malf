@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1tvdb      structureX:1tvd:   1 :B: 116 :B:T-cell receptor delta chain:Homo sapiens: 1.90:16.1
+[  2] 1b88a      structureX:1b88:   1 :A: 114 :A:T-cell receptor V-alpha domain:Mus musculus: 2.50: 22.4
+[  3] 1cd8       structureX:1cd8:   1 : : 114 : :T-cell surface glycoprotein CD8 alpha chain:Homo sapiens: 2.6: 19.2
+[  4] 3cd4       structureX:3cd4:   1 : :  97 : :T-cell surface glycoprotein CD4 domain 1:Homo sapiens: 2.2: 19.7
+[  5] 1neu       structureX:1neu:   1 : : 119 : :myelin P0 protein:Rattus norvegicus: 1.9: 21.5
+[  6] 1hnf       structureX:1hnf:   4 : : 104 : :T-cell surface antigen CD2:Homo sapiens: 2.5: 19.3
+[  7] 1hnga      structureX:1hng:   2 :A:  99 :A:T-cell surface antigen CD2:Rattus norvegicus: 2.8: 21.5
+[  8] 1cid1      structureX:1cid:   1 : : 105 : :T-cell surface glycoprotein CD4 domain 3:Rattus norvegicus: 2.8: 23.3
+[  9] 1qfpa      structureX:1qfp:   1 :A: 119 :A:sialoadhesin:Mus musculus: 2.80: 19.8
+
+
+1tvdb      -DKVTQSSPDQTVASGSEVVLLCT-YDTV-----YSNPDLFWYRIRP--DYSFQFVFYGD-DS-RSEG-A----D
+1b88a      MQQVRQSPQSLTVWEGETAILNCS-YENS------AFDYFPWYQQFP--GEGPALLISIL-SV-SNKK-E----D
+1cd8       -SQFRVSPLDRTWNLGETVELKCQ-VLLS-----NPTSGCSWLFQPRGAAASPTFLLYLS-QN-KPKA-AE---G
+3cd4       -------KKVVLGKKGDTVELTCT-AS--QKKS----IQFHWKNS------NQIKILGNQ-GS-FLT--K--GPS
+1neu       -IVVY-TDREVYGAVGSQVTLHCS-FWSSEWVSD--DISFTWRYQPEGG-RDAISIFHYA-KG-QPYI-DE--VG
+1hnf       ----T-NALETWGALGQDINLDIPSFQMS-----DDIDDIKWEK----T-SDKKKIAQFR-KEKETFK-EK----
+1hnga      ------DSGTVWGALGHGINLNIPNFQMT-----DDIDEVRWER----G---STLVAEFK-RKMKPFL-KS----
+1cid1      ------TSITAYKSEGESAEFSFP-LNLG-----EESLQGELRWKAEKAPSSQSWITFSLK-NQKVSVQ--KSTS
+1qfpa      TWGVS-SPKNVQGLSGSCLLIPCI-FSYPADVPVSNGITAIWYYDYS---GKRQVVIHS------GD--PKLVDK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tvdb      FTQGRFSVKHI---LTQKAFHLVISPVRTEDSATYYCAFTLPP-PTDKLIFG-KGTRVTVEP*
+1b88a      ---GRFTIFFN---KREKKLSLHIADSQPGDSATYFCAASASFGDNSKLIWG-LGTSLVVNP*
+1cd8       LDTQRFSGKRL-----GDTFVLTLSDFRRENEGYYFCSALSN----SIMYFS-HFVPVFLPA*
+3cd4       KLNDRADSR--RSLWDQGNFPLIIKNLKIEDSDTYICEVE--------DQKE--EVQLLV--*
+1neu       TFKERIQWV--G-DPSWKDGSIVIHNLDYSDNGTFTCDVKN------VGKTS--QVTLYVFE*
+1hnf       ---DTYKLF--K------NGTLKIKHLKTDDQDIYKVSIYDTKG---KNVLE-KIFDLKIQE*
+1hnga      ---GAFEIL--A------NGDLKIKNLTRDDSGTYNVTVYSTNG---TRILN-KALDLRILE*
+1cid1      NP--KFQLSE------TLPLTLQIPQVSLQFAGSGNLTLTLDR----GILYQ--EVNLV---*
+1qfpa      RFRGRAELM--G-NMDHKVCNLLLKDLKPEDSGTYNFRFEISDS---NRWLDVKGTTVTVTT*
+           ====|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9]
+
+  1-1tvdb      100.0  29.8  21.9  19.6  14.8  12.9  17.3   8.6  22.4
+  2-1b88a       29.8 100.0  21.9  16.5  15.8  14.9  18.4  10.5  19.3
+  3-1cd8        21.9  21.9 100.0  15.5  14.9   8.9  13.3  11.4  11.4
+  4-3cd4        19.6  16.5  15.5 100.0  23.7  18.6  18.6  11.3  22.7
+  5-1neu        14.8  15.8  14.9  23.7 100.0  16.8  19.4  10.5  19.1
+  6-1hnf        12.9  14.9   8.9  18.6  16.8 100.0  42.9   8.9  13.9
+  7-1hnga       17.3  18.4  13.3  18.6  19.4  42.9 100.0  12.2  20.4
+  8-1cid1        8.6  10.5  11.4  11.3  10.5   8.9  12.2 100.0   5.7
+  9-1qfpa       22.4  19.3  11.4  22.7  19.1  13.9  20.4   5.7 100.0
+
+***************************************************************************

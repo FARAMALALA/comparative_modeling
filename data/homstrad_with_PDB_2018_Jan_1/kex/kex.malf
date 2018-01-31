@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1bcsa      structureX:1bcs:  -4 :A: 423 :B:serine carboxypeptidase II:Triticum vulgare:2.10:17.40
+[  2] 1cpy       structureX:1cpy:   1 : : 421 : :serine carboxypeptidase:Saccharomyces cerevisiae:2.60:18.00
+[  3] 1ac5       structureX:1ac5:   1 : : 483 : :KEX1:Saccharomyces cerevisiae:2.40:19.50 
+
+
+1bcsa      ---HAADRIAR--L-----PGQPAVDFDMYSGYITV-------DEGAGRSLFYLLQEAP--EDAQPAPLVLWLNG
+1cpy       ----KIKDPKI--L-------GIDPNVTQYTGYLDV--------EDEDKHFFFWTFESR--NDPAKDPVILWLNG
+1ac5       LPSSEEYKVAYELLPGLSEVPDPSNIPQMHAGHIPLRSEDADEQDSSDLEYFFWKFTNNDSNGNVDRPLIIWLNG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bcsa      GPGCSSVAYGASEELGAFRVKPRGAGLVLNEYRWNKVANVLFLDSPAGVGFSYTNTSSD------IYTSGDNRTA
+1cpy       GPGCSSLT-GLFFALGPSSIGPD-LKPIGNPYSWNSNATVIFLDQPVNVGFSYSGSS---------GVSNTVAAG
+1ac5       GPGCSSMD-GALVESGPFRVNSD-GKLYLNEGSWISKGDLLFIDQPTGTGFSVEQNKDEGKIDKNKFDEDLEDVT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bcsa      HDSYAFLAKWFERFPHYK--YRDFYIAGESYAGHYVPELSQLVHRSK--NP----VINLKGFMVGNGLIDDYHDY
+1cpy       KDVYNFLELFFDQFPEYVNKGQDFHIAGASYAGHYIPVFASEILSHK--DR----NFNLTSVLIGNGLTDPLTQY
+1ac5       KHFMDFLENYFKIFPEDL--TRKIILSGESYAGQYIPFFANAILNHNKFSKIDGDTYDLKALLIGNGWIDPNTQS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bcsa      VGTFEFWWN----HGIVS-----DDTYRRLKEACLHDS-----------FIHPSPACDAATDVATA---------
+1cpy       NYYEPMACGEGGEPSVLP--SEECSAMEDSLERCLGLIESCYDSQSVWSCVPATIYCNNAQLAPYQ---------
+1ac5       LSYLPFAMEK----KLIDESNPNFKHLTNAHENCQNLINSASTD--EAAHFSYQ-ECENILNLLLSYTRESSQKG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bcsa      EQGNIDMYSLYTPVCNI---SYDPCTERYSTAYYNRRDVQMALHANVTGAMNYTWATCSDTINTHW--HDA-PRS
+1cpy       -RTGRNVYDIRKDCEGG---NLCYPTLQDIDDYLNQDYVKEAVGAEV-----DHYESCNFDINRNFLFAGDWMKP
+1ac5       TADCLNMYNFNLKDSYPSCGMNWPKDISFVSKFFSTPGVIDSLHLDSDK--IDHWKECTNSVGTKL--SNPISKP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bcsa      MLPIYRELIAAGLRIWVFSGDTDAVVPLTATRYSIGALG----LPT-TTSWYPWYDD--------QEVGGWSQVY
+1cpy       YHTAVTDLLNQDLPILVYAGDKDFICNWLGNKAWTDVLPWKYDEEFASQKVRNWTASITD------EVAGEVKSY
+1ac5       SIHLLPGLLESGIEIVLFNGDKDLICNNKGVLDTIDNLKWGGIKGFSDDAVSFDWIHKSKSTDDSEEFSGYVKYD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1bcsa      KGLTLVSVRGAGHEVPLHRPRQALVLFQYFLQGKPMPGQ---------*
+1cpy       KHFTYLRVFNGGHMVPFDVPENALSMVNEWIHGGFSL-----------*
+1ac5       RNLTFVSVYNASHMVPFDKSLVSRGIVDIYSNDVMIIDNNGKNVMITT*
+           =========|=========|=========|=========|========
+                    0460      0470      0480      0490     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bcsa      100.0  27.2  22.8
+  2-1cpy        27.2 100.0  27.3
+  3-1ac5        22.8  27.3 100.0
+
+***************************************************************************

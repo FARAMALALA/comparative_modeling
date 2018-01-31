@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1qs0a      structureX:1qs0:   2 :A: 408 :A:2-oxoisovalerate dehydrogenase alpha subunit:Pseudomonas putida: 2.40: 21.8
+[  2] 1dtwa      structureX:1dtw:   7 :A: 400 :A:2-oxoisovalerate dehydrogenase alpha subunit:Homo sapiens: 2.7: 22.4
+
+
+1qs0a      ----------NEYAPLRLHVPEPTGRPGCQTDFSYLRLNDAGQARKPPVDVDAADTADLSYSLVRVLDEQGDAQG
+1dtwa      PQFPGASAEFIDKLEFI------------QPNVI------------------------SGIPIYRVMDRQGQIIN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qs0a      -PWAEDIDPQILRQGR--ALKTRIFDSR-VVAQRQKK-SFY-QSLGEEAIGSGQALALNRTD-CFPTYRQQSIL-
+1dtwa      PSEDPHLPKEKVLKLYKSMTLLNTMDRILYESQRQGRISFYMTNYGEEGTHVGSAAALDNTDLVFGQYREAGVLM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qs0a      ARDVSLVE-ICQLLSNERDPLKGRQLPI-YSVREAGFFTISGNLATQFVQAVGWA-ASAIKGDTKIASAWIGDGA
+1dtwa      YRDYPLELFMAQCYGNISDLGKGRQMPVHYGCKERHFVTISSPLATQIPQAVGAAYAAKRANANRVVICYFGEGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qs0a      TAESDFHTALTFAHVYRAPVILNVVNNQWAISTFQAIAGGESTTFAGRGVGCGIASLRVDGNDFVAVYAASRWAA
+1dtwa      ASEGDAHAGFNFAATLECPIIFFCRNNGYAISTPTSEQYRG-DGIAARGPGYGIMSIRVDGNDVFAVYNATKEAR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qs0a      ERARRGLGPSLIEWVTYRAGPHSTSDDPSKYRPADDWSHFPLGDPIARLKQHLIKIGHWSEEEHQATTAEFEAAV
+1dtwa      RRAVAENQPFLIEAMTYRIGHHSTSDDSSAYR-----------HPISRLRHYLLSQGWWDEEQEKAWRKQSRRKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qs0a      IAAQKEAEQYGTLANGHIPSAAS-FEDVYKE-PDHLRRQRQEL------------------*
+1dtwa      MEAFEQAERKP------KPNPNLLFSDVYQEMPAQLRKQQESLARHLQTYGEHYPLDHFDK*
+           ====|=========|=========|=========|=========|=========|======
+               0380      0390      0400      0410      0420      0430   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qs0a      100.0  34.3
+  2-1dtwa       34.3 100.0
+
+***************************************************************************

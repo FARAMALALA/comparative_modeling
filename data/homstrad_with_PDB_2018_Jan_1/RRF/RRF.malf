@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1dd5a      structureX:1dd5:   2 :A: 185 :A:ribosome recycling factor, RRF:Thermotoga maritima: 2.55: 23
+[  2] 1eh1a      structureX:1eh1:   1 :A: 185 :A:ribosome recycling factor RRF:Thermus aquaticus: 2.60: 23.4
+[  3] 1ek8a      structureX:1ek8:   1 :A: 185 :A:ribosome recycling factor RRF:Escherichia coli: 2.30: 22.8
+[  4] 1ge9a      structureX:1ge9:   1 :A: 184 :A:ribosome recycling factor RRF:Aquifex aeolicus: -1: -1
+
+
+1dd5a      ----VNPFIKEAKEKMKRTLEKIEDELRKMRTGKPSPAILEEIKVDYYGVPTPVNQLATISISEERTLVIKPWDK
+1eh1a      M--TLKELYAETRSHMQKSLEVLEHNLAGLRTGRANPALLLHLKVEYYGAHVPLNQIATVTAPDPRTLVVQSWDQ
+1ek8a      ---MISDIRKDAEVRMDKCVEAFKTQISKIRTGRASPSLLDGIVVEYYGTPTPLRQLASVTVEDSRTLKINVFDR
+1ge9a      MIKELEDIFKEAEKDMKKAVEYYKNEIAGLRTSRASTALVEEIKVEYYGSKVPIKQLGTISVPEHNQIVIQVWDQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dd5a      SVLSLIEKAINASDLGLNPINDGNVIRLVFPSPTTEQREKWVKKAKEIVEEGKIAIRNIRREILKKIKEDQKEGL
+1eh1a      NALKAIEKAIRDSDLGLNPSNKGDALYINIPPLTEERRKDLVRAVRQYAEEGRVAIRNIRREALDKLKKLAKELH
+1ek8a      SMSPAVEKAIMASDLGLNPNSAGSDIRVPLPPLTEERRKDLTKIVRGEAEQARVAVRNVRRDANDKVKALLKDKE
+1ge9a      NAVPAIEKAIREE-LNLNPTVQGNVIRVTLPPLTEERRRELVRLLHKITEEARVRVRNVRREAKEMIEELE----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dd5a      IPEDDAKRLENEIQKLTDEFIEKLDEVFEIKKEEIMEF----*
+1eh1a      LSEDETKRAEAEIQKITDEFIAKADQLAEKKEQEILG-----*
+1ek8a      ISEDDDRRSQDDVQKLTDAAIKKIEAALADKEAELMQF----*
+1ge9a      ---GISEDEKKRALERLQKLTDKYIDEINKLMEAKEKEIMSV*
+           =========|=========|=========|=========|==
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1dd5a      100.0  45.7  39.7  33.2
+  2-1eh1a       45.7 100.0  43.8  37.5
+  3-1ek8a       39.7  43.8 100.0  36.4
+  4-1ge9a       33.2  37.5  36.4 100.0
+
+***************************************************************************

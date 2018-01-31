@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1jdw       structureX:1jdw:  64 : : 423 : :L-arginine\:glycineamidinotransferase:Homo sapiens: 1.90: 19.6
+[  2] 1bwda      structureX:1bwd:   1 :A: 348 :A:inosamine-phosphate amidinotransferase I:Streptomyces griseus: 3.10: 19.7
+
+
+1jdw       -CPVSSYNEWDPLEEVIVGRAENACVPPFTIEVKANTYEKYWPFYQKQGGHYFPKDHLKKAVAEIEEMCNILKTE
+1bwda      RSLVSVHNEWDPLEEVIVGTAVGARVPTADRSVFAVEYAGDYESQEQIPSGAYPDRVLKETEEELHVLAAELTKL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jdw       GVTVRRPDPIDWSLKYKTPDFESTGLYSAMPRDILIVVGNEIIEAPMAWRSRFFEYRAYRSIIKDYFHRGAKWTT
+1bwda      GVTVRRPGPRDHSALIKTPDWETDGFHDYCPRDGLLSVGQTIIETPMALRSRFLESLAYKDLLLEYFASGSRWLS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jdw       APKPTMADELYNQDYPIHSVEDRHKLAAQGKFVTTEFEPCFDAADFIRAGRDIFAQRSQVTNYLGIEWMRRHLAP
+1bwda      APKPRLTDDSYAPQAP------AG-------ERLTDEEPVFDAANVLRFGTDLLYLVSDSGNELGAKWLQSAVGD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jdw       DYRVHIISFKDPNPMHIDATFNIIGPGIVLSNPDRPC--HQIDLFKKAGWTIITPPTPIIPD---DHPLWMSSKW
+1bwda      TYTVHPCRKLY-ASTHVDSTIVPLRPGLVLTNPSRVNDENMPDFLR--SWENITCPELVDIGFTGDKP--HCSVW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jdw       LSMNVLMLDEKRVMVDANEVPIQKMFEKLGITTIKVNIRNANSLGGGFHCWTCDVRRRGTLQSYLD*
+1bwda      IGMNLLVVRPDLAVVDRRQTALIRLLEKHGMNVLPLQLTHSRTLGGGFHCATLDVRRTGALETYQF*
+           =========|=========|=========|=========|=========|=========|======
+                    0310      0320      0330      0340      0350      0360   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jdw       100.0  37.9
+  2-1bwda       37.9 100.0
+
+***************************************************************************

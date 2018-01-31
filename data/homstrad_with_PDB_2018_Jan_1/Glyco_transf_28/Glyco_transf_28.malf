@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1f0ka      structureX:1f0k:   7 :A: 357 :A:UDP-n-acetylglucosamine--n-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol n-acetylglucosamine transferase:Escherichia coli: 1.90: 22
+[  2] 1iira      structureX:1iir:   1 :A: 401 :A:UDP-glucosyltransferase gtfB:Amycolatopsis orientalis: 1.80: 21.1
+
+
+1f0ka      KRLMVMAGGTGGHVFPGLAVAHHLMAQGWQVRWLGTADRMEADLVPKHGIEIDFIRISGLRGKGIKALIAAPLRI
+1iira      MRVLLATCGSRGDTEPLVALAVRVRDLGADVRMCAPP--DCAERLAEVGVPHVPVGPRAKPLTAEDVRRFTTEAI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f0ka      FNAWRQARAIMKAYKPDVVLGMGG-YVSGPGGLAAWSLGIPVVLHEQNGIAG-----------------------
+1iira      ATQFDEIPAAAE--GCAAVVTTGLLAAAIGVRSVAEKLGIPYFYAFHCPSYVPSPYYPPPPIDIPAQWERNNQSA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f0ka      -----LTNKWLAK--------------IATKVMQAF-PGAFP------NAEVVGNPVRTDVLALPL---PQQRLA
+1iira      YQRYGGLLNSHRDAIGLPPVEDIFTFGYTDHPWVAADPVLAPLQPTDLDAVQTGAWILPD--ERPLSPELAAFLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1f0ka      GREGPVRVLVVGGSQGARILNQTMPQVAAKLGDSVTIWHQSGKGSQQSVEQAYAEAGQPQHKVTEFIDDMAAAYA
+1iira      --AGPPPVYLGF--GAPADAVRVAIDAIRAH--GRRVIL--SRGWAD--LVLPD---DGADCFAIGEVNHQVLFG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1f0ka      WADVVVCRSGALTVSEIAAAGLPALFVPFQHKDRQQYWNALPLEKAGAAKIIEQPQLSVDAVANTLAGWSRETLL
+1iira      RVAAVIHHGGAGTTHVAARAGAPQILLP-QMAD--QPYYAGRVAELGVGVAHDGPIPTFDSLSAALATALTPETH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1f0ka      TMAERARAASIPDATERVANEVSRVARAL*
+1iira      ARATAVAGTIRTDGAAVAARLLLDAVSRE*
+           ====|=========|=========|====
+               0380      0390      0400 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f0ka      100.0  15.4
+  2-1iira       15.4 100.0
+
+***************************************************************************

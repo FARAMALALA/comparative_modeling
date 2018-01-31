@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1bba       structureN:1bba:   1 : :  36 : :pancreatic polypeptide:Bos taurus:-1.00:-1.00
+[  2] 1ppt       structureX:1ppt:   1 : :  36 : :avian pancreatic polypeptide:Meleagris gallopavo: 1.40:17.80
+[  3] 1ron       structureX:1ron:   1 : :  36 : :neuropeptide y:Homo sapiens:-1:-1
+
+
+1bba       APLEPEYPGDNATPEQMAQYAAELRRYINMLTRPRY*
+1ppt       GPSQPTYPGDDAPVEDLIRFYDNLQQYLNVVTRHRY*
+1ron       YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY*
+           =========|=========|=========|======
+                    0010      0020      0030   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bba       100.0  41.7  50.0
+  2-1ppt        41.7 100.0  52.8
+  3-1ron        50.0  52.8 100.0
+
+***************************************************************************

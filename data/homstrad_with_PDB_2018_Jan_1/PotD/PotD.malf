@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1a99a      structureX:1a99:  29 :A: 369 :A:putrescine-binding periplasmic protein:Escherichia coli: 2.2: 18.5
+[  2] 1pot       structureX:1pot:  26 : : 347 : :spermidine-putrescine-binding periplasmic protein:Escherichia coli: 1.8: 19.8
+
+
+1a99a      QKTLHIYNWSDYIAPDTVANFEKETGIKVVYDVFDSNEVLEGKLMAGSTG-FDLVVPSASFLERQLTAGVFQPLD
+1pot       NNTLYFYNWTEYVPPGLLEQFTKETGIKVIYSTYESNETMYAKLKTYKDGAYDLVVPSTYYVDKMRKEGMIQKID
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a99a      KSKLPEWKNLDPELLKLVAKHDPDNKFAMPYMWATTGIGYNVDKVKAVLGENAPVDSWDLILKPENLEKLKSCGV
+1pot       KSKLTNFSNLDPDMLN--KPFDPNNDYSIPYIWGATAIGVNGDAVDPK-----SVTSWADLWKPEYK-----GSL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a99a      SFLDAPEEVFATVLNYLGKDPNSTKADDYTGPATDLLLKLRPNIRYFHSSQYINDLANGDICVAIGWAGDVWQAS
+1pot       LLTDDAREVFQMALRKLGYSGNTTDPKEIE-AAYNELKKLMPNVAAFNSDNPANPYMEGEVNLGMIWNGSAFVAR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a99a      NRAKEAKNGVNVSFSIPKEGAMAFFDVFAMPADAKNKDEAYQFLNYLLRPDVVAHISDHVFYANANKAATPLVSA
+1pot       QA------GTPIDVVWPKEGGIFWMDSLAIPANAKNKEGALKLINFLLRPDVAKQVAETIGYPTPNLAARKLLSP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1a99a      EVRENPGIYPPADVRAKLFTLKVQDPKIDRVRTRAWTKVKSG*
+1pot       EVANDKTLYPDAETIKNGEWQNDVGA-ASSIYEEYYQKLKAG*
+           =========|=========|=========|=========|==
+                    0310      0320      0330      0340 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a99a      100.0  35.7
+  2-1pot        35.7 100.0
+
+***************************************************************************

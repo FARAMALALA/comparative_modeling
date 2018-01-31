@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1rci       structureX:1rci:   2 : : 172 : :ferritin, lower subunit (ferritin l):Rana catesbeiana: 2.0: -1
+[  2] 2fha       structureX:2fha:   5 : : 176 : :ferritin heavy chain:Homo sapiens: 1.9: 18.6
+[  3] 1aew       structureX:1aew:   6 : : 175 : :ferritin light chain:Equus caballus: 1.95: 19.2
+[  4] 1bg7       structureX:1bg7:   1 : : 173 : :ferritin, higher subunit (ferritin h):Rana catesbeiana: 1.85: 20.7
+
+
+1rci       -SQVRQNFHQDCEAGLNRTVNLKFYSSYVYLSMASYFNRDDVALSNFAKFFRERSEEEKEHAEKLIEYQNQRGGR
+2fha       TSQVRQNYHQDSEAAINRQINLELYASYVYLSMSYYFDRDDVALKNFAKYFLHQSHEEREHAEKLMKLQNQRGGR
+1aew       -SQIRQNYSTEVEAAVNRLVNLYLRASYTYLSLGFYFDRDDVALEGVCHFFRELAEEKREGAERLLKMQNQRGGR
+1bg7       DSQVRQNFHRDCEAAINRMVNMELYASYTYLSMAFYFDRDDIALHNVAKFFKEQSHEEREHAEKLMKDQNKRGGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rci       VFLQSVEKPERDDWANGLEALQTALKLQKSVNQALLDLHAVAADKSDPHMTDFLESPYLSESVETIKKLGDHITS
+2fha       IFLQDIQKPDCDDWESGLNAMECALHLEKNVNQSLLELHKLATDKNDPHLCDFIETHYLNEQVKAIKELGDHVTN
+1aew       ALFQDLQKPSQDEWGTTPDAMKAAIVLEKSLNQALLDLHALGSAQADPHLCDFLESHFLDEEVKLIKKMGDHLTN
+1bg7       IVLQDVQKPERDEWGNTLEAMQAALQLEKTVNQALLDLP--------------------EEQVKSIKQLGDYITN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1rci       LKKLWSSHPGMAEYLFNKHTLG-*
+2fha       LRKMGAPESGLAEYLFDKHTLG-*
+1aew       IQRLVGSQAGLGEYLFERLTL--*
+1bg7       LKRLGLPQNGMGEYLFDKHTMGE*
+           =========|=========|===
+                    0160      0170 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1rci       100.0  62.6  51.8  65.4
+  2-2fha        62.6 100.0  54.1  68.0
+  3-1aew        51.8  54.1 100.0  58.2
+  4-1bg7        65.4  68.0  58.2 100.0
+
+***************************************************************************

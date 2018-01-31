@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1b4fa      structureX:1b4f:   6 :A:  79 :A:EPHB2 receptor SAM domain:Homo sapiens: 1.95: 22.8
+[  2] 1b0xa      structureX:1b0x: 910 :A: 981 :A:EPH receptor SAM domain:Escherichia coli: 2.00: 22.9
+
+
+1b4fa      PDYTSFNTVDEWLEAIKMGQYKESFANAGFTSFDVVSQMMMEDILRVGVTLAGHQKKILNSIQVMRAQMNQIQS*
+1b0xa      FSAVV--SVGDWLQAIKMDRYKDNFTAAGYTTLEAVVHMSQDDLARIGITAITHQNKILSSVQAMRTQMQQMHG*
+           =========|=========|=========|=========|=========|=========|=========|====
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b4fa      100.0  43.1
+  2-1b0xa       43.1 100.0
+
+***************************************************************************

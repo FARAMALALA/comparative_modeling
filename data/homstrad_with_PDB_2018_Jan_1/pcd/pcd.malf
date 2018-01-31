@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 3pcgm      structureX:3pcg: 301 :M: 536 :M:protocatechuate 3,4-dioxygenase beta chain:Pseudomonas putida: 1.96: 17.5
+[  2] 3pcga      structureX:3pcg:   1 :A: 200 :A:protocatechuate 3,4-dioxygenase alpha chain:Pseudomonas putida: 1.96: 17.5
+
+
+3pcgm      PAQDNSRFVIRDRNWHPKALTPDYKTSIARSPRQALVSIPQSISETTGPNFS--HLGFGA--HDHDLLLNFGLPI
+3pcga      P-----IELLPE-----------------------TPSQTAGPYVHIGLALEAAGNPTRDQEIWNRLAKP--DAP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3pcgm      GERIIVAGRVVDQYGKPVPNTLVEMWQANAGGRYRHKNDRYLAPLDP--NFGGVGRCLTDS-DGYYSFRTIKPGP
+3pcga      GEHILLLGQVYDGNGHLVRDSFLEVWQADANGEYQD-------AYNLENAFNSFGRTATTFDAGEWTLHTVKPGV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3pcgm      YPWRNGPNDWRPAHIHFGISGPSIATKLITQLYFEGD-PLIPMCPIVKSIANPEAVQQLIAKLDMNNANPMDCLA
+3pcga      VNNA--AGVPMAPHINISLFARGINIHLHTRLYFDDEAQANAKCPVLNLIEQPQRRETLIAKRC---EVDG-KTA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3pcgm      YRFDIVLRGQRKTHFE---------*
+3pcga      YRFDIRIQG-------EGETVFFDF*
+           ====|=========|=========|
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3pcgm      100.0  25.5
+  2-3pcga       25.5 100.0
+
+***************************************************************************

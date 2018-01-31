@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1auk       structureX:1auk:  19 : : 503 : :arylsulfatase A:Homo sapiens: 2.1: 23.2
+[  2] 1fsu       structureX:1fsu:  42 : : 533 : :arylsulfatase B:Homo sapiens: 2.5: 18.8
+
+
+1auk       -RPPNIVLIFADDLGYGDLGCYGHPSSTTPNLDQLAAGGLRFTDFYVPVSLTPSRAALLTGRLPVRMGMYPGVLV
+1fsu       SRPPHLVFLLADDLGWNDVGFHGS-RIRTPHLDALAAGGVLLDNYYT-QPLTPSRSQLLTGRYQIRTGLQHQIIW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1auk       PSSRGGLPLEEVTVAEVLAARGYLTGMAGKWHLGVGPEGAFLPPHQGFHRFLGIPYSHDQGPCQNLTCFPPATPC
+1fsu       PCQPSCVPLDEKLLPQLLKEAGYTTHMVGKWHLGMYR-KECLPTRRGFDTYFGYLLGS--EDYYSHERC---TLI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1auk       DGGCDQGLVPIPLLANLSVEAQPPWLPGLEARYMAFAHDLMADAQRQDRPFFLYYASHHTHYPQFSGQSFAERSG
+1fsu       DALNVT-RCALDFRDGEEVATGYKN-MYSTNIFTKRAIALITNHPP-EKPLFLYLALQSVHEPLQVPEEYLKPYD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1auk       ------RGPFGDSLMELDAAVGTLMTAIGDLGLLEETLVIFTADNGPETMRMSRGGCSGLLRCGKGTTYEGGVRE
+1fsu       FIQDKNRHHYAGMVSLMDEAVGNVTAALKSSGLWNNTVFIFSTDNGGQTLA---GGNNWPLRGRKWSLWEGGVRG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1auk       PALAFWPG-HIAPGVTHELASSLDLLPTLAALAGAPLPN-VTLDGFDLSPLLLGTGKSPRQSLFFY-PSYPDEV-
+1fsu       VGFVASPLLKQKGVKNRELIHISDWLPTLVKLARGHTNGTKPLDGFDVWKTISEGSPSPRIELLHNIDPNFVDSS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1auk       -------RGVFAVRTGKYKAHFFTQGSAHSDTTADPACHASSSLTAHE-----PPLLYDLSKDPGENYNLLGATP
+1fsu       PCSAFNTSVHAAIRHGNWKLLTGYPGC--GYWFPPPSQY-NVSEIPSSDPPTKTLWLFDIDRDPEERHDLSR---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1auk       EVLQALKQLQLLKAQLDAAVTFGPSQVARGEDPALQICCHPGCTPRPACCHCP--*
+1fsu       EYPHIVTKLLSRLQFYHKHSV--PVY-FPAQDPRCDPKAT--------GVWGPWM*
+           =========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1auk       100.0  27.2
+  2-1fsu        27.2 100.0
+
+***************************************************************************

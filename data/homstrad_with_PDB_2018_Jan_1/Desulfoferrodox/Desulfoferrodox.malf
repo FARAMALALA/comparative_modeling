@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dqia      structureX:1dqi:   1 :A: 124 :A:superoxide reductase (oxidized state):Pyrococcus furiosus: 1.70: 20.3
+[  2] 1dfx       structureX:1dfx:  37 : : 125 : :desulfoferrodoxin:Desulfovibrio desulfuricans: 1.9: -1
+
+
+1dqia      MISETIRSGDWKGEKHVPVIEYEREGELVKVKVQVGKEIPHPNTTEHHIRYIELYFLPEGENFVYQVGRVEFTAH
+1dfx       ----VEGSTDGAMEKHVPVIEKVD----GGYLIKVGS-VPHPMEEKHWIEWIELLAD-------GRSYTKFLKPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dqia      GESVNGPNTSDVYTEPIAYFVLKTKKKGKLYALSYCNIHGLWENEVTLE*
+1dfx       -------------DAPEAFFAIDAS---KVTAREYCNLHGHWKAEN---*
+           ====|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dqia      100.0  36.0
+  2-1dfx        36.0 100.0
+
+***************************************************************************

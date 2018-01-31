@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 2aaib      structureX:2aai:   1 :B: 262 :B:ricin (rrna n-glycosidase):Ricinus communis: 2.5: 21.2
+[  2] 1abrb      structureX:1abr:   1 :B: 267 :B:abrin-a (rrna n-glycosidase):Abrus precatorius: 2.14: 18.9
+
+
+2aaib      ----ADVCMD-PEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDANQLWTLKRDNTIRSNGKCLTTYGYS
+1abrb      IVEKSKICSSRYEPTVRIGGRDGMCVDVYDNGYHNGNRIIMWKCKDRLEENQLWTLKSDKTIRSNGKCLTTYGYA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2aaib      PGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPFVTTIV
+1abrb      PGSYVMIYDCTSAVAEATYWEIWDNGTIINPKSALVLSAESSSMGGTLTVQTNEYLMRQGWRTGNNTSPFVTSIS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2aaib      GLYGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPASSGQRWMFKN
+1abrb      GYSDLCMQAQGSNVWMADCDSNKKEQQWALYTDGSIRSVQNTNNCLTSKDHKQGSTILLMGCSNGWASQRWVFKN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2aaib      DGTILNLYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF*
+1abrb      DGSIYSLYDDMVMDVKGSDPSLKQIILWPYTGKPNQIWLTLF*
+           ====|=========|=========|=========|=======
+               0230      0240      0250      0260    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2aaib      100.0  60.3
+  2-1abrb       60.3 100.0
+
+***************************************************************************

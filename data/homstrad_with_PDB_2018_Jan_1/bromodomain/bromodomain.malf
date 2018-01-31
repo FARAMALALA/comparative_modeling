@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1eqfa1     structureX:1eqf:1359 :A:1497 :A:bromodomain module from TafII250:Homo sapiens: 2.10: 21.8
+[  2] 1eqfa2     structureX:1eqf:1498 :A:1625 :A:bromodomain module from TafII250:Homo sapiens: 2.10: 21.8
+[  3] 1f68a      structureX:1f68: 730 :A: 832 :A:bromodomain from gcn5:Homo sapiens: -1: -1
+[  4] 1e6ia      structureX:1e6i: 329 :A: 438 :A:transcriptional activator gcn5:Saccharomyces cerevisiae: 1.87: 18.7
+
+
+1eqfa1     GTTVHCDYLNRPHKSIHRRRTDPMVTLSSILESIIN-DMRDLPNTYPFHTPVNAKVVKDYYKIITRPMDLQTLRE
+1eqfa2     -----------------LLDDDDQVAFSFILDNIVTQKMMAVPDSWPFHHPVNKKFVPDYYKVIVNPMDLETIRK
+1f68a      -----------------------GDQLYTTLKNLLA-QIKSHPSAWPFMEPVKKSEAPDYYEVIRFPIDLKTMTE
+1e6ia      -----------------------RGPHDAAIQNILT-ELQNHAAAWPFLQPVNKEEVPDYYDFIKEPMDLSTMEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eqfa1     NVRKRLYPSREEFREHLELIVKNSATYNGPKHSLTQISQSMLDLCDEKLKEKEDKLARLEKAINP-----*
+1eqfa2     NISKHKYQSRESFLDDVNLILANSVKYNGPESQYTKTAQEIVNVCYQTLTEYDEHLTQLEKDICTAKEAA*
+1f68a      RLRSRYYVTRKLFVADLQRVIANCREYNPPDSEYCRCASALEKFFYFKLKEG------------------*
+1e6ia      KLESNKYQKMEDFIYDARLVFNNCRMYNGENTSYYKYANRLEKFFNNKVKEIP-EYSHLI----------*
+           ====|=========|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130      0140  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1eqfa1     100.0  40.6  29.1  26.4
+  2-1eqfa2      40.6 100.0  33.0  33.6
+  3-1f68a       29.1  33.0 100.0  40.8
+  4-1e6ia       26.4  33.6  40.8 100.0
+
+***************************************************************************

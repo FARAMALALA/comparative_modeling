@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 2reb       structureX:2reb:   3 : : 328 : :recA protein:Escherichia coli , and shigella flexneri: 2.3: 21
+[  2] 1g19a      structureX:1g19:   1 :A: 329 :A:recA protein:Mycobacterium tuberculosis: 3.00: 21.7
+
+
+2reb       ---DENKQKALAAALGQIEKQFGKGSIMRLGEDRSMDVETISTGSLSLDIALGAGGLPMGRIVEIYGPESSGKTT
+1g19a      MTQTPDREKALELAVAQIEKSYGKGSVMRLGDEARQPISVIPTGSIALDVALGIGGLPRGRVIEIYGPESSGKTT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2reb       LTLQVIAAAQREGKTCAFIDAEHALDPIYARKLGVDIDNLLCSQPDTGEQALEICDALARSGAVDVIVVDSVAAL
+1g19a      VALHAVANAQAAGGVAAFIDAEHALDPDYAKKLGVDTDSLLVSQPDTGEQALEIADMLIRSGALDIVVIDSVAAL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2reb       TPKAEIE----GLAARMMSQAMRKLAGNLKQSNTLLIFINQ-TGGNALKFYASVRLDIRRIGAVKEGENVVGSET
+1g19a      VPRAELEGEHVGLQARLMSQALRKMTGALNNSGTTAIFINQLTGGKALKFYASVRMDVRRVETLKDGTNAVGNRT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2reb       RVKVVKNKIAAPFKQAEFQILYGEGINFYGELVDLGVKEKLIEKAGAWYSYKGEKIGQGKANATAWLKDNPETAK
+1g19a      RVKVVKNKCLAPFKQAEFDILYGKGISREGSLIDMGVDQGLIRKSGAWFTYEGEQLGQGKENARNFLVENADVAD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2reb       EIEKKVRELLL*
+1g19a      EIEKKIKEKLG*
+           =========|=
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2reb       100.0  63.0
+  2-1g19a       63.0 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1du3a      structureX:1du3:  21 :A: 123 :A:DEATH receptor 5 extracellular domain:Homo sapiens: 2.20: 29.10
+[  2] 1exta      structureX:1ext:  13 :A: 172 :A:tumor necrosis factor receptor extracellular domain:Homo sapiens: 1.85: 20.30
+
+
+1du3a      SSPSE-------------GLCPPGHHISEDGR------DCISCKYGQDYSTHWNDLLFCLRCTRCDS--GEVELS
+1exta      SVCPQGKYIHPQNNSICCTKCHKGTYLYNDCPGPGQDTDCRECES-GSFTASENHLRHCLSCSKCRKEMGQVEIS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1du3a      PCTTTRNTVCQCEEGTFREEDSPEMCRK-------------DCTPWSDI--------------------------
+1exta      SCTVDRDTVCGCRKNQYRHYWSENLFQCFNCSLCLNGTVHLSCQEKQNTVCTCHAGFFLRENECVSCSNCKKSLE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1du3a      -----------*
+1exta      CTKLCLPQIEN*
+           =========|=
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1du3a      100.0  30.0
+  2-1exta       30.0 100.0
+
+***************************************************************************

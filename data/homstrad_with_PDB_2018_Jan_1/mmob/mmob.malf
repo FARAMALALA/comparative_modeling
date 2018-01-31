@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1mtyb      structureX:1mty:   6 :B: 389 :B:methane monooxygenase component A beta chain:Methylococcus capsulatus: 1.70: 18.3
+[  2] 1mhyb      structureX:1mhy:  11 :B: 393 :B:methane monooxygenase component A beta chain:Methylosinus trichosporium: 2.00: 13.7
+
+
+1mtyb      ERRRGLTDPEMAAVILKALPEAPLDGNNKMGYFVTPRWKRLTEYEALTVYAQPNADWIAGGLDWGDWTQKFHGGR
+1mhyb      --KRGLTDPERAAIIAAAVPDHALDTQRKYHYFIQPRWKPLSEYEQLSCYAQPNPDWIAGGLDWGDWTQKFHGGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mtyb      PSWGNETTELRTVDWFKHRDPLRRWHAPYVKDKAEEWRYTDRFLQGYSADGQIRAMNPTWRDEFINRYWGAFLFN
+1mhyb      PSWGNESTELRTTDWYRHRDPARRWHHPYVKDKSEEARYTQRFLAAYSSEGSIRTIDPYWRDEILNKYFGALLYS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mtyb      EYGLFNAHSQGAREALSDVTRVSLAFWGFDKIDIAQMIQLERGFLAKIVPGFDESTAVPKAEWTNGEVYKSARLA
+1mhyb      EYGLFNAHSSVGRDCLSDTIRQTAVFAALDKVDNAQMIQMERLFIAKLVPGFDASTDVPKKIWTTDPIYSGARAT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mtyb      VEGLWQEVFDWNESAFSVHAVYDALFGQFVRREFFQRLAPRFGDNLTPFFINQAQTYFQIAKQGVQDLYYNCLGD
+1mhyb      VQEIWQGVQDWNEILWAGHAVYDATFGQFARREFFQRLATVYGDTLTPFFTAQSQTYFQTTRGAIDDLFVYCLAN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mtyb      DPEFSDYNRTVMRNWTGKWLEPTIAALRDFMGLFAKLP--AGTTDKEEITASLYRVVDDWIEDYASRIDFKADRD
+1mhyb      DSEFGAHNRTFLNAWTEHYLASSVAALKDFVGLYAKVEKVAGATDSAGVSEALQRVFGDWKIDYADKIGFRVDVD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mtyb      QIVKAVLAGLK*
+1mhyb      QKVDAVLAGY-*
+           ====|======
+               0380   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mtyb      100.0  59.8
+  2-1mhyb       59.8 100.0
+
+***************************************************************************

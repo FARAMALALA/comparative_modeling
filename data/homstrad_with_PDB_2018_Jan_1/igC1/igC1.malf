@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1hsaa      structureX:1hsa: 179 :A: 276 :A:alpha-1 domain class I MHC:Homo sapiens: 2.10:20.3
+[  2] 3hlaa      structureX:3hla: 179 :A: 270 :A:alpha-1 domain class I MHC:Homo sapiens: 2.60:16.9
+[  3] 2vaba      structureX:2vab: 179 :A: 274 :A:alpha-1 domain class I MHC:Mus musculus: 2.50:15.9
+[  4] 2vabb      structureX:2vab:   1 :B:  99 :B:beta-2 microglobulin:Mus musculus: 2.50:15.9
+[  5] 1b0gb      structureX:1b0g:   0 :B:  99 :B:beta-2 microglobulin:Homo sapiens: 2.50: 25.5
+
+
+1hsaa      LQRADPPKTHVTHHPI--SDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPS
+3hlaa      LQRTDAPKTHMTHHAV--SDHEATLRCWALSFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPS
+2vaba      LLRTDSPKAHVTHHSR--PEDKVTLRCWALGFYPADITLTWQLNGEELIQDMELVETRPAGDGTFQKWASVVVPL
+2vabb      --IQKTPQIQVYSRHPPENGKPNILNCYVTQFHPPHIEIQMLKNGKKIPK-VEMSDMSFSKDWSFYILAHTEFTP
+1b0gb      -MIQRTPKIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEK-VEHSDLSFSKDWSFYLLYYTEFTP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hsaa      GEEQRYTCHVQHEGLPKPLTLRWEP--*
+3hlaa      GQEQRYTCHVQHEGLPKPL--------*
+2vaba      GKEQYYTCHVYHQGLPEPLTLRW----*
+2vabb      TETDTYACRVKHDSMAEPKTVYWDRDM*
+1b0gb      TEKDEYACRVNHVTLSQPKIVKWDRDM*
+           ====|=========|=========|==
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1hsaa      100.0  91.3  72.9  20.4  22.4
+  2-3hlaa       91.3 100.0  71.7  17.4  19.6
+  3-2vaba       72.9  71.7 100.0  21.9  24.0
+  4-2vabb       20.4  17.4  21.9 100.0  69.7
+  5-1b0gb       22.4  19.6  24.0  69.7 100.0
+
+***************************************************************************

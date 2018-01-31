@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1apyb      structureX:1apy: 183 :B: 323 :B:N4-(beta-N-acetylglucosaminyl)-L-asparaginase:Homo sapiens: 2.0: 16.9
+[  2] 1ayyb      structureX:1ayy: 152 :B: 294 :B:N4-(beta-N-acetylglucosaminyl)-L-asparaginase:Flavobacterium meningosepticum: 2.32: 18.8
+
+
+1apyb      TIGMVVIHKTGHIAAGTSTNGIKFKIHGRVGDSPIPGAGAYADDTAGAAAATGNGDILMRFLPSYQAVEYMRRGE
+1ayyb      TIGMIALDAQGNLSGACTTSGMAYKMHGRVGDSPIIGAGLFVDNEIGAATATGHGEEVIRTVGTHLVVELMNQGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1apyb      DPTIACQKVISRIQKHFP-------EFFGAVICANVTGSYGAACNKLSTFTQFSFMVYNSEKNQPTEEKVDCI-*
+1ayyb      TPQQACKEAVERIVKIVNRRGKNLKDIQVGFIALNKKGEYGAYCIQ----DGFNFAVHDQK--GNRLETPGFAL*
+           ====|=========|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      0140      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1apyb      100.0  35.5
+  2-1ayyb       35.5 100.0
+
+***************************************************************************

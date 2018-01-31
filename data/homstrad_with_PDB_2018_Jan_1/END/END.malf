@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1edn       structureX:1edn:   1 : :  21 : :endothelin-1 (et-1):Homo sapiens: 2.18: 19.9
+[  2] 1srb       structureX:1srb:   1 : :  21 : :sarafotoxins s6b:Atractaspis engaddensis: -1: -1
+
+
+1edn       CSCSSLMDKECVYFCHLDIIW*
+1srb       CSCKDMTDKECLYFCHQDVIW*
+           =========|=========|=
+                    0010      0020 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1edn       100.0  66.7
+  2-1srb        66.7 100.0
+
+***************************************************************************

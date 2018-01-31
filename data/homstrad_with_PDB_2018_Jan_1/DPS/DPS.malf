@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1qgha      structureX:1qgh:   7 :A: 156 :A:non-heme iron-containing ferritin:Listeria innocua: 2.35: 21.9
+[  2] 1dpsa      structureX:1dps:   9 :A: 167 :A:DNA protection during starvation protein:Escherichia coli: 1.60: 18.8
+
+
+1qgha      ------------------VDTKEFLNHQVANLNVFTVKIHQIHWYMRGHNFFTLHEKMDDLYSEFGEQMDEVAER
+1dpsa      SKATNLLYTRNDVSDSEKKATVELLNRQVIQFIDLSLITKQAHWNMRGANFIAVHEMLDGFRTALIDHLDTMAER
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qgha      LLAIGGSPFSTLKEFLENASVEEAPYTKPKTMDQLMEDLVGTLELLRDEYKQGIELTDKEGDDVTNDMLIAFKAS
+1dpsa      AVQLGGVALGTTQVINSKTPLKSYPL-DIHNVQDHLKELADRYAIVANDVRKAIGEAK---DDDTADILTAASRD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qgha      IDKHIWMFKAFLGKAPLE*
+1dpsa      LDKFLWFIECNIE-----*
+           =========|========
+                    0160     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qgha      100.0  24.0
+  2-1dpsa       24.0 100.0
+
+***************************************************************************

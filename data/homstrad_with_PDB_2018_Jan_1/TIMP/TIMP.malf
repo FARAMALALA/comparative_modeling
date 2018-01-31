@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1br9       structureX:1br9:   1 : : 182 : :metalloproteinase inhibitor 2:Homo sapiens: 2.10: 23.8
+[  2] 1ueab      structureX:1uea:   1 :B: 181 :B:metalloproteinase inhibitor 1:Homo sapiens: 2.80: 19.7
+
+
+1br9       CSCSPVHPQQAFCNADVVIRAKAVSEKEVDSGNDIYGNPIKRIQYEIKQIKMFKGPE-K----DIEFIYTAPSSA
+1ueab      CTCVPPHPQTAFCNSDLVIRAKFVGTPEVAQTT-------LYQRYEIKMTKMYKGFQALGDAADIRFVYTPAMES
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1br9       VCGVSLDV-GGKKEYLIAGKAEGDGKMHITLCDFIVPWDTLSTTQKKSLNHRYQMGCE-CKITRCPMIPCYISSP
+1ueab      VCGYFHRSHARSEEFLIAGKLQD-GLLHITTCSFVAPWNSLSLAQRRGFTKTYTVGCEECTVFPCLSIPCKLQSG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1br9       DECLWMDWVTEKNINGHQAKFFACIKRSDGSCAWYRGAA*
+1ueab      THCLWTDQLLQGSEKGFQSRHLACLPREPGLCTWQSLRS*
+           =========|=========|=========|=========
+                    0160      0170      0180      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1br9       100.0  40.9
+  2-1ueab       40.9 100.0
+
+***************************************************************************

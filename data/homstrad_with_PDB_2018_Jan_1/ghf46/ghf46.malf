@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1chka      structureX:1chk:   1 :A: 238 :A:chitosanase:Streptomyces sp.: 2.40: 18.1
+[  2] 1qgia      structureX:1qgi:   1 :A: 259 :A:chitosanase:Bacillus circulans: 1.6: 19.2
+
+
+1chka      ----------AGAGLD-----DPHKKEIAMELVSSAENSSLDWKAQYKYIEDIGDGRGYTGGIIGFCSG-----T
+1qgia      ASPDDNFSPETLQFLRNNTGLDGEQWNNIMKLINKPEQDDLNWIKYYGYCEDIEDERGYTIGLFGATTGGSRDTH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1chka      GDMLELVQHYTDLEP--GNILAKYLPALKKVN---GSASHSGLG-TPFTKDWATAAKDTVFQQAQNDERDRVYFD
+1qgia      PDGPDLFKAYDAAKGASNPSADGALKRLGINGKMKGSILEIKDSEKVFCGKIKKLQNDAAWRKAMWETFYNVYIR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1chka      PAVSQAKADGL-RALGQFAYYDAIVMHGPGNDPTSFGGIRKTAMKKARTPAQGGDETTYLNGFLDARKAAMLTEA
+1qgia      YSVEQARQRGFTSAVTIGSFVDTALNQGATGGSDTLQGLLARS---GSSS----NEKTFMKNFHAKRTLVVDTNK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1chka      AHD---DTSRVDTEQRVFLKAGNLDLNPP-------LKWKTYGDPYVINS*
+1qgia      YNKPPNGKNRVK-QWDTLVDMGKMNLKNVDSEIAQVTDWEMK--------*
+           ====|=========|=========|=========|=========|=====
+               0230      0240      0250      0260      0270  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1chka      100.0  21.0
+  2-1qgia       21.0 100.0
+
+***************************************************************************

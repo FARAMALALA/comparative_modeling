@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2bn2a      structureX:2bn2:   1 :A:  85 :A:Neurophysin II:Bos taurus: 2.80: 20.8
+[  2] 1l5da      structureN:1l5d:   1 :A:  92 :A:Neurophysin 1:Bos Taurus: -1: -1
+
+
+2bn2a      AMSDLELRQCLPCGPGGKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPCQSGQKPCGSGGRCAAAGICCN
+1l5da      AVLDLDVRTCLPCGPGGKGRCFGPSICCGDELGCFVGTAEALRCQEENYLPSPCQSGQKPCGSGGRCAAAGICCS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2bn2a      DESCVTEPEC-------*
+1l5da      PDGCEEDPACDPEAAFS*
+           ====|=========|==
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2bn2a      100.0  84.7
+  2-1l5da       84.7 100.0
+
+***************************************************************************

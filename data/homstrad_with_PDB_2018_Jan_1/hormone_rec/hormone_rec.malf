@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1lbd       structureX:1lbd: 225 : : 462 : :retinoic acid receptor alpha:Homo sapiens: 2.7: 23
+[  2] 2lbd       structureX:2lbd: 182 : : 419 : :retinoic acid receptor gamma-2:Homo sapiens: 2.0: 21
+[  3] 1prga      structureX:1prg: 207 :A: 476 :A:peroxisome proliferator activated receptor gamma:Homo sapiens: 2.2: 24.6
+[  4] 3erta      structureX:3ert: 306 :A: 551 :A:estrogen receptor:Homo sapiens: 1.90: 22.9
+[  5] 1a28a      structureX:1a28: 682 :A: 932 :A:progesterone receptor:Homo sapiens: 1.8: 19.05
+
+
+1lbd       ---SANEDMPVERILEAELAVEPK------------------------TETYVEANMGLNPSSPN----------
+2lbd       --LSPQLEELITKVSKAHQETFP-SLCQLG-----------KYTTN---------------SSADHRVQ---LDL
+1prga      --ESADLRALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKFKHITPLQEQSKEVAI
+3erta      LALSLTADQMVSALLDAEPP---------------------ILYSEYDP-------TRPFS------------EA
+1a28a      ----QLIPPLINLLMSIEPD---------------------VIYAGHDN-------TKPDT------------SS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lbd       DPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVILLRAGWNELLIASFSHRSIA-VK---DGILLATG-LHV
+2lbd       GLWDKFSELATKCIIKIVEFAKRLPGFTGLSIADQITLLKAACLDILMLRICTR----YTPEQDTMTFSDG-LTL
+1prga      RIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLASL----MNK--DGVLISEGQGFM
+3erta      SMMGLLTNLADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLVWRSME--HP-GKLLFA--PNLLL
+1a28a      SLLTSLNQLGERQLLSVVKWSKSLPGFRNLHIDDQITLIQYSWMSLMVFGLGWRSYKHVSG-QMLYFA--PDLIL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lbd       HRNSAHSA--GVGAIFDRVLTELVSKMRDMQMDKTELGCLRAIVLFNPDSK--------GLSNPAEVEALREKVY
+2lbd       NRTQMHNA--GFGPLTDLVFAFAGQLL-PLEMDDTETGLLSAICLICGDRM--------DLEEPEKVDKLQEPLL
+1prga      TREFLKSLRKPFGDFMEPKFEFAVKFN-ALELDDSDLAIFIAVIILSGDRP--------GLLNVKPIEDIQDNLL
+3erta      DRNQGKCV-EGMVEIFDMLLATSSRFR-MMNLQGEEFVCLKSIILLNSGVYTFLSSTLKSLEEKDHIHRVLDKIT
+1a28a      NEQRMK-E-SSFYSLCLTMWQIPQEFV-KLQVSQEEFLCMKVLLLLNTIPL-------EGLRSQTQFEEMRSSYI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1lbd       ASLEAYCKHKYPEQ---PGRFAKLLLRLPALRSIGLKCLEHLFFF------------KLIGDTPIDTFLMEMLEA
+2lbd       EALRLYARRRRP---SQPYMFPRMLMKITDLRGISTKGAERAITLKMEIP---GPMPPLIREMLENP--------
+1prga      QALELQLKLNHP---ESSQLFAKLLQKMTDLRQIVTEHVQLLQVIKKTETD--MSLHPLLQEIYKDL--------
+3erta      DTLIHLMAKAGLTLQQQHQRLAQLLLILSHIRHMSNKGMEHLYSMKC----KNVV---PLYDLLLEMLD------
+1a28a      RELIKAIGLRQKGVVSSSQRFYQLTKLLDNLHDLVKQLHLYCLNTFIQSRALSVEFPEMMSEVIAAQLPKILAGM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1lbd       PH---QMT*
+2lbd       --------*
+1prga      --------*
+3erta      --AHRLHA*
+1a28a      VKPLLFHK*
+           ========
+                   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1lbd       100.0  25.2  20.6  23.9  15.1
+  2-2lbd        25.2 100.0  24.8  19.7  15.1
+  3-1prga       20.6  24.8 100.0  15.4  13.5
+  4-3erta       23.9  19.7  15.4 100.0  22.0
+  5-1a28a       15.1  15.1  13.5  22.0 100.0
+
+***************************************************************************

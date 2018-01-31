@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1h83a      structureX:1h83: 294 :A: 405 :A:polyamine oxidase:Zea mays: 1.9: 19.6
+[  2] 1f8sa      structureX:1f8s: 320 :A: 432 :A:L-amino acid oxidase complexed with three molecules of o- aminobenzoate:Calloselasma rhodostoma: 2.00: 20.5
+
+
+1h83a      DMAVYTKIFLKFPRKFWPEGKGREFFLYASSRRGYYGVWQEFEKQYP-DANVLLVTVTDEESRRIEQQSDEQTKA
+1f8sa      HYRSGTKIFLTCTTKFWED-DGIHGGKSTTDL--PSRFIYYPNHNFTNGVGVIIAYGIGDDANFFQALDFKDCAD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h83a      EIMQVLRKMFP--GKDVP-DATDILVPRWWSDRFYKGTFSN*
+1f8sa      IVFNDLSLIHQLPKKDIQSFCYPSVIQKWSLDKYAMGGITT*
+           ====|=========|=========|=========|======
+               0080      0090      0100      0110   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h83a      100.0  14.3
+  2-1f8sa       14.3 100.0
+
+***************************************************************************

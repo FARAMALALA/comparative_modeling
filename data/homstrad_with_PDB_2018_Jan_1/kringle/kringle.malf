@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 2hppp      structureX:2hpp: 301 :P: 379 :P:alpha-thrombin :Homo sapiens:3.30:15.7
+[  2] 2hpqp      structureX:2hpq: 301 :P: 379 :P:thrombin kringle 2:Homo sapiens: 3.30:15.50
+[  3] 1tpka      structureX:1tpk:  -3 :A:  82 :A:tissue-type plasminogen activator kringle 2:Homo sapiens: 2.40:18.40
+[  4] 1kdu       structureN:1kdu:  -1 : :  82 : :urinary plasminogen activator kringle:Homo sapiens: -1.00: -1.00
+[  5] 1pkr       structureX:1pkr:   0 : :  80 : :plasminogen kringle 1:Homo sapiens:2.48:15.90
+[  6] 1pk4       structureX:1pk4:   0 : :  80 : :plasminogen kringle 4:Homo sapiens: 1.90:14.20
+[  7] 2pf1       structureX:2pf1:  64 : : 156 : :thrombin kringle 1:Bos taurus: 2.20:17.50
+[  8] 5hpga      structureX:5hpg:   0 :A:  83 :A:plasminogen kringle 5:Homo sapiens:1.66:1.6
+[  9] 3kiv       structureX:3kiv:   0 : :  80 : :kringle IV-10-M66 variant of human apolipoprotein(a):Homo sapiens: 1.8: 18.2
+
+
+2hppp      ----CVPDRGREYRGRLAVTTSGSRCLAWSSEQAKALSK---DQDFNPAVPLA-ENFCRNPDGDEEGAWCYVAD-
+2hpqp      ----CVPDRGQQYQGRLAVTTHGLPCLAWASAQAKALSK---HQDFNSAVQLV-ENFCRNPDGDEEGVWCYVAG-
+1tpka      GNSDCYFGNGSAYRGTHSLTESGASCLPWNSMILIGKV-YTAQNPSAQALGLGKHNYCRNPDGD-AKPWCHVLKN
+1kdu       ---TCYEGNGHFYRGKASTDTMGRPCLPWNSATVLQQT-YHAHRSDALQLGLGKHNYCRNPDNR-RRPWCYVQVG
+1pkr       ---ECKTGNGKNYRGTMSKTKNGITCQKWSSTSPHRPR-FSPA--THPSEGLE-ENYCRNPDNDPQGPWCYTTDP
+1pk4       ---GCYHGDGQSYRGASSTTTTGKKCQSWSSMTPHRHQ-KTPA--NYPNAGLT-MNYCRNPDAD-KGPWCFTTDP
+2pf1       --GNCAEGVGMNYRGNVSVTRSGIECQLWRSRYPHKPE-INST--THPGADLR-ENFCRNPDGSITGPWCYTTSP
+5hpga      ---DCMFGNGKGYRGKRVTTVTGTPCQDWAAQEPHRHSIFTPE--TNPRAGLE-KNYCRNPDGDVGGPWCYTTNP
+3kiv       ---QCYHGNGQSYRGTFSTTVTGRTCQSWSSMTPHRHQ-RTPE--NYPNDGLT-MNYCRNPDAD-TGPWCFTTDP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2hppp      QPGDFEYCNLNYC------------*
+2hpqp      KPGDFGYCDLNYC------------*
+1tpka      RRLTWEYCDVPSCST----------*
+1kdu       LKPLVQECMVHDCAD----------*
+1pkr       -EKRYDYCDILEC------------*
+1pk4       -SVRWEYCNLGAC------------*
+2pf1       -TLRREECSVPVCGQDRVTVEVIPR*
+5hpga      -RKLYDYCDVPQCAAP---------*
+3kiv       -SIRWEYCNLTRC------------*
+           ====|=========|=========|
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9]
+
+  1-2hppp      100.0  78.5  36.7  30.4  36.7  39.2  38.0  35.4  38.0
+  2-2hpqp       78.5 100.0  34.2  32.9  32.9  32.9  32.9  36.7  31.6
+  3-1tpka       36.7  34.2 100.0  45.9  38.8  41.8  34.1  41.7  44.3
+  4-1kdu        30.4  32.9  45.9 100.0  35.0  36.7  31.8  36.9  38.0
+  5-1pkr        36.7  32.9  38.8  35.0 100.0  53.2  50.0  57.5  55.7
+  6-1pk4        39.2  32.9  41.8  36.7  53.2 100.0  44.3  51.9  82.3
+  7-2pf1        38.0  32.9  34.1  31.8  50.0  44.3 100.0  42.9  44.3
+  8-5hpga       35.4  36.7  41.7  36.9  57.5  51.9  42.9 100.0  54.4
+  9-3kiv        38.0  31.6  44.3  38.0  55.7  82.3  44.3  54.4 100.0
+
+***************************************************************************

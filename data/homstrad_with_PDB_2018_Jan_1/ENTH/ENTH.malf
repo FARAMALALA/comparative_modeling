@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1hx8a      structureX:1hx8:  22 :A: 299 :A:N-terminal domain of AP180:Drosophila melanogaster: 2.2: 21.1
+[  2] 1hg5a      structureX:1hg5:  19 :A: 281 :A:clathrin assembly protein short form:Rattus norvegicus: 2.0: 19.159
+[  3] 1eyha      structureX:1eyh:  15 :A: 158 :A:epsin N-terminal homology (enth) domain:Rattus norvegicus: 1.56: 19.9
+
+
+1hx8a      ---QGLAKSVCKATTEECIGPKKKHLDYLVHCANEPNVSIPHLANLLIERSQN--ANWVVVYKSLITTHHLMAYG
+1hg5a      G--SAVSKTVCKATTHEIMGPKKKHLDYLIQCTNEMNVNIPQLADSLFERTTN--SSWVVVFKSLITTHHLMVYG
+1eyha      HNYSEAEIKVREATSNDPWGPSSSLMSEIADLTYNV-VAFSEIMSMIWKRLNDHGKNWRHVYKAMTLMEYLIKTG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hx8a      NERFMQYLASSNSTF-NLSSFLDKGTGGMGVPGGRMGYDMSPFIRRYAKYLNEKSLSYRAMAFDFCKVE----GS
+1hg5a      NERFIQYLASRNTLF-NLSNFLDKS--------GLQGYDMSTFIRRYSRYLNEKAVSYRQVAFDFTKVKRGADGV
+1eyha      SERVSQQCKENMYAVQTLKDFQYVDRD---------GKDQGVNVREKAKQLVALLRD------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hx8a      LRSMNAEKLLKTLPVLQAQLDALLEFDCQSNDLSNGVINMSFMLLFRDLIRLFACYNDGIINLLEKYFDMNKKHA
+1hg5a      MRTMNTEKLLKTVPIIQNQMDALLDFNVNSNELTNGVINAAFMLLFKDAIRLFAAYNEGIINLLEKYFDMKKNQC
+1eyha      ----EDRLREERAHALKTKEKLAQT--------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hx8a      RDALDLYKKFLVRMDRVGEFLKVAENVGIDKGDIPDLTKAPSSLLDALEQHLATL*
+1hg5a      KEGLDIYKKFLTRMTRISEFLKVAEQVGIDRGDIPDLSQAPS-SLL-DALEQH--*
+1eyha      ------------------------------------------------------A*
+           ====|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hx8a      100.0  65.8  18.1
+  2-1hg5a       65.8 100.0  16.0
+  3-1eyha       18.1  16.0 100.0
+
+***************************************************************************

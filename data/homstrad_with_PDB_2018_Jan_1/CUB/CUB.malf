@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1sfp       structureX:1sfp:   4 : : 114 : :acidic seminal fluid protein (asfp):Bos taurus: 1.90: -1
+[  2] 1sppa      structureX:1spp:   4 :A: 113 :A:major seminal plasma glycoprotein psp-i (sp3):Sus scrofa: 2.4: 20
+[  3] 1sppb      structureX:1spp:   1 :B: 112 :B:major seminal plasma glycoprotein psp-ii:Sus scrofa: 2.4: 20
+
+
+1sfp       LPRNT---NCGGILKEESGVIATYYGPKTNCVWTIQMPPEYHVRVSIQYLQLNCNKESLEIIDGLPGSPVLGKIC
+1sppa      -LDYH---ACGGRLTDDYGTIFTYKGPKTECVWTLQVDPKYKLLVSIPTLNLTCGKEYVEVLEGAPGSKSLGKFC
+1sppb      -ARINGPDECGRVIKDTSGSISNTDRQKNLCTWTILMKPDQKVRMAIPYLNLACGKEYVEVFDGLLSGPSYGKLC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1sfp       EGSLMDYRSSGSIMTVKYIREPEHPASFYEVLYFQDPQA*
+1sppa      EGLSILNRG-SSGMTVKYKRDSGHPASPYEIIFLRDSQG*
+1sppb      AGAAIVFLSTANTMTIKYNRISGNSSSPFLIYFYGSSP-*
+           ====|=========|=========|=========|====
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1sfp       100.0  49.5  35.1
+  2-1sppa       49.5 100.0  39.4
+  3-1sppb       35.1  39.4 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2eifa      structureX:2eif:   0 :A: 132 :A:eukaryotic translation initiation factor 5A:Methanococcus jannaschii: 1.8: 21.4
+[  2] 1bkb       structureX:1bkb:   4 : : 139 : :initiation factor 5A:Pyrobaculum aerophilum: 1.75: 21.4
+
+
+2eifa      AAAAAPGTKQVNVGSLKVGQYVMIDGVPCEIVDISVSKPGKHGGAKARVVGIGIFEKVKKEFVAPTSSKVEVPII
+1bkb       ---KWVSTKYVEAGELKEGSYVVIDGEPCRVVEIEKSKTGKHGSAKARIVAVGVFDGGKRTLSLPVDAQVEVPII
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2eifa      DRRKGQVLAIMGDMVQIMDLQTYETLELP--IPEG-IEGLEPGGEVEYIEAVGQYKITRVI-*
+1bkb       EKFTAQILSVSGDVIQLDR--DYKTIEVPKYVEEEAKGRLAPGAEVEVWQILDRYKIIRVKG*
+           ====|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2eifa      100.0  43.9
+  2-1bkb        43.9 100.0
+
+***************************************************************************

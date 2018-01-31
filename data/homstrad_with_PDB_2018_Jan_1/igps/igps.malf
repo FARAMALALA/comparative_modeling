@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1pii1      structureX:1pii:   1 : : 255 : :phosphoribosyl-anthranilate isomerase:Escherichia coli: 2.00:17.30
+[  2] 1pii2      structureX:1pii: 256 : : 452 : :indoleglycerol-phosphate synthase:Escherichia coli: 2.00:17.30
+[  3] 1nsj       structureX:1nsj:   1 : : 205 : :phosphoribosyl anthranilate isomerase:Thermotoga maritima: 2.0: 19.2
+
+
+1pii1      MQTVLAKIVADKAIWVEARKQQQPLASFQNEVQPSTRHFYDALQGARTAFILECKKASPSKGVIRDDFDPARIAA
+1pii2      ------------------------------------------------ENKVCGLT-------------RGQDAK
+1nsj       ----------------------------------------------MVRVKICGIT-------------NLEDAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pii1      IYKH-YASAISVLTDEK-YFQGSFNFLPIVSQIAP--QPILCKDFIIDPYQIYLAR-YYQADACLLMLSVLDDDQ
+1pii2      AAYDAGAIYGGLIFVATSPRCVNVEQAQEVMAAAP--LQYVGVFRNHDIADVVDKAKVLSLAAVQLHG-NEEQLY
+1nsj       FSVESGADAVGFVFYPKSKRYISPEDARRISVELPPFVFRVGVFVNEEPEKILDVASYVQLNAVQLHG-EEPIEL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1pii1      YRQLAAVAHSLEMGVLTEVSN--EEEQERAIALGAKVVGINNRDLRDLSI----DLNRTRELAPKLGHNVTVISE
+1pii2      IDTLREALPA-HVAIWKALSVG-ETLP--AREFQHVDKYVLDNGQ--GGSGQRFDWSLLNGQ--SLG---NVLLA
+1nsj       CRKIAE-----RILVIKAVGVSNERDMERALNYREFPILLDTKTPEYGGSGKTFDWSLILPYRDRFR---YLVLS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1pii1      SGINTYAQVRELSH--FANGFLIGSALMAHD----DLHAAVRRVLLG----*
+1pii2      GGLG-ADNCVEAAQ-TGCAGLDFNSAV--ESQPGIKDARLLASVFQTLRAY*
+1nsj       GGLN-PENVRSAIDVVRPFAVDVSSGV--EAFPGKKDHDSIKMFIKNAKGL*
+           ====|=========|=========|=========|=========|======
+               0230      0240      0250      0260      0270   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1pii1      100.0  11.2  13.7
+  2-1pii2       11.2 100.0  29.9
+  3-1nsj        13.7  29.9 100.0
+
+***************************************************************************

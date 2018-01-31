@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1g19a      structureX:1g19: 270 :A: 329 :A:recA protein:Mycobacterium tuberculosis: 3.00: 21.7
+[  2] 2reb       structureX:2reb: 269 : : 328 : :recA protein:Escherichia coli , and shigella flexneri: 2.3: 21
+
+
+1g19a      SREGSLIDMGVDQGLIRKSGAWFTYEGEQLGQGKENARNFLVENADVADEIEKKIKEKLG*
+2reb       NFYGELVDLGVKEKLIEKAGAWYSYKGEKIGQGKANATAWLKDNPETAKEIEKKVRELLL*
+           =========|=========|=========|=========|=========|=========|
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g19a      100.0  50.0
+  2-2reb        50.0 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 2nipa      structureX:2nip:   1 :A: 286 :A:nitrogenase iron protein:Azotobacter vinelandii: 2.2: 22.3
+[  2] 1cp2a      structureX:1cp2:   1 :A: 269 :A:nitrogenase iron protein:Clostridium pasteurianum: 1.93: 20.9
+
+
+2nipa      AMRQCAIYGKGGIGKSTTTQNLVAALAEMGKKVMIVGCDPKADSTRLILHSKAQNTIMEMAAEAGTVEDLELEDV
+1cp2a      -MRQVAIYGKGGIGKSTTTQNLTSGLHAMGKTIMVVGCDPKADSTRLLLGGLAQKSVLDTLREEG--EDVELDSI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2nipa      LKAGYGGVKCVESGGPEPGVGCAGRGVITAINFLEEEGAYEDDLDFVFYDVLGDVVCGGFAMPIRENKAQEIYIV
+1cp2a      LKEGYGGIRCVESGGPEPGVGCAGRGIITSINMLEQLGAYTDDLDYVFYDVLGDVVCGGFAMPIREGKAQEIYIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2nipa      CSGEMMAMYAANNISKGIVKYANSGSVRLGGLICNSRNTDREDELIIALANKLGTQMIHFVPRDNVVQRAEIRRM
+1cp2a      ASGEMMALYAANNISKGIQKYAKSGGVRLGGIICNSRKVANEYELLDAFAKELGSQLIHFVPRSPMVTKAEINKQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2nipa      TVIEYDPKAKQADEYRALARKVVDNKLLVIPNPITMDELEELLMEFGIMEVEDESIVGKTA*
+1cp2a      TVIEYDPTCEQAEEYRELARKVDANELFVIPKPMTQERLEEILMQYG--------------*
+           ====|=========|=========|=========|=========|=========|======
+               0230      0240      0250      0260      0270      0280   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2nipa      100.0  70.3
+  2-1cp2a       70.3 100.0
+
+***************************************************************************

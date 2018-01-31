@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1dtoa      structureX:1dto:   0 :A: 201 :A:regulatory protein e2 activation domain:Human papillomavirus type 16: 1.90: 23.2
+[  2] 1qqha      structureX:1qqh:  66 :A: 209 :A:regulatory protein e2 activation domain:Human papillomavirus type 18: 2.10: 25.6
+
+
+1dtoa      HMETLCQRLNVCQDKILTHYENDSTDLRDHIDYWKHMRLECAIYYKAREMGFKHINHQVVPTLAVSKNKALQAIE
+1qqha      ------------------------------------------------------------------KSKAHKAIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dtoa      LQLTLETIYNSQYSNEKWTLQDVSLEVYLTAPTGCIKKHGYTVEVQFDG--DNTMHYTNWTHIYICEEA-SVTVV
+1qqha      LQMALQGLAQSAYKTEDWTLQDTCEELWNTEPTHCFKKGGQTVQVYFDGNKDNCMTYVAWDSVYYMTDAGTWDKT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dtoa      EGQVDYYGLYYVHEGIRTYFVQFKDDAEKYSKNKVWEVHAGGQVILCPTSVF------------S*
+1qqha      ATCVSHRGLYYVKEGYNTFYIEFKSECEKYGNTGTWEVHFGNNVIDC-----NDSMCSTSDDTVS*
+           =========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dtoa      100.0  42.4
+  2-1qqha       42.4 100.0
+
+***************************************************************************

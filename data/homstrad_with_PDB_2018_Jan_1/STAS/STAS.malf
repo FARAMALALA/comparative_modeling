@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1h4xa      structureX:1h4x:   2 :A: 112 :A:bacillus cell fate determinant SpoIIAA (phosphorylated):Bacillus sphaericus: 1.16: 13.3
+[  2] 1buz       structureX:1buz:   1 : : 116 : :anti-sigma F factor antagonist:Bacillus subtilis: -1: -1
+
+
+1h4xa      -AFQLEMVTRETVVIRLFGELDHHAVEQIRAKISTAIFQGAVTTIIWNFERLSFMD-SGVGLVLGRMRELEAVAG
+1buz       SLGIDMNVKESVLCIRLTGELDHHTAETLKQKVTQSLEKDDIRHIVLNLEDLSFMDSSGLGVILGRYKQIKQIGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h4xa      RTILLNPSPTMRKVFQFSGLGPW--MMD-ATEEEAIDRVR-*
+1buz       EMVVCAISPAVKRLFDMSGLFKIIRFEQSEQQALLTLGVAS*
+           ====|=========|=========|=========|======
+               0080      0090      0100      0110   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h4xa      100.0  30.9
+  2-1buz        30.9 100.0
+
+***************************************************************************

@@ -1,0 +1,90 @@
+      Code       Title
+
+[  1] 1xwl       structureX:1xwl: 297 : : 876 : :DNA polymerase I:Bacillus stearothermophilus: 1.70: 25.40
+[  2] 3ktqa      structureX:3ktq: 293 :A: 831 :A:large fragment of DNA polymerase I:Thermus aquaticus: 2.30: 21.80
+[  3] 2kfza      structureX:2kfz: 324 :A: 928 :A:klenow fragment:Escherichia coli: 2.03: 21.50
+[  4] 1t7pa      structureX:1t7p:   1 :A: 704 :A:DNA polymerase:Bacteriophage t7: 2.20: 24.00
+
+
+1xwl       AKM--AFTLADRV--TEEMLAD-----KAALVVEVVEENYHDA-PIVGIAVVNE-H-GRFFLRPE----------
+3ktqa      -----ALEEAP-------WPPP----EGAFVGFVLSRKEPMWA-DLLALAAARG-G-RVHRAP------------
+2kfza      MISYDNYVTILDEETLKAWIAKLEKAPVFAFDTETDSLDNISA-NLVGLSFAIEPG-VAAYIPVAHDYLDAPDQI
+1t7pa      ---------------------------MIVSDIEANA-LLESVTKFHCGVIYDYSTAEYVSYR----------PS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1xwl       -TALADPQFVAWLGDETKKKSMFDSK-RAAVALKWK-------GIELC--GVSFDLLLAAYLLDPAQGVDDVAAA
+3ktqa      EPYKALRDLK--------EARGLLAK-DLSVLALRE-------GLGLP---PGDDPMLLAYLLDPS--NTTPEGV
+2kfza      SRERALELLKPLLEDEKALKVGQNLK-YDRGILANY-------GIELR--GIAFDTMLESYILNSVAGRHDMDSL
+1t7pa      DFGAYLDALEAEVAR-GGLIVFHNGHKYDVPALTKLAKLQLNREFHLPRENC-IDTLVLSRLIHSNLKDTDMGLL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1xwl       AKMKQYEAVRPDEAVYGKGA------------------KRA---VPDEPVLAEHLVRKAAAIWELERPFLDELRR
+3ktqa      ARRYG--GEWTE-----------------------------------------EAGERAALSERLFANLWGRLEG
+2kfza      AERWLKHKTITFEEIAGKGK------------------NQLTFNQIALEEAGRYAAEDADVTLQLHLKMWPDLQK
+1t7pa      RSGKLPGALEAWGYRLGEMKGEYKDDFKRMLEEQGEEYVDGMEWWNFNEEMMDYNVQDVVVTKALLEKLLSDKHY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1xwl       --------------NE-QDRLLVELEQPLSSILAEMEFAGVKVDTKRLEQMGKELAEQLGTVEQRIYELAG----
+3ktqa      --------------EERLLWLYREVERPLSAVLAHMEATGVRLDVAYLRALSLEVAEEIARLEAEVFRLAG----
+2kfza      --------------HKGPLNVFENIEMPLVPVLSRIERNGVKIDPKVLHNHSEELTLRLAELEKKAHEIAG----
+1t7pa      FPPEIDFTDVGYTTFWSESLEAVDIEHRAAWLLAKQERNGFPFDTKAIEELYVELAARRSELLRKLTETFGSWYQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1xwl       ----------------------------------------QEFNINSPKQLGVILFEKLQLPVLKKTK--TGYST
+3ktqa      ----------------------------------------HPFNLNSRDQLERVLFDELGLPAIGKTEKTGKRST
+2kfza      ----------------------------------------EEFNLSSTKQLQTILFEKQGIKPLKKT-----PST
+1t7pa      PKGGTEMFCHPRTGKPLPKYPRIKTPKEYVAGAPYTPVEHVVFNPSSRDHIQKKLQEA-GWVPTKYTDK-GAPVV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1xwl       SADVLEKLA----PYHEIVENILHYRQLGKLQSTYIE---GLLKVVRPDTKKVHTIFNQALTQTGRLSSTEPNLQ
+3ktqa      SAAVLEALR----EAHPIVEKILQYRELTKLKSTYID---PLPDLIHPRTGRLHTRFNQTATATGRLSSSDPNLQ
+2kfza      SEEVLEELA----LDYPLPKVILEYRGLAKLKSTYTD---KLPLMINPKTGRVHTSYHQAVTATGRLSSTDPNLQ
+1t7pa      DDEVLEGVRVDDPEKQAAIDLIKEYLMIQKRIGQSAEGDKAWLRYVAE-DGKIHGSVNPNGAVTGRATHAFPNLA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1xwl       NIP-IRLEEGRKIRQAFVPS--E-----SDWLIFAADYSQIELRVLAHIAED---DNLMEAFRRDLDIHTKTAMD
+3ktqa      NIP-VRTPLGQRIRRAFIAE--E------GWLLVALDYSQIELRVLAHLSGD---ENLIRVFQEGRDIHTETASW
+2kfza      NIP-VRNEEGRRIRQAFIAP--E------DYVIVSADYSQIELRIMAHLSRD---KGLLTAFAEGKDIHRATAAE
+1t7pa      QIPGVRSPYGEQCRAAFGAEHHLDGITGKPWVQAGIDASGLELRCLAHFMARFDNGEYAHEILNG-DIHTKNQIA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1xwl       IFQVSEDEVTPNMRRQAKAVNFGIVYGISDYGLAQNLNISRKEAAEFIERYFESFPGVKRYMENIVQEAK---QK
+3ktqa      MFGVPREAVDPLMRRAAKTINFGVLYGMSAHRLSQELAIPYEEAQAFIERYFQSFPKVRAWIEKTLEEGR---RR
+2kfza      VFGLPLETVTSEQRRSAKAINFGLIYGMSAFGLARQLNIPRKEAQKYMDLYFERYPGVLEYMERTRAQAK---EQ
+1t7pa      A-ELP-------TRDNAKTFIYGFLYGAGDEKIGQIVGAGKERGKELKKKFLENTPAIAALRESIQQTLVEKWKR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1xwl       GYVTTLLHRRRYLPDITSRNFNVRSFAERMAMNTPIQGSAADIIKKAMIDLNARLKEERL------QAHLLLQVH
+3ktqa      GYVETLFGRRRYVPDLEARVKSVREAAERMAFNMPVQGTAADLMKLAMVKLFPRLEEM--------GARMLLQVH
+2kfza      GYVETLDGRRLYLPDIKSSNGARRAAAERAAINAPMQGTAADIIKRAMIAVDAWLQAEQP------RVRMIMQVH
+1t7pa      RWIKGLDGRKVHVR------------SPHAALNTLLQSAGALICKLWIIKTEEMLVEKGLKHGWDGDFAYMAWVH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1xwl       DELILEAP-KEEMERLCRLVPEVMEQAV---TLRVPLKVDYHYGSTWYDAK*
+3ktqa      DELVLEAP-KERAEAVARLAKEVMEGVY---PLAVPLEVEVGIGEDWLSAK*
+2kfza      DELVFEVH-KDDVDAVAKQIHQLMENCT---RLDVPLLVEVGSGENWDQAH*
+1t7pa      DEIQVGCRTEEIAQVVIETAQEAMRWVGDHWNFRCLLDTEGKMGPNWAICH*
+           ====|=========|=========|=========|=========|======
+               0680      0690      0700      0710      0720   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1xwl       100.0  43.0  39.7  19.8
+  2-3ktqa       43.0 100.0  42.1  21.5
+  3-2kfza       39.7  42.1 100.0  22.3
+  4-1t7pa       19.8  21.5  22.3 100.0
+
+***************************************************************************

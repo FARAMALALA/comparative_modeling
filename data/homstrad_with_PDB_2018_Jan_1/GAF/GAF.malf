@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1mc0a2     structureX:1mc0: 402 :A: 555 :A:3',5'-cyclic nucleotide phosphodiesterase 2a, GAF A and B domains:Mus musculus: 2.86: 22.1
+[  2] 1mc0a1     structureX:1mc0: 233 :A: 372 :A:3',5'-cyclic nucleotide phosphodiesterase 2a, GAF A and B domains:Mus musculus: 2.86: 22.1
+[  3] 1f5ma      structureX:1f5m:   4 :A: 179 :A:GAF:Saccharomyces cerevisiae: 1.90: 21.4
+
+
+1mc0a2     -------------------------------------DVSVLLQEIITEARNLS-----NAEICSVFLLDQ---N
+1mc0a1     -------------------------------------DATSLQLKVLQYLQQET-----QATHCCLLLVSE-DNL
+1f5ma      STGFHHADHVNYSSNLNKEEILEQLLLSYEGLSDGQVNWVCNLSNASSLIWHAYKSLAVDINWAGFYVTQASEEN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mc0a2     ELVAKVFDGGVVDDESYEIRIPADQGIAGHVATTGQILNIP-DAYAHPLFYRGVDDSTGFRTRNILCFPIKNE-N
+1mc0a1     QLSCKVIGDKVLG---EEVSFPLTMGRLGQVVEDKQCI-QLKDLT--SDDVQQLQNMLGCELQAMLCVPVISRAT
+1f5ma      TLILGPFQGK-----VACQMIQFGKGVCGTAASTKETQIVP-DVNKYPGHIA-CDG----ETKSEIVVPIISN-D
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mc0a2     QEVIGVAELVNKINGPWFSKFDEDLATAFSIYCGISIAHSLLYKKVNEAQY*
+1mc0a1     DQVVALACAFNKLGGDFFTDEDEHVIQHCFHYTGTVLTS------------*
+1f5ma      GKTLGVIDIDCL-DYEGFDHVDKEFLEKLAKLINKSCVF------------*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mc0a2     100.0  21.4  14.3
+  2-1mc0a1      21.4 100.0   9.3
+  3-1f5ma       14.3   9.3 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1aun       structureX:1aun:   1 : : 208 : :pathogenesis-related protein 5d:Nicotiana tabacum: 1.80: 16.9
+[  2] 1du5a      structureX:1du5:   1 :A: 206 :A:zeamatin:Zea mays: 2.50: 16.7
+[  3] 1thw       structureX:1thw:   1 : : 207 : :thaumatin I:Thaumatococcus daniellii: 1.75: 18.1
+
+
+1aun       SGVFEVHNNCPYTVWAAATP-----VGGGRRLERGQSWWFWAPPGTKMARIWGRTNCNFDGAGRGWCQTGDCGGV
+1du5a      -AVFTVVNQCPFTVWAASVP-----VGGGRQLNRGESWRITAPAGTTAARIWARTGCKFDASGRGSCRTGDCGGV
+1thw       -ATFEIVNRCSYTVWAAASKGDAALDAGGRQLNSGESWTINVEPGTKGGKIWARTDCYFDDSGSGICKTGDCGGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aun       LECKGWGKPPNTLAEYALNQFSNLDFWDISVIDGFNIPMSFGPTKPGPGKCHGIQCTANINGECPGSLRVP-GGC
+1du5a      LQCTGYGRAPNTLAEYALKQFNNLDFFDISLIDGFNVPMSFLPDGGS-GCSRGPRCAVDVNARCPAELRQD-GVC
+1thw       LRCKRFGRPPTTLAEFSLNQ-YGKDYIDISNIKGFNVPMDFSPTTR---GCRGVRCAADIVGQCPAKLKAPGGGC
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1aun       NNPCTTFGGQQYCCT---QGPCGPTELSRWFKQRCPDAYSYPQDDPTSTFTCTSWTTDYKVMFCPYG*
+1du5a      NNACPVFKKDEYCCVGSAANDCHPTNYSRYFKGQCPDAYSYPKDDATSTFTCPA-GTNYKVVFCP--*
+1thw       NDACTVFQTSEYCCT---TGKCGPTEYSRFFKRLCPDAFSYVLDK-PTTVTCPG-SSNYRVTFCPTA*
+           =========|=========|=========|=========|=========|=========|=======
+                    0160      0170      0180      0190      0200      0210    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1aun       100.0  60.7  53.1
+  2-1du5a       60.7 100.0  53.9
+  3-1thw        53.1  53.9 100.0
+
+***************************************************************************

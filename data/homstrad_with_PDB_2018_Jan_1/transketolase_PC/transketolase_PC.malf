@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1dtwb      structureX:1dtw:  17 :B: 342 :B:2-oxoisovalerate dehydrogenase beta subunit:Homo sapiens: 2.7: 22.4
+[  2] 1qs0b      structureX:1qs0:   2 :B: 339 :B:2-oxoisovalerate dehydrogenase beta subunit:Pseudomonas putida: 2.40: 21.8
+[  3] 1trka      structureX:1trk: 338 :A: 680 :A:transketolase 1:Saccharomyces cerevisiae: 2.0: 15.7
+
+
+1dtwb      --------------QTQKMNLFQSVTSALDNSLAKDPTAVIFGEDVA-FGGVFRCTVGLRDKYGK----------
+1qs0b      --------------ATTT--TIQALRSA-DV-LERDDNVVVYGQDVGYFGGVFRCTEGLQTKYGK----------
+1trka      LPANWESKLPTYTAKDSAVATRKLSETVLEDVYNQLPELIGGSADLTP---SNLTRWK---EALDFQPPSSGSGN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dtwb      --DRVFNTPLCEQGIVGFGIGIAVT--GATAIAEIQFADYIFPAFDQIVNEAAKYRYRSGDLFNCGSLTIRSPWG
+1qs0b      --SRVFDAPISESGIVGTAVG-GAY--GLRPVVEIQFADYFYPASDQIVSE-ARLRYRSAGEFIA-PLTLR-PCG
+1trka      YSGRYIRYGIREHAMGAIMNGISAFGANYKPYGGT-FLNFVSYAAGAVR-LSAL---------SGHPVIWVATHD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dtwb      CVG--HGALYHSQS-PEAFFAHCPGIKVVIPRSPFQAKGLLLSCIEDK-NPCIFFEPKILYRAA-----------
+1qs0b      GGI--YGGQTHSQS-PEA-FTQVCGLRTV-PSNPYDAKGLLIASIECD-DPVIFLEPKRLYNGPFDGHHDRPVTP
+1trka      SIGVGEDGPTHQPIETLAHFRSLPNIQVWRPADGNEVSAAYKNSLESKHTPSIIALSRQ--NLPQLE--------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dtwb      -----AEEVPIEPYNIPLSQAEVIQEGS--DVTLVAWGTQVHVIREVASMAKEKLGVSCEVIDLRTIIPWD---V
+1qs0b      WSKHPHSAVPDGYYTVPLDKAAITRPGN--DVSVLTYGTTVYVAQVAAEES----GVDAEVIDLRSLWPLD---L
+1trka      -------GSSIE---SASKGGYVLQDVANPDIILVATGSEVSLSVEAAKTLAAK-NIKARVVSLPDFFTFDKQPL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1dtwb      DTICKSVIKTGRLLISHEAPLTGGFASEISSTVQEECFLNLEAPISRVCGYDTPFPH----IFEPFYIPDKWKCY
+1qs0b      DTIVESVKKTGRCVVVHEATRTCGFGAELVSLVQEHCFHHLEAPIERVTGWDTPYPH----AQEWAYFPGPSRVG
+1trka      EYRLSVLPDNVPIMSVEVLATT--CWGKYAH--------------QSFGI-DRFGASGKAPEVFKFFGFTPEGVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1dtwb      DALRKMINY--------------*
+1qs0b      AALKKVE-V--------------*
+1trka      ERAQKTIAFYKGDKLISPLKKAF*
+           ====|=========|========
+               0380      0390     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1dtwb      100.0  47.2  13.2
+  2-1qs0b       47.2 100.0  12.2
+  3-1trka       13.2  12.2 100.0
+
+***************************************************************************

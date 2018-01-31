@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1jtka      structureX:1jtk:   1 :A: 131 :A:Cytidine deaminase:Bacillus subtilis: 2.04: 20.7
+[  2] 1ctt1      structureX:1ctt:  48 : : 171 : :Cytidine deaminase:Escherichia coli: 2.2: 19
+[  3] 1ctt2      structureX:1ctt: 189 : : 294 : :Cytidine deaminase:Escherichia coli: 2.2: 19
+
+
+1jtka      MNRQELITEALKARDMAYAPYSKFQVGAALLTKDGKVYRGCNIENA--AYSMCNCAERTALFKAVSEGDT--EFQ
+1ctt1      DEDALAFALLPLAAACARTPLSNFNVGAIARGVSGTWYFGANMEFIGATMQQTVHAEQSAISHAWLSGEK--ALA
+1ctt2      ---DALSQAAIAAANRSHMPYSKSPSGVALECKDGRIFSGSYAENA--AFNPTLPPLQGALILLNLKGYDYPDIQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jtka      MLAVAADTPGPVSPCGACRQVISEL-CTKDVIVVLTNLQGQIKEMTVEELLPGAFSSEDLH*
+1ctt1      AITVN------YTPCGHCRQFMNELNSGLDLRIHLP---G-REAHALRDYLPDAFGPKDLE*
+1ctt2      RAVLAEKADAPLIQWDATSATLKALGCH---SIDRVLLA----------------------*
+           ====|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1jtka      100.0  29.0  26.4
+  2-1ctt1       29.0 100.0  14.2
+  3-1ctt2       26.4  14.2 100.0
+
+***************************************************************************

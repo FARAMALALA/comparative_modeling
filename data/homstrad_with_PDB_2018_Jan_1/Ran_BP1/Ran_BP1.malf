@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1k5db      structureX:1k5d:  22 :B: 167 :B:ran-specific GTPase-activating protein:Homo sapiens: 2.70: 23.7
+[  2] 1rrpb      structureX:1rrp:  17 :B: 150 :B:ran-binding protein 2:Homo sapiens: 2.96: 25.2
+
+
+1k5db      NHDPQFEPIV-SLPEQEIKTLEEDEEELFKMRAKLFRFASENDLPEWKERGTGDVKLLKHKEKGAIRLLMRRDKT
+1rrpb      ----HFEPVVPLPDKIEVKTGEEDEEEFFCNRAKLFRFDVES--KEWKERGIGNVKILRHKTSGKIRLLMRREQV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k5db      LKICANHYITPMMELKPNAGSDRAWVWNTHADFADECPKPELLAIRFLNAENAQKFKTKFEECRKEIEEREK*
+1rrpb      LKICANHYISPDMKLTPNAGSDRSFVWHAL-DYADELPKPEQLAIRFKTPEEAALFKCKFEEAQSI------*
+           ====|=========|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130      0140    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k5db      100.0  62.7
+  2-1rrpb       62.7 100.0
+
+***************************************************************************

@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1mroa      structureX:1mro:   2 :A: 269 :A:methyl-coenzyme M reductase I alpha subunit:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  2] 1e6va      structureX:1e6v:   8 :A: 272 :A:methyl-coenzyme M reductase I alpha subunit:Methanopyrus kandleri: 2.7: 23.9
+[  3] 1e6ya      structureX:1e6y:1002 :A:1283 :A:methyl-coenzyme M reductase alpha subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1mroa      ---ADKLFINALKKKF----------EESPEEKKTTFYTLGGWKQSERKTEFVNAGKEVAAKRGIPQYNPDI--G
+1e6va      ------LFMKALKEKF----------EESPEEKYTKFYIFGGWKQSERKKEFKEWADKIVEERGVPHYNPDI--G
+1e6ya      AADIFSKFKKDMEVKFAQEFGSNKQTGGDITDKTAKFLRL-GPEQDPRKVEMIKAGKEIAEKRGIAFYNPMMHSG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mroa      TPLGQRVLMPYQVSTTDTYVEGDDLHFVNNAAMQQMWDDIRRTVIVGLNHAHAVIEKRLGKEVTPETITHYLETV
+1e6va      VPLGQRKLMSYQVSGTDVFVEGDDLTFVNNAAMQQMWDDIRRTVIVGMDTAHRVLERRLGKEVTPETINEYMETL
+1e6ya      APLGQRAITPYTISGTDIVCEPDDLHYVNNAAMQQMWDDIRRTCIVGLDMAHETLEKRLGKEVTPETINHYLEVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mroa      NHAMPGAAVVQEHMVETHPALVADSYVKVFTGNDEIADEIDPAFVIDINKQFPEDQAETLKAEVGDGIWQVVRIP
+1e6va      NHALPGGAVVQEHMVEIHPGLTWDCYAKIITGDLELADEIDDKFLIDIEKLFPEEQAEQLIKAIGNRTYQVCRMP
+1e6ya      NHAMPGAAVVQEMMVETHPALVDDCYVKVFTGDDALADEIDKQFLIDINKEFSEEQAAQIKASIGKTSWQAIHIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mroa      TIVSRTCDGATTSRWSAMQIGMSMISAYKQAAGEAATGDFAYAAK-AEVIHMGTYLPV*
+1e6va      TIVGHVCDGATMYRWAAMQIAMSFICAYKIAAGEAAVSDFAFASKHAEVINMGEMLPA*
+1e6ya      TIVSRTTDGAQTSRWAAMQIGMSFISAYAMCAGEAAVADLSFAAK-AALVSMGEMLPA*
+           ====|=========|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270      0280 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mroa      100.0  67.5  62.9
+  2-1e6va       67.5 100.0  58.5
+  3-1e6ya       62.9  58.5 100.0
+
+***************************************************************************

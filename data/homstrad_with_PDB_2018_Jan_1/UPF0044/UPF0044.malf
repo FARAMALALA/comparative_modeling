@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1jo0a      structureX:1jo0:   2 :A:  98 :A:hypothetical protein HI1333:Haemophilus influenzae: 1.37: 13.8
+[  2] 1ln4a      structureX:1ln4:   1 :A:  98 :A:hypothetical protein yhbY:Escherichia coli: 1.50: 19.3
+
+
+1jo0a      TTLSTKQKQFLKGLAHHLNPVVMLGGNGLTEGVLAEIENALNHHELIKVKVAGADRETKQLIINAIVRETKAAQV
+1ln4a      MDLSTKQKQHLKGLAHPLKPVVLLGSNGLTEGVLAEIEQALEHHELIKVKIATEDRETKTLIVEAIVRETGACNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jo0a      QTIGHILVLYRPSEEAKIQLPR-*
+1ln4a      QVIGKTLVLYRPTKERKISLPLE*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jo0a      100.0  73.2
+  2-1ln4a       73.2 100.0
+
+***************************************************************************

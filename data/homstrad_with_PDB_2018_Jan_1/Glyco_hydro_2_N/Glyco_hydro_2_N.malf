@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1dp0a      structureX:1dp0:  13 :A: 219 :A:beta-galactosidase:Escherichia coli: 1.70: 15.7
+[  2] 1bhga      structureX:1bhg:  22 :A: 225 :A:beta-glucuronidase:Homo sapiens: 2.6: 23.1
+
+
+1dp0a      RRDWENPGVTQLNRLAAHPPFASWRNSEEARTDRPSQQLRSLN-GEWRFAWFP--APEAVP-ESWLECDLP---E
+1bhga      GLQ------------GGMLYPQES----------PS-RECKELDGLWSFRADFSDNRRRGFEEQWYRRPLWESGP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dp0a      ADTVVVPSNWQMHGYDAPIYTNVTYPITVNPPFVPTENPTGCYSLTFNVDESWLQ--EGQTRIIFDGVNSAFHLW
+1bhga      TVDMPVPSSFNDISQ------------DWRLRHF---VGWVWYEREVILPERWTQDLRTRVVLRIGSAHSYAIVW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dp0a      CNGRWVGYGQDSRLPSEFDLSAFLR----AGENRLAVMVLRWSDGSYLEDQ----------------------DM
+1bhga      VNGVDTLEHEGGYLPFEADISNLVQVGPLPSRLRITIAINNTLTPTTLPPGTIQYLTDTSKYPKGYFVQNTYFDF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dp0a      WRMSGIFRDVSLLHKPT*
+1bhga      FNYAGLQRSVLLYTTPT*
+           ====|=========|==
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dp0a      100.0  16.2
+  2-1bhga       16.2 100.0
+
+***************************************************************************

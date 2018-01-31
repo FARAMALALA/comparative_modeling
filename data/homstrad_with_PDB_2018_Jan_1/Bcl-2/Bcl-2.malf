@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1gjha      structureX:1gjh:   3 :A: 207 :A:apoptosis regulator bcl-2:Homo sapiens: -1: -1
+[  2] 1maz       structureX:1maz:   1 : : 196 : :apoptosis regulator bcl-x:Homo sapiens: 2.2: 19.2
+[  3] 1f16a      structureX:1f16:   1 :A: 192 :A:apoptosis regulator bax, membrane isoform alpha:Homo sapiens: -1: -1
+
+
+1gjha      HA--------------GRTGYDNREIVMKYIHYKLSQRGYEWDAGDDVEENRTEAPEGTESEVVHLTLRQAGDDF
+1maz       ------------------MSQSNRELVVDFLSYKLSQKGYSWSQFIPM-------------AAVKQALREAGDEF
+1f16a      MDGSGEQPRGGGPTSSEQIMKTGALLLQGFIQDRAGRMGGEAPELA-----LDPVPQDASTKKLSECLKRIGDEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gjha      SRRYRRDFAEMSSQLHLTPFTARGRFATVVEELFRDG-VNWGRIVAFFEFGGVMCVESVNREMSPLVDNIALWMT
+1maz       ELRYRRAFSDLTSQLHITPGTAYQSFEQVVNELFRDG-VNWGRIVAFFSFGGALCVESVDKEMQVLVSRIAAWMA
+1f16a      DS--NMELQRMIAAVDT--DSPREVFFRVAADMFSDGNFNWGRVVALFYFASKLVLKALCTKVPELIRTIMGWTL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gjha      EYLNRHLHTWIQDNGGWDAFVELYGPSMR----------------------*
+1maz       TYLNDHLEPWIQENGGWDTFVELYG--------------------------*
+1f16a      DFLRERLLGWIQDQGGWDGLLSYFGTPTWQTVTIFVAGVLTASLTIWKKMG*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1gjha      100.0  60.1  22.0
+  2-1maz        60.1 100.0  23.8
+  3-1f16a       22.0  23.8 100.0
+
+***************************************************************************

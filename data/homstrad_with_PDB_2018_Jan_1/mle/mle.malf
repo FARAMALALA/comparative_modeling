@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 2chr       structureX:2chr:   1 : : 370 : :chloromuconate cycloisomerase:Alcaligenes eutrophus:3.00:18.9
+[  2] 1muca      structureX:1muc:   4 :A: 372 :A:muconate lactonizing enzyme:Pseudomonas putida:1.85:16.8
+[  3] 2mnr       structureX:2mnr:   3 : : 359 : :mandelate racemase:Pseudomonas putida:1.90:16.2
+
+
+2chr       -MKIDAIEAVIVDVPTKRPIQMSITTVHQQSYVIVRVYSE-GLVGVGEGGSVGGPVWSAECAETIKIIVERYLAP
+1muca      -ALIERIDAIIVDLPTIR---------QQQTLVVLRVRCSDGVEGIGEATTIGGLAYGYESPEGIKANIDAHLAP
+2mnr       EVLITGLRTRAVNVPLAYPVHTAVGTVGTAPLVLIDLATSAGVVGHSYLFAYT-----PVALKSLKQLLDD-MAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2chr       HLLGTDAFNVSGALQTMARAV----TG--NASAKAAVEMALLDLKARALGVSIAELLGGPLRSAIPIAWTLASGD
+1muca      ALIGLAADNINAAMLKLDKLA----KG--NTFAKSGIESALLDAQGKRLGLPVSELLGGRVRDSLEVAWTLASGD
+2mnr       MIVNEPL-APVSLEAMLAKRFCLAGYTGLIRMAAAGIDMAAWDALGKVHETPLVKLLGANAR-PVQAYDSHSLDG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2chr       TKRDLDSAVEMIERRRHNRFKVKLGFRSPQDDLIHMEALSNSLGSKAYLRVDVNQAWDEQVASVYIPELEALGVE
+1muca      TARDIAEARHMLEIRRHRVFKLKIGANPVEQDLKHVVTIKRELGDSASVRVDVNQYWDESQAIRACQVLGDNGID
+2mnr       VKLATERAVTAAELG-FRAVKTKIGYPALDQDLAVVRSIRQAVGDDFGIMVDYNQSLDVPAAIKRSQALQQEGVT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2chr       LIEQPVGRENTQALRRLSDNNRVAIMADESLSTLASAFDLARDRSVDVFSLKLCNMGGVSATQKIAAVAEASGIA
+1muca      LIEQPISRINRGGQVRLNQRTPAPIMADESIESVEDAFSLAADGAASIFALKIAKNGGPRAVLRTAQIAEAAGIG
+2mnr       WIEEPTLQHDYEGHQRIQSKLNVPVQMGENWLGPEEMFKALSIGACRLAMPDAMKIGGVTGWIRASALAQQFGIP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2chr       SYGGTMLDSTIGTSVALQLYSTVPSLPFGCELI-GPFVLADTLSHEPLEIRDYELQVPTGVGHGMTLDEDKVRQY
+1muca      LYGGTMLEGSIGTLASAHAFLTLRQLTWGTELF-GPLLLTEEIVNEPPQYRDFQLHIPRTPGLGLTLDEQRLARF
+2mnr       MSSHLF------QEISAHLLAATPTAHW-LERLDLAGSV----IEPTLTFEGGNAVIPDLPGVGIIWREKEIGKY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2chr       ARVS*
+1muca      AR--*
+2mnr       LV--*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2chr       100.0  41.9  18.2
+  2-1muca       41.9 100.0  22.7
+  3-2mnr        18.2  22.7 100.0
+
+***************************************************************************

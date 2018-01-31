@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1dnla      structureX:1dnl:  20 :A: 218 :A:pyridoxamine 5'-phosphate oxidase:Escherichia coli: 1.80: 21
+[  2] 1ci0a      structureX:1ci0:  24 :A: 228 :A:pyridoxamine 5'-phosphate oxidase:Saccharomyces cerevisiae: 2.7: 22.5
+
+
+1dnla      GGLRRRDLPADPLTLFERWLSQACEAK-LADPTA-VVATVDE-HGQPYQRIVLLKHYDEKG-VFYTNL-GSRKAH
+1ci0a      FTLNEKQLTDDPIDLFTKWFNEAKEDPRETLPEAITFSSAELPSGRVSSRILLFKELDHRGFTIYSNWGTSRKAH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dnla      QIENNPRVSLLFPWHTLERQV-VIGKAERLSTLEV-KYFHSRPRDSQIGAWVSKQSSRISARGILESKFLELKQK
+1ci0a      DIATNPNAAIVFFWKDLQRQVRVEGITEHVNRETSERYFKTRPRGSKIGAWASRQSDVIKNREELDELTQKNTER
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dnla      FQ-QGEVPLPSFWGGFRVSLEQIEFWQGGEHRLHDRFLYQRE--NDAWKIDRLAP*
+1ci0a      FKDAEDIPCPDYWGGLRIVPLEIEFWQGRPSRLHDRFVYRRKTENDPWKVVRLAP*
+           =========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dnla      100.0  42.1
+  2-1ci0a       42.1 100.0
+
+***************************************************************************

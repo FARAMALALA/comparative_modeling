@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1srsa      structureX:1srs: 140 :A: 223 :A:serum response factor:Xenopus laevis: 3.20: 22.8
+[  2] 1mnma      structureX:1mnm:  15 :A:  99 :A:pheromone receptor transcription factor:Saccharomyces cerevisiae: 2.25: 24.0
+[  3] 1egwa      structureX:1egw:   2 :A:  72 :A:myocyte-specific enhancer factor 2a (serum response factor-likeprotein 1):Homo sapiens: 1.50: 20.6
+
+
+1srsa      TRGRVKIKMEFIDNKLRRYTTFSKRKTGIMKKAYELSTLTGTQVLLLVASETGHVYTFATRKLQPMITSETGKAL
+1mnma      QKERRKIEIKFIENKTRRHVTFSKRKHGIMKKAFELSVLTGTQVLLLVVSETGLVYTFSTPKFEPIVTQQEGRNL
+1egwa      --GRKKIQITRIMDERNRQVTFTKRKFGLMKKAYELSVLCDCEIALIIFNSSNKLFQYASTDMDKVLLKYTEY--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1srsa      IQTCLNSPD-*
+1mnma      IQACLNAPDD*
+1egwa      ----------*
+           ====|=====
+               0080  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1srsa      100.0  65.5  33.8
+  2-1mnma       65.5 100.0  32.4
+  3-1egwa       33.8  32.4 100.0
+
+***************************************************************************

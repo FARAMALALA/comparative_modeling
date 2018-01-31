@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 1frpa      structureX:1frp:   9 :A: 335 :A:fructose-1,6-bisphosphatase:Sus scrofa: 2.0: 18.9
+[  2] 1ftaa      structureX:1fta:   9 :A: 335 :A:fructose-1,6-bisphosphatase:Homo sapiens: 2.3: 20
+[  3] 1spia      structureX:1spi:   6 :A: 358 :A:fructose-1,6-bisphosphatase, chloroplast:Spinacia oleracea: 2.8: 20.3
+[  4] 1bk4a      structureX:1bk4:   6 :A: 337 :A:fructose-1,6-bisphosphatase:Oryctolagus cuniculus: 2.3: 17.7
+
+
+1frpa      -------------NIVTLTRFVMEQGRKARGTGEMTQLLNSLCTAVKAISTAVRKAGIAHLYGIAGA-VKKLDVL
+1ftaa      -------------DVVTLTRFVMEEGRKARGTGELTQLLNSLCTAVKAISSAVRKAGIAHLYGIAG--VKKLDVL
+1spia      AATQTKARTRSKYEIETLTGWLLKQPMAGVIDAELTIVLSSISLACKQIASLVQRA--------------KLDVV
+1bk4a      ----------FDTDISTMTRFVMEEGRKAGGTGEMTQLLNSLCTAVKAISTAVRKAGI------------KLDVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1frpa      SNDLVINVLKSSFATCVLVTEEDKNAIIVEPEKRGKYVVCFDPLDGSSNIDCLVSIGTIFGIYRKNST-------
+1ftaa      SNDLVMNMLKSSFATCVLVSEEDKHAIIVEPEKRGKYVVCFDPLDGSSNIDCLVSVGTIFGIYRKKST-------
+1spia      SNEVFSSCLRSSGRTGIIASEEEDVPVAVEESYSGNYIVVFDPLDGSSNIDAAVSTGSIFGIYSPNDECIVDSDH
+1bk4a      SNDLVMNMLKSSFATCVLVSEEDKNAIIVEPEKRGKYVVCFDPLDGSSNIDCLVSIGTIFGIYRKKST-------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1frpa      -------------DEPSEKDALQPGRNLVAAGYALYGSATMLVLAMVNGVNCFMLDPAIGEFILVDRNVKIKKKG
+1ftaa      -------------DEPSEKDALQPGRNLVAAGYALYGSATMLVLAMDCGVNCFMLDPAIGEFILVDKDVKIKKKG
+1spia      DDESQLSAEEQRCVVNV----CQPGDNLLAAGYCMYSSSVIFVLTIGKGVYAFTLDPMYGEFVLTSEKIQIPKAG
+1bk4a      -------------DEPSTKDALQPGRNLVAAGYALYGSATMLVLAGGSGVNSFMLDPAIGEFILVDKNVKIKKKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1frpa      SIYSINEGYAKEFDPAITEYIQRKKFPPDNSAPYGARYVGSMVADVHRTLVYGGIFMYPANKKSPKGKLRLLYEC
+1ftaa      KIYSLNEAYAKDFDPAVTEYIQRKKFPPDNSAPYGARYVGSMVADVHRTLVYGGIFLYPANKKSPNGKLRLLYEC
+1spia      KIYSFNEGNYKMWPDKLKKYMDDLKEPGESQKPYSSRYIGSLVGDFHRTLLYGGIYGYPRDAKSKNGKLRLLYEC
+1bk4a      NIYSLNEGYAKDFDPAVTEYIQKKKFPPDNSSPYGARYVGSMVADVHRTLVYGGIFLYPANKKSPDGKLRLLYEC
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1frpa      NPMAYVMEKAGGLATTGKEAVLDIVPTDIHQRAPIILGSPEDVTELLEIYQKHA--*
+1ftaa      NPMAYVMEKAGGMATTGKEAVLDVIPTDIHQRAPIILGSPDDVLEFLKVYEKHS--*
+1spia      APMSFIVEQAGGKGSDGHQRILDIQPTEIHQRVPLYIGSVEEVEKLEKYLA-----*
+1bk4a      NPMAFIMEKAGGMATTGKEAILDIVPTDIHQRAPVILGSPDDVQEFLEIYKKHAVK*
+           =========|=========|=========|=========|=========|======
+                    0310      0320      0330      0340      0350   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1frpa      100.0  90.0  43.1  88.2
+  2-1ftaa       90.0 100.0  42.9  88.9
+  3-1spia       43.1  42.9 100.0  43.9
+  4-1bk4a       88.2  88.9  43.9 100.0
+
+***************************************************************************

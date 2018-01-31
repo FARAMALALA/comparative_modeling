@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1bd0a      structureX:1bd0:  12 :A: 244 :A:alanine racemase:Bacillus stearothermophilus: 1.60: 24
+[  2] 1ct5a      structureX:1ct5:   3 :A: 246 :A:hypothetical 29.1 kDa protein in ura7-pol12 intergenic region:Saccharomyces cerevisiae: 2.00: 19.6
+
+
+1bd0a      -------VDLDAIYDNVENLRRLLPD-----DTHIMAVVKANAYGHGDVQVARTALEAGASRLAVAFLDEALALR
+1ct5a      TGITYDEDRKTQLIAQYESVREVVNAEAKNVKILLLVVSKLK-----PASDIQILYDHGVREFGENYVQELIEKA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bd0a      EKGIE-APILVLGASRPADAALAAQ---QRIALTVFRSDWLEEASALY---SGPF-PIHFHLKMDTGMG--RLGV
+1ct5a      KLLPDDIKWHFIGGLQTNKCKDLAKVPNLYSVETIDSLKKAKKLNESRAKFQPDCNPILCNVQINTSHEDQKSGL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bd0a      KDEEETKRIVALIE--RHPHFVLEGLYTHFATADEVNTDYFSYQYTRFLHMLEWLPS--RPPLVHCANSAASLRF
+1ct5a      NNEAEIFEVIDFFLSEECKYIKLNGL-TIGSW---------NRDFATLVEWKKKIDAKFGTSLKLSG-SADFREA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bd0a      PDRTFNMVRFGIAMYGLAPSPGIKPLLPYPLKEA*
+1ct5a      IRQGTAEVRIGTDIFG------------------*
+           ====|=========|=========|=========
+               0230      0240      0250      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bd0a      100.0  11.6
+  2-1ct5a       11.6 100.0
+
+***************************************************************************

@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1cjsa      structureX:1cjs:   1 :A: 212 :A:50S ribosomal protein L1p:Methanococcus jannaschii: 2.30: 20.3
+[  2] 1dwua      structureX:1dwu:   1 :A: 213 :A:50S ribosomal protein L1p:Methanococcus thermolithotrophicus: 2.8: 20.7
+[  3] 487dh      structureX:487d:   5 :H: 228 :H:50S ribosomal protein L1 (low resolution):Thermus aquaticus: 7.50: -1
+
+
+1cjsa      ------------MDREALLQAVKEARELAKPRNFTQSFEFIATLKEIDMRKPENRIKTEVVLPHGRGKEAKIAVI
+1dwua      ------------MDRENILKAVKEARSLAKPRNFTQSLDLIINLKELDLSRPENRLKEQVVLPNGRGKEPKIAVI
+487dh      KRYRALLEKVDPNKIYTIDEAAHLVKELA-TAKFDETVEVHAKLG-IDPRRSDQNVRGTVSLPHGLGKQVRVLAI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cjsa      GTGDLAKQAEELGL-TVIRKEEIEELGKNKRKLRKIAKAHDFFIAQADLMPLIGRYMGVILGPRGKMPK----PV
+1dwua      AKGDLAAQAEEMGL-TVIRQDELEELGKNKKMAKKIANEHDFFIAQADMMPLVGKTLGPVLGPRGKMPQ----PV
+487dh      AKGEKIKEAEEAGADYVGGEEIIQKILD-------GWMDFDAVVATPDVMGAVGSKLGRILGPRGLLPNPKAGTV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cjsa      PANANIKPLVERLK-KTVVINTRDKPYFQVLVGNEKMTDEQIVDNIEAVLNVVAKKY-E--KGLYHIKDAYVKLT
+1dwua      PANANLTPLVERLK-KTVLINTRDKPLFHVLVGNEKMSDEELAENIEAILNTVSRKY-E--KGLYHVKSAYTKLT
+487dh      GF--NIGEIIREIKAGRIEFRNDKTGAIHAPVGKACFPPEKLADNIRAFIRALEAHKPEGAKG-TFLRSVYVTTT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cjsa      MGPAVKVK---*
+1dwua      MGPPAQIEK--*
+487dh      MGPSVRINPHS*
+           ====|======
+               0230   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cjsa      100.0  71.2  29.2
+  2-1dwua       71.2 100.0  27.7
+  3-487dh       29.2  27.7 100.0
+
+***************************************************************************

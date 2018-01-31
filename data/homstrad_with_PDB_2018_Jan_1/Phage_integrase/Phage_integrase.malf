@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1a0p       structureX:1a0p: 111 : : 292 : :integrase-recombinase xerd:Escherichia coli: 2.5: 22.4
+[  2] 1aiha      structureX:1aih: 168 :A: 337 :A:integrase:Bacteriophage hp1: 2.5: 20.9
+[  3] 1ae9a      structureX:1ae9: 177 :A: 355 :A:integrase:Bacteriophage lambda: 1.9: 19.9
+[  4] 4crxa      structureX:4crx: 131 :A: 341 :A:cre recombinase:Bacteriophage p1: 2.2: 21.3
+
+
+1a0p       ----KDLSEAQVERLLQAPLI-DQPLELRDKAMLEVLYATGLRVSELVGLTMSDISL---RQGVVRVIGKG----
+1aiha      ETELAFLYERDIYRLLAECD--NS-RNPDLGLIVRICLATGARWSEAETLTQSQVM-----PYKITFTNTK---S
+1ae9a      ---RSRLTADEYLKIYQAAE--SSP--CWLRLAMELAVVTGQRVGDLCEMKWSDIV-----DGYLYVEQSK---T
+4crxa      AKQALAFERTDFDQVRSLMENSDRCQDIRNLAFLGIAYNTLLKIAEIARIRVKDISRTDGGRMLIHIGRTKTLVS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a0p       NKERLVPLG---EE----AVYWLETYLEHGRPWLLNGVSIDVLFPSQ------RAQ---QMTRQTFWHRIKHYAV
+1aiha      KKNRTVPIS----------DELFDMLPK----------KRGRLFN-------------------DAYESFENAVL
+1ae9a      GVKIAIPTALHIDALGISMKETLDKCKEILGG--------ETIIAST------RRE---PLSSGTVSRYFMRARK
+4crxa      TAGVEKALS---LG----VTKLVERWISVSGVAD---DPNNYLFCRVRKNGVAAPSATSQLSTRALEGIFEATHR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a0p       LAGIDSE-------KLSPHVLRHAFATHLLNHGADLRVVQMLLSDLSTTQIYTHVATER-LRQLHQ---------
+1aiha      RAEIELP-----KG-QLTHVLRHTFASHFMMN-------------GGNILVLKEILGHSTIEMT--MRYAHFAPS
+1ae9a      ASGLSFE-----GDPPTFHELRSLSARLYEKQ--IS------------DKFAQHLLGH-----FRDDRGR--EWD
+4crxa      LIYGAKDDSGQRYLAWSGHSARVGAARDMARA-------------GVSIPEIMQAGGWTNVNIV--MNYIR----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a0p       ----------------*
+1aiha      HLESAVKFNPLSNPAQ*
+1ae9a      KIEI------------*
+4crxa      -NLDSETGAMVRLLED*
+           ====|=========|=
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1a0p       100.0  17.6  16.4  11.7
+  2-1aiha       17.6 100.0  13.5  12.9
+  3-1ae9a       16.4  13.5 100.0   8.8
+  4-4crxa       11.7  12.9   8.8 100.0
+
+***************************************************************************

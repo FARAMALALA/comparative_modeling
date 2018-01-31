@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1b25a      structureX:1b25:   1 :A: 619 :A:formaldehyde ferredoxin oxidoreductase:Pyrococcus furiosus: 1.85: 17.4
+[  2] 1aora      structureX:1aor:   1 :A: 605 :A:aldehyde ferredoxin oxidoreductase:Pyrococcus furiosus: 2.30: 15.5
+
+
+1b25a      MYGWWGRILRVNLTTGEVKVQEYPEEVAKKFIGGRGLAAWILWNEAR-GVEPLSPENKLIFAAGPFNGLPTPSGG
+1aora      MYGNWGRFIRVNLSTGDIKVEEYDEELAKKWLGSRGLAIYLLLKEMDPTVDPLSPENKLIIAAGPLTGTSAPTGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b25a      KLVVAAKSPLTGGYGDGNLGTMASVHLRRAGYDALVVEGKAKKPVYIYIEDDNVSILSAEGLWGKTTFETERELK
+1aora      RYNVVTKSPLTGFITMANSGGYFGAELKFAGYDAIVVEGKAEKPVYIYIKDEHIEIRDASHIWGKKVSETEATIR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1b25a      EIHG-KNVGVLTIGPAGENLVKYAVVISQEGRAAGRPGMGAVMGSKKLKAVVIRGTKEIPVADKEELKKLSQEAY
+1aora      KEVGSEKVKIASIGPAGENLVKFAAIMNDGHRAAGRGGVGAVMGSKNLKAIAVEGSKTVPIADKQKFMLVVREKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1b25a      NEILNSPG-YPFWKRQGTMAAVEWCNTNYALPTRNFSDGYFEFARSIDGYTMEGM-KVQQRGCPYCNMPCGNVVL
+1aora      NKLRNDPVAGGGLPKYGTAVLVNIINENGLYPVKNFQTGVYPYAYEQSGEAMAAKYLVRNKPCYACPIGCGRVNR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1b25a      DAEGQESEL-DYENVALLGSNLGIGKLNEVSVLNRIADEMGMDTISLGVSIAHVMEAVERGILK-------EGPT
+1aora      LPTVGETEGPEYESVWALGANLGINDLASIIEANHMCDELGLDTISTGGTLATAMELYEKGHIKDEELGDAPPFR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1b25a      FGDFKGAKQLALDIAYRKGELGNLAAEGVKAMAEKLGTHDFAMHVKGLEVSGYNCYIYPAMALAYGTSAIGAHHK
+1aora      WGNTEVLHYYIEKIAKREG-FGDKLAEGSYRLAESYGHPELSMTVKKLELPAYDPRGAEGHGLGYATNNRGGCHI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1b25a      EAWVIAWEIGTAPIEYK-ISYDPIKAQKVVELQRLRGGLFEMLTACRLPWVEVGLSLDYYPKLLKAITGVTYTWD
+1aora      KNYMISPEILGYPYKMDPHDVSDDKIKMLILFQDLT-ALIDSAGLCLFTTF--GLGADDYRDLLNAALGWDFTTE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1b25a      DLYKAADRVYSLIRAYWVREFNGKWDRKMDYPPKRWFTEGLKSGPHKGEHLDEKKYDELLSEYYRIRGWDERGIP
+1aora      DYLKIGERIWNAERLFNLKA--GLDPARDDTLPKRFLEEPMPEGPNKGHTVR---LKEMLPRYYKLRGWTEDGKI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1b25a      KKETLKELDLDFVIPELEKVTNLE*
+1aora      PKEKLEELGIAEFY----------*
+           =========|=========|====
+                    0610      0620 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b25a      100.0  39.0
+  2-1aora       39.0 100.0
+
+***************************************************************************

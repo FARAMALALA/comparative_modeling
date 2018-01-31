@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 2occa      structureX:2occ:   1 :A: 514 :A:cytochrome c oxidase polypeptide I:Bos taurus: 2.30: 20.9
+[  2] 1ar1a      structureX:1ar1:  17 :A: 545 :A:cytochrome c oxidase polypeptide I-beta:Paracoccus denitrificans: 2.70: 20.7
+
+
+2occa      MFINRWLFSTNHKDIGTLYLLFGAWAGMVGTALSLLIRAELGQPGTLLG-----------------DDQIYNVVV
+1ar1a      GFFTRWFMSTNHKDIGILYLFTAGIVGLISVCFTVYMRMELQHPGVQYMCLEGARLIADASAECTPNGHLWNVMI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2occa      TAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSMVE-----AGAGTGWTV
+1ar1a      TYHGVLMMFFVVIPALFGGFGNYFMPLHIGAPDMAFPRLNNLSYWMYVCGVALGVASLLAPGGNDQMGSGVGWVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2occa      YPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSQYQTPLFVWSVMITAVLLLLSLPVLA
+1ar1a      YPPLSTT--EAGYSMDLAIFAVHVSGASSILGAINIITTFLNMRAPGMTLFKVPLFAWSVFITAWLILLSLPVLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2occa      AGITMLLTDRNLNTTFFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWAMM
+1ar1a      GAITMLLMDRNFGTQFFDPAGGGDPVLYQHILWFFGHPEVYIIILPGFGIISHVISTFAKK-PIFGYLPMVLAMA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2occa      SIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKWSPAMMWALGFIFLFTVGGL
+1ar1a      AIGILGFVVWAHHMYTAGMSLTQQAYFMLATMTIAVPTGIKVFSWIATMWGGSIEFKTPMLWAFGFLFLFTVGGV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2occa      TGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGGFVHWFPLFSGYTLNDTWAKIHFAIMFVGVNMTFFPQ
+1ar1a      TGVVLSQAPLDRVYHDTYYVVAHFHYVMSLGAVFGIFAGVYYWIGKMSGRQYPEWAGQLHFWMMFIGSNLIFFPQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2occa      HFLGLSGMPRRYSDYPDAYTMWNTISSMGSFISLTAVMLMVFIIWEAFASKREVL---TVDLTTTNLEWLNGCPP
+1ar1a      HFLGRQGMPRRYIDYPVEFAYWNNISSIGAYISFASFLFFIGIVFYTLFAGKRVNVPNYWNEHADTLEWTLPSPP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+2occa      PYHTFEEPTYVNLK*
+1ar1a      PEHTFET-------*
+           ====|=========
+               0530      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2occa      100.0  53.1
+  2-1ar1a       53.1 100.0
+
+***************************************************************************

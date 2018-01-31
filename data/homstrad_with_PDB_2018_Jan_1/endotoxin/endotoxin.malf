@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1dlc       structureX:1dlc:  61 : : 644 : :70 kd crystal protein (delta endotoxin):Bacillus thuringiensis: 2.5: 18.3
+[  2] 1ciy       structureX:1ciy:  33 : : 609 : :133 kd crystal protein (delta endotoxin):Bacillus thuringiensis: 2.25: 16.3
+
+
+1dlc       TTKDVIQKGISVVGDLLGVVGFPFGGALVSFYTNFLNTIWP--SEDPWKAFMEQVEALMDQKIADYAKNKALAEL
+1ciy       --YTPIDISLSLTQFLLSEFVPG-----AGFVLGLVDIIWGIFGPSQWDAFLVQIEQLINQRIEEFARNQAISRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dlc       QGLQNNVEDYVSALSSWQKNPVSSRNPHSQGRIRELFSQAESHFRNSMPSFAISGYEVLFLTTYAQAANTHLFLL
+1ciy       EGLSNLYQIYAESFREWEADPT---NPALREEMRIQFNDMNSALTTAIPLLAVQNYQVPLLSVYVQAANLHLSVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dlc       KDAQIYGEEWGYEKEDIAEFYKRQLKLTQEYTDHCVKWYNVGLDKLRGSSYESWVNFNRYRREMTLTVLDLIALF
+1ciy       RDVSVFGQRWGFDAATINSRYNDLTRLIGNYTDYAVRWYNTGLERVWGPDSRDWVRYNQFRRELTLTVLDIVALF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dlc       PLYDVRLYPKEVKTELTRDVLTDPIVGVNNLRGYGTTFSNIENYIRKPHLFDYLHRIQFHTRFQPGYYGNDSFNY
+1ciy       SNYDSRRYPIRTVSQLTREIYT-NPVLENFDGSFRGMAQRIEQNIRQPHLMDILNSITIYTDVHR---G---FNY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1dlc       WSGNYVSTRPSIGSNDIITSPFYGNKSS-EPVQNLEFNGEKVYRAVANTNLAVWP------SAVYSGVTKVEFSQ
+1ciy       WSGHQITASPVGFSGPEFAFPLFGNAGNAAPPVLVSLTGLGIFRTLSSPLYRRIILGSGPNNQELFVLDGTEFSF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1dlc       YNDQTDEASTQTYDSKRNVGAVSWDSIDQLPPETTDEPLEKGYSHQLNYVMCFLMQ---GSRGTIPVLTWTHKSV
+1ciy       ASLT-TNLPSTIYR-----QRGTVDSLDVIPPQDNSVPPRAGFSHRLSHVTMLSQAAGAVYTLRAPTFSWQHRSA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1dlc       DFFNMIDSKKITQLPLVKAYKLQSGASVVAGPRFTGGDIIQCTENGSAATIYVTPDVSYSQKYRARIHYASTSQI
+1ciy       EFNNIIPSSQITQIPLTKSTNLGSGTSVVKGPGFTGGDILRRTSPGQISTLRVNITAPLSQRYRVRIRYASTTNL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1dlc       TFTLSLDGAPFNQYYFDKTINKGDTLTYNSFNLASFSTPFELSG--NNLQIGVTGLSAGDKVYIDKIEFIPVN--
+1ciy       QFHTSIDGRPINQGNFSATMSSGSNLQSGSFRTVGFTTPFNFSNGSSVFTLSAHVFNSGNEVYIDRIEFVPAEVT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dlc       100.0  34.0
+  2-1ciy        34.0 100.0
+
+***************************************************************************

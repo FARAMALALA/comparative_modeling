@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1ecma      structureX:1ecm:   5 :A: 100 :B:chorismate mutase:Escherichia col: 2.2:19.2
+[  2] 5csma      structureX:5csm:   1 :A: 256 :A:chorismate mutase :Saccharomyces cerevisiae: 2.0: 18.6
+
+
+1ecma      ---------NPLLALREKISALDEKLLALLAERRELAVEVGKAKLL---SHRPVRDIDRERDLLERLITLGKAH-
+5csma      MDFTKPETVLNLQNIRDELVRMEDSIIFKFIERSHFATCPSVYEANHPGLEIPNFKGSFLDWALSNLEIAHSRIR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ecma      ------------------------------------HLDAHYITRLFQLIIEDSVLTQQALLQQHPLLALREKIS
+5csma      RFESPDETPFFPDKIQKSFLPSINYPQILAPYAPEVNYNDKIKKVYIEKIIPLISKRD------GDDKNNFGSVA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ecma      ALDEKLLALLAERRELAVEVGKAKLLSHR-----------------PVRDIDRERDLLERLITLGKAH-----HL
+5csma      TRDIECLQSLSRRIHFGKFVAEAKFQSDIPLYTKLIKSKDVEGIMKNITNSAVEEKILERLTKKAEVYGVDPTRI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ecma      DAHYITRLFQ-LIIEDSVLTQQALLQQHLNKIN*
+5csma      SPEYLVKIYKEIVIPITKEVEVEYLLRRLEE--*
+           ====|=========|=========|========
+               0230      0240      0250     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ecma      100.0  14.5
+  2-5csma       14.5 100.0
+
+***************************************************************************

@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 2prd       structureX:2prd:   1 : : 174 : :inorganic pyrophosphatase:Thermus aquaticus: 2.0: 15.3
+[  2] 1obwa      structureX:1obw:   1 :A: 175 :A:inorganic pyrophosphatase:Escherichia coli: 1.9: 17.6
+[  3] 1qeza      structureX:1qez:1002 :A:1171 :A:inorganic pyrophosphatase:Sulfolobus acidocaldarius: 2.7: 19.7
+[  4] 1wgja      structureX:1wgj:   1 :A: 282 :A:inorganic pyrophosphatase:Saccharomyces cerevisiae: 2.0: 17.2
+
+
+2prd       -------------------------ANLK-SLPVGDKAP-EVVHMVIEVPRGS-GNKYEYDPD--LGAIKLD---
+1obwa      --------------------------SLL-NVPAGKDLP-EDIYVVIEIPANADPIKYEIDKE--SGALFVD---
+1qeza      ------------------------------KLSPGKNAP-DVVNVLVEIPQGS-NIKYEYDDE--EGVIKVD---
+1wgja      TYTTRQIGAKNTLEYKVYIEKDGKPVSAFHDIPLYADKENNIFNMVVEIPRWT-NAKLEITKEETLNPIIQDTKK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2prd       ---RVLPG---AQFYPGDYGFIPSTLAE------------DGDPLDGLVLSTYPLLPGVVVEVRVVGLLLMEDEK
+1obwa      ---RFMST---AMFYPCNYGYINHTLSL------------DGDPVDVLVPTPYPLQPGSVTRCRPVGVLKMTDEA
+1qeza      ---RVLYT---SMNYPFNYGFIPGTLEE------------DGDPLDVLVITNYQLYPGSVIEVRPIGILYMKDEE
+1wgja      GKLRFVRNCFPHHGYIHNYGAFPQTWEDPNVSHPETKAVGDNDPIDVLEIGETIAYTGQVKQVKALGIMALLDEG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2prd       GGDAKVIGVVA--EDQRLDHIQDIGDVP---EGVKQEIQHFFETYKALEAKKGKWVKVT----GWRDRKAALEEV
+1obwa      GEDAKLVAVPHSKLSKEYDHIKDVNDLP---ELLKAQIAHFFEHYKDLEK--GKWVKVE----GWENAEAAKAEI
+1qeza      GEDAKIVAVPKDKTDPSFSNIKDINDLP---QATKNKIVHFFEHYKELEP--GKYVKIS----GWGSATEAKNRI
+1wgja      ETDWKVIAIDI--NDPLAPKLNDIEDVEKYFPGLLRATNEWFRIYKIPD---GKPENQFAFSGEAKNKKYALDII
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2prd       RACIARYKG------------------------------------------------------*
+1obwa      VASFERAKNK-----------------------------------------------------*
+1qeza      QLAIKRVS-------------------------------------------------------*
+1wgja      KETHDSWKQLIAGKSSDSKGIDLTNVTLPDTPTYSKAASDAIPPASLKADAPIDKSIDKWFFI*
+           ====|=========|=========|=========|=========|=========|========
+               0230      0240      0250      0260      0270      0280     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2prd       100.0  47.1  49.1  27.0
+  2-1obwa       47.1 100.0  52.1  26.3
+  3-1qeza       49.1  52.1 100.0  29.0
+  4-1wgja       27.0  26.3  29.0 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ctn       structureX:1ctn:  24 : : 132 : :chitinase A :Serratia marcescens: 2.3: 16.2
+[  2] 1b4ra      structureX:1b4r:   8 :A:  87 :A:polycystin-1:Homo sapiens: -1: -1
+
+
+1ctn       AAPGKPTIAWGNTKFAIVEVDQAATAYNNLVKVKNAADVSVSWNLWNGDTGTTAKILLN-GKEAWSGPSTGSSGT
+1b4ra      -----ATLVGPHGPLASG------------------QLAAFHIAAPL--PVTATRWDFGDGSAEVDAA--GP--A
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ctn       ANFKVNKGGRYQMQVALCNADGCTASDATEIVVAD*
+1b4ra      ASHRYVLPGRYHVTAVLALGAGSALL-GTDVQVEA*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ctn       100.0  16.2
+  2-1b4ra       16.2 100.0
+
+***************************************************************************

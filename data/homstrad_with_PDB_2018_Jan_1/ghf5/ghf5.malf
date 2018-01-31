@@ -1,0 +1,87 @@
+      Code       Title
+
+[  1] 1a3h       structureX:1a3h:   4 : : 303 : :endoglucanase Cel5A:Bacillus agaradherans: 1.57: 14
+[  2] 1egza      structureX:1egz:   1 :A: 291 :A:endoglucanase Z:Erwinia chrysanthemi: 2.30: 17.9
+[  3] 1bqca      structureX:1bqc:   1 :A: 302 :A:beta-mannanase:Thermomonospora fusca: 1.50: 11.9
+[  4] 1edg       structureX:1edg:   1 : : 380 : :endoglucanase A:Clostridium cellulolyticum: 1.6: 19.1
+[  5] 1ceo       structureX:1ceo:   1 : : 340 : :endoglucanase c307:Clostridium sp.: 1.9: -1
+[  6] 1ecea      structureX:1ece:   1 :A: 358 :A:endoglucanase e1:Acidothermus cellulolyticus: 2.4: 17.9
+
+
+1a3h       --------------------SVVEEHGQLSISNGELVNERGEQVQLKGMSSHGLQ------------WYGQFV--
+1egza      ------------------------SVEPLSVNGNKIYAGE-KAKSFAGNSLFWSNNG---------WGGEKFY--
+1bqca      -------------------------ATGLHVKNGRLYEANGQEFIIRGVSHPHNW-------------YPQHT--
+1edg       MYDASLIPNLQIPQKNIPNNDGMNFVKG----------------LRLGWNLGNTFDAFNGTNITNELDYETSWSG
+1ceo       -------------------------MVS----------------FKAGINLGGWISQYQ---VFSKEHFDTF---
+1ecea      -----------------------AGGGYWHTSGREILDANNVPVRIAGINWFGFETC---------NYVVHGLWS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a3h       ---NYESMKWLRDDWGINVFRAAMYTS---SGGYIDD-----------P-SVKEKVKEAVEAAIDLDIYVIIDWH
+1egza      ---TADTVASLKKDWKSSIVRAAMGVQE--SGGYLQD-----------PAGNKAKVERVVDAAIANDMYAIIGWH
+1bqca      -----QAFADIKS-HGANTVRVVLSNGV--RWS----------------KNGPSDVANVISLCKQNRLICMLEV-
+1edg       IKTTKQMIDAIKQ-KGFNTVRIPVSWHPHVSG-----------SDYKISDVWMNRVQEVVNYCIDNKMYVILNTH
+1ceo       --ITEKDIETIAE-AGFDHVRLPFDYPIIESD----------DNVGEYKEDGLSYIDRCLEWCKKYNLGLVLDMH
+1ecea      RD-YRSMLDQIKS-LGYNTIRLPYSDDILKPGTMPNSINFYQMNQDLQGLTSLQVMDKIVAYAGQIGLRIILDRH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a3h       -ILS---DNDPN-----IYKEEAKDFFDEMSELYGDY-PNVIYEIANEPNGS-----DVTWG---------NQIK
+1egza      -SH------SAE-----NNRSEAIRFFQEMARKYGNK-PNVIYEIYNEPLQ-------VSWS---------NTIK
+1bqca      -HDT---TGYGEQSGA-STLDQAVDYWIELKSVLQGEEDYVLINIGNEPYGN-----DSATV---------AAWA
+1edg       HDVDKVKGYFPSSQYMASSKKYITSVWAQIAARFANYDEHLIFEGMNEPRLVGHANEWWPELTNSDVVDSINCIN
+1ceo       HAPGS---TLF--ED-PNQQKRFVDIWRFLAKRYINEREHIAFELLNQVVEP-----------------DSTRWN
+1ecea      RPDCSGQSALWYTSSV--SEATWISDLQALAQRYKGNPTVVGFDLHNEPHD------PACWGCGDPS----IDWR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a3h       PYAEEVIPIIRNND---PNNIIIVGTGT--------WSQD----VHHAADNQLA-----DPNVMYAFHFYAGT--
+1egza      PYAEAVISAIRAID---PDNLIIVGTPS--------WSQN----VDEASRDPIN-----AKNIAYTLHFYAGT--
+1bqca      TDTSAAIQRLRAAG---FEHTLVVDAPN--------WGQDWTNTMRNNADQVYASDP--TGNTVFSIHMYGVYS-
+1edg       QLNQDFVNTVRATGGKNASRYLMCPGY---------VASP--DGATNDYFRMPNDISGNNNKIIVSVHAYCPWNF
+1ceo       KLMLECIKAIREID---STMWLYIGGNN--------YNSP--DELK--NLADIDD-----DYIVYNFHFYNPFFF
+1ecea      LAAERAGNAVLSVN---PNLLIFVEGVQSYNGDSYWWGGN----LQGAGQYPVVLNV--PNRLVYSAHDYATSV-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1a3h       ---------------------------------------------------HGQNLRDQVDYALDQG-AAIFVSE
+1egza      ---------------------------------------------------HGESLRNKARQALNNG-IALFVTE
+1bqca      ---------------------------------------------------QASTITSYLEHFVNAG-LPLIIGE
+1edg       AGL-------AMADGGTNAWN-----IN-----------DSK------DQSEVTWFMDNIYNKYTSRGIPVIIGE
+1ceo       THQKAHWSESAMAYNRTVKYPGQYEGIEEFVKNNPKYSFMMELNNLKLNKELLRKDLKPAIEFREKKKCKLYCGE
+1ecea      -YPQTWFSDP------------------------------------TFPNNMPGIWNKNWGYLFNQNIAPVWLGE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1a3h       WGTSAATGDGGVFLDEAQVWIDFMDE------RNLSWANWSLTHK---DESSAALMPGANPTGGWTEAELSPSGT
+1egza      WGTVNADGNGGVNQTETDAWVTFMRD------NNISNANWALNDK---NEGASTYYPDSK--------NLTESGK
+1bqca      FGHDHSDG-----NPDEDTIMAEAER------LKLGYIGWSWSGNGGGVEYLDMVYNFDGD-------NLSPWGE
+1edg       CGAVDK-NNLKTRVEYMSYYVAQAKA------RGILCILWDNNNFSGTGELFGFF---DRRSC------QFK-FP
+1ceo       FGVIAI-ADLESRIKWHEDYISLLEE------YDIGGAVWNYKKM-----DFEIY---NE-DR------KPV-SQ
+1ecea      FGTTLQ---STTDQTWLKTLVQYLRPTAQYGADSFQWTFWSWNPDSG--DTGGILKD--------DWQTVD---T
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1a3h       FVRE---KIRES--------*
+1egza      KVKS---IIQSWPYKA----*
+1bqca      RIFYGPNGIASTAKEAVIFG*
+1edg       EIID---GMVKYAFGLI--N*
+1ceo       ELVN---ILAR---------*
+1ecea      VKDG---YLAPIKSSIFDPV*
+           =========|=========|
+                    0460      0470 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1a3h       100.0  41.2  16.0  11.7  10.7  15.0
+  2-1egza       41.2 100.0  16.5  15.1  13.1  15.8
+  3-1bqca       16.0  16.5 100.0  15.2  11.6  14.9
+  4-1edg        11.7  15.1  15.2 100.0  17.2  12.8
+  5-1ceo        10.7  13.1  11.6  17.2 100.0  14.2
+  6-1ecea       15.0  15.8  14.9  12.8  14.2 100.0
+
+***************************************************************************

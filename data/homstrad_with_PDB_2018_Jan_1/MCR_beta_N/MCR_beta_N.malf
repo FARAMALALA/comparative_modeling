@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1e6vb      structureX:1e6v:   7 :B: 189 :B:methyl-coenzyme M reductase beta subunit:Methanopyrus kandleri: 2.7: 23.9
+[  2] 1mrob      structureX:1mro:   2 :B: 188 :B:methyl-coenzyme M reductase I beta subunit:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  3] 1e6yb      structureX:1e6y:2002 :B:2185 :B:methyl-coenzyme M reductase beta subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1e6vb      ----DTVDLYDDRGNCVAEEVPIEVLSPMRNEAIQSIVNDIKRTVAVDLEGIENALQNATVGGKGMKIPGREMDV
+1mrob      AKFEDKVDLYDDRGNLVEEQVPLEALSPLRNPAIKSIVQGIKRTVAVNLEGIENALKTAKVGGPACKIMGRELDL
+1e6yb      ---SDTVDIYDDRGKLLESNVDIMSLAPTRNAAIQSIIMDTKRSVAVNLAGIQGALASGKMGGKGRQILGRGLNY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1e6vb      DIVDNAEAIADEIEKMIRVYQDDDTNVEPMYDGKRLLVQLPSERVKVMADPYSGTLQAGMAVVHAIIDVCEVDMW
+1mrob      DIVGNAESIAAAAKEMIQVTEDDDTNVELLGGGKRALVQVPSARFDVAAEYSAAPLVTATAFVQAIINEFDVSMY
+1e6yb      DIVGNADAIAENVKKLVQVDEGDDTNVIKVKGGKSLLIQSPKSRIIAGADFMSATTVGAAAVTQTIMDMFGTDPY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1e6vb      DANMVKAAVFGRYPQTIDYFGGNVASMLDVPMKQEGV*
+1mrob      DANMVKAAVLGRYPQSVEYMGANIATMLDIPQKLEGP*
+1e6yb      DAPIVKSAVWGSYPQTMDLMGGQVQGILSIPQNNEGL*
+           =========|=========|=========|=======
+                    0160      0170      0180    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1e6vb      100.0  61.2  48.1
+  2-1mrob       61.2 100.0  47.8
+  3-1e6yb       48.1  47.8 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1jfla      structureX:1jfl:   1 :A: 228 :A:Aspartate racemase:Pyrococcus horikoshii: 1.90: 19.4
+[  2] 1b74a      structureX:1b74:   1 :A: 252 :A:Glutamate racemase:Aquifex pyrophilus: 2.30: 22.1
+
+
+1jfla      MKTIGILGGMGPLATAELFRRIVIKTPAKRDQEHPKVIIFNNPQIPDRTAYILGKGEDPRPQLIWTAKRLEECGA
+1b74a      -MKIGIFD-SG-VGGLTVLKAIRNRYR------KVDIVYLGDTARVPYGIRS---KDTIIRYSLECAGFLKDKGV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jfla      DFIIMPCNTAHA-FVEDIRKAIKIPIISMIEETAKKVKEL-GFKKAGLLATTGTIVSGVYEKEFSKYGVEIMTPT
+1b74a      DIIVVACNTASAYALERLKKEINVPVFGVIEPGVKEALKKSRNKKIGVIGTPATVKSGAYQRKLEEGGADVFAKA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jfla      EDEQKDVMRGIYEGVKAGNLKLGRELLLKTAKILEERGAECIIAGC---TEVSVVLKQDDLKVPLIDPMDVIAEV
+1b74a      --CPLFAPLAEEGLLE---GEITRKVVEHYLKEFKG-KIDTLILGCTHYPLLKKEIKKFLGDAEVVDSSEALSLS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jfla      AVKVALEK-------------------------------------*
+1b74a      LHNFIKDDGSSSLELFFTDLSPNLQFLIKLILGRDYPVKLAEGVF*
+           ====|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jfla      100.0  16.7
+  2-1b74a       16.7 100.0
+
+***************************************************************************

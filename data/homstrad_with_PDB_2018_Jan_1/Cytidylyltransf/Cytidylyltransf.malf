@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1coza      structureX:1coz:   1 :A: 126 :A:glycerol-3-phosphate cytidylyltransferase:Bacillus subtilis: 2.00: 19.6
+[  2] 1b6ta      structureX:1b6t:   3 :A: 159 :A:phosphopantetheine adenylyltransferase:Escherichia coli: 1.80: 20.5
+
+
+1coza      MKKVITYGTFDLLHWGHIKLLERAKQLGDYLVVAISTDEFNLQKQKKAYHSYEHRKLILETI----RYVDEVIPE
+1b6ta      -KRAIYPGTFDPITNGHIDIVTRATQMFDHVILAIAA-SPS----KKPMFTLEERVALAQQATAHLGNV-EVVGF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1coza      KNWEQKKQDIIDHNIDVFVMG-DDW-----EG-KFDFLK---DQCEVVYLPRTE---GISTTKIKEEI-------
+1b6ta      SD--LMANFARNQHATVLIRGLRAVADFEYEMQLAHMNRHLMPELESVFLMPSKEWSFISSSLVKEVARHQGDVT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1coza      ----------------*
+1b6ta      HFLPENVHQALMAKLA*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1coza      100.0  25.4
+  2-1b6ta       25.4 100.0
+
+***************************************************************************

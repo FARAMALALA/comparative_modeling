@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1dhfa      structureX:1dhf:   4 :A: 185 :A:dihydrofolate reductase:Homo sapiens: 2.30:17.60
+[  2] 8dfr       structureX:8dfr:   1 : : 186 : :dihydrofolate reductase:Gallus gallus: 1.70:18.80
+[  3] 4dfra      structureX:4dfr:   1 :A: 159 :A:dihydrofolate reductase:Escherichia coli: 1.70:15.50
+[  4] 3dfr       structureX:3dfr:   1 : : 162 : :dihydrofolate reductase:Lactobacillus casei: 1.70:15.20
+
+
+1dhfa      ---LNCIVAVSQNMGIGKNGDLPWPPLRNEFRYFQRMTTTSSVEGKQNLVIMGKKTWFSIPEKNRPLKGRINLVL
+8dfr       VRSLNSIVAVCQNMGIGKDGNLPWPPLRNEYKYFQRMTSTSHVEGKQNAVIMGKKTWFSIPEKNRPLKDRINIVL
+4dfra      --MISLIAALAVDRVIGMENAMPW-NLPADLAWFKRNTL-------DKPVIMGRHTWESIG---RPLPGRKNIIL
+3dfr       ---TAFLWAQNRNGLIGKDGHLPW-HLPDDLHYFRAQTV-------GKIMVVGRRTYESFP--KRPLPERTNVVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dhfa      SRELKEPPQGAHFLSRSLDDALKLTEQPELANKVDMVWIVGGSSVYKEAMNHPGHLKLFVTRIMQDFESDTFFPE
+8dfr       SRELKEAPKGAHYLSKSLDDALALLDSPELKSKVDMVWIVGGTAVYKAAMEKPINHRLFVTRILHEFESDTFFPE
+4dfra      SSQP--GTDDRVTWVKSVDEAIAACGDVP------EIMVIGGGRVYEQFLPK--AQKLYLTHIDAEVEGDTHFPD
+3dfr       THQE-DYQAQGAVVVHDVAAVFAYAKQHLDQ----ELVIAGGAQIFTAFKDD--VDTLLVTRLAGSFEGDTKMIP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dhfa      IDLEKYKLLPEYPGVLSDVQEEKG---IKYKFEVYEKN-*
+8dfr       IDYKDFKLLTEYPGVPADIQEEDG---IQYKFEVYQKSV*
+4dfra      YEPDDWESVFS------EFHDADAQNSHSYCFKILERR-*
+3dfr       LNWDDFTKVSS------RTVEDTN-PALTHTYEVWQKKA*
+           =========|=========|=========|=========
+                    0160      0170      0180      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1dhfa      100.0  75.3  28.3  24.7
+  2-8dfr        75.3 100.0  30.8  27.8
+  3-4dfra       28.3  30.8 100.0  26.4
+  4-3dfr        24.7  27.8  26.4 100.0
+
+***************************************************************************

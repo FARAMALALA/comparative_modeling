@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1ar5a      structureX:1ar5:   1 :A: 201 :A:superoxide dismutase:Propionibacterium freudenreichii subspec. shermanii:1.60:16.3
+[  2] 1idsa      structureX:1ids:   2 :A: 199 :A:iron superoxide dismutase:Mycobacterium tuberculosis:2.00:16.7
+[  3] 3mdsa      structureX:3mds:   1 :A: 203 : A:manganese superoxide dismutase:Thermus thermophilus HB8:1.80:19.0
+[  4] 1n0ja      structureX:1n0j:   1 :A: 198 :B:superoxide dismutase [mn:Homo sapiens:2.20:17.1
+[  5] 3sdpa      structureX:3sdp:   5 :A: 190 :A:iron superoxide dismutase:Pseudomonas ovalis: 2.10:23.2
+[  6] 1isaa      structureX:1isa:   1 :A: 192 :A:iron superoxide dismutase:Escherichia coli:1.80:18.8
+[  7] 1mmma      structureX:1mmm:   1 :A: 205 :A:iron-substituted manganese superoxide dismutase:Escherichia coli:2.20:19.2
+[  8] 1sssa      structureX:1sss:   4 :A: 208 :A:superoxide dismutase:Sulfolobus solfataricus: 2.30: 16.6
+
+
+1ar5a      ---AVYTLPELPYDYSALEPYISGEIMELHHDKHHKAYVDGANTALD-KLAEARD-------KADFGAINKLEKD
+1idsa      ---AEYTLPDLDWDYGALEPHISGQINELHHSKHHATYVKGANDAVA-KLEEARA-------KEDHSAILLNEKN
+3mdsa      --PYPFKLPDLGYPYEALEPHIDAKTMEIHHQKHHGAYVTNLNAALE-KYPYLHGVEVEVLLRHLAALPQDIQTA
+1n0ja      ----KHSLPDLPYDYGALEPHINAQIMQLHHSKHHAAYVNNLNVTEE-KYQEALA-------KGDVTAQIALQPA
+3sdpa      ------PPLPYAHD--ALQPHISKETLEYHHDKHHNTY-VVNLNNLVPGTPEFEGKTLEEIVKSSS-------GG
+1isaa      ----SFELPALPYAKDALAPHISAETIEYHYGKHHQTYVTNLNNLIK--GTAFEGKSLEEIIRSSE-------GG
+1mmma      ----SYTLPSLPYAYDALEPHFDKQTMEIHHTKHHQTYVNNANAALE-SLPEFANLPVEELITKLDQLPADKKTV
+1sssa      IQFKKYELPPLPYKIDALEPYISKDIIDVHYNGHHKGYVNGANSLLE-RLEKVVKGDLQ---TGQ-YDIQGIIRG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ar5a      LAFNLAGHVNHSVFWKNMAPKGSAPERPTDELGAAIDEFFGSFDNMKAQFTAAATGIQGSGWASLVWDPLGKRIN
+1idsa      LAFNLAGHVNHTIWWKNLSP--NGGDKPTGELAAAIADAFGSFDKFRAQFHAAATTVQGSGWAALGWDTLGNKLL
+3mdsa      VRNNGGGHLNHSLFWRLLTP--GGAKEPVGELKKAIDEQFGGFQALKEKLTQAAMGRFGSGWAWLVKDP-FGKLH
+1n0ja      LKFNGGGHINHSIFWTNLSP--NGGGEPKGELLEAIKRDFGSFDKFKEKLTAASVGVQGSGWGWLGFNKERGHLQ
+3sdpa      IFNNAAQVWNHTFYWNCLSP--DAGGQPTGALADAINAAFGSFDKFKEEFTKTSVGTFGSGWAWLVKA-D-GSLA
+1isaa      VFNNAAQVWNHTFYWNCLAP--NAGGEPTGKVAEAIAASFGSFADFKAQFTDAAIKNFGSGWTWLVKNSD-GKLA
+1mmma      LRNNAGGHANHSLFWKGLKK--GTTLQ--GDLKAAIERDFGSVDNFKAEFEKAAASRFGSGWAWLVLK--GDKLA
+1sssa      LTFNINGHKLHALYWENMAPSGKGGGKPGGALADLINKQYGSFDRFKQVFTETANSLPGTGWAVLYYDTESGNLQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ar5a      TLQFYDHQNNLPA------GSIPLLQLDMWEHAFYLQYKNVKGDYV-KSWWNVVNWDDVALRFSEARVA*
+1idsa      IFQVYDHQTNFPL------GIVPLLLLDMWEHAFYLQYKNVKVDFA-KAFWNVVNWADVQSRYAAATS-*
+3mdsa      VLSTPNQDNPVME------GFTPIVGIDVWEHAYYLKYQNRRADYL-QAIWNVLNWDVAEEFFKKA---*
+1n0ja      IAACPNQDPLQGTT-----GLIPLLGIDVWEHAYYLQYKNVRPDYL-KAIWNVINWENVTERYMACKK-*
+3sdpa      LCSTIGAGAPLTS------GDTPLLTCDVWEHAYY-IDYRNLRPKYVEAFWNLVNWAFVAE--EG----*
+1isaa      IVSTSNAGTPLTT------DATPLLTVDVWEHAYYIDYRNARPGYL-EHFWALVNWEFVAKNLAA----*
+1mmma      VVSTANQDSPLMGEAISGASGFPIMGLDVWEHAYYLKFQNRRPDYI-KEFWNVVNWDEAAARFAAKK--*
+1sssa      IMTFENHFQNHIA------EIPIILILDEFEHAYYLQYKNKRADYV-NAWWNVVNWDAAEKKLQKYL--*
+           =========|=========|=========|=========|=========|=========|=========
+                    0160      0170      0180      0190      0200      0210      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1ar5a      100.0  62.6  39.8  46.0  34.4  34.9  41.3  40.8
+  2-1idsa       62.6 100.0  35.4  51.5  37.1  38.0  40.4  39.4
+  3-3mdsa       39.8  35.4 100.0  50.0  36.6  41.7  53.2  34.5
+  4-1n0ja       46.0  51.5  50.0 100.0  36.6  40.6  42.4  37.9
+  5-3sdpa       34.4  37.1  36.6  36.6 100.0  58.1  38.7  31.2
+  6-1isaa       34.9  38.0  41.7  40.6  58.1 100.0  44.3  35.4
+  7-1mmma       41.3  40.4  53.2  42.4  38.7  44.3 100.0  34.1
+  8-1sssa       40.8  39.4  34.5  37.9  31.2  35.4  34.1 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 4rhn       structureX:4rhn:  12 : : 126 : :HINT protein (protein kinase C inhibitor 1):Oryctolagus cuniculus: 1.90: 20.0
+[  2] 4fit       structureX:4fit:   2 : : 147 : :bis(5'-adenosyl)-triphosphatase (fragile histidine triad protein):Homo sapiens: 2.50: 21.6
+
+
+4rhn       -RPGGDTIFGKIIRKEIPAKIIFEDDQCLAFHDISPQAPTHFLVIPKKHISQISAAEDADESLLGHLMIVGKKCA
+4fit       SFRFGQ-------HLIKPSVVFLKTELSFALVNRKPVVPGHVLVCPLRPVERFHDLR---PDEVADLFQTTQRVG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+4rhn       ADLGLK---KGYRMVVNEGSDGGQSVYHVHLHVLGGRQMNWPPG--------------------*
+4fit       TVVEKHFHGTSLTFSMQDGPEAGQTVKHVHVHVLPRKAGDF---SWRSEEEMAAEAAALRVYFQ*
+           ====|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-4rhn       100.0  17.4
+  2-4fit        17.4 100.0
+
+***************************************************************************

@@ -1,0 +1,130 @@
+      Code       Title
+
+[  1] 1gt91      structureX:1gt9:   1 :1: 357 :1:kumamolysin:Bacillus subtilis.: 1.38: 19.40
+[  2] 1ga6a      structureX:1ga6:   2 :A: 370 :A:serine-carboxyl proteinase:Pseudomonas sp.: 1.00: 11.50
+[  3] 1dbia      structureX:1dbi:   1 :A: 280 :A:AK.1 serine protease:Bacillus sp.: 1.80: 18.20
+[  4] 1thm       structureX:1thm:   1 : : 279 : :thermitase:Thermoactinomyces vulgaris: 1.37: 16.60
+[  5] 1bh6a      structureX:1bh6:   1 :A: 275 :A:subtilisin DY:Bacillus licheniformis: 1.75: 14.00
+[  6] 1csee      structureX:1cse:   1 :E: 275 :E:subtilisin carlsberg (commercial product):Bacillus subtilis: 1.20: -1
+[  7] 1scja      structureX:1scj:   1 :A: 275 :A:subtilisin E:Bacillus subtilis: 2.00: 17.30
+[  8] 1lw6e      structureX:1lw6:   1 :E: 281 :E:subtilisin BPN':Bacillus amyloliquifaciens: 1.50: 16.90
+[  9] 1gci       structureX:1gci:   1 : : 275 : :subtilisin:Bacillus lentus: 0.78: 10.10
+[ 10] 1ea7a      structureX:1ea7:   1 :A: 310 :A:serine protease:Bacillus sphaericus: 0.93: 9.70
+[ 11] 1ic6a      structureX:1ic6:   1 :A: 279 :A:proteinase K:Tritirachium album: 0.98: 11.40
+
+
+1gt91      A-APTAYT--PLDVAQAYQFPE---------GLDGQ-GQCIAIIELGGGYD-ETSLAQYFASLGVSAPQVVSVSV
+1ga6a      AGTAKGHN--PTEFPTIYDASS---------APTAA-NTTVGIITIGGVSQTLQDLQQFTSANGLASVNTQTIQT
+1dbia      WTPNDTYYQGYQYGPQNTYTDYAWDV------TKGSSGQEIAVIDT-GVDYTHPDLD---------GKVIKGYDF
+1thm       YTPNDPYFSSRQYGPQKIQAPQAWDI------AEGS-GAKIAIVDT-GVQSNHPDLA---------GKVVGGWDF
+1bh6a      -----AQT--VPYGIPLIKADKVQAQ-----GYKGA-NVKVGIIDT-GIASSHTDL-----------KVVGGASF
+1csee      -----AQT--VPYGIPLIKADKVQAQ-----GFKGA-NVKVAVLDT-GIQASHPDL-----------NVVGGASF
+1scja      -----AQS--VPYGISQIKAPALHSQ-----GYTGS-NVKVAVIDS-GIDSSHPDL-----------NVRGGASF
+1lw6e      -----AQS--VPYGVSQIKAPALHSQ-----GYTGS-NVKVAVIDS-GIDSSHPDL-----------KVAGGASM
+1gci       -----AQS--VPWGISRVQAPAAHNR-----GLTGS-GVKVAVLDT-GIS-THPDL-----------NIRGGASF
+1ea7a      -----RASQQIPWGIKAIYNNDTLTS-----TTGGS-GINIAVLDT-GVNTSHPDLV---------NNVEQCKDF
+1ic6a      ----AAQT-NAPWGLARISSTSPGTSTYYYDESAGQ-GSCVYVIDT-GIEASHPEFE---------GRAQMVKTY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gt91      D--GATNQPTGDPNGPDGEVELDIEVAGAL-----------APGA--KIAVYFAPN-----TDAGFLNAITTAVH
+1ga6a      GSSNGDYSDD---QQGQGEWDLDSQSIVGS-----------AGGAVQQLLFYMADQS--ASGNTGLTQAFNQAVS
+1dbia      VD---NDYDP-MDL--NNHGTHVAGIAAAETNN-ATGIAGMAPNT--RILAVRALDRNGSGTLSDIADAIIYAAD
+1thm       VD---NDSTP-QNG--NGHGTHCAGIAAAVTNN-STGIAGTAPKA--SILAVRVLDNSGSGTWTAVANGITYAAD
+1bh6a      VS---GE-SYNTDG--NGHGTHVAGTVAALD-N-TTGVLGVAPNV--SLYAIKVLNSSGSGSYSAIVSGIEWATQ
+1csee      VA---GE-AYNTDG--NGHGTHVAGTVAALD-N-TTGVLGVAPSV--SLYAVKVLNSSGSGSYSGIVSGIEWATT
+1scja      VP---SETNPYQDG--SSHGTHVAGTIAALN-N-SIGVLGVSPSA--SLYAVKVLDSTGSGQYSWIINGIEWAIS
+1lw6e      VP---SETNPFQDN--NSHGTHVAGTVAALN-N-SIGVLGVAPSA--SLYAVKVLGADGSGQYSWIINGIEWAIA
+1gci       VP---GEPST-QDG--NGHGTHVAGTIAALN-N-SIGVLGVAPSA--ELYAVKVLGASGSGSVSSIAQGLEWAGN
+1ea7a      TGATTPINNSCTDR--NGHGTHVAGTALADGGSDQAGIYGVAPDA--DLWAYKVLLDSGSGYSDDIAAAIRHAAD
+1ic6a      YY------SS-RDG--NGHGTHCAGTVGSR-------TYGVAKKT--QLFGVKVLDDNGSGQYSTIIAGMDFVAS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gt91      DP-THKP--S-IVSISWGGPEDSWAP-ASIAAMNRAFLDAAALGVTVLAAAGDSGSTD----GEQDG-LYHVDFP
+1ga6a      DN---VA--K-VINVSLGWCEADANADGTLQAEDRIFATAAAQGQTFSVSSGDEGVYECNNRGYPDGSTYSVSWP
+1dbia      S----GA--E-VINLSLGCD------C-HTTTLENAVNYAWNKGSVVVAAAGNN---------------------
+1thm       Q----GA--K-VISLSLGGT------V-GNSGLQQAVNYAWNKGSVVVAAAGNAGN-------------TAPNYP
+1bh6a      N----GL--D-VINMSLGGP------S-GSTALKQAVDKAYASGIVVVAAAGNSGNS---------GSQNTIGYP
+1csee      N----GM--D-VINMSLGGA------S-GSTAMKQAVDNAYARGVVVVAAAGNSGNS---------GSTNTIGYP
+1scja      N----NM--D-VINMSLGGP------T-GSTALKTVVDKAVSSGIVVAAAAGNEGSS---------GSTSTVGYP
+1lw6e      N----NM--D-VINMSLGGP------S-GSAALKAAVDKAVASGVVVVAAAGNEGTS---------GSSSTVGYP
+1gci       N----GM--H-VANLSLGSP------S-PSATLEQAVNSATSRGVLVVAASGNSGA-------------GSISYP
+1ea7a      QATATGT--KTIISMSLGSS------A-NNSLISSAVNYAYSKGVLIVAAAGNSGYS-----------QGTIGYP
+1ic6a      DKNNRNCPKGVVASLSLGG-------G-YSSSVNSAAARLQSSGVMVAVAAGNNNA------------DARNYSP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gt91      AASPYVLACGGTRLVAS-AGRIERETVWNDG--PDG--GSTGGGVSRIFPLPSWQERANVPPSANPGAGSGRGVP
+1ga6a      ASSPNVIAVGGTTLYTTSAGAYSNETVWNEGLDSNGKLWATGGGYSVYESKPSWQSVVSGTP-------GRRLLP
+1dbia      -SYENVIAVGAVDQY---------DRLAS----------FSNYGT----------------------------WV
+1thm       AYYSNAIAVASTDQN---------DNKSS----------FSTYGS----------------------------WV
+1bh6a      AKYDSVIAVGAVDSN---------KNRAS----------FSSVGS----------------------------EL
+1csee      AKYDSVIAVGAVDSN---------SNRAS----------FSSVGA----------------------------EL
+1scja      AKYPSTIAVGAVNSS---------NQRAS----------FSSAGS----------------------------EL
+1lw6e      GKYPSVIAVGAVDSS---------NQRAS----------FSSVGP----------------------------EL
+1gci       ARYANAMAVGATDQN---------NNRAS----------FSQYGA----------------------------GL
+1ea7a      GALPNAIAVAALENVQQN----GTYRVAD----------YSSRGYI----------------STAGDYVIQEGDI
+1ic6a      ASEPSVCTVGASDRY---------DRRSS----------FSNYGS----------------------------VL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gt91      DVAGNADPA-TGYEVVIDGETTVIGGTSAVAPLFAALVARINQKLGKPVGY-LNPTLYQLP---PEVFHDITEGN
+1ga6a      DISFDAAQGT-GALIYNYGQLQQIGGTSLASPIFVGLWARLQSANSNSLGF-PAASFYSAISSTPSLVHDVKSGN
+1dbia      DVVAPGV---DIVSTITGNRYAYMSGTSMASPHVAGLAALLASQ--GRNNIEIRQAIEQTA-------DKISGT-
+1thm       DVAAPGS---SIYSTYPTSTYASLSGTSMATPHVAGVAGLLASQ--GRSASNIRAAIENTA-------DKISGT-
+1bh6a      EVMAPGV---SVYSTYPSNTYTSLNGTSMASPHVAGAAALILSKYPTLSASQVRNRLSSTA-------TNL-GD-
+1csee      EVMAPGA---GVYSTYPTNTYATLNGTSMASPHVAGAAALILSKHPNLSASQVRNRLSSTA-------TYL-GS-
+1scja      DVMAPGV---SIQSTLPGGTYGAYNGTCMATPHVAGAAALILSKHPTWTNAQVRDRLESTA-------TYL-GN-
+1lw6e      DVMAPGV---SIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLENTT-------TKL-GD-
+1gci       DIVAPGV---NVQSTYPGSTYASLNGTSMATPHVAGAAALVKQKNPSWSNVQIRNHLKNTA-------TSL-GS-
+1ea7a      EISAPGS---SVYSTWYNGGYNTISGTSMATPHVSGLAAKIWAENPSLSNTQLRSNLQERAKS-----VDIKGGY
+1ic6a      DIFGPGT---DILSTWIGGSTRSISGTSMATPHVAGLAAYLMTLG-KTTAASACRYIADTA-------NKGDLSN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1gt91      NDIANRARIYQAGPGWDPCTGLGSPIGIRLLQALLP---*
+1ga6a      NGY--GGYGYNAGTGWDYPTGWGSLDIAKLSAYIRSNGF*
+1dbia      ----------------GTYFKYGRINSYNAVTY------*
+1thm       ----------------GTYWAKGRVNAYKAVQY------*
+1bh6a      ----------------SFYYGKGLINVEAAAQ-------*
+1csee      ----------------SFYYGKGLINVEAAAQ-------*
+1scja      ----------------SFYYGKGLINVQAAAQ-------*
+1lw6e      ----------------SFYYGKGLINVQAAAQHHH-HHH*
+1gci       ----------------TNLYGSGLVNAEAATR-------*
+1ea7a      GAAI----------GDDYASGFGFARVQ-----------*
+1ic6a      IPF---------------GTVNLLAYNNYQA--------*
+           ====|=========|=========|=========|====
+               0380      0390      0400      0410 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11]
+
+  1-1gt91      100.0  30.0  17.0  19.7  20.8  20.4  18.9  20.3  19.0  19.0
+                16.8
+  2-1ga6a       30.0 100.0  17.0  16.8  18.6  18.6  18.2  17.8  17.8  16.8
+                15.1
+  3-1dbia       17.0  17.0 100.0  62.4  41.3  41.3  40.2  42.8  41.6  37.6
+                32.1
+  4-1thm        19.7  16.8  62.4 100.0  47.1  46.4  42.9  42.7  47.6  38.4
+                30.5
+  5-1bh6a       20.8  18.6  41.3  47.1 100.0  88.3  70.1  70.8  59.1  40.5
+                33.9
+  6-1csee       20.4  18.6  41.3  46.4  88.3 100.0  69.3  70.1  62.1  42.3
+                34.3
+  7-1scja       18.9  18.2  40.2  42.9  70.1  69.3 100.0  85.8  60.6  38.5
+                35.6
+  8-1lw6e       20.3  17.8  42.8  42.7  70.8  70.1  85.8 100.0  61.0  38.4
+                34.4
+  9-1gci        19.0  17.8  41.6  47.6  59.1  62.1  60.6  61.0 100.0  42.4
+                35.7
+ 10-1ea7a       19.0  16.8  37.6  38.4  40.5  42.3  38.5  38.4  42.4 100.0
+                31.2
+ 11-1ic6a       16.8  15.1  32.1  30.5  33.9  34.3  35.6  34.4  35.7  31.2
+               100.0
+
+***************************************************************************

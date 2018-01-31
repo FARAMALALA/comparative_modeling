@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1wer       structureX:1wer: 718 : :1041 : :p120gap:Homo sapiens: 1.6: 22.1
+[  2] 1nf1a      structureX:1nf1:1206 :A:1529 :A:GAP-related domain of neurofibromin:Homo sapiens: 2.50: 26.6
+
+
+1wer       MPEEEYSEFKELILQKELHVVYALSHVC-GQDRTLLASILLRIFLHEKLESLLLCTLNDREISMEDEATTLFRAT
+1nf1a      --ERLVELVTMMGDQGELPIAMALANVVPCSQWDELARVLVTLFDSRHLLYQLLWNMFSKEVELADSMQTLFRGN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1wer       TLASTLMEQYMKATATQFVHHALKDSILKIMESKQSCELSPSKLEKNEDVNTNLTHLLNILSELVEKIFMASEIL
+1nf1a      SLASKIMTFCFKVYGATYLQKLLDPL----------------------SLEENQRNLLQMTEKFFHAIISSSSEF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1wer       PPTLRYIYGCLQKSVQHKWPTNTTMRTRVVSGFVFLRLICPAILNPRMFNIISDSPSPIAARTLILVAKSVQNLA
+1nf1a      PPQLRSVCHCLYQVVSQRFP--QNS-IGAVGSAMFLRFINPAIVSPYEAP--------IIERGLKLMSKILQSIA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1wer       NLVEFGAKEPYMEGVNPFIKSNKHRMIMFLDELGNVPELPDTTEHSRTDLSRDLAALHEICVAHSDELRTLSNER
+1nf1a      NHVLFT-KEEHMRPFNDFVKSNFDAARRFFLDIAS--------------------AL-RLLWNNQEKIGQYLS--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1wer       GAQQHVLKKLLAITELLQQKQNQYT*
+1nf1a      ---SRPFDKMATLLAYLGPPE----*
+           =========|=========|=====
+                    0310      0320  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1wer       100.0  27.4
+  2-1nf1a       27.4 100.0
+
+***************************************************************************

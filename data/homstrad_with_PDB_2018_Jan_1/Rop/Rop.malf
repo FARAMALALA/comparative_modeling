@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1f4na      structureX:1f4n:   1 :A:  59 :A:regulatory protein rop:Escherichia coli: 1.90: 20.4
+[  2] 1rpo       structureX:1rpo:   1 : :  61 : :regulatory protein rop:Escherichia coli: 1.4: 18.9
+
+
+1f4na      GTKQEKTILNMARFIRSQALTILEKANELD--ADEIADIAESIHDHADEIYRSALARFGDD*
+1rpo       MTKQEKTALNMARFIRSQTLTLLEKLNELADAADEQADICESLHDHADELYRSCLARFGDD*
+           =========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f4na      100.0  81.4
+  2-1rpo        81.4 100.0
+
+***************************************************************************

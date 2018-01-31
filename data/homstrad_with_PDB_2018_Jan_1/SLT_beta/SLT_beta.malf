@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1c4qa      structureX:1c4q: 101 :A: 169 :A:Shiga toxin b-chain:Bacteriophage h30 and bacteriophage h19b: 1.52: 17
+[  2] 2bosa      structureX:2bos: 102 :A: 169 :A:mutant Shiga-like toxin IIe bound to its receptor:Escherichia coli: 2.00: 15.5
+
+
+1c4qa      TPDCVTGKVEYTKYNDDDTFTVKVGDKELATNRANLQSLLLSAQITGMTVTIKTNACHNGGGFSEVIFR*
+2bosa      -ADCAKGKIEFSKYNEDNTFTVKVSGREYWTNRWNLQPLLQSAQLTGMTVTIISNTCSSGSGFAEVQFN*
+           =========|=========|=========|=========|=========|=========|=========
+                    0010      0020      0030      0040      0050      0060      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c4qa      100.0  61.8
+  2-2bosa       61.8 100.0
+
+***************************************************************************

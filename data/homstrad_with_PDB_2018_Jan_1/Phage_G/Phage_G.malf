@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1cd3g      structureX:1cd3:   1 :G: 175 :G:major spike protein:Bacteriophage phi-x174: 3.50: 27.5
+[  2] 1gff2      structureX:1gff:   1 :2: 177 :2:major spike protein:Bacteriophage g4: 3.0: 35.2
+
+
+1cd3g      MFQTFISRHNSNFFSDKLVLTSVTPASSAPVLQTPKATSSTLYFDSLTVNAG--NGGFLHCIQMDTSVNAANQVV
+1gff2      MFQKFISKHNAPINSTQLAA-TKTPAVAAPVLSVPNLSRSTILI-NATTTAVTTHSGLCHVVRIDETNPTNHHAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cd3g      SVGADIAFDADPKFFACLVRFESS--SVPTTLPTAYDVYPLNGRHDGGYYTVKDCVTIDVLPRTPGNNVYVGFMV
+1gff2      SIAGSLS-NVPADMIAFAIRFEVADGVVPTAVPALYDVYPIETFNNGKAISFKDAVTIDSHPRTVGNDVYAGIML
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cd3g      WSN-FTATKCRGLVSLNQVIKEIICLQPLK*
+1gff2      WSNAWTASTISGVLSVNQVNREATVLQPLK*
+           =========|=========|=========|
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cd3g      100.0  40.6
+  2-1gff2       40.6 100.0
+
+***************************************************************************

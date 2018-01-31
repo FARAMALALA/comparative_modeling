@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1fbxa      structureX:1fbx:   1 :A: 221 :A:GTP cyclohydrolase I:Escherichia coli: 2.80: 20.2
+[  2] 1fb1a      structureX:1fb1:  55 :A: 250 :A:GTP cyclohydrolase I:Homo sapiens: 3.10: 20.4
+
+
+1fbxa      PSLSKEAALVHEALVARGLETPLRPPVHEM---DNETRKSLIAGHMTEIMQLLNLDLADDSLMETPHRIAKMYVD
+1fb1a      G-------------------------ERPRSEEDNELNLPNLAAAYSSILSSLGENPQRQGLLKTPWRAASAMQ-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fbxa      EIFSGLD--YANFPKITLIENKMKVDEMVTVRDITLTSTCEHHFVTIDGKATVAYIPKDSVIGLSKINRIVQFFA
+1fb1a      FFTKGYQETISDVLN-DAIFDE-DHDEMVIVKDIDMFSMCEHHLVPFVGKVHIGYLPNKQVLGLSKLARIVEIYS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fbxa      QRPQVQERLTQQILIALQTLLGTNNVAVSIDAVHYCVKARGIRDATSATTTTSLGGLFKSSQNTRHEFLRAVRHH
+1fb1a      RRLQVQERLTKQIAVAITEALRPAGVGVVVEATHMCMVMRGVQKMNSKTVTSTMLGVFREDPKTREEFLTLIRS-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fbxa      N*
+1fb1a      -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fbxa      100.0  34.7
+  2-1fb1a       34.7 100.0
+
+***************************************************************************

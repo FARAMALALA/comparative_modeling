@@ -1,0 +1,70 @@
+      Code       Title
+
+[  1] 1ipd       structureX:1ipd:   1 : : 345 : :3-isopropylmalate dehydrogenase:Thermus thermophilus: 2.20:18.50
+[  2] 1a05a      structureX:1a05:   1 :A: 357 :A:3-isopropylmalate dehydrogenase:Thiobacillus ferrooxidans: 2.0: 19.77
+[  3] 2ayqa      structureX:2ayq:   1 :A: 356 :A:3-isopropylmalate dehydrogenase:Bacillus coagulans: 3.0: 18
+[  4] 1cnza      structureX:1cnz:   1 :A: 363 :A:3-isopropylmalate dehydrogenase:Salmonella typhimurium: 1.76: 19.8
+[  5] 3icd       structureX:3icd:   3 : : 416 : :isocitrate dehydrogenase:Escherichia coli: 2.50:18.00
+
+
+1ipd       ------------------------MKVAVLPGDGIGPEVTEAALKVLRALDEAE---GLGLAYEVFPFGGAAIDA
+1a05a      -----------------------MKKIAIFAGDGIGPEIVAAARQVLDAVDQAA---HLGLRCTEGLVGGAALDA
+2ayqa      ----------------------MKMKLAVLPGDGIGPEVMDAAIRVLKTVLDND---GHEAVFENALIGGAAIDE
+1cnza      --------------------MSKNYHIAVLPGDGIGPEVMAQALKVMDAVRSRF---DMRITTSHYDVGGIAIDN
+3icd       SKVVVPAQGKKITLQNGKLNVPENPIIPYIEGDGIGVDVTPAMLKVVDAAVEKAYKGERKISWMEIYTGEKSTQV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ipd       FG--EPFPEPTRKGVEEAEAVLLGSVGGPKWDGLPRKISPE-TGLLSLRKSQDLFANLRPAKVFPGLERLSPLKE
+1a05a      SD--DPLPAASLQLAMAADAVILGAVGGPRWDAYPPAKRPE-QGLLRLRKGLDLYANLRPAQIFPQLLDASPLRP
+2ayqa      AG--TPLPEETLDICRRSDAILLGAVGGPKWDHNPASLRPE-KGLLGLRKEMGLFANLRPVKAYATLLNASPLKR
+1cnza      HG--HPLPKATVEGCEQADAILFGSVGGPKWENLPPESQPERGALLPLRKHFKLFSNLRPAKLYQGLEAFCPLRA
+3icd       YGQDVWLPAETLDLIREYRVAIKGPLTTP--VGG-----GIRSLNVALRQELDLYICLRPVRYYQGT--PSPVK-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ipd       EIAR-GVDVLIVRELTGGIYFGEPRGM--SE--------------------A--EAWNTERYSKPEVERVARVAF
+1a05a      ELVR-DVDILVVRELTGDIYFGQPRGLEVID--------------------GKRRGFNTMVYDEDEIRRIAHVAF
+2ayqa      ERVE-NVDLVIVRELTGGLYFGRPSERR-GP--------------------GENEVVDTLAYTREEIERIIEKAF
+1cnza      DIAANGFDILCVRELTGGIYFGQPKGREGSGQ-------------------Y-EKAFDTEVYHRFEIERIARIAF
+3icd       -HPE-LTDMVIFRENSEDIYAG-IEWKADSADAEKVIKFLREEMGVKKIRFPEHCGIGIKPCSEEGTKRLVRAAI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ipd       EAARKRR-KHVVSVDKANVL-EVGEFWRKTVEEVGR-GYP-------------------DVALEHQYVDAMAMHL
+1a05a      RAAQGRR-KQLCSVDKANVL-ETTRLWREVVTEVAR-DYP-------------------DVRLSHMYVDNAAMQL
+2ayqa      QLAQIRR-KKLASVDKANVL-ESSRMWREIAEETAK-KYP-------------------DVELSHMLVDSTSMQL
+1cnza      ESARKRR-RKVTSIDKANVL-QSSILWREIVNDVAK-TYP-------------------DVELAHMYIDNATMQL
+3icd       EYAIANDRDSVTLVHKGNIMKFTEGAFKDWGYQLAREEFGGELIDGGPWLKVKNPNTGKEIVIKDVIADAFLQQI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ipd       VRSPARFDVVVTGNIFGDILSDLASVLPGSLGLLPSASLGR-GTPVFEPVHGSAPDIAGKGIANPTAAILSAAMM
+1a05a      IRAPAQFDVLLTGNMFGDILSDEASQLTGSIGMLPSASLGE-GRAMYEPIHGSAPDIAGQDKANPLATILSVAMM
+2ayqa      IANPGQFDVIVTENMFGDILSDEASVITGSLGMLPSASLRSDRFGMYEPVHGSAPDIAGQGKANPLGTVLSAALM
+1cnza      IKDPSQFDVLLCSNLFGDILSDECAMITGSMGMLPSASLNEQGFGLYEPAGGSAPDIAGKNIANPIAQILSLALL
+3icd       LLRPAEYDVIACMNLNGDYISDALAAQVGGIGIAPGANIGD-ECALFEATHGTAPKYAGQDKVNPGSIILSAEMM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ipd       LEHAFGLVELARKVEDAVAKALLE-TPPPDLG------GSAGTEAFTATVLRHLA---*
+1a05a      LRHSLNAEPWAQRVEAAVQRVLDQGLRTADIAAP--GTPVIGTKAMGAAVVNALNLK-*
+2ayqa      LRYSFGLEKEAAAIEKAVDDVLQDGYCTGDLQVA--NGKVVSTIELTDRLIEKLN---*
+1cnza      LRYSLDANDAATAIEQAINRALEEGVRTGDLARG--A-AAVSTDEMGDIIARYVAEGV*
+3icd       LRHM-GWTEAADLIVKGMEGAINAKTVTYDFERLMDGAKLLKCSEFGDAIIENM----*
+           ====|=========|=========|=========|=========|=========|===
+               0380      0390      0400      0410      0420      0430 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1ipd       100.0  53.9  51.0  50.1  26.7
+  2-1a05a       53.9 100.0  52.0  49.9  26.3
+  3-2ayqa       51.0  52.0 100.0  50.3  25.6
+  4-1cnza       50.1  49.9  50.3 100.0  25.1
+  5-3icd        26.7  26.3  25.6  25.1 100.0
+
+***************************************************************************

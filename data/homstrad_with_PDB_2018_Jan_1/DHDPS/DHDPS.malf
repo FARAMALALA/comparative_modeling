@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1nal1      structureX:1nal:   4 :1: 294 :1:N-acetylneuraminate lyase:Escherichia coli: 2.20: 20.8
+[  2] 1dhpa      structureX:1dhp:   1 :A: 292 :A:dihydrodipicolinate synthase:Escherichia coli: 2.50: 19.7
+
+
+1nal1      NLRGVMAALLTPFDQQQALDKASLRRLVQFNIQQGIDGLYVGGSTGEAFVQSLSEREQVLEIVAEEGKGKIKLIA
+1dhpa      MFTGSIVAIVTPMDEKGNVCRASLKKLIDYHVASGTSAIVSVGTTGESATLNHDEHADVVMMTLDLADGRIPVIA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1nal1      HVGCVTTAESQQLAASAKRYGFDAVSAVTPFYYPFSFEEHCDHYRAIIDSADGLPMVVYNIPALSGVKLTLDQIN
+1dhpa      GTGANATAEAISLTQRFNDSGIVGCLTVTPYYNRPSQEGLYQHFKAIAEHTD-LPQILYNVPSRTGCDLLPETVG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1nal1      TLVTLPGVGALKQTSGDLYQMEQIRREH-PDLVLYNGYDEIFASGLLAGADGGIGSTYNIMGWRYQGIVKALKEG
+1dhpa      RLAKVKNIIGIKEATGNLTRVNQIKELVSDDFVLLSGDDASALDFMQLGGHGVISVTANVAARDMAQMCKLAAEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1nal1      DIQTAQKLQTECNKVIDLLIKTGVFRGLKTVLHYMDVVSVPLCRKPFGPVDEKYQPELKALAQQLMQ-*
+1dhpa      HFAEARVINQRLMPLHNKLFVEPNPIPVKWACKELGLVATDTLRLPMTPITDSGRETVRAALKHAGLL*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1nal1      100.0  24.1
+  2-1dhpa       24.1 100.0
+
+***************************************************************************

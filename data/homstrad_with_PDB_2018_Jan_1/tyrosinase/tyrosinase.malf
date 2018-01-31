@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1bt3a      structureX:1bt3:  46 :A: 341 :A:catechol oxidase in the native cu(II)-cu(II) state:Ipomoea batatas: 2.50: 16.7
+[  2] 1js8a      structureX:1js8:2503 :A:2777 :A:hemocyanin G-type, units ODA to ODG:Octopus dofleini: 2.30: 20.2
+
+
+1bt3a      MKVRPAAHTMDKDAIAKFAKAVELMKALPADDPRNFYQQALVHCAYCNGGYDQVNFPDQEIQVHNSWLFFPFHRW
+1js8a      AIIRKNVNSLTPSDIKELRDAMAKVQADT--SDNGYQKIASYHGIP--LSCHYENGTAYACCQHGMVTFPNWHRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bt3a      YLYFYERILGKLIGDPSFGLPFWNWDNPGGMVLPDFLNDS-TSSLYDSNRNQSHLPPVVVDLGYNGADTDVTDQQ
+1js8a      LTKQMEDALVAK-GS-HVGIPYWDWTTT-FANLPVLVTEEKDNSFHHAHIDVAN---TDTTRSPR--------AQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bt3a      RITDNLALMYKQMVTNAGTAELFLGKAYRAGDAPSPGAGSIETSPHIPIHRWVGDPRNTNNEDMGNFYSAGRDIA
+1js8a      LFSFFYRQIALALE--QTDFCDFEI--------------QFEI-GHNAIHSWVGG-SSP--YGMSTLHYTSYDPL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bt3a      FYCHHSNVDRMWTIWQQLA-------RDYT-DSDWLNATFLFYDENGQAV-----KVRIGDSLDNQKMGYKYAKT
+1js8a      FYLHHSNTDRIWSVWQALQKYRGLPYNTANCEINKLVKPLKPFNLDTNPNAVTKAHSTGATSFDYHKLGYDYDNL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bt3a      PLPWL*
+1js8a      NFHGM*
+           =====
+                
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bt3a      100.0  19.1
+  2-1js8a       19.1 100.0
+
+***************************************************************************

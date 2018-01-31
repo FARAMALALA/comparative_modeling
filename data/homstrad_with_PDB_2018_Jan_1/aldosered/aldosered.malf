@@ -1,0 +1,86 @@
+      Code       Title
+
+[  1] 1ah4       structureX:1ah4:   2 : : 315 : :aldose reductase:Sus scrofa: 2.0: 20.1
+[  2] 1ads       structureX:1ads:   1 : : 315 : :aldose reductase:Homo sapiens:1.6:20.0
+[  3] 1frb       structureX:1frb:   1 : : 315 : :FR-1 protein:Mus musculus:1.7:15.8
+[  4] 2alr       structureX:2alr:   1 : : 324 : :aldehyde reductase:Homo sapiens:2.48:19.0
+[  5] 1afsa      structureX:1afs:   1 :A: 319 :A:3-alpha-hydroxysteroid dehydrogenase:Rattus norvegicus: 2.5: 18.8
+[  6] 1a80       structureX:1a80:   2 : : 278 : :2,5-diketo-D-gluconic acid reductase A:Corynbacterium sp: 2.1: -1
+[  7] 1qrqa      structureX:1qrq:  36 :A: 360 :A:voltage-dependent K+ channel beta subunit:Rattus norvegicus: 2.80: 23.6
+
+
+1ah4       -----SHLVL-YTGAKMPILGLGTWKS-----PPGKVTEAVKVAIDLGYRHIDCAHVY---QNENEVGLGLQEKL
+1ads       ---A-SRLLL-NNGAKMPILGLGTWKS-----PPGQVTEAVKVAIDVGYRHIDCAHVY---QNENEVGVAIQEKL
+1frb       ---A-TFVEL-STKAKMPIVGLGTWKS-----PPNQVKEAVKAAIDAGYRHIDCAYAY---CNENEVGEAIQEKI
+2alr       ---AASCVLL-HTGQKMPLIGLGTWKS-----EPGQVKAAVKYALSVGYRHIDCAAIY---GNEPEIGEALKEDV
+1afsa      MDSISLRVAL-NDGNFIPVLGFGTTVPE--KVAKDEVIKATKIAIDNGFRHFDSAYLY---EVEEEVGQAIRSKI
+1a80       ---TVPSIVL-NDGNSIPQLGYGVFKV-----PPADTQRAVEEALEVGYRHIDTAAIY---GNEEGVGAAIAAS-
+1qrqa      ---LQFYRNLGKSGLRVSCLGLGTWVTFGGQITDEMAEHLMTLAYDNGINLFDTAEVYAAGKAEVVLGNIIKKK-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ah4       -QGQVVKREDLFIVSKLW-------CTDHEKNLVKGACQTTLRDLKLDYLDLYLIHWPTGFKPGKDPFPLDGDGN
+1ads       -REQVVKREELFIVSKLW-------CTYHEKGLVKGACQKTLSDLKLDYLDLYLIHWPTGFKPGKEFFPLDESGN
+1frb       -KEKAVQREDLFIVSKLW-------PTCFEKKLLKEAFQKTLTDLKLDYLDLYLIHWPQGLQPGKELFPKDDQGR
+2alr       GPGKAVPREELFVTSKLW-------NTKHHPEDVEPALRKTLADLQLEYLDLYLMHWPYAFERGDNPFPKNADGT
+1afsa      -EDGTVKREDIFYTSKLW-------STFHRPELVRTCLEKTLKSTQLDYVDLYIIHFPMALQPGDIFFPRDEHGK
+1a80       ----GIARDDLFITTKLW-------NDRHDGDEPAAAIAESLAKLALDQVDLYLVHWPT---PAA----------
+1qrqa      ----GWRRSSLVITTKIFWGGKAETERGLSRKHIIEGLKASLERLQLEYVDVVFANRPDP---------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ah4       VVPDESDFVETWEAMEELVDEGLVKAIGVSNFNHLQVEKILNKP--GLKYKPAVNQIEVHPYLTQ--EKLIEYCK
+1ads       VVPSDTNILDTWAAMEELVDEGLVKAIGISNFNHLQVEMILNKP--GLKYKPAVNQIECHPYLTQ--EKLIQYCQ
+1frb       ILTSKTTFLEAWEGMEELVDQGLVKALGVSNFNHFQIERLLNKP--GLKHKPVTNQVECHPYLTQ--EKLIQYCH
+2alr       ICYDSTHYKETWKALEALVAKGLVQALGLSNFNSRQIDDILS----VASVRPAVLQVECHPYLAQ--NELIAHCQ
+1afsa      LLFETVDICDTWEAMEKCKDAGLAKSIGVSNFNCRQLERILNKP--GLKYKPVCNQVECHLYLNQ--SKMLDYCK
+1a80       -----DNYVHAWEKMIELRAAGLTRSIGVSNHLVPHLERIVAAT--G--VVPAVNQIELHPAYQQ--REITDWAA
+1qrqa      ----NTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPICEQAEYHMFQREKVEVQLPELF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ah4       S-KGIVVTAYSPLGSPDRP-------------------WAKP-----EDPSLLE-DPRIKAIAAKYNKTTAQVLI
+1ads       S-KGIVVTAYSPLGSPDRP-------------------WAKP-----EDPSLLE-DPRIKAIAAKHNKTTAQVLI
+1frb       S-KGISVTAYSPLGSPDRP-------------------SAKP-----EDPSLLE-DPKIKEIAAKHEKTSAQVLI
+2alr       A-RGLEVTAYSPLG------------------------------------VLLE-EPVVLALAEKYGRSPAQILL
+1afsa      S-KDIILVSYCTLGSSRDK------------------TWVDQ-----KSPVLLD-DPVLCAIAKKYKQTPALVAL
+1a80       A-HDVKIESWGPLGQGKY--------------------------------DLFG-AEPVTAAAAAHGKTPAQAVL
+1qrqa      HKIGVGAMTWSPLACGIVSGKYDSGIPPYSRASLKGYQWLKDKILSEEGRRQQAKLKELQAIAERLGCTLPQLAI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ah4       RFPMQRN--LIVIPKSVTPERIAENFQVFDF--ELSPEDMNTLLSYNR---NWRVCAL-------------MSCA
+1ads       RFPMQRN--LVVIPKSVTPERIAENFKVFDF--ELSSQDMTTLLSYNR---NWRVCAL-------------LSCT
+1frb       RFHIQRN--VVVIPKSVTPSRIQENIQVFDF--QLSDEEMATILSFNR---NWRACLL-------------PETV
+2alr       RWQVQRK--VICIPKSITPSRILQNIKVFDF--TFSPEEMKQLNALNK---NWRYIVP---MLTVDGKRVP-RDA
+1afsa      RYQLQRG--VVPLIRSFNAKRIKELTQVFEF--QLASEDMKALDGLNR---NFRYNNA-------------KYFD
+1a80       RWHLQKG--FVVFPKSVRRERLEENLDVFDF--DLTDTEIAAIDAMDPGDGSGRVSAHPDEVD------------
+1qrqa      AWCLRNEGVSSVLLGASNAEQLMENIGAIQVLPKLSSSIVHEIDSILGNKPY-----------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ah4       SHKDYPFHEEY*
+1ads       SHKDYPFHEEF*
+1frb       NMEEYPYDAE-*
+2alr       GHPLYPFNDPY*
+1afsa      DHPNHPF----*
+1a80       -----------*
+1qrqa      -----------*
+           ====|======
+               0380   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7]
+
+  1-1ah4       100.0  86.6  68.5  50.0  44.9  37.5  19.1
+  2-1ads        86.6 100.0  70.4  49.4  46.0  38.3  19.7
+  3-1frb        68.5  70.4 100.0  48.4  43.9  36.1  19.1
+  4-2alr        50.0  49.4  48.4 100.0  37.5  34.7  17.6
+  5-1afsa       44.9  46.0  43.9  37.5 100.0  33.2  18.5
+  6-1a80        37.5  38.3  36.1  34.7  33.2 100.0  20.2
+  7-1qrqa       19.1  19.7  19.1  17.6  18.5  20.2 100.0
+
+***************************************************************************

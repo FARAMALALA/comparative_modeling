@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1nueA      structureX:1nue:   2 :A: 152 :A:nucleoside diphosphate kinase:Homo sapiens:2.00:17.7
+[  2] 1ndlA      structureX:1ndl:   2 :A: 153 :A:nucleoside diphosphate kinase:Drosophila melanogaster:2.40:16.7
+[  3] 1ndpA      structureX:1ndp:   6 :A: 155 :A:nucleoside diphosphate kinase:Dictyostelium discoideum:2.20:19.3
+[  4] 1nlkR      structureX:1nlk:   2 :R: 144 :R:nucleoside diphosphate kinase:Myxococcus xanthus:2.00:23.0
+
+
+1nueA      -ANLERTFIAIKPDGVQRGLVGEIIKRFEQKGFRLVAMKFLRASEEHLKQHYIDLKDRPFFPGLVKYMNSGPVVA
+1ndlA      AANKERTFIMVKPDGVQRGLVGKIIERFEQKGFKLVALKFTWASKELLEKHYADLSARPFFPGLVNYMNSGPVVP
+1ndpA      -VNKERTFLAVKPDGVARGLVGEIIARYEKKGFVLVGLKQLVPTKDLAESHYAEHKERPFFGGLVSFITSGPVVA
+1nlkR      --AIERTLSIIKPDGLEKGVIGKIISRFEEKGLKPVAIRLQHLSQAQAEGFYAVHKARPFFKDLVQFMISGPVVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1nueA      MVWEGLNVVKTGRVMLGETNPADSKPGTIRGDFCIQVGRNIIHGSDSVKSAEKEISLWFKPEELVDYKSCAHDWV
+1ndlA      MVWEGLNVVKTGRQMLGATNPADSLPGTIRGDFCIQVGRNIIHGSDAVESAEKEIALWFNEKELVTWTPAAKDWI
+1ndpA      MVFEGKGVVASARLMIGVTNPLASAPGSIRGDFGVDVGRNIIHGSDSVESANREIALWFKPEELLTEVKPN-PNL
+1nlkR      MVLEGENAVLANRDIMGATNPAQAAEGTIRKDFATSIDKNTVHGSDSLENAKIEIAYFFRETEIHSYPYQ-----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1nueA      YE*
+1ndlA      YE*
+1ndpA      YE*
+1nlkR      --*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1nueA      100.0  77.5  60.0  44.8
+  2-1ndlA       77.5 100.0  60.7  48.3
+  3-1ndpA       60.0  60.7 100.0  44.1
+  4-1nlkR       44.8  48.3  44.1 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cp3a      structureX:1cp3:  35 :A: 277 :A:apopain (cysteine protease cpp32) (caspase-3):Homo sapiens: 2.3: 18.8
+[  2] 1bmq       structureX:1bmq: 131 :A: 404 :B:interleukin-1 beta convertase (il-1bc) (il-1beta converting enzyme) (ice) (caspase-1):Homo sapiens: 2.50: 23.3
+
+
+1cp3a      --------------------NSYKMDY--PEMGLCIIINNKNFHKSTGMTSRSGTDVDAANLRETFRNLKYEVRN
+1bmq       GNVKLCSLEEAQRIWKQKSAEIYPIMDKSSRTRLALIICNEEFD---SIPRRTGAEVDITGMTMLLQNLGYSVDV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cp3a      KNDLTREEIVELMRDVSKED-HSKRSSFVCVLLSHGEEGIIFGTN------GPVDLKKITNFFRGDRCRSLTGKP
+1bmq       KKNLTASDMTTELEAFAHRPEHKTSDSTFLVFMSHGIREGICGKKHSEQVPDILQLNAIFNMLNTKNCPSLKDKP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cp3a      KLFIIQACRGTELDCGIEH----KIPVDADFLYAYSTAPGYYSWRNSKDGSWFIQSLCAMLKQYADKLEFMHILT
+1bmq       KVIIIQACRGDSPGVVWFKDAIKKAHIEKDFIAFCSSTPDNVSWRHPTMGSVFIGRLIEHMQEYACSCDVEEIFR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cp3a      RVNRKVAT--EFESFSFDATFHAKKQIPCIVS-MLTKELYFYH--*
+1bmq       KVRFSFEQPD------------GRAQMPTTERVTLTRCFYLFPGH*
+           ====|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cp3a      100.0  27.2
+  2-1bmq        27.2 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1fnga      structureX:1fng:   1 :A: 182 :A:H-2 class II histocompatibility antigen, E-k alpha chain:Mus musculus: 1.90: 22.1
+[  2] 1fv1a      structureX:1fv1:   3 :A: 181 :A:HLA class II histocompatibility antigen, Dr alpha chain:Homo sapiens: 1.90: 23.3
+[  3] 1iaka      structureX:1iak:   1 :A: 181 :A:H-2 class II histocompatibility antigen, A-k alpha chain:Mus musculus: 1.90: 21.4
+[  4] 1hdma      structureX:1hdm:  13 :A: 196 :A:class II histocompatibility antigen, M alpha chain:Homo sapiens: 2.50: 19.7
+
+
+1fnga      IKEEHTIIQ-AEFYLLPDKRGEFMFDFDGDEIFHVDIEKSETIWRLEEFAKFASFEAQGALANIAVDKANLDVMK
+1fv1a      --EEHVIIQ-AEFYLNPDQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFEAQGALANIAVDKANLEIMT
+1iaka      IEADHVGSYGITVYQSPGDIGQYTFEFDGDELFYVDLDKKETVWMLPEFAQLRRFEPQGGLQNIATGKHNLEILT
+1hdma      -LQNHTFLH-TVYCQDGSPSVGLSEAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQGDAILFDKEFCEWMIQQIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fnga      ERSNNTPDANVAPEVTVLSRSPVNLGEPNILICFIDKFSPPVVNVTWLRNGRPVTEGVSETVFLPRDDHLFRKFH
+1fv1a      KRSNYTPITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFH
+1iaka      KRSNSTPATNEAPQATVFPKSPVLLGQPNTLICFVDNIFPPVINITWLRNSKSVTDGVYETSFFVNRDYSFHKLS
+1hdma      KLDGKIPVSRGFPIAEVFTLKPLEFGKPNTLVCFVSNLFPPMLTVNWHDHSVPVE-GFGPTFVSAVDGLSFQAFS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fnga      YLTFLPSTDDFYDCEVDHWGLEEPLRKHWEFEE----*
+1fv1a      YLPFLPSTEDVYDCRVEHWGLDEPLLKHWEFD-----*
+1iaka      YLTFIPSDDDIYDCKVEHWGLEEPVLKHWEPE-----*
+1hdma      YLNFTPEPSDIFSCIVTHEPDRYTAIAYWVPRNALPS*
+           =========|=========|=========|=======
+                    0160      0170      0180    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1fnga      100.0  80.4  53.8  23.6
+  2-1fv1a       80.4 100.0  56.4  24.6
+  3-1iaka       53.8  56.4 100.0  28.6
+  4-1hdma       23.6  24.6  28.6 100.0
+
+***************************************************************************

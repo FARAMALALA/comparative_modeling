@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1j54a      structureX:1j54:   7 :A: 180 :A:DNA polymerase III, epsilon chain :Escherichia coli: 1.70: 20.1
+[  2] 1fxxa      structureX:1fxx:   8 :A: 200 :A:Exodeoxyribonuclease I:Escherichia coli: 2.40: 20.4
+
+
+1j54a      --RQIVLDTETTGMNQIGAHYEGHKIIEIGAVEVVN-RRLTGNNFHVYLKP--DRLVDPEAFGVHGIADEFLLD-
+1fxxa      QSTFLFHDYETFGT-----HPALDRPAQFAAIRTDSEFNVIGEPEVFYCKPADDYLPQPGAVLITGITPQEARAK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1j54a      KPTFAEVADEFMDYIR--GAELVIHNA-AFDIGFMDYEFSLLKRDIPKTNT--FCKVTDSLAVARKMFP------
+1fxxa      GENEAAFAARIHSLFTVPKTCILGYNNVRFDDEVTRNIFYRNFYDPYAWSWQHDNSRWDLLDVMRACYALRPEGI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1j54a      ----G-KRNSLDALCARYEIDNSKRTLHGALLDAQILAEVYLAMTG-*
+1fxxa      NWPEGLPSFRLEHLTKANGIEHSNA--HDAMADVYATIAMAKLVKTR*
+           =========|=========|=========|=========|=======
+                    0160      0170      0180      0190    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1j54a      100.0  20.1
+  2-1fxxa       20.1 100.0
+
+***************************************************************************

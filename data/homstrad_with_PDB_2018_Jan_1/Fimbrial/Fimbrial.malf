@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1pdkb      structureX:1pdk:   9 :B: 157 :B:PapK:Escherichia coli: 2.40: 23.5
+[  2] 1qunb      structureX:1qun: 159 :B: 279 :B:FimH:Escherichia coli: 2.80: 24
+
+
+1pdkb      LLDRPCHVSGDSLNKHVVFKTRASRDFWYPPGRSPTESFVIRLENCHATAVGKI--VTLTFKGTEEAALPGHLKV
+1qunb      ---GGCDVS---ARDVTVTL------PDYP----GSVPIPLTVY-CAK-----SQNLGYYLSGTTADAGNSIFTN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pdkb      T--GVNAGRLGIALLDTDGSSLLKPGTSHNKGQGEKVTGNSLELPFGAYVVATPEALRTKSVVPGDYEATATFEL
+1qunb      TASFSPAQGVGVQLTR--NGTIIPANNTVSLG---AVGTSAVSLGLTANYARTGG-----QVTAGNVQSIIGVTF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1pdkb      TYR*
+1qunb      VYQ*
+           ===
+              
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1pdkb      100.0  18.2
+  2-1qunb       18.2 100.0
+
+***************************************************************************

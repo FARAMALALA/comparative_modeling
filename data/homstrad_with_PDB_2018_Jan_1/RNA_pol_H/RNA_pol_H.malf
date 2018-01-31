@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dzfa      structureX:1dzf: 144 :A: 215 :A:DNA-directed RNA polymerases I, II, and III 27 kda polypeptide:Saccharomyces cerevisiae: 1.9: 21.7
+[  2] 1eika      structureX:1eik:   1 :A:  77 :A:DNA-directed RNA polymerase subunit H (rpb5):Methanobacterium thermoautotrophicum: -1: -1
+
+
+1dzfa      ----ITHHELVPKHIRLSSDEKRELLKRYRLKESQLPRIQRADPVALYLGLKRGEVVKIIRKSETSGRYASYRIC
+1eika      MKREILKHQLVPEHVILNESEAKRVLKELDAHPEQLPKIKTTDPVAKAIGAKRGDIVKIIRKSPTAEEFVTYRLV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dzfa      M-*
+1eika      QD*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dzfa      100.0  44.4
+  2-1eika       44.4 100.0
+
+***************************************************************************

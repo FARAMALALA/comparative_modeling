@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1knb       structureX:1knb: 396 : : 581 : :fiber protein:Human adenovirus type 5: 1.7: 15.8
+[  2] 1qhva      structureX:1qhv: 388 :A: 582 :A:fiber protein:Human adenovirus serotype 2: 1.51: 10.9
+[  3] 1noba      structureX:1nob: 403 :A: 587 :A:fiber protein:Human adenovirus type 12: 2.60: 24
+
+
+1knb       --------NDKL---TLWTTPAPSPNCRLNAEKDAKLTLVLTKCGSQILATVSVLAVKGSLAPISGTVQSAHLII
+1qhva      AITIGNKNDDKL---TLWTTPDPSPNCRIHSDNDCKFTLVLTKCGSQVLATVAALAVSGDLSSMTGTVASVSIFL
+1noba      ---------TPYDPLTLWTTPDPPPNCSLIQELDAKLTLCLTKNGSIVNGIVSLVGVKGNLLNIQSTTTTVGVHL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1knb       RFDENGVLLN--NSFLDPE-YWNFRNGDLTEGTAYTNAVGFMPNLSAYPKSHGKTAKSNIVSQVYLNGDKTKPVT
+1qhva      RFDQNGVLME--NSSLKKH-YWNFRNGNSTNANPYTNAVGFMPNLLAYPKTQSQTAKNNIVSQVYLHGDKTKPMI
+1noba      VFDEQGRLITSTPTALVPQASWGYRQGQSVSTNTVTNGLGFMPNVSAYPRPNASEAKSQMVSLTYLQGDTSKPIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1knb       LTITLNGTQET-GDTTPSAYSMSFSWDWSGHNYINEIFATSSYTFSYIAQE*
+1qhva      LTITLNGTSESTETSEVSTYSMSFTWSWESGKYTTETFATNSYTFSYIAQE*
+1noba      MKVAFNG-ITSL-----NGYSLTFMWSGLS-NYINQPFSTPSCSFSYITQE*
+           =========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1knb       100.0  65.6  44.9
+  2-1qhva       65.6 100.0  41.6
+  3-1noba       44.9  41.6 100.0
+
+***************************************************************************

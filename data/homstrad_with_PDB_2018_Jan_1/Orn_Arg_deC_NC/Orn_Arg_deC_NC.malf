@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1f3ta      structureX:1f3t:  14 :A: 422 :A:ornithine decarboxylase:Trypanosoma brucei brucei: 2.00: 23.7
+[  2] 7odca      structureX:7odc:   2 :A: 418 :A:ornithine decarboxylase:Mus musculus: 1.6: 19.9
+
+
+1f3ta      --------RFLEG---FNTRDALCKKIS-GDPFFVADLGDIVRKHETWKKCLPRVTPFYAVKCNDDWRVLGTLAA
+7odca      SSFTKDEFDCHILDEGFTAKDILDQKINDKDAFYVADLGDILKKHLRWLKALPRVTPFYAVKCNDSRAIVSTLAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f3ta      LGTGFDCASNTEIQRVRGIGVPPEKIIYANPCKQISHIRYARDSGVDVMTFDCVDELEKVAKTHPKAKMVLRIST
+7odca      IGTGFDCASKTEIQLVQGLGVPAERVIYANPCKQVSQIKYAASNGVQMMTFDSEIELMKVARAHPKAKLVLRIAT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f3ta      VKFGAKVEDCRFILEQAKKLNIDVTGVSFHVGSGSTDASTFAQAISDSRFVFDMGTELGFNMHILDIGGGFPGTR
+7odca      -KFGATLKTSRLLLERAKELNIDVIGVSFHVGSGCTDPDTFVQAVSDARCVFDMATEVGFSMHLLDIGGGFPGSE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1f3ta      DAPLKFEEIAGVINNALEKHFPPDLKLTIVAEPGRYYVASAFTLAVNVIAKKVT--QSFMYYVNDGVYGSFNCIL
+7odca      DTKLKFEEITSVINPALDKYFPSDSGVRIIAEPGRYYVASAFTLAVNIIAKKTVWEQTFMYYVNDGVYGSFNCIL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1f3ta      YDHAVVRPLPQREPIPNEKLYPSSVWGPTCDGLDQIVERYYLPEMQVGEWLLFEDMGAYTVVGTSSFNGFQSPTI
+7odca      YDHAHVKALLQKRPKPDEKYYSSSIWGPTCDGLDRIVERCNLPEMHVGDWMLFENMGAYTVAAASTFNGFQRPNI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1f3ta      YYVVSGLPDHVVRELKS*
+7odca      YYVMS--RPMWQLMK--*
+           ====|=========|==
+               0380      0390 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f3ta      100.0  65.9
+  2-7odca       65.9 100.0
+
+***************************************************************************

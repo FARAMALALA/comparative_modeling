@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1n1ba      structureX:1n1b: 271 :A: 598 :A:(+)-bornyl diphosphate synthase:Salvia officinalis: 2.00: 20.3
+[  2] 5eau       structureX:5eau: 221 : : 548 : :5-epi-aristolochene synthase:Nicotiana tabacum: 2.15: 24.2
+
+
+1n1ba      MNPLIFELAKLNFNIIQATHQQELKDLSRWWSRLCFPEKLPFVRDRLVESFFWAVGMFEPHQHGYQRKMAATIIV
+5eau       KNNVLLRFAKLDFNLLQMLHKQELAQVSRWWKDLDFVTTLPYARDRVVECYFWALGVYFEPQYSQARVMLVKTIS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1n1ba      LATVIDDIYDVYGTLDELELFTDTFKRWDTESITRLPYYMQLCYWGVHNYISDAAYDILKEHGFFCLQYLRKSVV
+5eau       MISIVDDTFDAYGTVKELEAYTDAIQRWDINEIDRLPDYMKISYKAILDLYKDYEKELSSAGRSHIVCHAIERMK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1n1ba      DLVEAYFHEAKWYHSGYTPSLDEYLNIAKISVASPAIISPTYFTFANASHDTAVIDSLYQYHDILCLAGIILRLP
+5eau       EVVRNYNVESTWFIEGYTPPVSEYLSNALATTTYYYLATTSYLGMKSAT--EQDFEWLSKNPKILEASVIICRVI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1n1ba      DDLGD---------VPKTIQCYMKETNASEEEAVEHVKFLIREAWKDMNTAIAAGYPFPDGMVAGAANIGRVAQF
+5eau       DDTATYEVEKSRGQIATGIECCMRDYGISTKEAMAKFQNMAETAWKDINEGLLRPTPVSTEFLTPILNLARIVEV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1n1ba      IYLHGDGFSKTYEHIAGLLFEPYA-*
+5eau       TYIHNHPEKVLKPHIINLLVDSIKI*
+           =========|=========|=====
+                    0310      0320  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1n1ba      100.0  30.5
+  2-5eau        30.5 100.0
+
+***************************************************************************

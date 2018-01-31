@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1ffvc      structureX:1ffv:   1 :C: 287 :C:carbon monoxide dehydrogenase:Hydrogenophaga pseudoflava: 2.25: 20.9
+[  2] 1fo4a      structureX:1fo4: 230 :A: 531 :A:xanthine dehydrogenase-oxidase:Bos taurus: 2.10: 19.8
+
+
+1ffvc      MIPPRFEYHAPKSVGEAVALLGQLGSDAKLLAGGHSLLPMMKLRFAQPEHLIDINRIPELRGIREEGSTVVIGAM
+1fo4a      -EGERVTWIQASTLKELLDLKAQHPE-AKLVVGNTEIGIEMKFKNQLFPMIICPAWIPELNAVEHGPEGISFGAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ffvc      TVENDLISS--PIVQAR-------LPLLAEAAKLIADPQVRNRGTIGGDIAHGDPGNDHPALSIAVEAHFVLEGP
+1fo4a      CALSSVEKTLLEAVAKLPTQKTEVFRGVLEQLRWFAGKQVKSVASLGGNIITASPISDLNPVFMASGTKLTIVSR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ffvc      NGRRTVPAD-GFFLGTYMTLLEENEVMVEIRVPAFAQGTGWAYEKLKRK-TGDWATAGCAVVMRKS--GNTVSHI
+1fo4a      GTRRTVPMDHTFFPSYRKTLLGPEEILLSIEIPYSREDEFFSAFKQASRREDDIAKVTCGMRVLFQPGSMQVKEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ffvc      RIALTNVAPTALRAEAAEAALLGKAFTKEAVQAAADAAIAICEPAED-LRGDADYKTAMAGQMVKRALNAAWARC
+1fo4a      ALCYGGMADRTISALKTTQKQLSKFWNEKLLQDVCAGLAEELSLSPDAPGGMIEFRRTLTLSFFFKFYLTVLKKL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ffvc      A---*
+1fo4a      GKDS*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ffvc      100.0  18.8
+  2-1fo4a       18.8 100.0
+
+***************************************************************************

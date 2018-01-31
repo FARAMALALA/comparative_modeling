@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1tnt       structureN:1tnt:   1 : :  76 : :Transposase, DNA binding domain:Bacteriophage Mu: -1: -1
+[  2] 1qpma      structureN:1qpm:  13 :A:  81 :A:Mu bacteriophage C repressor protein, DNA-binding domain:Bacteriophage Mu: -1: -1
+
+
+1tnt       MELWVSPKELANLPGLPKTSAGVIYVAKKQGWQNRTRAGVKGGKAIEYNANSLPVEAKAALLLRQGEIETSLGYF
+1qpma      KSIWCSPQEIMAADGMPGSVAGVHYRANVQGWTKRKKEGVKGGKAVEYDVMSMPTKEREQVIAHLGLST------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tnt       E*
+1qpma      -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tnt       100.0  39.1
+  2-1qpma       39.1 100.0
+
+***************************************************************************

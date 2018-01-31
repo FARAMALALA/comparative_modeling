@@ -1,0 +1,83 @@
+      Code       Title
+
+[  1] 3cox       structureX:3cox:   5 : : 506 : :cholesterol oxidase:Brevibacterium sterolicum: 1.80:15.6
+[  2] 1b4va      structureX:1b4v:   9 :A: 506 :A:cholesterol oxidase:Streptomyces sp.: 1.50: 18.1
+[  3] 1cf3a      structureX:1cf3:   3 :A: 583 :A:glucose oxidase:Aspergillus niger: 1.90: 19.0
+[  4] 1gpea      structureX:1gpe:   1 :A: 587 :A:glucose oxidase:Penicillium amagasakiense: 1.80: 16
+
+
+3cox       -----------------TLADGDRVPALVIGSGYGGAVAALRLTQAG-IPTQIVEMGRSWDTPGSDGKIFCGMLN
+1b4va      ----------------------GYVPAVVIGTGYGAAVSALRLGEAG-VQTLMLEMGQLWNQPGPDGNIFCGMLN
+1cf3a      -------GIEASLLTDPKDVSGRTVDYIIAGGGLTGLTTAARLTENPNISVLVIESGSYESDRG---PIIEDLNA
+1gpea      YLPAQQIDVQSSLLSDPSKVAGKTYDYIIAGGGLTGLTVAAKLTENPKIKVLVIEKGFYESNDG---AIIEDPNA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3cox       PDKRSMWLADKTD-QPVSNFMGFGINKSIDRYVGVLDSERFS-------GIKVYQGRGVGGGSLVNGGMAVTPKR
+1b4va      PDKRSSWFKNRTEAPLGSFLWLDVVNRNIDPYAGVLDRVNYD-------QMSVYVGRGVGGGSLVNGGMAVEPKR
+1cf3a      YGDIFGS--------------------------SVDHAYETVELATNNQTALIRSGNGLGGSTLVNGGTWTRPHK
+1gpea      YGQIFGT--------------------------TVDQNYLTVPLINN-RTNNIKAGKGLGGSTLINGDSWTRPDK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3cox       NYFEEILP-----SVDSNEMYNKYFPRANTGL-GVNNIDQAWFES-----------------------TEWYKFA
+1b4va      SYFEEILP-----RVDSSEMYDRYFPRANSML-RVNHIDTKWFED-----------------------TEWYKFA
+1cf3a      AQVDSWETVFGNEGWNWDNVAA-YSLQA----ERARAPNAKQIAAGHYFNASCHGVNGTVHAGPRDTGDDYSPIV
+1gpea      VQIDSWEKVFGMEGWNWDNMFE-YMKKA----EAARTPTAAQLAAGHSFNATCHGTNGTVQSGARDNGQPWSPIM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3cox       RTGRKTAQRSGF------------TTAFVPNVYDFEYMKKEAAGQVTKSGLGGEVIYGNNAGKKSLDKTYLAQAA
+1b4va      RVSREQAGKAGL------------GTVFVPNVYDFGYMQREAAGEVPKSALATEVIYGNNHGKQSLDKTYLAAAL
+1cf3a      KALMSAVEDRGVPTKKDFGCGDPHGVSMFPNTLHE------------------------DQVRSDAAREWLLPNY
+1gpea      KALMNTVSALGVPVQQDFLCGHPRGVSMIMNNLDE------------------------NQVRVDAARAWLLPNY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+3cox       ATGKLTITTLHRVTKVAPA-TGSGYSVTMEQIDEQGNVVATKVVTAD-RVFFAAGSVGTSKLLVSMKA-------
+1b4va      GTGKVTIQTLHQVKTIRQT-KDGGYALTVEQKDTDGKLLATKEISCR-YLFLGAGSLGSTELLVRARD-------
+1cf3a      QRPNLQVLTGQYVGKVLLSQNGTTPRAVGVEFGTH--KGNTHNVYAKHEVLLAAGSAVSPTILEYSGIGMKSILE
+1gpea      QRSNLEILTGQMVGKVLFKQTASGPQAVGVNFGTN--KAVNFDVFAKHEVLLAAGSAISPLILEYSGIGLKSVLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+3cox       -QGHLPNLSSQVGEGWGNNGNIMVGRANHMWDATGSKQATIPTMGIDNWADP-----------------------
+1b4va      -TGTLPNLNSEVGAGWGPNGNIMTARANHMWNPTGAHQSSIPALGIDAWDNS-----------------------
+1cf3a      PLGIDTVVDLPVGLNLQDQTTATVRSRITSAGA---GQG---QAAWFATFNETFGDYSEKAHELLNTKLEQWAEE
+1gpea      QANVTQLLDLPVGINMQDQTTTTVSSRASSAGA---GQG---QAVFFANFTETFGDYAPQARDLLNTKLDQWAEE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+3cox       --------------------------TAPIFAEIAPLPAGLETYVSLYLAITKNPERARFQFNS---GTGKVDLT
+1b4va      --------------------------DSSVFAEIAPMPAGLETWVSLYLAITKNPQRGTFVYDA---ATDRAKLN
+1cf3a      AVARGGFHNTTALLIQYENYRDWIVNHNVAYSELFLDTAG---VASFDVWDLLPFTRGYVHILDKDPYLHHFAYD
+1gpea      TVARGGFHNVTALKVQYENYRNWLLDEDVAFAELFMDTEG---KINFDLWDLIPFTRGSVHILSSDPYLWQFAND
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+3cox       WAQSQNQKGIDMAKKVFDKINQKEGTIYRTDLF------------------------YYKTWGDDFTYHPLGGVL
+1b4va      WTRDQNAPAVNAAKALFDRINKANGTIYRYDLFG----------------------TQLKAFADDFCYHPLGGCV
+1cf3a      PQYFLNELDLLGQAAATQLARNISN---SGAMQTYFAGETIPGDNLAYDADLSAWTEYIPYHF-RPNYHGVGTCS
+1gpea      PKFFLNEFDLLGQAAASKLARDLTS---QGAMKEYFAGETLPGYNLVQNATLSQWSDYVLQNF-RPNWHAVSSCS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+3cox       LN-----KATDNFGRLPEYPGLYVVDGSLVPGNVGVNPFVTITALAERNMDKIISSDI---*
+1b4va      LG-----KATDDYGRVAGYKNLYVTDGSLIPGSVGVNPFVTITALAERNVERIIKQDV---*
+1cf3a      MMPKEMGGVVDNAARVYGVQGLRVIDGSIPPTQMSSHVMTVFYAMALKISDAILEDYASMQ*
+1gpea      MMSRELGGVVDATAKVYGTQGLRVIDGSIPPTQVSSHVMTIFYGMALKVADAILDDYAKSA*
+           =========|=========|=========|=========|=========|=========|=
+                    0610      0620      0630      0640      0650      0660 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-3cox       100.0  58.8  15.2  15.4
+  2-1b4va       58.8 100.0  14.7  13.7
+  3-1cf3a       15.2  14.7 100.0  65.2
+  4-1gpea       15.4  13.7  65.2 100.0
+
+***************************************************************************

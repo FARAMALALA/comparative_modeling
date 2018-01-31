@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1qo2a      structureX:1qo2:   2 :A: 241 :A:phosphoribosylformimino-5-aminoimidazole carboxamide ribotideisomerase:Thermotoga maritima: 1.85: 18.8
+[  2] 1thfd      structureX:1thf:   1 :D: 253 :D:cyclase subunit of imidazoleglycerolphosphate synthase:Thermotoga maritima: 1.45: 17.8
+
+
+1qo2a      ----LVVPAIDLFRGKVARIKGRKENTIFYEKDPVELVEKLIEEGFTLIHVVDLSNAIENSGENLPVLEKLSEFA
+1thfd      MLAKRIIACLDVKDGRVVKGSNFENLR--DSGDPVELGKFYSEIGIDELVFLDITASVEKRKTMLELVEKVAEQI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qo2a      E-HIQIGGGIRSLDYAEKLRKLGYRRQIVSSKVLEDPSFLKSLREID---VEPVFSLDTR--GG--RVAFKGWLA
+1thfd      DIPFTVGGGIHDFETASELILRGADKVSINTAAVENPSLITQIAQTFGSQA-VVVAIDAKRVDGEFMVFTYSGKK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qo2a      EEEIDPVSLLKRLKEYGLEEIVHTEIEKDGTLQEHDFSLTKKIAIEAEVKVLAAGGISSENSLKTAQKVHTETNG
+1thfd      NTGILLRDWVVEVEKRGAGEILLTSIDRDGTKSGYDTEMIRFVRPLTTLPIIASGGAGKMEHFLEAFLA------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qo2a      LLKGVIVGRAFLEGILTV-EVKRYAR-----------*
+1thfd      GADAALAASVFHFREIDVRELKEYLKKHGVNVRLEGL*
+           ====|=========|=========|=========|==
+               0230      0240      0250      0260 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qo2a      100.0  20.6
+  2-1thfd       20.6 100.0
+
+***************************************************************************

@@ -1,0 +1,142 @@
+      Code       Title
+
+[  1] 1jmta      structureX:1jmt:  43 :A: 146 :A:splicing factor U2AF 35 kDa subunit:Homo sapiens: 2.20: 22.60
+[  2] 1qm9a1     structureX:1qm9: 111 :A: 198 :A:polypyrimidine tract-binding protein, RNA binding fragment:Homo sapiens: -1: -1
+[  3] 1a9nb      structureX:1a9n:   6 :B:  99 :B:U2 B, N-terminal domain, residues 4-99:Homo sapiens: 2.38: 28.20
+[  4] 1nu4a      structureX:1nu4:   7 :A:  97 :A:U1A RNA binding domain:Homo sapiens: 1.80: 20.30
+[  5] 2u1a       structureX:2u1a:   1 : :  88 : :U1 small nuclear ribonucleoprotein A RNA binding domain 2, RBD2:Homo sapiens: -1: -1
+[  6] 1qm9a2     structureX:1qm9:   1 :A: 110 :A:polypyrimidine tract-binding protein, RNA binding fragment:Homo sapiens: -1: -1
+[  7] 1hd1a      structureX:1hd1:  98 :A: 172 :A:heterogeneous nuclear ribonucleoprotein D0 RNA-binding domain:Homo sapiens: -1: -1
+[  8] 1l3ka1     structureX:1l3k:   8 :A:  91 :A:heterogeneous nuclear ribonucleoprotein A1 RNA-recognition motif domain:Homo sapiens: 1.10: 15.60
+[  9] 2msta      structureX:2mst: 110 :A: 184 :A:musashi1 RNA-binding domain:Mus musculus: -1: -1
+[ 10] 1iqta      structureX:1iqt: 183 :A: 257 :A:heterogeneous nuclear ribonucleoprotein D0, C-terminal domain:Homo sapiens: -1: -1
+[ 11] 2u2fa      structureX:2u2f:   1 :A:  85 :A:splicing factor U2AF 65 kD subunit, second RNA-binding domain:Homo sapiens: -1: -1
+[ 12] 1oo0b      structureX:1oo0:  64 :B: 155 :B:CG8781-PA middle fragment:Drosophila melanogaster: 1.85: 21.50
+[ 13] 1cvja1     structureX:1cvj:  11 :A:  90 :A:polydenylate binding protein 1 residues 1-190:Homo sapiens: 2.60: 23.00
+[ 14] 1h6kx      structureX:1h6k:  38 :X: 118 :X:20 kDa nuclear cap binding protein RNP domain:Homo sapiens: 2.00: 20.32
+[ 15] 1fxla2     structureX:1fxl:  37 :A: 118 :A:paraneoplastic encephalomyelitis antigen HUD, N-terminal two RRM-domains:Homo sapiens: 1.80: 19.20
+[ 16] 1fxla1     structureX:1fxl: 119 :A: 203 :A:paraneoplastic encephalomyelitis antigen HUD, N-terminal two RRM-domains:Homo sapiens: 1.80: 19.20
+[ 17] 1cvja2     structureX:1cvj:  91 :A: 179 :A:polydenylate binding protein 1:Homo sapiens: 2.60: 23.00
+[ 18] 1fjeb2     structureX:1fje:  92 :B: 175 :B:nucleolin RBD12, two N-terminal RBD domains:Mesocricetus auratus: -1: -1
+[ 19] 1fjeb1     structureX:1fje:   1 :B:  91 :B:nucleolin RBD12, two N-terminal RBD domains:Mesocricetus auratus: -1: -1
+[ 20] 1u2fa      structureX:1u2f:   1 :A:  90 :A:splicing factor U2AF 65kD subunit, first RNA-binding domain:Homo sapiens: -1: -1
+
+
+1jmta      ------------SQTIALLNIYRNPQDGLRSAVSDVEMQEHYDEFFEEVFTEMEEKYG----------EVEEMNV
+1qm9a1     ---KNFQNIFPPSATLHLSNIPP---------------SVS----EEDLKVLFSSNGG----------VVKGFKF
+1a9nb      ---------IRPNHTIYINNMND---------------KIKKEELKRSLYALFSQ-FG----------HVVDIVA
+1nu4a      ----------RPNHTIYINNLNE---------------KIKKDELKKSLHAIFSR-FG----------QILDILV
+2u1a       MAPAQPLSENPPNHILFLTNLPE---------------ETN----ELMLSMLFNQ-FP----------GFKEVRL
+1qm9a2     ----------MGNSVLLVSNLNPE--------------RVT----PQSLFILFGV-YG----------DVQRVKI
+1hd1a      --------------KMFIGGLSW---------------DTT----KKDLKDYFSK-FG----------EVVDCTL
+1l3ka1     ----KEPE--QLR-KLFIGGLSF---------------ETT----DESLRSHFEQ-WG----------TLTDCVV
+2msta      --------------KIFVGGLSV---------------NTT----VEDVKHYFEQ-FG----------KVDDAML
+1iqta      --------------KIFVGGLSP---------------DTP----EEKIREYFGG-FG----------EVESIEL
+2u2fa      ------------AHKLFIGGLPN---------------YLN----DDQVKELLTS-FG----------PLKAFNL
+1oo0b      ----PGPQRSVEGWILFVTSIHE---------------EAQ----EDEIQEKFCD-YG----------EIKNIHL
+1cvja1     ------------A-SLYVGDLHP---------------DVT----EAMLYEKFSP-AG----------PILSIRV
+1h6kx      -----------KSCTLYVGNLSF---------------YTT----EEQIYELFSK-SG----------DIKKIIM
+1fxla2     ----------SKT-NLIVNYLPQ---------------NMT----QEEFRSLFGS-IG----------EIESCKL
+1fxla1     ----SASI--RDA-NLYVSGLPK---------------TMT----QKELEQLFSQ-YG----------RIITSRI
+1cvja2     ----PSLRKSGVG-NIFIKNLDK---------------SID----NKALYDTFSA-FG----------NILSCKV
+1fjeb2     ----DSKKVRAAR-TLLAKNLSF---------------NIT----EDELKEVFE--------------DALEIRL
+1fjeb1     GSHMVEGSESTTPFNLFIGNLNP---------------NKSVAELKVAISELFAKNDL----------AVVDVRT
+1u2fa      ------------ARRLYVGNIPF---------------GIT----EEAMMDFFNAQMRLGGLTQAPGNPVLAVQI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jmta      CDNLG--DHLVGNVYVKFRREEDAEKAVIDLNNRWFNG--QPIHAELSP--------------------------
+1qm9a1     FQKDR------KMALIQMGSVEEAVQALIDLHN-HDLGENHHLRVSFSKSTI-----------------------
+1a9nb      L--KTMKM--RGQAFVIFKELGSSTNALRQLQGFPFYG--KPMRIQYAKTDSDIISKMRG---------------
+1nu4a      S--RSLKM--RGQAFVIFKEVSSATNALRSMQGFPFYD--KPMRIQYAKTDSDIIAKM-----------------
+2u1a       VPG------RHDIAFVEFDNEVQAGAARDALQGFK-ITQNNAMKISFAKK-------------------------
+1qm9a2     LFNK------KENALVQMADGNQAQLAMSHLNGHKL--HGKPIRITLSKHQNVQLPREGQEDQGLTKDYGNSPLH
+1hd1a      KLDP-ITGRSRGFGFVLFKESESVDKVMDQ-KEHKLNG--KVIDPKRA---------------------------
+1l3ka1     MRDP-NTKRSRGFGFVTYATVEEVDAAMN-ARPHKVDG--RVVEPKRAV-------S------------------
+2msta      MFDK-TTNRHRGFGFVTFESEDIVEKVCE-IHFHEINN--KMVECKKA---------------------------
+1iqta      PMD-NKTNKRRGFCFITFKEEEPVKKIMEK-KYHNVGL--SKCEIKVA---------------------------
+2u2fa      VKDS-ATGLSKGYAFCEYVDINVTDQAIAGLNGMQL--GDKKLLVQRASVGAKNA--------------------
+1oo0b      NLDR-RTGFSKGYALVEYETHKQALAAKEALNGAEIMG--QTIQVDWCFV------KGPK---------------
+1cvja1     CRDM-ITRRSLGYAYVNFQQPADAERALDTMNFDVIKG--KPVRIMWSQR------D------------------
+1h6kx      GLDK-M----CGFCFVEYYSRADAENAMRYINGTRLDD--RIIRTDWDA----------G---------------
+1fxla2     VRDK-ITGQSLGYGFVNYIDPKDAEKAINTLNGLRLQT--KTIKVSYARP------S------------------
+1fxla1     LVDQ-VTGVSRGVGFIRFDKRIEAEEAIKGLNGQKPSGATEPITVKFA---------------------------
+1cvja2     VCD--EN-GSKGYGFVHFETQEAAERAIEKMNGMLLND--RKVFVGRFKS------RKER---------------
+1fjeb2     VSQDG---KSKGIAYIEFKSEADAEKNLEEKQGAEIDG--RSVSLYYTGE--------KG---------------
+1fjeb1     GT-------NRKFGYVDFESAEDLEKALELTG-LKVFG--NEIKLEKPKGR------------------------
+1u2fa      NQD-------KNFAFLEFRSVDETTQAMA-FDGIIFQG--QSLKIRRPHDYQPLPG-------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jmta      -------*
+1qm9a1     -------*
+1a9nb      -------*
+1nu4a      -------*
+2u1a       -------*
+1qm9a2     RFKKPGS*
+1hd1a      -------*
+1l3ka1     -------*
+2msta      -------*
+1iqta      -------*
+2u2fa      -------*
+1oo0b      -------*
+1cvja1     -------*
+1h6kx      -------*
+1fxla2     -------*
+1fxla1     -------*
+1cvja2     -------*
+1fjeb2     -------*
+1fjeb1     -------*
+1u2fa      -------*
+           =======
+                  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17] [ 18] [ 19] [ 20]
+
+  1-1jmta      100.0  19.3  14.9  15.4  10.2  16.3  14.7  10.7  17.3  14.7
+                 8.2  15.2  18.8  16.9  18.3  15.3  14.6  17.9  15.4  11.1
+  2-1qm9a1      19.3 100.0  18.2  15.9  21.6  23.9  12.0  11.9  10.7  10.7
+                16.5  14.8  18.8  19.5  15.9  18.8  14.8  16.7  17.0  19.3
+  3-1a9nb       14.9  18.2 100.0  74.7  25.0  22.3  29.3  17.9  20.0  18.7
+                16.5  12.0  22.5  26.0  17.1  22.4  19.1  19.0  19.8  15.6
+  4-1nu4a       15.4  15.9  74.7 100.0  25.0  19.8  26.7  17.9  17.3  18.7
+                15.3  14.3  27.5  24.7  17.1  21.2  27.0  20.2  16.5  15.6
+  5-2u1a        10.2  21.6  25.0  25.0 100.0  20.5  17.3  16.7  16.0  17.3
+                21.2  22.7  17.5  18.2  20.7  21.2  17.0  21.4  20.5  17.0
+  6-1qm9a2      16.3  23.9  22.3  19.8  20.5 100.0  17.3  15.5  14.7  13.3
+                16.5  17.4  23.8  24.7  24.4  23.5  16.9  14.3  15.4  15.6
+  7-1hd1a       14.7  12.0  29.3  26.7  17.3  17.3 100.0  49.3  46.7  42.7
+                28.0  18.7  25.3  24.0  28.0  29.3  29.3  17.3  26.7  16.0
+  8-1l3ka1      10.7  11.9  17.9  17.9  16.7  15.5  49.3 100.0  41.3  34.7
+                23.8  19.0  22.5  26.0  26.8  25.0  23.8  17.9  20.2  17.9
+  9-2msta       17.3  10.7  20.0  17.3  16.0  14.7  46.7  41.3 100.0  44.0
+                21.3  17.3  22.7  24.0  25.3  22.7  22.7  24.0  24.0  16.0
+ 10-1iqta       14.7  10.7  18.7  18.7  17.3  13.3  42.7  34.7  44.0 100.0
+                20.0  18.7  21.3  24.0  22.7  18.7  20.0  20.0  20.0  16.0
+ 11-2u2fa        8.2  16.5  16.5  15.3  21.2  16.5  28.0  23.8  21.3  20.0
+               100.0  27.1  20.0  23.4  31.7  24.7  24.7  15.5   9.4  21.2
+ 12-1oo0b       15.2  14.8  12.0  14.3  22.7  17.4  18.7  19.0  17.3  18.7
+                27.1 100.0  28.8  29.9  30.5  23.5  23.6  23.8  13.2  15.6
+ 13-1cvja1      18.8  18.8  22.5  27.5  17.5  23.8  25.3  22.5  22.7  21.3
+                20.0  28.8 100.0  32.5  32.5  28.8  28.8  28.8  18.8  20.0
+ 14-1h6kx       16.9  19.5  26.0  24.7  18.2  24.7  24.0  26.0  24.0  24.0
+                23.4  29.9  32.5 100.0  32.5  26.0  24.7  29.9  22.1  23.4
+ 15-1fxla2      18.3  15.9  17.1  17.1  20.7  24.4  28.0  26.8  25.3  22.7
+                31.7  30.5  32.5  32.5 100.0  36.6  29.3  19.5  18.3  14.6
+ 16-1fxla1      15.3  18.8  22.4  21.2  21.2  23.5  29.3  25.0  22.7  18.7
+                24.7  23.5  28.8  26.0  36.6 100.0  25.9  17.9  16.5  17.6
+ 17-1cvja2      14.6  14.8  19.1  27.0  17.0  16.9  29.3  23.8  22.7  20.0
+                24.7  23.6  28.8  24.7  29.3  25.9 100.0  22.6  19.1  15.7
+ 18-1fjeb2      17.9  16.7  19.0  20.2  21.4  14.3  17.3  17.9  24.0  20.0
+                15.5  23.8  28.8  29.9  19.5  17.9  22.6 100.0  20.2  19.0
+ 19-1fjeb1      15.4  17.0  19.8  16.5  20.5  15.4  26.7  20.2  24.0  20.0
+                 9.4  13.2  18.8  22.1  18.3  16.5  19.1  20.2 100.0  15.6
+ 20-1u2fa       11.1  19.3  15.6  15.6  17.0  15.6  16.0  17.9  16.0  16.0
+                21.2  15.6  20.0  23.4  14.6  17.6  15.7  19.0  15.6 100.0
+
+***************************************************************************

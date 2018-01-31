@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1gdha      structureX:1gdh:   2 :A: 321 :A:D-glycerate dehydrogenase:Hyphomicrobium methylovorum:2.40:18.90
+[  2] 2naca      structureX:2nac:   1 :A: 374 :A:formate dehydrogenase:pseudomonas sp. 101:1.80:14.60
+
+
+1gdha      KKKILITWP---------------------------------------LPEAA---MARARESYDVIAHGD----
+2naca      -AKVLCVLYDDPVDGYPKTYARDDLPKIDHYPGGQTLPTPKAIDFTPGQLLGSVSGELGLRKYLESNGHTLVVTS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gdha      ---DPKITIDEMIETAKSVDALLIT--LNEKCRKEVIDRIPENIKCISTYSIGFDHIDLDACKARGIKVGNAPHG
+2naca      DKDGPDSVFERELVDAD---VVISQPFWPAYLTPERIAKAKNL-KLALTAGIGSDHVDLQSAIDRNVTVAEVTYC
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gdha      VTVATAEIAMLLLLGSARRAGEGEKMIRTRSWPGWEPLELV--GEKLDNKTLGIYGFGSIGQALAKRAQGFDMDI
+2naca      NSISVAEHVVMMILSLVRNYLPSHEWAR-KGG--WNIADCVSHAYDLEAMHVGTVAAGRIGLAVLRRLAPFDVHL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gdha      DYFDTHRASSSDEASYQATFHDSLDSLLSVSQFFSLNAPSTPETRYFFNKATIKSLPQGAIVVNTARGDLVDNEL
+2naca      HYTDRHRLPESVEKELNLTWHATREDMYPVCDVVTLNCPLHPETEHMINDETLKLFKRGAYIVNTARGKLCDRDA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gdha      VVAALEAGRLA-YAGFDVFAGEPN-INEGYYDLPNTFLFPHIGSAATQAREDMAHQANDLIDALFGGADMS--YA
+2naca      VARALESGRLAGYAG-DVWFPQPAPKDHPWRTMPYNGMTPHISGTTLTAQARYAAGTREILECFFEGRPIRDEYL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1gdha      LA------*
+2naca      IVQGGALA*
+           ====|===
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gdha      100.0  26.6
+  2-2naca       26.6 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1b9ma      structureX:1b9m: 127 :A: 262 :A:molybdenum transport protein mode:Escherichia coli: 1.75: 23.4
+[  2] 1h9ma      structureX:1h9m:   1 :A: 141 :A:potential molybdenum-pterin-binding-protein:Azotobacter vinelandii: 1.65: 19.1
+
+
+1b9ma      ----ARNQWFGTITARDHDDVQQHVDVLLADGKTRLKVAITAQSGARLGLDEGKEVLILLKAPWVGITQDE-AVA
+1h9ma      MKISARNVFKGTVSALKEGAVNAEVDILLGGG-DKLAAVVTLESARSLQLAAGKEVVAVVKAPWVLLMTDSSGYR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b9ma      QNADNQLPGIISHIERGAEQCEVL-ALPDGQTLCATVPVNEAT--SLQQGQNVTAYFNADSVIIATLC*
+1h9ma      LSARNILTGTVKTIETGAVNAEVTLALQGGTEITSMVTKEAVAELGLKPGASASAVIKASNVILGVP-*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b9ma      100.0  34.8
+  2-1h9ma       34.8 100.0
+
+***************************************************************************

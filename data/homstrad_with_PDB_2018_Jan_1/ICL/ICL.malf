@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1f8ma      structureX:1f8m:   1 :A: 427 :A:3-bromopyruvate modified isocitrate lyase:Mycobacterium tuberculosis: 1.80: 20.3
+[  2] 1dqua      structureX:1dqu:   2 :A: 520 :A:isocitrate lyase:Aspergillus nidulans: 2.80: 27.3
+
+
+1f8ma      ----ASVVGTPKSAEQIQQEWDTNPRWKDVTRTYSAEDVVALQGSVVEEHTLARRGAEVLWEQLHDL----EWVN
+1dqua      SYIEEEDQRYWDEVAAVKNWWK-DSRWRYTKRPFTAEQIVAKRGNLKIEYP-SNVQAKKLWGILERNFKNKEASF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f8ma      ALGALTGNMAVQQVRAGLKAIYLSGWQVAGDANLSGHTYPDQSLYPANSVPQVVRRINNALQRADQIAKIEGDT-
+1dqua      TYGCLDPTMVTQMAKY-LDTVYVSGWQSSSTASSTDEPSPDLADYPMNTVPNKVNHLWMAQLFHDRKQREERMTT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f8ma      ---------SVENWLAPIVADGEAGFGGALNVYELQKALIAAGVAGSHWEDQLASEKKCGHLGGKVLIPTQQHIR
+1dqua      PKDQRHKVANV-DYLRPIIADADTGHGGLTAVMKLTKLFVERGAAGIHIEDQAPGTK------GKVLVPISEHIN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1f8ma      TLTSARLAADVADVPTVVIARTDAEAATLITSDVDERDQPFITGERTR---------------------------
+1dqua      RLVAIRAQADIMGTDLLAIARTDSEAATLITSTIDHRDHPFIIGSTNPDIQPLNDLMVMAEQAGKNGAELQAIED
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1f8ma      --------------------------------------------------------------------EGFYRTK
+1dqua      EWLAKAGLKLFNDAVVDAINNSPLPNKKAAIEKYLTQSKGKSNLEARAIAKEIAGTDIYFDWEAPRTREGYYRYQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1f8ma      NGIEPCIARAKAYAPFADLIWMETGTPDLEAARQFSEAVKAEYPDQMLAYNCSPSFNWKKHLDDATIAKFQKELA
+1dqua      GGTQCAINRAVAYAPFADLIWMESKLPDYKQAKEFADGVHAVWPEQKLAYNLSPSFNWKKAMPRDEQETYIKRLG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1f8ma      AMGFKFQFITLAGFHALNYSMFDLAYGYAQNQMSAYVEL-QEREFAAEERGYTATKHQREVGAGYFDRIATTVDP
+1dqua      ALGYAWQFITLAGLHTTALISDTFAKAYAKQGMRAYGELVQEPEMAN---GVDVVTHQKWSGANYVDNMLKMITG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1f8ma      NSSTTALTGSTEEGQF*
+1dqua      G---------------*
+           ====|=========|=
+               0530      0540 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f8ma      100.0  37.5
+  2-1dqua       37.5 100.0
+
+***************************************************************************

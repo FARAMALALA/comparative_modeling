@@ -1,0 +1,84 @@
+      Code       Title
+
+[  1] 1qu2a      structureX:1qu2:   1 :A: 917 :A:isoleucyl-tRNA synthetase:Staphylococcus aureus: 2.2: 23.9
+[  2] 1ile       structureX:1ile:   1 : : 821 : :isoleucyl-tRNA synthetase:Thermus thermophilus: 2.5: 22.2
+[  3] 1a8h       structureX:1a8h:   1 : : 500 : :methionyl-tRNA synthetase:Thermus aquaticus: 2.0: 20.5
+
+
+1qu2a      MDYEKTLLMPKTDFPMRGGLPNKEPQIQEKWDAEDQYHKALEKNKGNETFILHDGPPYANGNLHMGHALNKILKD
+1ile       --------MFK-EVG-EPNFPKLEEEVLAFWKREKIFQKSVENRKGGPRYTVYEGPPTANGLPHVGHAQARSYKD
+1a8h       ---------------------------------------------MEKVFYVTTPIYYVNAEPHLGHAYTTVVAD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qu2a      FIVRYKTMQGFYAPYVPGWDTHGLPIEQALTKK-GVD----RKKMSTAEFREKCKEFALEQIELQKKDFRRLGVR
+1ile       LFPRYKTMRGYYAPRRAGWDTHGLPVELEVEKKLGLKSKREIEAYGIERFNQACRESVFTYEKEWEAFTERIAYW
+1a8h       FLARWHRLDGYRTFFLTGTDEHGETVYRAAQAA-----------------GEDPKAFVDRVSGRFKRAWDLLGIA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qu2a      GDFNDPYITLKPEYEAAQIRIFGEMADKGLIYKGKKPVYWSPSSESSLAEAE---IEYPHDWRTKKPVIFRATPQ
+1ile       VDLEDAYATLEPTYIESIWWSLKNLFDRGLLYRDHKVVPYCPRCGTPLSSHEVALG-YPHCWRCSTPLMYYATES
+1a8h       YD--DFIRTTEERHKKVVQLVLKKVYEAGDIYYGEYEGLYCVSCERFYTEKELV---EGLCPIHGRPVERRKEGN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qu2a      WFASISKVRQDILDAIENT--NFKVNWGKT-RIYNMVRD-RGEWVISRQ---RVWGVPLPVFYAEN-GEIIMT--
+1ile       WFIKNTLFKDELIRNNQEI--HWVPPHIKEGRYGEWLKN-LVDWALSRN---RYWGTPLPIWVCQACGKEEAIGS
+1a8h       YFFRMEKYRPWLQEYIQENPDLIRPEGYRN-EVLAMLAEPIGDLSISRPKSRVPWGIPLPWDE------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qu2a      -KETVNHVADLFAEH---GSNIWFERE--AKDLLPEGFTHPGSPNGTFTKETDIMDVWFDSGSSHRGVLETR---
+1ile       FQELKARATKPLPEPFDPHRPYVDQVELACACG------------GTMRRVPYVIDVWYDSGAMPFASLHYPFEH
+1a8h       ---------------------------------------------------NHVTYVWFDALLNYVSALDYPE--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qu2a      -PEL--SFPADMYLEGSDQYRGWFNSSITTSVATRGVSPYKFLLSHGFVMDGEGKKMSKSLGNVIVPDQVVKQKG
+1ile       EEVFRESFPADFIAEGIDQTRGWFNSLHQLGVMLFGSIAFKNVICHGLILDEKGQKMSKSKGNVVDPWDIIRKFG
+1a8h       GEAYRTFWPHAWHLIGKDILKPHAVFWPTMLKAA-GIPMYRHLNVGGFLLGPDGRKMSKTLGNVVDPFALLEKYG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1qu2a      ADIARLWVS-STDYLADVRISDEILKQTSD-DYR-KIRNTLRFMLGNIN-----DFNPDTDSIPESELLEVDRYL
+1ile       ADALRWYIYVSAPPEADRRFGPNLVRETVRDYFL-TLWNVYSFFVTYANLD---RPDLKN-PPPPEKRPEMDRWL
+1a8h       RDALRYYLLREIPYGQDTPVSEEALRTRYEADLADDLGNLVQRTRAMLFRFAEGRIP---EPVA-------GEEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1qu2a      LNRLREFTASTINNYENFDYLNIYQEVQNFINVELSNFYLDYGKDILYIEQRD-SHIRRSMQTVLYQILVDMTKL
+1ile       LARMQDLIQRVTEALEAYDPTTSARALRDFVVEDLSQWYVRRNRRRFWKNE-D-ALDREAAYATLYEALVLVATL
+1a8h       A-EGTGLAGRLRPLVRELKFHVALEEAMAYVK-ALNR-YINEKK--PWELFKKEPEEARAVLYRVVEGLRIASIL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1qu2a      LAPILVHTAEEVWSHTPHV----KEESVHLA-DMPKVVE--VDQALLDKWRTFMNLRDDVNRALETARNEKVIGK
+1ile       AAPFTPFLAEVLWQNLVRSVRLEAKESVHLA-DWPEADPALADEALVAQMRAVLKVVDLARAARAK---------
+1a8h       LTPAMPDKMAELRRALGLKE----EVRLEEAERWGLAEPRPIPE-------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1qu2a      SLEAKVTIASNDKFNASEFLTSFDALHQLFIVSQVKVVDKLDDQATAYEHGDIVIEHADGEKCERCWNYSEDLGA
+1ile       ----------------------------------------------------------SGV--------------
+1a8h       --EAPVLFPKK----------------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1qu2a      VDELTHLCPRCQQVVKSLV*
+1ile       -------------------*
+1a8h       -------------------*
+           =========|=========
+                    0760      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qu2a      100.0  28.5  20.4
+  2-1ile        28.5 100.0  21.0
+  3-1a8h        20.4  21.0 100.0
+
+***************************************************************************

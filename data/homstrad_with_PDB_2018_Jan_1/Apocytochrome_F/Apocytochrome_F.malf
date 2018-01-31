@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1hcz       structureX:1hcz:   1 : : 250 : :apocytochrome F:Brassica rapa: 1.96: 15.8
+[  2] 1cfma      structureX:1cfm:   1 :A: 251 :A:apocytochrome F:Chlamydomonas reinhardtii: 2.00: 21.4
+
+
+1hcz       YPIFAQQNYENPREATGRIVCANCHLASKPVDIEVPQAVLPDTVFEAVVKIPYDMQLKQVLANGKKGALNVGAVL
+1cfma      YPVFAQQNYANPREANGRIVCANCHLAQKAVEIEVPQAVLPDTVFEAVIELPYDKQVKQVLANGKKGDLNVGMVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hcz       ILPEGFELAPPDRISPEMKEKIGNLSFQNYRPNKKNILVIGPVPGQKYSEITFPILAPDPATNKDVHFLKYPIYV
+1cfma      ILPEGFELAPPDRVPAEIKEKVGNLYYQPYSPEQKNILVVGPVPGKKYSEMVVPILSPDPAKNKNVSYLKYPIYF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hcz       GGNRGRGQIYPDGSKSNNTVYNATAGGIISKILR-KE-KGGYEITIVDASNERQVIDIIPRGLELLVSEGESIKL
+1cfma      GGNRGRGQVYPDGKKSNNTIYNASAAGKIVAITALSEKKGGFEVSIEKA-NGEVVVDKIPAGPDLIVKEGQTVQA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hcz       DQPLTSNPNVGGFGQGDAEIVLQDPLR*
+1cfma      DQPLTNNPNVGGFGQAETEIVLQNPAR*
+           ====|=========|=========|==
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hcz       100.0  70.8
+  2-1cfma       70.8 100.0
+
+***************************************************************************

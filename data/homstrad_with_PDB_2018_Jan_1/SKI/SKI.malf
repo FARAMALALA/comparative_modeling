@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1shka      structureX:1shk:   1 :A: 173 :A:Shikimate kinase:Erwinia chrysanthemi: 1.9: 17.6
+[  2] 1kaga      structureX:1kag:   3 :A: 171 :A:Shikimate kinase I:Escherichia coli: 2.05: 21.7
+
+
+1shka      MTEPIFMVGARGCGKTTVGRELARALGYEFVDTDIFMQHTSGMTVADVVAAEGWPGFRRRESEALQAVA-TPNRV
+1kaga      EKRNIFLVGPMGAGKSTIGRQLAQQLNMEFYDSDQEIEKRTGADVGWVFDLEGEEGFRDREEKVINELTEKQGIV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1shka      VATGGGMVLLEQNRQFMRAHGTVVYLFAPAEELALRL-------QIAEEMEAVLREREALYQDVAHYVVDATQPP
+1kaga      LATGGGSVKSRETRNRLSARGVVVYLETTIEKQLARTPLLHVETPPREVLEALANERNPLYEEIADVTI----SA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1shka      AAIVCELMQTMRLPAA*
+1kaga      KVVANQIIHMLE----*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1shka      100.0  32.3
+  2-1kaga       32.3 100.0
+
+***************************************************************************

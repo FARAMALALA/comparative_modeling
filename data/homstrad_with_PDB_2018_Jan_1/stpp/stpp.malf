@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1fjma      structureX:1fjm:   7 :A: 300 :A:serine-threonine protein phosphatase 1:Oryctolagus cuniculus: 2.1: 17.8
+[  2] 1tcoa      structureX:1tco:  21 :A: 338 :A:serine-threonine protein phosphatase 2b:Bos taurus: 2.5: 19.5
+
+
+1fjma      --------------------LNLDSIIGRLLEVQGSRPGKNVQLTENEIRGLCLKSREIFLSQPILLELEAPLKI
+1tcoa      VPFPPSHRLTAKEVFDNDGKPRVDILKAHLM--------KEGRLEETVALRIITEGASILRQEKNLLDIDAPVTV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fjma      CGDIHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKIKYPENFFLLRGNHECASINRIYGF
+1tcoa      CGDIHGQFFDLMKLFEVGGSPANTRYLFLGDYVDRGYFSIECVLYLWALKILYPKTLFLLRGNHECRHLTEYFTF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fjma      YDECKRRYNIKLWKTFTDCFNCLPIAAIVDEKIFCCHGGLSPDLQSMEQIRRIMRPTDVPDQGLLCDLLWSDPDK
+1tcoa      KQECKIKYSERVYDACMDAFDCLPLAALMNQQFLCVHGGLSPEINTLDDIRKLDRFKEPPAYGPMCDILWSDPLE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fjma      DVQ------GWGEND-RGVSFTFGAEVVAKFLHKHDLDLICRAHQVVEDGYEFFAK------RQLVTLFSAPNYC
+1tcoa      DFGNEKTQEHFTHNTVRGCSYFYSYPAVCEFLQHNNLLSILRAHEAQDAGYRMYRKSQTTGFPSLITIFSAPNYL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1fjma      GEFDNAGAMMSVDETLMCSFQILKPAD*
+1tcoa      DVYNNKAAVLKYENN-VMNIRQFNCSP*
+           =========|=========|=======
+                    0310      0320    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fjma      100.0  37.4
+  2-1tcoa       37.4 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1iow       structureX:1iow:   1 : :  96 : :D-alanine--D-alanine ligase B:Escherichia coli: 1.9: 15.8
+[  2] 1ehia      structureX:1ehi:   3 :A: 134 :A:D-alanine:D-lactate ligase:Leuconostoc mesenteroides: 2.38: 18.4
+
+
+1iow       MTDKIAVLLGGTSAEREVSLNSGAAVLAGLREGG-IDAYPVDPK-------------------------------
+1ehia      -KKRVALIFGGNSSEHDVSKRSAQNFYNAIEATGKYEIIVFAIAQNGFFLDTESSKKILALEDEQPIVDAFMKTV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1iow       -----EVDVTQLKSMG-FQKVFIALHGRGGEDGTLQGMLELMGLPYTGSGVMASALSMD*
+1ehia      DASDPLARIHALKSAGDFDIFFPVVHGNLGEDGTLQGLFKLLDKPYVGAPLRGHAVSF-*
+           ====|=========|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1iow       100.0  32.3
+  2-1ehia       32.3 100.0
+
+***************************************************************************

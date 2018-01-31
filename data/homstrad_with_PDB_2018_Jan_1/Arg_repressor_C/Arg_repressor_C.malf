@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1xxaa      structureX:1xxa:  82 :A: 152 :A:arginine repressor:Escherichia coli: 2.2: -1
+[  2] 1b4ba      structureX:1b4b:  79 :A: 149 :A:arginine repressor:Bacillus stearothermophilus: 2.2: 21.8
+
+
+1xxaa      LK-NLVLDIDYNDAVVVIHTSPGAAQLIARLLDSLGKAEGILGTIAGDDTIFTTPANGFTVKDLYEAILELF*
+1b4ba      ALVDVFIKLDGTGNLLVLRTLPGNAHAIGVLLDNLDW-DEIVGTICGDDTCLIICRTPKDAKKVSNQLLSML*
+           =========|=========|=========|=========|=========|=========|=========|==
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1xxaa      100.0  29.6
+  2-1b4ba       29.6 100.0
+
+***************************************************************************

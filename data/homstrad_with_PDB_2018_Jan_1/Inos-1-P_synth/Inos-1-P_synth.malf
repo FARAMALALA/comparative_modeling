@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1jkia      structureX:1jki:   9 :A: 533 :A:myo-inositol-1-phosphate synthase:Saccharomyces cerevisiae: 2.20: 20.8
+[  2] 1gr0a      structureX:1gr0:  14 :A: 367 :A:hypothetical protein rv0046c:Mycobacterium tuberculosis: 1.95: 21.1
+
+
+1jkia      ITSVKVVTDKCTYKDNELLTKYSYENAVVTKTASGRFDVTPTVQDYVFKLDLKKPEKLGIMLIGLGGNNGSTLVA
+1gr0a      -------------------------------------------------------TEVRVAIVG-VGNCASSLVQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jkia      SVLANKHNVEFQTKEGVKQPNYFGSMTQCSTLKLGIDAEGNDVYAPFNSLLPMVSPNDFVV-SGWDINN----AD
+1gr0a      GVEYYY----------------------NADDT-------STVPGLMHVRFGPYHVRDVKFVAAFDVDAKKVGFD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jkia      LYEAMQ--RSQVLEYDLQQRLKAKMSLVKPLPSIYYPDFIAANQDERANNCINLDEKGNVTTRGKWTHLQRIRRD
+1gr0a      LSDAIFASENNTIKIADVA-----PTNVIVQRGPT-LDGIGKYYADTIELSD-------AE-------PVDVVQA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jkia      IQNFKEENALDKVIVLWTANTERYVEVSPGVNDTMENLLQSIKNDHEEIAPSTIFAAASILEGVPYINGSPQNTF
+1gr0a      LKEAK------VDVLVSYLPV-----------------------GSE--EADKFYAQCAIDAGVAFVNALPVFIA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jkia      -VPGLVQLAEHEGTFIAGDDLKS--GQTKLKSVLAQFLVDAGIKPVSIASYNHLGNNDGYNLSAPKQFRSKEISK
+1gr0a      SDPVWAKKFTDARVPIVGDDIKSQVGATITHRVLAKLFEDRGVQLDRTMQLNVGGNMDFLNMLED----------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1jkia      SSVIDDIIASNDILYNDKLGKKVDHCIVIKYMKPVGDSKVAMDEYYSELMLGGHNRISIHNVCEDSLLATPLIID
+1gr0a      -----------------------VHIGPSDHVGWLDDRKWAYVRLEGRAFGDVPLNLEYKLEVWDSPNSAGVIID
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1jkia      LLVMTEFCTRVSYKKVDPVKEDAGKFENFYPVLTFLS-YWLKAPLTRPGFHPVNGLNKQRTALENFLRLLIGLPS
+1gr0a      AVRAAKIAKDRG----------------IGGPVIPASAYLMKSPPE------QLPDDIARAQLEEFIIG------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1jkia      QNELRFEERLL*
+1gr0a      -----------*
+           ====|======
+               0530   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jkia      100.0  18.3
+  2-1gr0a       18.3 100.0
+
+***************************************************************************

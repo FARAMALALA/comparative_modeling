@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1shca      structureX:1shc:  35 :A: 207 :A:SHC PTB domain:Escherichia coli: -1: -1
+[  2] 2nmba      structureX:2nmb:  64 :A: 210 :A:NUMB PTB domain:Drosophila melanogaster: -1: -1
+[  3] 1aqca      structureX:1aqc: 324 :A: 488 :A:neuron-specific x11 PTB domain:Homo sapiens: 2.3: 21.0
+
+
+1shca      --TRGWLHPNDKVMGPGVSYLVRYMGCVEVLQSMRALDFNTRTQVTREAISLVCEAVPGAKGATRRRKPCSRPLS
+2nmba      SKPHQWQADEEAVRSATCSFSVKYLGCVEVFE-SRG------MQVCEEALKVLRQSR------------------
+1aqca      ----------EDLI-DGIIFAANYLGSTQLLSDKTPSKN---VRQAQEAVSRIKA--------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1shca      SILGRSNLKFAGMPITLTVSTSSLNLMAADCKQIIANHHMQSISFASGGDPDTAEYVAYVAKD-PVNQRACHILE
+2nmba      ---------RRPVRGLLHVSGDGLRVVDDETKGLIVDQTIEKVSFCAPDRNH-ERGFSYICRDGTTRRWMCHGFL
+1aqca      ---------QKLTEVDLFILTQRIKVLNADTQET--DHPLRTISYIADI----GNIVVLARRRY----KICHVFE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1shca      CPEGLAQDVISTIGQAFELRF------KQYLR*
+2nmba      ACKDSGERLSHAVGCAFAVCLERKQRRTRAAA*
+1aqca      SE--DAQLIAQSIGQAFSVAYQEFLR------*
+           =========|=========|=========|==
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1shca      100.0  20.4  20.7
+  2-2nmba       20.4 100.0  18.2
+  3-1aqca       20.7  18.2 100.0
+
+***************************************************************************

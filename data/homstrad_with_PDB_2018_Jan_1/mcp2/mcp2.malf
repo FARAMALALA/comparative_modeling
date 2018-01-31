@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1vlta      structureX:1vlt:  39 :A: 180 :A:methyl-accepting chemotaxis protein II (mcp-II) (aspartatechemoreceptor protein):Salmonella typhimurium: 1.85: 19.8
+[  2] 2asr       structureX:2asr:  38 : : 179 : :methyl-accepting chemotaxis protein ii (mcp-ii) (aspartatechemoreceptor protein):Escherichia coli: 2.3: 20.3
+
+
+1vlta      -GFVISNELRQQQSELTSTWDLMLQTRINLSRSAARMMMDASNQQSSAKTDLLQNAKTTLAQAAAHYANFKNMTP
+2asr       KSFVVSNQLREQQGELTSTWDLMLQTRINLSRSAVRMMMDSSNQQSNAKVELLDSARKTLAQAATHYKKFKSMAP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1vlta      LPAMAEASANVDEKYQRYQAALAELIQFLDNGNMDAYFAQPTQGMQNALGEALGNYARVSENLYRQTF*
+2asr       LPEMVATSRNIDEKYKNYYTALTELIDYLDYGNTGAYFAQPTQGMQNAMGERFAQYALSSEKLYRDI-*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1vlta      100.0  67.6
+  2-2asr        67.6 100.0
+
+***************************************************************************

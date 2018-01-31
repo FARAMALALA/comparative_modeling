@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1kzla2     structureX:1kzl:  94 :A: 202 :A:riboflavin synthase:Schizosaccharomyces pombe: 2.10: 18.5
+[  2] 1i8da2     structureX:1i8d:  94 :A: 206 :A:riboflavin synthase alpha chain :Escherichia coli: 2.00: 23.9
+[  3] 1kzla1     structureX:1kzl:   1 :A:  93 :A:riboflavin synthase:Schizosaccharomyces pombe: 2.10: 18.5
+[  4] 1i8da1     structureX:1i8d:   1 :A:  93 :A:riboflavin synthase alpha chain :Escherichia coli: 2.00: 23.9
+
+
+1kzla2     MGGHFVQGHVDTVAEIVEKKQD-GEAIDFTFRPRDPFVLKYIVYKGYIALDGTSLTITHVDDSTFSIMMISYTQS
+1i8da2     IGGHLMSGHIMTTAEVAKILTS-ENNRQIWFKVQDSQLMKYILYKGFIGIDGISLTVGEVTPTRFCVHLIPETLE
+1kzla1     ----MFTGLVEAIGVVKDVQGTIDNGFAMKIEA--PQILDDCHTGDSIAVNGTCLTVTDFDRYHFTVGIAPESLR
+1i8da1     ----MFTGIVQGTAKLVSIDEKP-NFRTHVVELP-DHMLDGLETGASVAHNGCCLTVTEINGNHVSFDLMKETLR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kzla2     KVIMAKKNVGDLVNVEVDQIGKYTEKLVEAHIADW----*
+1i8da2     RTTLGKKKLGARVNIEIDPQTQAVVDTVERVLAARENAM*
+1kzla1     LTNLGQCKAGDPVNLERAVLSSTR---------------*
+1i8da1     ITNLGDLKVGDWVNVERAAKFSDE---------------*
+           ====|=========|=========|=========|====
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1kzla2     100.0  33.0  19.4  20.4
+  2-1i8da2      33.0 100.0  23.7  24.7
+  3-1kzla1      19.4  23.7 100.0  39.8
+  4-1i8da1      20.4  24.7  39.8 100.0
+
+***************************************************************************

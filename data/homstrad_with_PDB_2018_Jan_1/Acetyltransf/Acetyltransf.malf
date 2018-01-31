@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1bo4a      structureX:1bo4:  25 :A: 160 :A:aminoglycoside 3-N-acetyltransferase:Serratia marcescens: 2.30: 20.1
+[  2] 1cm0a      structureX:1cm0: 492 :A: 653 :A:p300-CBP-associated factor, histone acetyltransferase domain:Homo sapiens: 2.30: 22.3
+[  3] 1ygha      structureX:1ygh:  99 :A: 262 :A:transcriptional activator GCN5, histone acetyltransferase domain:Saccharomyces cerevisiae: 1.90: 19.5
+[  4] 1qsta      structureX:1qst:  49 :A: 208 :A:TGCN5 histone acetyltransferas:Tetrahymena thermophilia: 1.70: 24.4
+[  5] 1b87a      structureX:1b87:   1 :A: 181 :A:aminoglycoside 6'-N-acetyltransferase:Enterococcus faecium: 2.7: 18.8
+[  6] 1cjwa      structureX:1cjw:  30 :A: 195 :A:serotonin N-acetyltranferase:Ovis aries: 1.80: 18
+
+
+1bo4a      ---GIIRTCRLGPD--------QVKSMRAALDLFGREFGDVATYSQHQPDSDYLGNLLR---SKTFIALAAFDQE
+1cm0a      K---VIEFHVVGNSLNQKPNKKILMWLVGLQNVFSHQL--P------RMPKEYITRLVF---DPKHKTLALIKDG
+1ygha      ----KIEFRVVNND----NTKENMMVLTGLKNIFQKQL--P------KMPKEYIARLVY---DRSHLSMAVIRKP
+1qsta      -----LDFDILTN----DGTHRNMKLLIDLKNIFSRQL--P------KMPKEYIVKLVF---DRHHESMVILKNK
+1b87a      -----MIISEFDRN--------NPVLKDQLSDLLRLTW--PEEYG------DSSAEEVEEMMNPERIAVAAVDQ-
+1cjwa      HTLPANEFRCLT-----------PEDAAGVFEIEREAF--ISVSGNCPLNLDEVQHFLTLC-PEL--SLGWFVEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bo4a      -AVVGALAAYVL-PKFEQ---------PRSEIYIYDLAVSGEHRRQGIATALINLLKHEANAL-GAYVIYVQADY
+1cm0a      -RVIGGICFRMFP--------------SQGFTEIVFCAVTSNEQVKGYGTHLMNHLKEYHIKH-DILNFLTYADE
+1ygha      LTVVGGITYRPFD--------------KREFAEIVFCAISSTEQVRGYGAHLMNHLKDYVRNTSNIKYFLTYADN
+1qsta      QKVIGGICFRQYK--------------PQRFAEVAFLAVTANEQVRGYGTRLMNKFKDHMQKQ-NIEYLLTYADN
+1b87a      DELVGFIGAIPQ-YG-------------ITGWELHPLVVESSRRKNQIGTRLVNYLEKEVASR-GGITIYLGTDD
+1cjwa      -RLVAFIIGSLWDEERLTQESLALHRPRGHSAHLHALAVHRSFRQQGKGSVLLWRYLHHVGAQPAVRRAVLMCED
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bo4a      GDDPA---------------------------------------------------------VALYTKL------
+1cm0a      ----------------------------YAIGYFKKQGFSK--EIKIPKTKYVGYIKDYE--GATLMGCELNPR-
+1ygha      ----------------------------YAIGYFKKQGFTK--EITLDKSIWMGYIKDYE--GGTLMQCSMLPRI
+1qsta      ----------------------------FAIGYFKKQGFTK--EHRMPQEKWKGYIKDYD--GGTLMECYIHPYV
+1b87a      LDHGTTLSQTDLYEHTFDKVASIQNLREHPYEFYEKLGYKIVGVLPNANG---------WDKPDIWMAKTIIP--
+1cjwa      ----------------------------ALVPFYQRFGFHPAGPCAIVVG----------SLTFTEMHCSL----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bo4a      ----*
+1cm0a      ----*
+1ygha      RYLD*
+1qsta      DY--*
+1b87a      RPDS*
+1cjwa      ----*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1bo4a      100.0  15.4  14.7  14.0  19.9  11.8
+  2-1cm0a       15.4 100.0  57.4  51.2  12.3  11.7
+  3-1ygha       14.7  57.4 100.0  54.4  14.0  12.8
+  4-1qsta       14.0  51.2  54.4 100.0  13.1  12.5
+  5-1b87a       19.9  12.3  14.0  13.1 100.0  15.1
+  6-1cjwa       11.8  11.7  12.8  12.5  15.1 100.0
+
+***************************************************************************

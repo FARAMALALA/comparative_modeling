@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1ptq       structureX:1ptq: 231 : : 280 : :protein kinase C, delta type cys2 domain:Mus musculus: 1.95: 19.6
+[  2] 1tbo       structureX:1tbo:  94 : : 159 : :protein kinase C, gamma type cys2 domain:Rattus rattus: -1: -1
+[  3] 1far       structureX:1far: 136 : : 187 : :Raf proto-oncogene serine-threonine-protein kinase (Raf-1):Homo sapiens: -1: -1
+
+
+1ptq       --------HRFKVYNYMSPTFCDHCGSLLWGLVKQGLKCEDCGMNVHHKCREKVANLC--------*
+1tbo       QTDDPRNKHKFRLHSYSSPTFCDHCGSLLYGLVHQGMKCSCCEMNVHRRCVRSVPSLCGVDHTERR*
+1far       -----LTTHNFARKTFLKLAFCDICQKFLL----NGFRCQTCGYKFHEHCSTKVPTMCVD-----W*
+           =========|=========|=========|=========|=========|=========|======
+                    0010      0020      0030      0040      0050      0060   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ptq       100.0  62.0  32.0
+  2-1tbo        62.0 100.0  28.8
+  3-1far        32.0  28.8 100.0
+
+***************************************************************************

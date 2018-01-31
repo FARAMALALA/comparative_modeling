@@ -1,0 +1,69 @@
+      Code       Title
+
+[  1] 2oata      structureX:2oat:  36 :A: 439 :A:ornithine aminotransferase:Homo sapiens: 1.95: 20.4
+[  2] 1d7ua      structureX:1d7u:   3 :A: 433 :A:2,2-dialkylglycine decarboxylase:Burkholderia cepacia: 1.95: 19.3
+[  3] 1dtya      structureX:1dty:   1 :A: 429 :A:adenosylmethionine-8-amino-7-oxononanoate aminotransferase:Escherichia coli: 2.14: -1
+[  4] 1gtxa      structureX:1gtx:  11 :A: 472 :A:4-aminobutyrate aminotransferase, mitochondrial:Sus scrofa: 3.00: 18.6
+
+
+2oata      ----------GPPTSD--DIFEREYKYGAHNY-----HPLPVALERGKGIYLWDVEGRKYFDFLSSYSAVNQGHC
+1d7ua      -------------LNDDATFWRNARQHLVRYGG----TFEPMIIERAKGSFVYDADGRAILDFTSGQMSAVLGHC
+1dtya      ---------------MTTDDLAFDERHIWHPYTSMTSPLPVYPVVSAEGCELILSDGRRLVDGMSSWWAAIHGYN
+1gtxa      FDYDGPLMKTEVPGPRSRELMKQLNIIQNAE-----AVHFFCNYEESRGNYLVDVDGNRMLDLYSQISSIPIGYS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2oata      HPKIVNALK-SQVDKL--TLTSRA-FYNNVLGEYEE-YITKLF--NYHKVLPMNTGVEAGETACKLARKWGYTVK
+1d7ua      HPEIVSVIG-EYAGKL--DHLFSG-MLSRPVVDLAT-RLANITPPGLDRALLLSTGAESNEAAIRMAKLVT----
+1dtya      HPQLNAAMK-SQIDAM--SHVMFGEITHAPAIELCR-KLVAMTPQPLECVFLADSGSVAVEVAMKMALQYWDAK-
+1gtxa      HPALVKLVQQPQNVSTFINRPALGILPPENFVEKLRESLLSVAPKGMSQLITMACGSCSNENAFKTIFMWYRSKE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2oata      GIQ------------------KYKAKIVFAAGNFWGRTLSAISSSTDPTS-YDGFGPFMPGFDIIPYND------
+1d7ua      G----------------------KYEIVGFAQSWHGMTGAAASATYSA-G-RKGVGPAAVGSFAIPAPFTYRPRF
+1dtya      GE--------------------ARDRFLTFRNGYHGDTFGAMSVCDPDNSMHSLWKGYLPENLFAPAPQSRMDGE
+1gtxa      RGQSAFSKEELETCMINQAPGCPDYSILSFMGAFHGRTMGCLATTHSKAIHKIDIP--SFDWPIAPFPRLKYPLE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2oata      -------------LPALERALQDP------NVAAFMVEP-IQGEAGVVVPDPGYLMGVRELCTRHQVLFIADEIQ
+1d7ua      ER-----NGAYDYLAELDYAFDLIDRQSSGNLAAFIAEP-ILSSGGIIELPDGYMAALKRKCEARGMLLILDEAQ
+1dtya      WD--------ERDMVGFARLMAAHRH----EIAAVIIEPIVQGAGGMRMYHPEWLKRIRKICDREGILLIADEIA
+1gtxa      EFVKENQQEEARCLEEVEDLIVKYRKK-KKTVAGIIVEP-IQSEGGDNHASDDFFRKLRDISRKHGCAFLVDEVQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2oata      TGLARTGRWLAVDYEN--VRPDIVLLGKALSGGLYPVSAVLCDDDIMLTIKP---G--EHGSTYGGNPLGCRVAI
+1d7ua      TGVGRTGTMFACQRDG--VTPDILTLSKTLGAGL-PLAAIVTSAAIEERAHEL--G-YLFYTTHVSDPLPAAVGL
+1dtya      TGFGRTGKLFACEHAE--IAPDILCLGKALTGGTMTLSATLTTREVAETISDGEAGCFMHGPTFMGNPLACAAAN
+1gtxa      TGGGSTGKFWAHEHWGLDDAADVMTFSKKMM-----TGGFFHKEEFRPNAP------YRIFNTWLGDPSKNLLLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2oata      AALEVLEEENLAENADKLGIILRNELMKLPS---DVVTAVRGKGLLNAIVIKETK------DWDAWKVCLRLRDN
+1d7ua      RVLDVVQRDGLVARANVMGDRLRRGLLDLMERF-DCIGDVRGRGLLLGVEIVKDRRTKEPADGLGAKITRECMNL
+1dtya      ASLAILESGDWQQQVADIEVQLREQLAPARD-A-EMVADVRVLGAIGVVETT-----HPVN---MAALQKFFVEQ
+1gtxa      EVINIIKREDLLSNAAHAGKVLLTGLLDLQARYPQFISRVRGRGTFCSFDTPD--------ESIRNKLISIARNK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2oata      GLLAKPTH----GDIIRFAPPLVIKEDELRESIEIINKTILSF-----*
+1d7ua      GLSMNIVQLPGMGGVFRIAPPLTVSEDEIDLGLSLLGQAIERAL----*
+1dtya      GVWIRPF-----GKLIYLMPPYIILPQQLQRLTAAVNRAVQDETFFCQ*
+1gtxa      GVMLGGCG----DKSIRFRPTLVFRDHHAHLFLNIFSDILADFK----*
+           =========|=========|=========|=========|========
+                    0460      0470      0480      0490     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2oata      100.0  28.7  26.0  20.3
+  2-1d7ua       28.7 100.0  21.4  21.6
+  3-1dtya       26.0  21.4 100.0  18.9
+  4-1gtxa       20.3  21.6  18.9 100.0
+
+***************************************************************************

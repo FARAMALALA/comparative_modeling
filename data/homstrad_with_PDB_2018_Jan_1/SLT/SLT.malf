@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1qsaa      structureX:1qsa: 451 :A: 618 :A:soluble lytic murein transglycosylase:Escherichia coli: 1.65: 16.8
+[  2] 154l       structureX:154l:   1 : : 185 : :lysozyme g (goose-type lysozyme):Anser anser anser: 1.60: 15.9
+
+
+1qsaa      ---------------------------------------------LAYNDLFKRYTSGKEIPQSYAMAIARQESA
+154l       RTDCYGNVNRIDTTGASCKTAKPEGLSYCGVSASKKIAERDLQAMDRYKTIIKKVGEKLCVEPAVIAGIISRESH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qsaa      WNPKV---KSPVG-ASGLMQIMPGTATHTVKMFSIPGYSSPGQLLDPETNINIGTSYLQYVYQQFG---------
+154l       AGKVLKNGWGDRGNGFGLMQVDKRSHKPQG-------------TWNGEVHITQGTTILINFIKTIQKKFPSWTKD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qsaa      NNRIFSSAAYNAGPGRVRTWLGNSAGRIDAVAFVESIPFSETRGYVKNVLAYDAYYRYFMGDKPTLMSATEWGRR
+154l       QQLKGGISAYNAGAGNVRSYA----------RMDI---GTTHDDYANDVVARAQYYKQHGY--------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qsaa      Y*
+154l       -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qsaa      100.0  16.7
+  2-154l        16.7 100.0
+
+***************************************************************************

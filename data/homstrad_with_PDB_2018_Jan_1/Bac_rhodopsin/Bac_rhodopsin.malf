@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1e12a      structureX:1e12:  24 :A: 262 :A:Halorhodopsin:Halobacterium salinarum: 1.8: 23.7
+[  2] 1c3wa      structureX:1c3w:   5 :A: 231 :A:bacteriorhodopsin-lipid complex:Halobacterium salinarum: 1.55: -1
+[  3] 1jgja      structureX:1jgj:   1 :A: 217 :A:sensory rhodopsin II:Natronomonas pharaonis: 2.40: 23.3
+
+
+1e12a      RENALLSSSLWVNVALAGIAILVFVYMGRTIRPGRPRLIWGATLMIPLVSISSYLGLLSGLTVGMIEMPAGHALA
+1c3wa      -TGRPEWIWLALGTALMGLGTLYFLVKGMGVSDPDAKKFYAITTLVPAIAFTMYLSMLLGYGLTMVPFG------
+1jgja      --MVGLTTLFWLGAIGMLVGTLAFAWAGRDAG-SGERRYYVTLVGISGIAAVAYAVMALGVGWVPVA--------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1e12a      GEMVRSQWGRYLTWALSTPMILLALGLLADVDLGSLFTVIAADIGMCVTGLAAAMTTSALLFRWAFYAISCAFFV
+1c3wa      GEQNPIYWARYADWLFTTPLLLLDLALLVDADQGTILALVGADGIMIGTGLVGALTK-VYSYRFVWWAISTAAML
+1jgja      --ERTVFVPRYIDWILTTPLIVYFLGLLAGLDSREFGIVITLNTVVMLAGFAGAMVP-G-IERYALFGMGAVAFI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1e12a      VVLSALVTDWAASASSAG--TAEIFDTLRVLTVVLWLGYPIVWAVGVEGLALVQSVGATSWAYSVLDVFAKYVFA
+1c3wa      YILYVLFFGF-----SMRPEVASTFKVLRNVTVVLWSAYPVVWLIGSEGAGIV-PLNIETLLFMVLDVSAKVGFG
+1jgja      GLVYYLVGPMTESASQRSSGIKSLYVRLRNLTVVLWAIYPFIWLLGPPGVALL-TPTVDVALIVYLDLVTKVGFG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1e12a      FILLRWVANNERTVAV*
+1c3wa      LILLRSRAIFG-----*
+1jgja      FIALDAAA--------*
+           ====|=========|=
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1e12a      100.0  33.8  27.6
+  2-1c3wa       33.8 100.0  28.6
+  3-1jgja       27.6  28.6 100.0
+
+***************************************************************************

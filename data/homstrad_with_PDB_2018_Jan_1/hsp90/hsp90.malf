@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ah6       structureX:1ah6:   2 : : 214 : :heat shock protein 90:Saccharomyces cerevisiae: 1.80: 20.6
+[  2] 1yer       structureX:1yer:  17 : : 223 : :heat shock protein 90:Homo sapiens: 1.65: 19.4
+
+
+1ah6       ASETFEFQAEITQLMSLIINTVYSNKEIFLRELISNASDALDKIRYKSLSDPKQLETEPDLFIRITPKPEQKVLE
+1yer       -VETFAFQAEIAQLMSLIINTFYSNKEIFLRELISNSSDALDKIRYETLTDPSKLDSGKELHINLIPNKQDRTLT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ah6       IRDSGIGMTKAELINNLGTIAKSGTKAFMEALSAGADVSMIGQFGVGFYSLFLVADRVQVISKSNDDEQYIWESN
+1yer       IVDTGIGMTKADLINNLGTIAKSGTKAFMEALQAGADISMIGQFGVGFYSAYLVAEKVTVITKHNDDEQYAWESS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ah6       AGGSFTVTLDEVNERIGRGTILRLFLKDDQLEYLEEKRIKEVIKRHSEFVAYPIQLVVTKEVE*
+1yer       AGGSFTVRTDT-GEPMGRGTKVILHLKEDQTEYLEERRIKEIVKKHSQFIGYPITLFVE----*
+           =========|=========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ah6       100.0  70.0
+  2-1yer        70.0 100.0
+
+***************************************************************************

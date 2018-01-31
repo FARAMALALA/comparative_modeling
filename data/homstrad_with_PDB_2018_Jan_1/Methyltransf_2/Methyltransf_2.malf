@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1fp2a      structureX:1fp2:   8 :A: 352 :A:isoflavone O-methyltransferase:Medicago sativa: 1.40: 21.7
+[  2] 1fp1d      structureX:1fp1:  19 :D: 372 :D:chalcone O-methyltransferase:Medicago sativa: 1.82: 22.6
+
+
+1fp2a      RKPSEIFKAQALLYKHIYAFIDSMSLKWAVEMNIPNIIQNHG---KPISLSNLVSIL---QVPSSKIGNVRRLMR
+1fp1d      QT---EDSACLSAMVLTTNLVYPAVLNAAIDLNLFEIIAKATPPGAFMSPSEIASKLPASTQHSDLPNRLDRMLR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fp2a      YLAHNGFFEIITK------EEESYALTVASELLVRGSD-LCLAPMVECVLDPTLSGSYHELKKWIYEEDLTLFGV
+1fp1d      LLASYSVLTSTTRTIEDGGAERVYGLSMVGKYLVPDESRGYLASFTTFLCYPALLQVWMNFKEAVVDE-------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fp2a      TLGSGFWDFLDKNPEYNTSFNDAMASDSKLINLALRDCDFVFDGLESIVDVGGGTGTTAKIICETFPKLKCIVFD
+1fp1d      -------DFMGKDKKMNQIFNKSMVDVCATEMKRMLEIYTGFEGISTLVDVGGGSGRNLELIISKYPLIKGINFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fp2a      RPQVVENLSGSNNLTYVGGDMFTSIPNADAVLLKYILHNWTDKDCLRILKKCKEAVTNDGKRGKVTIIDMVIDKK
+1fp1d      LPQVIENAPPLSGIEHVGGDMFASVPQGDAMILKAVCHNWSDEKCIEFLSNCHKALS---PNGKVIIVEFILPEE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1fp2a      KDENQVTQIKLLMDVNMA-CLNGKERNEEEWKKLFIEAGFQHYKISPLTG-FLSLIEIYP*
+1fp1d      PNTSEESKLVSTLDNLMFITVGGRERTEKQYEKLSKLSGFSKFQVACRAFNSLGVMEFYK*
+           =========|=========|=========|=========|=========|=========|
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fp2a      100.0  26.8
+  2-1fp1d       26.8 100.0
+
+***************************************************************************

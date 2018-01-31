@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jlxa1     structureX:1jlx:   1 :A: 153 :A:agglutinin:Amaranthus caudatus: 2.2: 19.6
+[  2] 1jlxa2     structureX:1jlx: 154 :A: 299 :A:agglutinin:Amaranthus caudatus: 2.2: 19.6
+
+
+1jlxa1     ----AGLPV-IMCLKSNNHQKYLRYQSDNIQQYGLLQFSADKILDPLAQFEVEPSKTYDGLVHIKSRYTNKYLVR
+1jlxa2     WKSIFQFPKGYVTFKGNN-GKYLGVI--TINQLPCLQFGYDNLNDPKVAHQMFVTS--NGTICIKSNYMNKFWRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jlxa1     WSPNHYWITASANEPDENKSNWACTLFKPLYVEEGNMKKVRLLHVQLGHYTQNYTVG-GSFVSYLFAESSQIDTG
+1jlxa2     ST--DDWILVDGNDPRETN--EAAALFRSDVHD---FNVISLLNMQKTWFIKRFTSGKPGFINCMNAATQNVD--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jlxa1     SKDVFHVID-*
+1jlxa2     ETAILEIIEL*
+           =========|
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jlxa1     100.0  26.7
+  2-1jlxa2      26.7 100.0
+
+***************************************************************************

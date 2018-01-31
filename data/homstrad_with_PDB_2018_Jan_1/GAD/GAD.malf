@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1c0aa      structureX:1c0a: 288 :A: 420 :A:aspartyl-tRNA synthetase:Escherichia coli: 2.40: 20.8
+[  2] 1g51a      structureX:1g51: 295 :A: 414 :A:aspartyl-tRNA synthetase:Thermus aquaticus: 2.40: 19.4
+
+
+1c0aa      NPMELTDVADLLKSVEFAVFAGPANDPKGRVAALRVPGGASLTRKQIDEYGNFVKIYGAKGLAYIKVNERAKGLE
+1g51a      FGLELKEVGPLFRQSGFRVFQEAE-----SVKALALPK--ALSRKEVAELEEVAKRHKAQGLAWARVEE-----G
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c0aa      GINSPVAKFLNAEIIEDILDRTAAQDGDMIFFGADNKKIVADAMGALRLKVGKDLGLT*
+1g51a      GFSGGVAKFL-EPVREALLQATEARPGDTLLFVAGPRKVAATALGAVRLRAADLLGLK*
+           ====|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c0aa      100.0  38.3
+  2-1g51a       38.3 100.0
+
+***************************************************************************

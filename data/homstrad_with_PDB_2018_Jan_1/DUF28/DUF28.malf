@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1lfpa      structureX:1lfp:   5 :A: 247 :A:hypothetical protein aq_1575:Aquifex aeolicus: 1.72: 22.8
+[  2] 1kona      structureX:1kon:   3 :A: 246 :A:protein yebC:Escherichia coli: 2.20: 27.3
+
+
+1lfpa      --SHWAQIKHKKAKVDAQRGKLFSKLIREIIVATRLGGPNPEFNPRLRTAIEQAKKAN-PWENIERAIKKGAGEL
+1kona      GHSKWANTRHRKAAQDAKRGKIFTKIIRELVTAAKLDA-----NPRLRAAVDKALSNNMTRDTLNRAIARGA---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lfpa      EGEQFEEVIYEGYAPGGVAV-VLATTDNRNRTTSEVRHVFTKHGGNLGASGCVSYLFERKGYIEVPAKEVSEEEL
+1kona      ---NMETIIYEGYGPGGTAIMIECLSDNRNRTVAEVRHAFSKCGGNLGTDGSVAYLFSKKGVISFEK--GDEDTI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lfpa      LEKAIEVGAEDVQPGE-EVHIIYTVPEELYEVKENLEKLGVPIEKAQITWKPISTVQINDEETAQKVIKLLNALE
+1kona      MEAALEAGAEDVVTYDDGAIDVYTAWEEMGKVRDALEAAGLKADSAEVSMIPSTKADM-DAETAPKLMRLIDMLE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1lfpa      ELDDVQQVIANFEIP-EEILQK*
+1kona      DCDDVQEVYHNGEISDEVAATL*
+           ====|=========|=======
+               0230      0240    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lfpa      100.0  43.8
+  2-1kona       43.8 100.0
+
+***************************************************************************

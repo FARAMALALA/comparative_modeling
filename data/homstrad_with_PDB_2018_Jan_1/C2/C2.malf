@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1rsy       structureX:1rsy: 140 : : 265 : :synaptotagmin i:Rattus norvegicus: 1.9: -1
+[  2] 1a25a      structureX:1a25: 157 :A: 288 :A:protein kinase c, beta-i type:Rattus norvegicus: 2.7: 22.2
+[  3] 1djxa      structureX:1djx: 741 :A: 740 :A:1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta 1 (phospholipase c-delta-1) [domain swapped for 741-756]:Rattus norvegicus: 2.30: 22
+
+
+1rsy       --EKLGKLQYSLDYDF-QN-NQLLVGIIQAAELPALDM--GGTSDPYVKVFLLP--DKKKKFETKVHRKTL-NPV
+1a25a      --ERRGRIYIQAHIDR----EVLIVVVRDAKNLVPMDP--NGLSDPYVKLKLIPDPKSESKQKTKTIKCSL-NPE
+1djxa      DQHPSATLFVKISIQD-WRPERLRVRIISGQQLPKVNKNKNSIVDPKVIVEIHGVGRDTGSRQTAVITNNGFNPR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rsy       FNEQFTFKVPYSELGGKTLVMAVYDFDRFSKHDIIGEFKVPMNTVDFGHVTEEWRDLQSA--------*
+1a25a      WNETFRFQLK-ESDKDRRLSVEIWDWDLTSRNDFMGSLSFGISELQ-KAGVDGWFKLLSQEEGEYFNV*
+1djxa      WDMEFEFEVT--VPDLALVRFMVEDYDSSSKNDFIGQSTIPWNSLKQ---GYRHVHLLSKNG------*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1rsy       100.0  28.6  23.8
+  2-1a25a       28.6 100.0  20.6
+  3-1djxa       23.8  20.6 100.0
+
+***************************************************************************

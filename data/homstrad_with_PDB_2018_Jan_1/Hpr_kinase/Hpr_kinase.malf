@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ko7a      structureX:1ko7: 131 :A: 298 :A:Hpr kinase-phosphatase:Staphylococcus xylosus: 1.95: 22.6
+[  2] 1jb1a      structureX:1jb1: 135 :A: 307 :A:Hprk protein:Lactobacillus casei: 2.80: 23.5
+
+
+1ko7a      RTTSLHGVLVDVYGVGVLITGDSGIGKSETALELIKRGHRLVADDNVEIREISKDELIGRAPKLIEHLLEIRGLG
+1jb1a      ERRS-HGVLVDIYGLGVLITGDSGVGKSETALELVQRGHRLIADDRVDVYQQDEQTIVGAAPPILSHLLEIRGLG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ko7a      IINVMTLFGAGSILTEKRLRLNIHLEN--EETLRILDTEITKKTIPVRPGRNVAVIIEVAAMNYRLNIMGINTAE
+1jb1a      IIDV-NLFGAGAVREDTTISLIVHLENWTPDQLIFDV-PVPKITVPVKVGRNLAIIIEVAA-NFRAKS-GYDATK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ko7a      EFNDRLN-----*
+1jb1a      TFEKNLNHLIEH*
+           =========|==
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ko7a      100.0  52.9
+  2-1jb1a       52.9 100.0
+
+***************************************************************************

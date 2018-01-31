@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1h2wa      structureX:1h2w: 431 :A: 710 :A:prolyl endopeptidase:Sus scrofa: 1.39: 21.2
+[  2] 1n1ma      structureX:1n1m: 508 :A: 764 :A:dipeptidyl peptidase IV:Homo sapiens: 2.50: 20.8
+
+
+1h2wa      DASDYQTVQIFYPSKDGTKIPMFIVHKKGIKLDGSHPAFLYGYGGFNISI--TPNYSVSRLIFVRHMGGVLAVAN
+1n1ma      Q--MPSKKLDFIILN-ETKFWYQMILPPHFDKSKKYPLLLDVYAGPCSQKADTVFRLNWATYLASTENIIVASFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h2wa      IRGGGEYGETWHKGGILANKQNCFDDFQCAAEYLIKEGYTSPKR---LTINGGSNGGLLVATCANQRPDLFGCVI
+1n1ma      GRGSGYQGDKIMHAINRRLGTFEVEDQIEAARQFSKMGFVD---NKRIAIWGWSYGGYVTSMVLGSGSGVFKCGI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h2wa      AQVGVMDMLKFHKYTIGHAWTTDYGCSDSKQHFEWLIKYSPLHNVKLPEADDIQYPSMLLLTADHDDRVVPLHSL
+1n1ma      AVAPVSRWEYYD----SVYTERYMGLPTPEDNLDHYRNSTVMSRAENFKQ-----VEYLLIHGTADDNVHFQQSA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1h2wa      KFIATLQYIVGRSRKQNNPLLIHVDTKAGHGAGKPTAKVIEEVSDMFAFIARCLNIDWIP*
+1n1ma      QISKALVDV-------GVDFQAMWYTDEDHG-IASSTAHQHIYTHMSHFIKQCFS-----*
+           ====|=========|=========|=========|=========|=========|=====
+               0230      0240      0250      0260      0270      0280  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h2wa      100.0  16.7
+  2-1n1ma       16.7 100.0
+
+***************************************************************************

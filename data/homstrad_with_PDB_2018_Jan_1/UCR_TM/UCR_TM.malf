@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1bcce      structureX:1bcc:   1 :E:  69 :E:ubiquinol-cytochrome C reductase iron-sulfur subunit:Bos taurus: 3.16: 27
+[  2] 1bgye      structureX:1bgy:   1 :E:  75 :E:ubiquinol-cytochrome c reductase iron-sulfur subunit:Bos taurus: 3.0: 32
+[  3] 1ezve      structureX:1ezv:  31 :E:  95 :E:ubiquinol-cytochrome C reductase iron-sulfur subunit:Saccharomyces cerevisiae: 2.30: 22.2
+
+
+1bcce      SHTDIKVPNFSDYRRPPDDY-STKSSRESDPSRKGFSYLVTAVTTLGVAYAAKNVVTQFVSSMSASADVL-----
+1bgye      SHTDIKVPDFS-DYRRPEVLDSTKSSKESSEARKGFSYLVTATTTVGVAYAAKNVVSQFVSSMSASADVLAMSKI
+1ezve      KSTY-RTPNFD-DVLKE---------NNDADKGRSYAYFMVGAMGLLSSAGAKSTVETFISSMTATADVLAMAKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bcce      -*
+1bgye      E*
+1ezve      E*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bcce      100.0  78.3  27.7
+  2-1bgye       78.3 100.0  32.3
+  3-1ezve       27.7  32.3 100.0
+
+***************************************************************************

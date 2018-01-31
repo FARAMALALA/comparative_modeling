@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1d5ya      structureX:1d5y:   3 :A: 121 :A:right origin-binding protein:Escherichia coli: 2.7: 25.4
+[  2] 1bl0a      structureX:1bl0:   9 :A: 124 :A:multiple antibiotic resistance protein marA:Escherichia coli: 2.30: 22.5
+
+
+1d5ya      QAGIIRDLLIWLEGHLDQPLSLDNVAAKAGYSKWHLQRMFKDVTGHAIGAYIRARRLSKSAVALRLTARPILDIA
+1bl0a      DAITIHSILDWIEDNLESPLSLEKVSERSGYSKWHLQRMFKKETGHSLGQYIRSRKMTEIAQKLKESNEPILYLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d5ya      LQYRFDSQQTFTRAFKKQFAQTPALYRRSPEWSAFGIRPPLRLG*
+1bl0a      ERYGFESQQTLTRTFKNYFDVPPHKYRMTNMQGESRFLHPL---*
+           ====|=========|=========|=========|=========
+               0080      0090      0100      0110      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1d5ya      100.0  45.7
+  2-1bl0a       45.7 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ig4a      structureX:1ig4:   1 :A:  75 :A:methyl-CpG-binding domain of mbd1 in complex with methylated DNA:Homo sapiens: -1: -1
+[  2] 1qk9a      structureX:1qk9:   1 :A:  92 :A:methyl-CpG-binding protein 2:Homo sapiens: -1: -1
+
+
+1ig4a      -------------------MAEDWLDCPALGPGWKRREVFRKSGATCGRSDTYYQSPTGDRIRSKVELTRYLGPA
+1qk9a      ASASPKQRRSIIRDRGPMY------DDPTLPEGWTRKLKQRKSGRSAGKYDVYLINPQGKAFRSKVELIAYFEKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ig4a      ----CDLTLFDFKQGILCYPAPK---*
+1qk9a      GDTSLDPNDFDFTVTGR---GSGSGC*
+           ====|=========|=========|=
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ig4a      100.0  34.7
+  2-1qk9a       34.7 100.0
+
+***************************************************************************

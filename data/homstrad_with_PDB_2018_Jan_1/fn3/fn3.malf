@@ -1,0 +1,89 @@
+      Code       Title
+
+[  1] 1fnf2      structureX:1fnf:1236 : :1326 : :fibronectin (fn):Homo sapiens: 2.0: -1
+[  2] 1fnf3      structureX:1fnf:1327 : :1415 : :fibronectin (fn):Homo sapiens: 2.0: -1
+[  3] 1fnf1      structureX:1fnf:1142 : :1235 : :fibronectin (fn):Homo sapiens: 2.0: -1
+[  4] 1fnf4      structureX:1fnf:1416 : :1509 : :fibronectin (fn):Homo sapiens: 2.0: -1
+[  5] 1ten       structureX:1ten: 803 : : 891 : :tenascin (tn):Homo sapiens: 1.8: 19.6
+[  6] 1cfb1      structureX:1cfb: 610 : : 709 : :neuroglian:Drosophila melanogaster: 2.0: -1
+[  7] 1cto       structureX:1cto:   1 : : 109 : :granulocyte colony stimulating factor receptor (g-csf-r):Mus musculus: -1: -1
+[  8] 1ebpa2     structureX:1ebp: 119 :A: 220 :A:erythropoietin receptor (epo-r):Homo sapiens: 2.8: 21
+[  9] 3hhrb2     structureX:3hhr: 131 :B: 234 :B:growth hormone receptor (gh receptor):Homo sapiens: 2.8: 22.1
+[ 10] 1boy2      structureX:1boy: 107 : : 213 : :tissue factor (tf):Homo sapiens: 2.2: 20.3
+[ 11] 1boy1      structureX:1boy:   3 : : 106 : :tissue factor (tf):Homo sapiens: 2.2: 20.3
+[ 12] 1cfb2      structureX:1cfb: 710 : : 814 : :neuroglian:Drosophila melanogaster: 2.0: -1
+[ 13] 1ebpa1     structureX:1ebp:  22 :A: 118 :A:erythropoietin receptor (epo-r):Homo sapiens: 2.8: 21
+[ 14] 3hhrb1     structureX:3hhr:  32 :B: 130 :B:growth hormone receptor (gh receptor):Homo sapiens: 2.8: 22.1
+
+
+1fnf2      -----V-PPPTDLRFTNIG------P-DTMRVTWAPPP---------------SIDLTNFLVRYSPVK-NEE-DV
+1fnf3      -----L-DSPTGIDFSDIT------A-NSFTVHWIAPR----------------ATITGYRIRHHPEH-FSG-RP
+1fnf1      ----PL-SPPTNLHLEANP------DTGVLTVSWERSTTP---------------DITGYRITTTPTNGQQG-NS
+1fnf4      ----VS-DVPRDLEVVAAT------P-TSLLISWDAPAV----------------TVRYYRITYGETG-GNS-PV
+1ten       -----L-DAPSQIEVKDVT------D-TTALITWFKPLA----------------EIDGIELTYGIKD-VPG-DR
+1cfb1      IVQDVP-NAPKLTGITCQ-------A-DKAEIHWEQQG-----------DN--RSPILHYTIQFNTSFTPASWDA
+1cto       ----GSSLEPPMLQALDIGPDVVSHQPGCLWLSWKPWKPSE-------------YMEQECELRYQPQLK--GANW
+1ebpa2     ---VLL-DAPVGLVARLAD------ESGHVVLRWLPPP------------ETPMTSHIRYEVDVSAGNGA-G-SV
+3hhrb2     -----P-DPPIALNWTLLN-VSLTGIHADIQVRWEAPRNA---------DIQKGWMVLEYELQYKEVN-ET--KW
+1boy2      -----NLGQPTIQSFEQVG--------TKVNVTVEDERTLVRRNNTFLSLRDVFGKDLIYTLYYWKSSS---SGK
+1boy1      ---TTNTVAAYNLTWKST--------NFKTILEWEPKPV-----------------NQVYTVQISTKSG----DW
+1cfb2      --PDVPFKNPDNVVGQGTE------P-NNLVISWTPMP-----------EIEHNAPNFHYYVSWKRDIP--AAAW
+1ebpa1     --------GPEELLCFTER-------LEDLVCFWEEAASA-----------GVGPGN--YSFSYQLE----DEPW
+3hhrb1     --------EPKFTKCRSPER-------ETFSCHWTDEVH------------------GPIQLFYTRRNEWTQ-EW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fnf2      AELSIS-PS------DNAVVLT-NL---LPGTEYVVSVSSVY--E--------QHES-TPL-RG-RQKTG----*
+1fnf3      REDRVP-HS------RNSITLT-NL---TPGTEYVVSIVALN--G--------REES-PLL-IG-QQST-----*
+1fnf1      LEEVVH-AD------QSSCTFD-NL---SPGLEYNVSVYTVK--D--------DKES-VPI-SD-TIIPA----*
+1fnf4      QEFTVP-GS------KSTATIS-GL---KPGVDYTITVYAVTGRG------DSPASS-KPI-SI-NYRT-----*
+1ten       TTIDLT-ED------ENQYSIG-NL---KPDTEYEVSLISRR--G--------DMSS-NPA-KE-TFTT-----*
+1cfb1      AYEKVP-NT------DSSFVVQ--M---SPWANYTFRVIAFNK----------IGAS-PPSAHSDSCTTQ----*
+1cto       TLVFHLPSS------KDQFELC-GL---HQAPVYTLQMRCIRSS-LPG------FWS-PWSPGL-QLRPTMK--*
+1ebpa2     QRVEIL-EG------RTECVLS-NL---RGRTRYTFAVRARMAEP---SFG--GFWS-AWSEPV-SLLT-----*
+3hhrb2     KMMDPI-L-------TTSVPVY----SLKVDKEYEVRVRSKQRN--------SGNYG-EFSEVL-YVTLP----*
+1boy2      KTAKTN---------TNEFLID--V---DKGENYCFSVQAVIPSRT------VNRKS-TDSPVE-CMGQE----*
+1boy1      KSKCFYTT-------DTECDL-TDEIVKDVKQTYLARVFSYPAGNVESTGS--AGEP-LYE-NSPEFT-PYLET*
+1cfb2      ENNNIFDWR------QNNIVIA-DQ---PTFVKYLIKVVAIND----------RGESNVAAEEVVGYSGE--DR*
+1ebpa1     KLCRLHQAPTARGAVRFWCSLPTADT--SSFVPLELRVTAAS---------------GAPRYHR-VIH-INEV-*
+3hhrb1     KECPDYVSAG-----ENSCYFNSSFT--SIWIPYCIKLTSNG----------------GTVDEK-CFSVDEIVQ*
+           ====|=========|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      0140      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14]
+
+  1-1fnf2      100.0  34.8  25.3  20.9  22.5  15.4  15.4  20.9  16.5  16.5
+                14.3  14.3   7.7   8.8
+  2-1fnf3       34.8 100.0  31.5  27.0  25.8  19.1  15.7  19.1  13.5  13.5
+                 5.6  16.9   9.0  10.1
+  3-1fnf1       25.3  31.5 100.0  27.7  22.5  17.0  13.8  16.0  13.8  14.9
+                10.6  12.8  13.8  11.0
+  4-1fnf4       20.9  27.0  27.7 100.0  25.8  19.1  16.0  18.1  14.9  11.7
+                 6.4  17.0  12.8   6.6
+  5-1ten        22.5  25.8  22.5  25.8 100.0  15.7  14.6  18.0  18.0  14.6
+                10.1   9.0   7.9  13.5
+  6-1cfb1       15.4  19.1  17.0  19.1  15.7 100.0   8.0  14.0  16.0  16.0
+                16.0  16.0  10.3   9.9
+  7-1cto        15.4  15.7  13.8  16.0  14.6   8.0 100.0  21.6  12.5   9.3
+                 7.7   9.5  10.3   8.8
+  8-1ebpa2      20.9  19.1  16.0  18.1  18.0  14.0  21.6 100.0  16.7   9.8
+                16.7  15.7  11.3   6.6
+  9-3hhrb2      16.5  13.5  13.8  14.9  18.0  16.0  12.5  16.7 100.0  13.5
+                15.4   9.6  14.4  12.1
+ 10-1boy2       16.5  13.5  14.9  11.7  14.6  16.0   9.3   9.8  13.5 100.0
+                10.6   8.6   8.2  11.0
+ 11-1boy1       14.3   5.6  10.6   6.4  10.1  16.0   7.7  16.7  15.4  10.6
+               100.0  14.4  12.4   9.9
+ 12-1cfb2       14.3  16.9  12.8  17.0   9.0  16.0   9.5  15.7   9.6   8.6
+                14.4 100.0  12.4  13.2
+ 13-1ebpa1       7.7   9.0  13.8  12.8   7.9  10.3  10.3  11.3  14.4   8.2
+                12.4  12.4 100.0  16.5
+ 14-3hhrb1       8.8  10.1  11.0   6.6  13.5   9.9   8.8   6.6  12.1  11.0
+                 9.9  13.2  16.5 100.0
+
+***************************************************************************

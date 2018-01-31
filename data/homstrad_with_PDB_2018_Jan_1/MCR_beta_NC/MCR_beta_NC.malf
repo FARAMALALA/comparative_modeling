@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1mrob      structureX:1mro:   2 :B: 443 :B:methyl-coenzyme M reductase I:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  2] 1e6vb      structureX:1e6v:   7 :B: 442 :B:methyl-coenzyme M reductase beta subunit:Methanopyrus kandleri: 2.7: 23.9
+[  3] 1e6yb      structureX:1e6y:2002 :B:2433 :B:methyl-coenzyme M reductase beta subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1mrob      AKFEDKVDLYDDRGNLVEEQVPLEALSPLRNPAIKSIVQGIKRTVAVNLEGIENALKTAKVGGPACKIMGRELDL
+1e6vb      ----DTVDLYDDRGNCVAEEVPIEVLSPMRNEAIQSIVNDIKRTVAVDLEGIENALQNATVGGKGMKIPGREMDV
+1e6yb      ---SDTVDIYDDRGKLLESNVDIMSLAPTRNAAIQSIIMDTKRSVAVNLAGIQGALASGKMGGKGRQILGRGLNY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mrob      DIVGNAESIAAAAKEMIQVTEDDDTNVELLGGGKRALVQVPSARFDVAAEYSAAPLVTATAFVQAIINEFDVSMY
+1e6vb      DIVDNAEAIADEIEKMIRVYQDDDTNVEPMYDGKRLLVQLPSERVKVMADPYSGTLQAGMAVVHAIIDVCEVDMW
+1e6yb      DIVGNADAIAENVKKLVQVDEGDDTNVIKVKGGKSLLIQSPKSRIIAGADFMSATTVGAAAVTQTIMDMFGTDPY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mrob      DANMVKAAVLGRYPQSVEYMGANIATMLDIPQKLEGPGYALRNIMVNHVVAATLKNTLQAAALSTILEQTAMFEM
+1e6vb      DANMVKAAVFGRYPQTIDYFGGNVASMLDVPMKQEGVGYALRNIMVNHIVAATRKNTMQAVCLAATLQQTAMFEM
+1e6yb      DAPIVKSAVWGSYPQTMDLMGGQVQGILSIPQNNEGLGFSLRNIMANHVAAISNRNAMNASALSSIYEQSGIFEM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mrob      GDAVGAFERMHLLGLAYQGMNADNLVFDLVKANGKEGTVGSVIADLVERALEDGVIKVEKELT-DYKVYGTDDLA
+1e6vb      GDALGPFERLHLLGYAYQGLNADNMVYDIVKKHGKEGTVGTVVREVVERALEDGVIEVKEELP-SFKVYKANDMD
+1e6yb      GGAVGMFERHQLLGLAYQGLNANNLLYDIVKENGKDGTIGTVIESVVRRAIEAGIISVDKTAPSGYNFYKANDVP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mrob      MWNAYAAAGLMAATMVNQGAARAAQGVSSTLLYYNDLIEFETGLPSVDFGKVEGTAVGFSFFSHSIYGGGGPGIF
+1e6vb      LWNAYAAAGLVAAVMVNQGAARAAQGVSATILYYNDLLEYETGLPGVDFGRAEGTAVGFSFFSHSIYGGGGPGIF
+1e6yb      KWNACAAVGTLAATLVNCGAGRAAQNVSSTLLYFNDILEKETGLPGCDYGKVEGTAVGFSFFSHSIYGGGGPGVF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mrob      NGNHIVTRHSKGFAIPCVAAAMALDAGTQMFSPEATSGLIKEVFSQVDEFREPLKYVVEAAAEIKNEI*
+1e6vb      HGNHIVTRHSKGFAIPPVAAAMALDAGTQMFSPEVTSKLIGDVFGEIDEFREPMKYITEAAAEEAK--*
+1e6yb      NGNHVVTRHSRGFAIPCVCAAVALDAGTQMFSIESTSGLIGDVFGAIPEFREPIKAVAGV--------*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0380      0390      0400      0410      0420      0430      0440 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mrob      100.0  70.0  58.1
+  2-1e6vb       70.0 100.0  56.9
+  3-1e6yb       58.1  56.9 100.0
+
+***************************************************************************

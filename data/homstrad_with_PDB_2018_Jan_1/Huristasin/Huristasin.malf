@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1skz2      structureX:1skz:  59 : : 110 : :antistasin (Xa-proclotting enzyme inhibitor):Haementeria officinalis: 1.9: 21.7
+[  2] 1skz1      structureX:1skz:   7 : :  58 : :antistasin (Xa-proclotting enzyme inhibitor):Haementeria officinalis: 1.9: 21.7
+[  3] 1bx7       structureX:1bx7:   3 : :  53 : :hirustasin:Hirudo medicinalis: 1.20: -1
+
+
+1skz2      KATCDISECPEGMMCSRLTNKCDCKIDINCRKTCPNGLKRDKLGCEY-CECRP---*
+1skz1      --GCEEAGCPEGSACNIITDRCTCS-GVRCRVHCPHGFQRSRYGCEF-CKCRLEPM*
+1bx7       GNTCGGETCSAAQVCLK--GKCVCN-EVHCRIRCKYGLKKDENGCEYPCSCAKA--*
+           =========|=========|=========|=========|=========|======
+                    0010      0020      0030      0040      0050   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1skz2      100.0  40.4  39.2
+  2-1skz1       40.4 100.0  29.4
+  3-1bx7        39.2  29.4 100.0
+
+***************************************************************************

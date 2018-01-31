@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1cksa      structureX:1cks:   2 :A:  75 :A:cyclin-dependent kinases regulatory subunit 2 (cks-2):Homo sapiens: 2.1: 16.8
+[  2] 1buhb      structureX:1buh:   5 :B:  74 :B:cyclin-dependent kinases regulatory subunit 1 (cks-1):Homo sapiens: 2.60: 19
+[  3] 1puc       structureX:1puc:   2 : : 102 : :cyclin-dependent kinases regulatory subunit (p13):Schizosaccharomyces pombe: 1.95: -1
+
+
+1cksa      -------------------AHKQIYYSDKYFDEHYEYRHVMLPRELSKQVPK---------THLMSEEEWRRLGV
+1buhb      ----------------------QIYYSDKYDDEEFEYRHVMLPKDIAKLVPK---------THLMSESEWRNLGV
+1puc       SKSGVPRLLTASERERLEPFIDQIHYSPRYADDEYEYRHVMLPKAMLKAIPTDYFNPETGTLRILQEEEWRGLGI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cksa      QQSLGWVHYMIHEPEPHILLFRRPLPK*
+1buhb      QQSQGWVHYMIHEPEPHILLFRRPLP-*
+1puc       TQSLGWEMYEVHVPEPHILLFKREK-D*
+           ====|=========|=========|==
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cksa      100.0  84.3  54.1
+  2-1buhb       84.3 100.0  55.7
+  3-1puc        54.1  55.7 100.0
+
+***************************************************************************

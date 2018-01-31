@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1g2aa      structureX:1g2a:   1 :A: 164 :A:Polypeptide deformylase:Escherichia coli: 1.75: 19.1
+[  2] 1jyma      structureX:1jym:  63 :A: 241 :A:Peptide deformylase:Plasmodium falciparum: 2.80: 23.4
+
+
+1g2aa      SVLQVLHIPDERLRKVAKPVEEVNAEIQRIVDDMFETMYAEEGIGLAATQVDIHQRIIVIDVS-ENRD--ERLVL
+1jyma      DEIKIVKYPDPILRRRSEVTNFDDN-LKRVVRK-FDI-YESKGIGLSAPQVNISKRIIVWNALYEKRKEENERIF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g2aa      INPELLEKS-GETGIEEGCLSIPEQRALVPRAEKVKIRALDRDGKPFELEADGLLAICIQHEMDHLVGKLFMDYL
+1jyma      INPSIVEQSLVKLKLIEGCLSF-GIEGKVERPSIVSISYYDINGYKHLKILKGIHSRIFQHEFDHLNGTLFIDKT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1g2aa      S--PLKQQRIRQKVEKLDRL----------*
+1jyma      QVDKKKVRPKLNELIRDYKATHSEEPLEHH*
+           =========|=========|=========|
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g2aa      100.0  30.5
+  2-1jyma       30.5 100.0
+
+***************************************************************************

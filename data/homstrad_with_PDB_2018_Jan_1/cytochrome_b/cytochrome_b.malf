@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1bccc      structureX:1bcc:   2 :C: 380 :C:cytochrome b:Gallus gallus: 3.16: 27.0
+[  2] 1bgyc      structureX:1bgy:   1 :C: 379 :C:cytochrome b:Bos taurus: 3.0: 32.0
+
+
+1bccc      A-PNIRKSHPLLKMINNSLIDLPAPSNISAWWNFGSLLAVCLMTQILTGLLLAMHYTADTSLAFSSVAHTCRNVQ
+1bgyc      MTNIRKSHPLMKIVNNA-FIDLPAPSNISSWWNFGSLLGICLILQILTGLFLAMHYTSDTTTAFSSVTHICRDVN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bccc      YGWLIRNLHANGASFFFICIFLHIGRGLYYGSYLYKETWNTGVILLLTLMATAFVGYVLPWGQMSFWGATVITNL
+1bgyc      YGWIIRYMHANGASMFFICLYMHVGRGLYYGSYTFLETWNIGVILLLTVMATAFMGYVLPWGQMSFWGATVITNL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bccc      FSAIPYIGHTLVEWAWGGFSVDNPTLTRFFALHFLLPFAIAGITIIHLTFLHESGSNNPLGISSDSDKIPFHPYY
+1bgyc      LSAIPYIGTNLVEWIWGGFSVDKATLTRFFAFHFILPFIIMAIAMVHLLFLHETGSNNPTGISSDVDKIPFHPYY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bccc      SFKDILGLTLMLTPFLTLALFSPNLLGDPENFTPANPLVTPPHIKPEWYFLFAYAILRSIPNKLGGVLALAASVL
+1bgyc      TIKDILGALLLILALMLLVLFAPDLLGDPDNYTPANPLNTPPHIKPEWYFLFAYAILRSIPNKLGGVLALAFSIL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bccc      ILFLIPFLHKSKQRTMTFRPLSQTLFWLLVANLLILTWIGSQPVEHPFIIIGQMASLSYFTILLILFPTIGTLEN
+1bgyc      ILALIPLLHTSKQRSMMFRPLSQCLFWALVADLLTLTWIGGQPVEHPYITIGQLASVLYFLLILVLMPTAGTIEN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bccc      KMLNY*
+1bgyc      KLLKW*
+           ====|
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bccc      100.0  72.0
+  2-1bgyc       72.0 100.0
+
+***************************************************************************

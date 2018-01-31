@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1feha      structureX:1feh: 127 :A: 515 :A:periplasmic [Fe] hydrogenase 1:Clostridium pasteurianum: 1.80: 18
+[  2] 1hfel      structureX:1hfe:   2 :L: 397 :L:periplasmic [Fe] hydrogenase large subunit:Desulfovibrio vulgaris: 1.6: 15.8
+
+
+1feha      ------------KDKTEYVDE-RSKSLTVDRTKCLLCGRCVNACGKNTETYAMKFLNKNGKTIIGAEDEKCFDDT
+1hfel      SRTVMERIEYEMHTPDPKADPDKLHFVQIDEAKCIGCDTCSQYC----PTAAIFGEM--G-EPHSIP---HI--E
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1feha      NCLLCGQCIIACPVAALSE-KSHMDRVKNALNAPEKHVIVAMAPSVRASIGELFNMGFGVDVTGKIYTALRQLGF
+1hfel      ACINCGQCLTHCPENAIYEAQSWVPEVEKKLKDGKVKCIAMPAPAVRYALGDAFGMPVGSVTTGKMLAALQKLGF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1feha      DKIFDINFGADMTIMEEATELVQRIEN--NGPFPMFTSCCPGWVRQAENYYPELLNNLSSAKSPQQIFGTASKTY
+1hfel      AHCWDTEFTADVTIWEEGSEFVERLTKKSDMPLPQFTSCCPGWQKYAETYYPELLPHFSTCKSPIGMNGALAKTY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1feha      YPSISGLDPKNVFTVTVMPCTSKKFEADRPQMEKDGLRDIDAVITTRELAKMIKDAKIPFAKLEDSEADPAMGEY
+1hfel      GAERMKYDPKQVYTVSIMPCIAKKYEGLRPELKSSGMRDIDATLTTRELAYMIKKAGIDFAKLPDGKRDSLMGES
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1feha      SGAGAIFGATGGVMEAALRSAKDFAENAELEDIEYKQVRGLNGIKEAEVEINNNKYNVAVINGASNLFKFMKSGM
+1hfel      TGGATIFGVTGGVMEAALRFAYEAVTGKKPDSWDFKAVRGLDGIKEATVNVGGTDVKVAVVHGAKRFKQVCDDVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1feha      INEKQYHFIEVMACHGGCVNGGGQPHVNPK---*
+1hfel      AGKSPYHFIEYMACPGGCVCGGGQPVMPGVLEA*
+           ====|=========|=========|========
+               0380      0390      0400     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1feha      100.0  42.2
+  2-1hfel       42.2 100.0
+
+***************************************************************************

@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1dun       structureX:1dun:   1 : : 120 : :deoxyuridine 5'-triphosphate nucleotidohydrolase:Equine infectious anemia virus: 1.9: 16.1
+[  2] 1duta      structureX:1dut:   1 :A: 117 :A:deoxyuridine 5'-triphosphate nucleotidohydrolase:Feline immunodeficiency virus: 1.9: 20.9
+[  3] 1dupa      structureX:1dup:   1 :A: 136 :A:deoxyuridine 5'-triphosphate nucleotidohydrolase:Escherichia coli: 1.9: 15
+
+
+1dun       ---MLAYQG---------TQIKEKRDEDAGFDLCVPY--DIMIPVSDTKIIPTDVKIQV-PPNSFGWVTGKSSMA
+1duta      ----MIIEG---------DGILDKRSEDAGYDLLAAK--EIHLLPGEVKVIPTGVKLML-PKGYWGLIIGKSSIG
+1dupa      MMKKIDVKILDPRVGKEFPLPTYATSGSAGLDLRACLNDAVELAPGDTTLVPTGLAIHIADPSLAAMMLPRSGLG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dun       K-QGLLIN--GGIIDEGYTGEIQVICTNIGKSNIKLIEGQKFAQLIILQHHSNSRQPWDENKI*
+1duta      S-KGLDVL--GGVIDEGYRGEIGVIMINVSRKSITLMERQKIAQLIILPCKHEVLEQG--KVV*
+1dupa      HKHGIVLGNLVGLIDSDYQGQLMISVWNRGQDSFTIQPGERIAQMIFVPVVQAEFNLVED--F*
+           ====|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1dun       100.0  41.9  19.2
+  2-1duta       41.9 100.0  23.9
+  3-1dupa       19.2  23.9 100.0
+
+***************************************************************************

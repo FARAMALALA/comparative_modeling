@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1a3aa      structureX:1a3a:   4 :A: 148 :A:pts system, mannitol-specific IIA:Escherichia coli: 1.8: 19
+[  2] 1a6ja      structureX:1a6j:   8 :A: 157 :A:nitrogen regulatory IIA protein:Escherichia coli: 2.35: 19.7
+
+
+1a3aa      ---LFKLGAENIFLGRKAATKEEAIRFAGEQLVKGGYVEP-EYVQAMLDREKLTPTYLGESIAVPHG-TVEAKDR
+1a6ja      LQLSSVLNRECTRSRVHCQSKKRALEIISELAAKQLSLPPQVVFEAILTREKMGSTGIGNGIAIPHGKL---EED
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a3aa      VLKTGVVFCQYPEGVRF-GEEEDDIARLVIGIAARNN---EHIQVITSLTNALDDESVIERLAHTTSVDEVLELL
+1a6ja      TLRAVGVFVQLETPIAFDAID-NQPVDLLFALLVPADQTKTHLHTLSLVAKRLADKTICRRLRAAQSDEELYQII
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a3aa      AGRK*
+1a6ja      TDTE*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a3aa      100.0  22.1
+  2-1a6ja       22.1 100.0
+
+***************************************************************************

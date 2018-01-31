@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1jn1a      structureX:1jn1:   1 :A: 157 :A:2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase:Haemophilus influenzae (HI0671): 2.90: 19.8
+[  2] 1gx1a      structureX:1gx1:   0 :A: 156 :A:2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase:Escherichia coli: 1.80: 18.5
+[  3] 1iv3a      structureX:1iv3:   2 :A: 151 :A:2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase:Thermus thermophilus: 1.52: 20.3
+
+
+1jn1a      MIRIGHGFDVHAFGEDRPLIIGGVEVP-YHTGFIAHSDGDVALHALTDAILGAAALGDIGKLFPDTDMQYKNADS
+1gx1a      E-RIGHGFDVHAFGGEGPIIIGGVRIPYEKGLLA-HSDGDVALHALTDALLGAAALGDIGKLFPDTDPAFKGADS
+1iv3a      --RIGYGEDSHRLEEGRPLYLCGLLIPSPVGALA-HSDGDAAMHALTDALLSAYGLGDIGLLFPDTDPRWRGERS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jn1a      RGLLREAFRQVQEKGYKIGNVDITIIAQAPKMRPHIDAMRAKIAEDLQCDIEQVNVKATTTEKLGFTGRQEGIAC
+1gx1a      RELLREAWRRIQAKGYTLGNVDVTIIAQAPK-LPHIPQ-RVFIAEDLGCH-DDVNVKATTTEKLGFTGRGEGIAC
+1iv3a      EVFLREAMRLVEARGAKLLQASLVLTLDRPKLGPHRKALVDSLSRLMRLPQDRIGLTFKTSEGL----APSHVQA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jn1a      EAVALLIR*
+1gx1a      EAVALLIK*
+1iv3a      RAVVLLD-*
+           ========
+                   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1jn1a      100.0  75.2  38.7
+  2-1gx1a       75.2 100.0  41.3
+  3-1iv3a       38.7  41.3 100.0
+
+***************************************************************************

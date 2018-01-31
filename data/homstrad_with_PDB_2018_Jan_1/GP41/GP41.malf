@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1df4a      structureX:1df4:   3 :A:  64 :A:envelope polyprotein gp41:Human immunodeficiency virus type 1: 1.45: 20
+[  2] 1qcea      structureX:1qce:   1 :A: 123 :A:gp41:Simian immunodeficiency virus: -1: -1
+
+
+1df4a      ---------IVQQQNNLLRAIEAQQHLLQLTVWGIKQLQAG----------------------------------
+1qcea      AQSRTLLAGIVQQQQQLLDVVKRQQELLRLTVWGTKNLQTRVTAIEKYLKDQAQLNAWGAAFRQVAHTTVPWPNA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1df4a      ------GWMEWDREINNYTSLIHSLIEESQN-----------------*
+1qcea      SLTPKWNNETWQEWERKVDFLEENITALLEEAQIQQEKNMYELQKLNS*
+           ====|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1df4a      100.0  36.8
+  2-1qcea       36.8 100.0
+
+***************************************************************************

@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 1e3aa      structureX:1e3a:   3 :A: 820 :B:penicillin G acylase:Escherichia coli: 1.8: 15.8
+[  2] 1fm2a      structureX:1fm2:   7 :A: 689 :B:cephalosporin acylase:Brevundimonas diminuta: 2.00: 20.8
+
+
+1e3aa      -------SSSEIKIVRDEYGMPHIYANDTWHLFYGYGYVVAQDRLFQMEMARRSTQGTVAEVLGKDFVKFDKDIR
+1fm2a      QAPIAAYKPRSNEILWDGYGVPHIYGVDAPSAFYGYGWAQARSHGDNILRLYGEARGKGAEYWGPDYEQTTVWLL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1e3aa      RNYWPDAIRAQIAALSPEDMSILQGYADGMNAWIDKVNTNPETLLPKQFNTFGFTPKRWEPFDVAMIFVGTMANR
+1fm2a      TNGVPERAQQWYAQQSPDFRANLDAFAAGINAYAQQ---NPD-DISPEVRQVL----PVSGADVVAHAHRL-NFL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1e3aa      FSDSTSEIDNLALLTALKDKYGVSQGMAVFNQLKWLVNPSAPTTIAVQESNYPLKFNQQNSQTAALLPRYDLPAP
+1fm2a      YVAS---PGRTL---------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1e3aa      MLDRPAKGADGALLALAAGKNRETIAAQFAQGGANGLAGYPTGSNMWVIGKSKAQDAKAIMVNGPQFGW-YAPAY
+1fm2a      ------------------------------------------GSNSWAVAPGKTANGNALLLQNPHLSWTTDYFT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1e3aa      TYGIGLHGAGYDVTGNTPFAYPGLVFGHNGVISWGSTAGFGDDVDIFAERLSAEKPGYYLHNGKWVKMLSREETI
+1fm2a      YYEAHLVTPDFEIYGATQIGLPVIRFAFNQ-RGITNTVN-GVGATNYRLTLQD---GGYLYDGQVRPFERRQASY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1e3aa      TVK-N---GQAETFTVWRTVHGNILQTDQTTQTAYAKSRAWDGKEVASLLAWTHQMKAKNWQEWTQQAAKQALTI
+1fm2a      RLRQADGSTVDKPLEIRSSVHGPVFER--ADGTAVAVRVAGLDRP--GLEQYFDI-TAHSFDDYEA-AARQVPTF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1e3aa      NWYYADVNGNIGYVHTGAYPDRQSGHD---PRLPVPGT-GKWDWKGLLPFEMNPKVYNPQSGYIANWNNSPQ---
+1fm2a      NIVYADREGTINYSFNGVAPKR-AEGDIAFWQGNVPGDSSRYLWTETHPLDDLPRVTNPPGGFVQNSNDPPWTPT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1e3aa      -KDYPA---SDLFAFLWGGAD-RVTEIDRLLEQKPRLTADQAWDVIRQTSRQDLNLRLFLPTLQAATSGLTQSDP
+1fm2a      WPVTYCPANHPSYLAPQTPHSLRAQQSVRL-SENDDLTLERF-ALQFS--HRA-VADRTLPDLIPAALID-PDPE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1e3aa      RRQLVETLTRWDGINLLNDDGKTWQQPGSAILNVWLTSMLKRTVVAAVPMPFDKWYSASGYETTQDGPTGSLNIS
+1fm2a      VQAAARLLAAWDRDFTS-------DSRAALLFEEWARLFAG------------QNFAGQ-----AAFAT---PWS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1e3aa      VGAKILYEAVQGDKSPIPQAVDLFAGKPQQEVVLAALEDTWETLSKRYG---NNVSNWKTPA--MALTFRANNFF
+1fm2a      LDKPVSTP--------YGVRD--------PKAAVDQLRTAIANTKRKYGAIDRPFGDASRILNDVNVPGAAGYGN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1e3aa      GVPQAA-------AEETRHQAEYQNRGTENDMIVFSPTTSDRPVLAWDVVAPGQSGFIAPDGTVDKHYEDQLKMY
+1fm2a      LGSFRVFTWSDPDENGIRT---PVHGETWVAIEFST------PVRAYGL-SYGNSRQP-----GTTHYSDQIERV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0760      0770      0780      0790      0800      0810      0820  
+
+1e3aa      ENFGRKSLWLTKQDVEAHKESQEVLHVQR*
+1fm2a      SRADFRELLLRREQVEAAVQERTPFNF--*
+           ====|=========|=========|====
+               0830      0840      0850 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1e3aa      100.0  19.7
+  2-1fm2a       19.7 100.0
+
+***************************************************************************

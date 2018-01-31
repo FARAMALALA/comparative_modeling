@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1g8fa      structureX:1g8f:   2 :A: 511 :A:ATP sulfurylase:Saccharomyces cerevisiae: 1.95: 19.6
+[  2] 1i2da      structureX:1i2d:   2 :A: 573 :A:ATP sulfurylase:Penicillium chrysogenum: 2.81: 20.7
+
+
+1g8fa      -PAPHGGILQDLIARDALKKNELLSEAQSSDILVWNLTPRQLCDIELILNGGFSPLTGFLNENDYSSVVTDSRLA
+1i2da      ANAPHGGVLKDLLARDAPRQAELAAEAE--SLPAVTLTERQLCDLELIMNGGFSPLEGFMNQADYDRVCEDNRLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g8fa      DGTLWTIPITLDVDEAFAN--QIKPDTRIALFQD-DEIPIAILTVQDVYKPNKTIEAERVFRGDPEHPAISYLFN
+1i2da      DGNVFSMPITLDASQEVIDEKKLQAGSRITLRDFRDDRNLAILTIDDIYRPDKTKEAKLVFGGDPEHPAIVYLNN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1g8fa      VAGDYYVGGSLEAIQLPQHYDYPGLRKTPAQLRLEFQSRQWDRVVAFQTRNPMHRAHRELTVRAAREANAKVLIH
+1i2da      TVKEFYIGGKIEAVNKLNHYDYVALRYTPAELRVHFDKLGWSRVVAFQTRNPMHRAHRELTVRAARSRQANVLIH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1g8fa      PVVGLTKPGDIDHHTRVRVYQEIIKRYPNGIAFLSLLPLAMRMSGDREAVWHAIIRKNYGASHFIVGRDHAGPGK
+1i2da      PVVGLTKPGDIDHFTRVRAYQALLPRYPNGMAVLGLLGLAMRMGGPREAIWHAIIRKNHGATHFIVGRDHAGPGS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1g8fa      NSKGVDFYGPYDAQELVESYKHELDIEVVPFRMVTYLPDEDRYAPIDQIDTTKTRTLNISGTELRRRLRVGGEIP
+1i2da      NSKGEDFYGPYDAQHAVEKYKDELGIEVVEFQMVTYLPDTDEYRPVDQVPAG-VKTLNISGTELRRRLRSGAHIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1g8fa      EWFSYPEVVKILRESNPPRPKQGFSIVLGNSLTVSREQLSIALLSTFLQFGGGRYYKIFEHN-------------
+1i2da      EWFSYPEVVKILRESNPPRATQGFTIFLTGYMNSGKDAIARALQVTLNQQGG-RSVSLLLGDTVRHELSSELGFT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1g8fa      ------NKTELLSLIQDFIGSGSGLIIPDQWE-----DDKDSVVGK-QNVYLLDTS----S--------------
+1i2da      REDRHTNIQRIAFVATELTRAGAAVIAAPIAPYEESRKFARDAVSQAGSFFLVHVATPLEHCEQSDKRGIYAAAR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1g8fa      ------------------SADIQLESADEPISHIVQKVVLFLEDNGFFVF-*
+1i2da      RGEIKGFTGVDDPYETPEKADLVVDFSKQSVRSIVHEIILVLESQGFLERQ*
+           ====|=========|=========|=========|=========|======
+               0530      0540      0550      0560      0570   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g8fa      100.0  55.3
+  2-1i2da       55.3 100.0
+
+***************************************************************************

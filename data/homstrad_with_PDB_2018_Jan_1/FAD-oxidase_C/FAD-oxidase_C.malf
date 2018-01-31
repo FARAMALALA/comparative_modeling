@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 1diia      structureX:1dii: 243 :A: 521 :A:P-cresol methylhydroxylase:Pseudomonas putida: 2.50: 17.2
+[  2] 1vaoa      structureX:1vao: 274 :A: 560 :A:vanillyl-alcohol oxidase:Penicillium simplicissimum: 2.5: 22
+[  3] 1f0xa      structureX:1f0x: 274 :A: 567 :A:D-lactate dehydrogenase:Escherichia coli: 1.90: 20.9
+[  4] 1i19a      structureX:1i19: 274 :A: 613 :A:cholesterol oxidase:Brevibacterium sterolicum: 1.70: 18.2
+
+
+1diia      PVFKPFEVIFEDEADIVEIV----DALRPLRMS-NTIPNSVVIASTLWEAGSAHLTRAQYTTEPGHTPDSVIKQM
+1vaoa      RGYQSYLITLPKDGDLKQAV----DIIRPLRLG-MALQNVPTIRHILLDAAVL-GDKRSYSSRTEPLSDEELDKI
+1f0xa      KNQQVFYIGTN---QPEVLT----EIRRHILANFENLPVAGEYMHRDIYDIAE--------------LPPRMKNW
+1i19a      FRQRCQSYTDIPWRELFAPKGADGRTFEKFVAESG----GAEAIWYPFTE---------KPWMKVWTVSPSLVGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1diia      QKDTGMGAWNLYAALYGTQEQV---DVNWKIVTDVFKKLGKGRIVTQEEAGD--TQPFKYRAQLMSG-----VPN
+1vaoa      AKQLNLGRWNFYGALYGPEPIR---RVLWETIKDAFSAIPGVKFYFPEDTPE--NSVLRVRDKTMQG-----IPT
+1f0xa      RDK---YEHHLLLKMAG--DGV---GEAKSWLVDYFKQAEGDFFVCT-------PEEGSKAFLHRF---------
+1i19a      PP-----QAREVSGPYNYIFSDNLPEPITDMIGAINAG-------NPGIAPLFGPAMYEITKLGLAATNANDIWG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1diia      LQEFGLYNWRG-----GGGSMWFAPVSEA----RGSECKKQAAMAKRVLHKY------GLDYVAEFIVAPR----
+1vaoa      YDELKWIDWLP-----NGAHLFFSPIAKV----SGEDAMMQYAVTKKRCQEA------GLDFIGTFTVGMR----
+1f0xa      AAAGAAIRYQAVHSDEVEDILALDIALRR----NDTEWY--EHLPPEID-SQ------LVHKLYYGHFM------
+1i19a      W-SKDVQFYIKA---TTLRLTEGGGAVVTSRANIATVINDFTEWFHERIEFYRAKGEFPLNGPVEIRCCGLDQAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1diia      ------------------------DMHHVIDVLYDRTNPEETKRADACFNELLDEFEKE------GYAVY--RVN
+1vaoa      ------------------------EMHHIVCIVFNKKDLIQKRKVQWLMRTLIDDCAAN------GWGEY--RTH
+1f0xa      ------------------------CYVFHQDYIVKK-----GVDVHALKEQMLELLQQR------GAQYPAEHNV
+1i19a      DVKVPSVGPPTISATRPRPDHPDWDVAIWLNVLGVPGTP----GMFEFYREMEQWMRSHYNNDDATFRPEWSKGW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1diia      ---------TRFQD-RVAQSYG-----PVKRKLEHAIKRAVDPNNIL-APGRSGIDLNNDF------*
+1vaoa      ---------LAFMD-QIMETYNW--NNSSFLRFNEVLKNAVDPNGII-APGKSGVWPSQYSHVTWKL*
+1f0xa      ---------GHLYK-AP--------------ETLQKFYRENDPTNSM-NPGIGKTSKRKNW------*
+1i19a      AFGPDPYTDNDIVTNKMRATYIEGVPTTENWDTARARYNQIDPHRVFTNGFMDKLLP----------*
+           =========|=========|=========|=========|=========|=========|=======
+                    0310      0320      0330      0340      0350      0360    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1diia      100.0  24.7   9.3   5.4
+  2-1vaoa       24.7 100.0   8.9   5.9
+  3-1f0xa        9.3   8.9 100.0   7.2
+  4-1i19a        5.4   5.9   7.2 100.0
+
+***************************************************************************

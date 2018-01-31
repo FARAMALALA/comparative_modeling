@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1flv       structureX:1flv:   2 : : 169 : :flavodoxin:Anabaena 7120: 2.00:18.50
+[  2] 1ofv       structureX:1ofv:   1 : : 169 : :flavodoxin:Anacystis nidulans: 1.70:19.00
+[  3] 1ag9a      structureX:1ag9:   2 :A: 176 :A:flavodoxin:Escherichia coli:1.80:19.6
+[  4] 2fcr       structureX:2fcr:   1 : : 173 : :flavodoxin:Chondrus crispus: 1.80:16.80
+[  5] 1akr       structureX:1akr:   2 : : 148 : :flavodoxin:Desulfovibrio vulgaris: 1.58: 18.4
+[  6] 5nll       structureX:5nll:   1 : : 138 : :flavodoxin:Clostridium sp.: 1.75:18.60
+
+
+1flv       KKIGLFYGTQTGKTESVAEIIRDEFGN-DVVT-LHDVSQA-EVTDLNDYQYLIIGCPTWNIG---ELQS-DWEGL
+1ofv       AKIGLFYGTQTGVTQTIAESIQQEFGGESIVD-LNDIANA-DASDLNAYDYLIIGCPTWNVG---ELQS-DWEGI
+1ag9a      AITGIFFGSDTGNTENIAKMIQKQLG-KDVAD-VHDIAKS-SKEDLEAYDILLLGIPTWYYG---EAQC-DWDDF
+2fcr       -KIGIFFSTSTGNTTEVADFIGKTLG--AKADAPIDVDDVTDPQALKDYDLLFLGAPTWNTGADTERSGTSWDEF
+1akr       PKALIVYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWAD-DSIELQD-DFIPL
+5nll       --MKIVYWSGTGNTEKMAELIAKGIIESGKDVNTINVSDV-NIDELLNEDILILGCSAMGDE---VLEESEFEPF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1flv       Y-SELDDVDFNGKLVAYFGTGDQIGYADNFQDAIGILEEKISQRGGKTVGYWSTDGYDFNDSKALRN-GKFVGLA
+1ofv       Y-DDLDSVNFQGKKVAYFGAGDQVGYSDNFQDAMGILEEKISSLGSQTVGYWPIEGYDFNESKAVRN-NQFVGLA
+1ag9a      F-PTLEEIDFNGKLVALFGCGDQEDYAEYFCDALGTIRDIIEPRGATIVGHWPTAGYHFEASKGLADDDHFVGLA
+2fcr       LYDKLPEVDMKDLPVAIFGLGDAEGYPDNFCDAIEEIHDCFAKQGAKPVGFSNPDDYDYEESKSVRD-GKFLGLP
+1akr       F-DSLEETGAQGRKVACFGCGDSS--YEYFCGAVDAIEEKLKNLGAEIVQ---------------------DGLR
+5nll       I-EEIST-KISGKKVALFGSYGW---GD--GKWMRDFEERMNGYGCVVVE---------------------TPLI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1flv       LDEDNQSDLTDDRIKSWVAQLKSEFGL------*
+1ofv       IDEDNQPDLTKNRIKTWVSQLKSEFGL------*
+1ag9a      IDEDRQPELTAERVEKWVKQISEELHLDEILNA*
+2fcr       LDMVNDQIPMEKRVAGWVEAVVSETGV------*
+1akr       IDG--DPRAARDDIVGWAHDVRGAI--------*
+5nll       VQN--EPDEAEQDCIEFGKKIANI---------*
+           =========|=========|=========|===
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1flv       100.0  70.2  45.8  39.9  28.6  22.5
+  2-1ofv        70.2 100.0  45.6  37.3  32.0  22.5
+  3-1ag9a       45.8  45.6 100.0  37.6  34.7  21.7
+  4-2fcr        39.9  37.3  37.6 100.0  27.9  20.3
+  5-1akr        28.6  32.0  34.7  27.9 100.0  28.3
+  6-5nll        22.5  22.5  21.7  20.3  28.3 100.0
+
+***************************************************************************

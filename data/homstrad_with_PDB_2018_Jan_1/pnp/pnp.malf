@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1ecpa      structureX:1ecp:   1 :A: 237 :A:purine nucleoside phosphorylase:Escherichia coli: 2.0: 20
+[  2] 1pbn       structureX:1pbn:   1 : : 289 : :purine nucleoside phosphorylase:Bos taurus: 2.0: -1
+[  3] 1ula       structureX:1ula:   1 : : 289 : :purine nucleoside phosphorylase:Homo sapiens: 2.75: -1
+
+
+1ecpa      ---------ATPHINAEM---GDFADVVLMPGDPLRAKYIAETFLEDAREVNNVR------------GMLGFTGT
+1pbn       MANGYTYEDYQDTAKWLLSHTEQRPQVAVICGS--GLGGLVN-KLTQAQTFDYSEIPNFPESTVPGHAGRLVFGI
+1ula       MENGYTYEDYKNTAEWLLSHTKHRPQVAIICGS--GLGGLTD-KLTQAQIFDYSEIPNFPRSTVPGHAGRLVFGF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ecpa      YKGRKISVM-GH-----GMGIPSCSIYTKELITDFGVKKIIRVGSCGAVLPHVKLRDVVIGMGACTDSK-----V
+1pbn       LNGRACVMMQGRFHMYEGYPFWKVTFPVRVFRL-LGVETLVVTNAAGGLNPNFEVGDIMLIRDHINLPGFSGENP
+1ula       LNGRACVMMQGRFHMYEGYPLWKVTFPVRVFHL-LGVDTLVVTNAAGGLNPKFEVGDIMLIRDHINLPGFSGQNP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ecpa      NR----IRFK--DHDFAAIADFDMVRNAVDAAKALGI--DARVGNLFSADLFYSPDGEMFDVMEKYGILGVEMEA
+1pbn       LRGPNEERFGVRFPAMSDAYDRDMRQKAHSTWKQMGEQRELQEGTYVMLGGPNFETVAECRLLRNLGADAVGMST
+1ula       LRGPNDERFGDRFPAMSDAYDRTMRQRALSTWKQMGEQRELQEGTYVMVAGPSFETVAECRVLQKLGADAVGMST
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ecpa      AGIYGVAAEFGAKALTICTVSDHIRT----HEQTT----AAERQTTFNDMIKIALESVLLGDK-----*
+1pbn       VPEVIVARHCGLRVFGFSLITNKVIMDTESQGKANHEEVLEAGKQAAQKLEQFVSLLMASIPVSGHTG*
+1ula       VPEVIVARHCGLRVFGFSLITNKVIMDYESLEKANHEEVLAAGKQAAQKLEQFVSILMASIPLPDKAS*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ecpa      100.0  13.1  14.3
+  2-1pbn        13.1 100.0  86.5
+  3-1ula        14.3  86.5 100.0
+
+***************************************************************************

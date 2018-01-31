@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1gz0a      structureX:1gz0:  80 :A: 243 :A:hypothetical tRNA-rRNA methyltransferase yjfH:Escherichia coli: 2.50: 23.1
+[  2] 1ipaa      structureX:1ipa: 106 :A: 263 :A:ribonucleic acid 2'-o ribose methyltransferase:Thermus thermophilus: 2.40: 22.6
+
+
+1gz0a      YQENDLPDLIASLDQPFLLILDGVTDPHNLGACLRSADAAGVHAVIVPKDRSAQL-NATAKKVACGAAESVPLIR
+1ipaa      TLEEYRPSP-----DALILVAVGLEKPGNLGAVLRSADAAGAEAVLVAG--GVDLYSPQVIRNSTGVVFSLRTLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gz0a      VT--NLARTRLQEENIWIVGTAGEADHTLYQSK-TGRLALV-GAEGEG-RRLTREHCDELISIP-AGSVSSLNVS
+1ipaa      ASESEVLD-WIKQHNLPLVATTPHAEALYWEANLRPPVAIAVGPEHEGLRAAWLEAAQTQVRIPMQGQADSLNVS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gz0a      VATGICLFEAVRQRS-*
+1ipaa      VSAALLLYEALRQRLL*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gz0a      100.0  31.0
+  2-1ipaa       31.0 100.0
+
+***************************************************************************

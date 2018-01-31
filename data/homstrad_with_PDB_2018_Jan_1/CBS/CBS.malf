@@ -1,0 +1,27 @@
+      Code       Title
+
+[  1] 1b3ob1     structureX:1b3o: 112 :B: 158 :B:inosine-5'-monophosphate dehydrogenase 2:Homo sapiens: 2.90: 24.4
+[  2] 1zfja1     structureX:1zfj:  95 :A: 158 :A:inosine-5'-monophosphate dehydrogenase:Streptococcus pyogenes: 1.90: 23.2
+[  3] 1b3ob2     structureX:1b3o: 178 :B: 231 :B:inosine-5'-monophosphate dehydrogenase 2:Homo sapiens: 2.90: 24.4
+[  4] 1zfja2     structureX:1zfj: 160 :A: 220 :A:inosine-5'-monophosphate dehydrogenase:Streptococcus pyogenes: 1.90: 23.2
+
+
+1b3ob1     QGFIT-DPVVLSPKDRVR-----------CGIPITDTGRMGSRLVGII-------------------*
+1zfja1     NGVI-IDPFFLTPEHKVSEAEE-LQRYRISGVPIVETL-ANRKLVGIITNRD-RFIS-DYNAPISEH*
+1b3ob2     IMTKREDLVVAPAGITLKEANEILQRSKKGKLPIVN---EDDELVAIIARTDLKK----------NR*
+1zfja2     --TS-EHLVTAAVGTDLETAERILHEHRIEKLPLVD---NSGRLSGLITIKDIEKVIEFPHAAKDEF*
+           =========|=========|=========|=========|=========|=========|=======
+                    0010      0020      0030      0040      0050      0060    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1b3ob1     100.0  44.4  25.0  19.4
+  2-1zfja1      44.4 100.0  27.8  23.0
+  3-1b3ob2      25.0  27.8 100.0  33.3
+  4-1zfja2      19.4  23.0  33.3 100.0
+
+***************************************************************************

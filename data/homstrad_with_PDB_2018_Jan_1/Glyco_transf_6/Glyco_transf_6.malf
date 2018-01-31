@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1k4va      structureX:1k4v:  82 :A: 368 :A:n-acetyllactosaminide alpha-1,3-galactosyltransferase:Bos taurus: 1.53: 14
+[  2] 1lzja      structureX:1lzj:  63 :A: 345 :A:glycosyltransferase B:Homo sapiens: 1.32: 18.4
+
+
+1k4va      ----------KLKLSDWFNPFKRPEVVTMTKWKAPVVWEGTYNRAVLDNYYAKQKITVGLTVFAVGRYIEHYLEE
+1lzja      MVSLPRMVYPQPKVLT----PCRKDVLVVTPWLAPIVWEGTFNIDILNEQFRLQNTTIGLTVFAIKKYVAF-LKL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k4va      FLTSANKHFMVGHPVIFYIMVDDVSRMPLIELGPLRSFKVFKIKPEKRWQDISMMRMKTIGEHIVAHIQHEVDFL
+1lzja      FLETAEKHFMVGHRVHYYVFTDQPAAVPRVTLGTGRQLSVLEVG--------------------ERRFLSEVDYL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1k4va      FCMDVDQVFQDKFGVETLGESVAQLQAWWYKADPNDFTYERRKESAAYIPFGEGDFYYHAAIFGGTPTQVLNITQ
+1lzja      VCVDVDMEFRDHVGVEILTPLFGTLHPSFYGSSREAFTYERRPQSQAYIPKDEGDFYYMGAFFGGSVQEVQRLTR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1k4va      ECFKGILKDKKNDIEAQWHDESHLNKYFLLNKPTKILSPEYCWDY-HIGLPADIKLVKMSWQTKEYNVVRNNV*
+1lzja      ACHQAMMVDQANGIEAVWHDESHLNKYLLRHKPTKVLSPEYLWDQQLLGWPAVLRKLRFTAVP----------*
+           ====|=========|=========|=========|=========|=========|=========|========
+               0230      0240      0250      0260      0270      0280      0290     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k4va      100.0  42.6
+  2-1lzja       42.6 100.0
+
+***************************************************************************

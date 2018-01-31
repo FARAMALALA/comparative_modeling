@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 3chbd      structureX:3chb:   1 :D: 103 :D:cholera toxin B subunit:Vibrio cholerae: 1.25: -1
+[  2] 1lt5d      structureX:1lt5:   1 :D: 103 :D:heat-labile enterotoxin B subunit:Escherichia coli: 1.7: 17.2
+[  3] 1tiid      structureX:1tii:   1 :D:  98 :D:heat-labile enterotoxin IIB, B chain:Escherichia coli: 2.25: 19.1
+
+
+3chbd      TP-QNITDLCAEYHNTQIHTLNDKIFSYTESLAGKREMAIITFKNGATFQVEVPGSQHIDSQKKAIERMKDTLRI
+1lt5d      AP-QTITELCSEYRNTQIYTINDKILSYTESMAGKREMVIITFKSGETFQVEVPGSQHIDSQKKAIERMKDTLRI
+1tiid      GASQFFKDNCNRT-TASLVE-GVELTKYISDINNNTDGMYVVSSTGGVWRISRAK---DYPDNVMTAEMRKIAMA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3chbd      AYLTEAKVEKLCVWNNKTPRAIAAISMAN*
+1lt5d      TYLTETKIDKLCVWNNKTPNSIAAISMKN*
+1tiid      AVLSGMRV-NMCASPASSPNVIWAIELEA*
+           ====|=========|=========|====
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-3chbd      100.0  81.6  14.3
+  2-1lt5d       81.6 100.0  12.2
+  3-1tiid       14.3  12.2 100.0
+
+***************************************************************************

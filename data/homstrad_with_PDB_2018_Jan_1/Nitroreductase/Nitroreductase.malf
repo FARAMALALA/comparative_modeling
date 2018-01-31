@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1bkja      structureX:1bkj:   2 :A: 240 :A:NADPH-flavin oxidoreductase:Vibrio harveyi: 1.8: 17.5
+[  2] 1vfra      structureX:1vfr:   2 :A: 218 :A:major NAD(P)H-flavin oxidoreductase:Vibrio fischeri: 1.8: 18.7
+[  3] 1nox       structureX:1nox:   6 : : 205 : :NADH oxidase:Thermus aquaticus: 1.59: 18.23
+
+
+1bkja      --NNTIETILAHRSIRKFTA-VPITDEQRQTIIQAGLAASSSSMLQVVSIVRVTDSEKRNELAQFAG-----NQA
+1vfra      -THPIIHDLENRYTSKKYDPSKKVSQEDLAVLLEALRLSASSINSQPWKFIVIESDAAKQRMHDSFANMHQFNQP
+1nox       PVLDAKTAALKRRSIRRYRK-DPVPEGLLREILEAALRAPSAWNLQPWRIVVVRDPATKRALREAAF-----GQA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bkja      YVESAAEFLVFCIDYQRHATINP-----------------------------DVQADFTELTLIGAVDSGIMAQN
+1vfra      HIKACSHVILFANKLSYTRDDYDVVLSKAVADKRITEEQKEAAFASF-KFVELNCDENGEHKAWTKPQAYLALGN
+1nox       HVEEAPVVLVLYADLEDALAHLDEVIHP-----GVQGERREAQKQAIQRAFAAMGQE--ARKAWASGQSYILLGY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bkja      CLLAAESMGLGGVYIGGLRNSAAQVDELLG-LPENSAVLFGMCLGHPDQ-----NPEVKPRLPAHVVVHENQYQE
+1vfra      ALHTLARLNIDSTTMEGI--DPELLSEIFADELKGYECHVALAIGYHHPSEDYNASLPKSRKAFEDVITIL----
+1nox       LLLLLEAYGLGSVPMLGF--DPERVRAILG-LPSRAAIPALVALGYPAE-----EGYPSHRLPLERVVLWR----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bkja      LNLDDIQSYDQTMQAYYSTWSQEVTGKLAGESRPHILPYLNSKGLAKR*
+1vfra      ------------------------------------------------*
+1nox       ------------------------------------------------*
+           ====|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1bkja      100.0   8.8  25.5
+  2-1vfra        8.8 100.0  24.0
+  3-1nox        25.5  24.0 100.0
+
+***************************************************************************

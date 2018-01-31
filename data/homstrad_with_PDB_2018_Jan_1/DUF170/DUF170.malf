@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1f0za      structureX:1f0z:   1 :A:  66 :A:ThiS protein:Escherichia coli: -1: -1
+[  2] 1fm0d      structureX:1fm0:   1 :D:  81 :D:Molybdopterin Convertin Factor, Subunit 1:Escherichia coli: -1: -1
+[  3] 1jsba      structureX:1jsb:   4 :A:  73 :A:Hypothetical protein Mth1743:Methanobacterium thermoautotrophicum: -1: -1
+
+
+1f0za      ----MQILFN----------DQAMQCAAGQTVHELLEQLD---------QRQAGAALAINQQIVPREQWAQHIVQ
+1fm0d      ----MIKVLFFAQVRELVGTDATEVAADFPTVEALRQHMAAQSDRWALALEDGKLLAAVNQTLVS----FDHPLT
+1jsba      MVIGMKFTVITD------DGKKILESGAPRRIKDVLGELE---------IPIETVVVKKNGQIVI----DEEEIF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f0za      DGDQILLFQVIAGG*
+1fm0d      DGDEVAFFPPVTGG*
+1jsba      DGDIIEVIRVIYGG*
+           ====|=========
+               0080      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1f0za      100.0  25.8  24.2
+  2-1fm0d       25.8 100.0  11.4
+  3-1jsba       24.2  11.4 100.0
+
+***************************************************************************

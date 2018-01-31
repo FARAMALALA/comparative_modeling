@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1qjza      structureX:1qjz:  10 :A: 188 :A:coat protein (virion protein):Physalis mottle virus: 3.8: 32.6
+[  2] 1auya      structureX:1auy:  27 :A: 189 :A:coat protein (virion protein):Turnip yellow mosaic virus: 3.2: 18.7
+
+
+1qjza      KQASIPAPGSILSQPNTEQSPAIVLPFQFEATTFGTAETAAQVSLQTADPITKLTAPYRHAQIVECKAILTPTDL
+1auya      ------------------SPLTIKQPFQSEVLFAGTKDAEASLTIANIDSVSTLTTFYRHASLESLWVTIHPTLQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qjza      AVSNPLTVYLAWVPANSPATPTQILRVYGGQSFVLGGAISAAKTIEVPLNLDSVNRMLKDSVTYTDTPKLLAYSR
+1auya      APTFPTTVGVCWVPAQSPVTPAQITKTYGGQIFCIGGAIQTLSPLIVKCPLEMMQPRVKDSIQYLDSPKLLISIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qjza      AP-TNPSKIPTASIQISGRIRLSKPMLIAN--*
+1auya      AQPTAPP-ASTCIITVSGTLSMHSPLITDTST*
+           =========|=========|=========|==
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qjza      100.0  36.2
+  2-1auya       36.2 100.0
+
+***************************************************************************

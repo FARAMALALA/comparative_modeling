@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1i50f      structureX:1i50:  72 :F: 155 :F:DNA-directed RNA polymerases II 23 kDa polypeptide:Saccharomyces cerevisiae: 2.80: 22.9
+[  2] 1qkla      structureX:1qkl: 801 :A: 927 :A:DNA-directed RNA polymerase II 14.4 kDa polypeptide:Homo sapiens and cricetulus griseus: -1: -1
+
+
+1i50f      -----------------------------------KAIPKD--------QRATTPYMTKYERARILGTRALQISM
+1qkla      MSDNEDNFDGDDFDDVEEDEGLDDLENAEEEGQENVEILPSGERPQANQKRITTPYMTKYERARVLGTRALQIAM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1i50f      NAPVFVDLEGETDPLRIAMKELAEKKIPLVIRRYLPDGSFEDWSVEELIVDL*
+1qkla      CAPVMVELEGETDPLLIAMKELKARKIPIIIRRYLPDGSYEDWGVDELIITD*
+           ====|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1i50f      100.0  71.4
+  2-1qkla       71.4 100.0
+
+***************************************************************************

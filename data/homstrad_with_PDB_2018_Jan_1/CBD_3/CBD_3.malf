@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1nbca      structureX:1nbc:   1 :A: 155 :A:cellulosomal scaffolding protein A:Clostridium thermocellum: 1.8: 19.3
+[  2] 1g43a      structureX:1g43:   1 :A: 160 :A:scaffolding protein:Clostridium cellulolyticum: 2.2: 19
+[  3] 1tf4a      structureX:1tf4: 461 :A: 605 :A:endoglucanase E-4:Thermomonospora fusca: 1.9: 20
+
+
+1nbca      ----NLKVEFYNSNPSDTTNSINPQFKVTNTGS-SAIDLSKLTLRYYYTVD--GQK-DQTFWCDHAAIIGSNGSY
+1g43a      AGTGVVSVQFNNGSSPASSNSIYARFKVTNTSG-SPINLADLKLRYYYTQD--ADK-PLTFWCDHAGYMSG-SNY
+1tf4a      ---PEIFVEAQINTPGT--TFTEIKAMIRNQSGWPARMLDKGTFRYWFTLDEGVDPADITVSSAYNQCA------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1nbca      NGITSNVKGTFVKMSSSTNNADTYLEISFT--GGTLEPG----AHVQIQGRFAKNDWSNYTQSNDYSFK-SASQF
+1g43a      IDATSKVTGSFKAVSPAVTNADHYLEVALNSDAGSLPAG----GSIEIQTRFARNDWSNFDQSNDWSYT-AAGSY
+1tf4a      ------TPEDVHHVSG----DLYYVEIDCT--GEKIFPGGQSEHRREVQFRIAGG--PGWDPSNDWSFQGIGNEL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1nbca      VEWDQVTAYLNGVLVWGKEP*
+1g43a      MDWQKISAFVGGTLAYGSTP*
+1tf4a      APAPYIVLYDDGVPVWGTAP*
+           =========|=========|
+                    0160      0170 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1nbca      100.0  44.5  25.5
+  2-1g43a       44.5 100.0  20.7
+  3-1tf4a       25.5  20.7 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1efpa      structureX:1efp:   2 :A: 308 :A:electron transfer flavoprotein alpha-subunit:Paracoccus denitrificans: 2.60: 19.3
+[  2] 1efva      structureX:1efv:  20 :A: 331 :A:electron transfer flavoprotein alpha-subunit:Homo sapiens: 2.1: 17.2
+
+
+1efpa      -AVLLLGEVTNGALNRDATAKAVAAVKAL-GDVTVLCAGASAKAAAEEAAKIAGVAKVLVAEDALYGHRLAEPTA
+1efva      QSTLVIAEHANDSLA-PITLNTITAATRLGGEVSCLVAGTKCDKVAQDLCKVAGIAKVLVAQHDVYKGLLPEELT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1efpa      ALIVGLAG--DYSHIAAPATTDAKNVMPRVAALLDVMVLSDVSAILDADTFERPIYAGNAIQVVKSKDAKKVFTI
+1efva      PLILATQKQFNYTHICAGASAFGKNLLPRVAAKLEVAPISDIIAIKSPDTFVRTIYAGNALCTVKCDEKVKVFSV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1efpa      RTASFDAAGEGGTAPVTETA-AAADPGLSSWVADEVAESDRPELTSARRVVSGGRGLGSKESFAIIEELADKLGA
+1efva      RGTSFDAAATSGGSASSEKASSTSPVEISEWLDQKLTKSDRPELTGAKVVVSGGRGLKSGENFKLLYDLADQLHA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1efpa      AVGASRAAVDSGYAPNDWQVGQTGKVVAPELYVAVGISGAIQHLAGMKDSKVIVAINKDEEAPIFQIADYGLVGD
+1efva      AVGASRAAVDAGFVPNDMQVGQTGKIVAPELYIAVGISGAIQHLAGMKDSKTIVAINKDPEAPIFQVADYGIVAD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1efpa      LFSVVPELTGKL-*
+1efva      LFKVVPEMTEILK*
+           =========|===
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1efpa      100.0  54.4
+  2-1efva       54.4 100.0
+
+***************************************************************************

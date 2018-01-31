@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1nzya      structureX:1nzy:   1 :A: 269 :A:4-chlorobenzoyl coenzyme A dehalogenase:Pseudomonas Sp. Strain Cbs-3:1.8: 18.8
+[  2] 2duba      structureX:2dub:  32 :A: 290 :A:enoyl-CoA hydratase:Rattus norvegicus: 2.4: 20.4
+[  3] 1dcia      structureX:1dci:  53 :A: 327 :A:probable peroxisomal enoyl-CoA hydratase:Rattus norvegicus: 1.5: 17.6
+
+
+1nzya      MYEAIGHRVE---DGVAEITIKLPRHRNALSVKAMQEVTDALNRAEEDDSVGAVMITGAEDAFCAGFYLREIPLD
+2duba      NFQYIITEKKGKNSSVGLIQLNRPKALNALCNGLIEELNQALETFEEDPAVGAIVLTGGEKAFAAGADIKEMQ--
+1dcia      AYESIQVTSAQK--HVLHVQLNRPEKRNAMNRAFWRELVECFQKISKDSDCRAVVVSGAGKMFTSGIDLMDMASD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1nzya      K------GVAGVRDHFRIAALWWHQMIHKIIRVKRPVLAAINGVAAGGGLGISLASDMAICADSAKFVCAWHTIG
+2duba      --NRT-------FQDCYS-------HWDHITRIKKPVIAAVNGYALGGGCELAMMCDIIYAGEKAQFGQPEILLG
+1dcia      ILQPPGDDVARIAWYLRDLISRYQKTFTVIEKCPKPVIAAIHGGCIGGGVDLISACDIRYCTQDAFFQVKEVDVG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1nzya      IGNDTATSYSLARIVG-MRRAMELMLTNRTLYPEEAKDWGLVSRVYP-KDEFREVAWKVARELAAAPTHLQVMAK
+2duba      TIPGAGGTQRLTRAVG-KSLAMEMVLTGDRISAQDAKQAGLVSKIFP-VETLVEEAIQCAEKIANNSKIIVAMAK
+1dcia      LAADVGTLQRLPKVIGNRSLVNELTFTARKMMADEALDSGLVSRVFPDKDVMLNAAFALAADISSKSPVAVQGSK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1nzya      ERFHAGWMQPVEECTEFEIQNVIASVTHPHFMPCLTRFLDGHRADRPQVELPAGV*
+2duba      ESVNAAFEMTLTEGNKLEKKLFYSTFATDDRREGMSAFVEKRKA--NFKDH----*
+1dcia      INLIYSRDHSVDESLDYMATWNMSMLQTQDIIKSVQAAMEKKDSKSITFSKL---*
+           ====|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1nzya      100.0  27.6  23.0
+  2-2duba       27.6 100.0  28.0
+  3-1dcia       23.0  28.0 100.0
+
+***************************************************************************

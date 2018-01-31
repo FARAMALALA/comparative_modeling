@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1d0na2     structureX:1d0n: 629 :A: 755 :A:gelsolin (actin-depolymerizing factor):Equus caballus: 2.50: 20.5
+[  2] 1d0na1     structureX:1d0n: 263 :A: 383 :A:gelsolin (actin-depolymerizing factor):Equus caballus: 2.50: 20.5
+[  3] 1svr       structureX:1svr: 158 : : 251 : :severin:Dictyostelium discoideum: -1: -1
+[  4] 1yagg      structureX:1yag:   1 :G: 125 :G:gelsolin, plasma (actin-depolymerizing factor):Homo sapiens: 1.90: 19.3
+[  5] 2vil       structureX:2vil:   1 : : 126 : :villin:Gallus gallus: -1: -1
+
+
+1d0na2     ------RLKDKKMDAHPPRLFACSNKIGRFVIEEVP--GEFMQEDLATDDVMLLDT---W------DQVFVWVGK
+1d0na1     ------EDAANRK---LAKLYKVSNGAGPMVVSLVADENPFAQGALRSEDCFILDH---GKD----GKIFVWKGK
+1svr       --------------EYKPRLLHISGDK-NAKVAEVP-LATSS---LNSGDCFLLDAG---------LTIYQFNGS
+1yagg      MVVEHPEFLKAGK-EPGLQIWRVE-K---FDLVPVPTNLYGD---FFTGDAYVILKTVQLRNGNLQYDLHYWLGN
+2vil       VELSKKVTGKLDKTTPGIQIWRI-EN---MEMVPVPTKSYGN---FYEGDCYVLLSTRKTG-SGFSYNIHYWLGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d0na2     DSQDEEKTEALTSAKRYIDTDPAHRDRRTPITVVKQ--GFEPPSFVGWFLGWDDSYWS----VDPLDRALAELAA
+1d0na1     QANMEERKAALKTASDFISKM--DYPKQTQVSVLPE--GGETPLFRQFFKNWRDPDQTEGLGLAYL---------
+1svr       KSSPQEKNKAAEVARAIDAERK----GLPKVEVFCETDSDIPAEFWKLLGG------------------------
+1yagg      ECSQDESGAAAIFTVQLDDYLN----GRAVQHREVQ--GFESATFLGYFKS--------GLKYK--KGGVASGF-
+2vil       NSSQDEQGAAAIYTTQMDEYLG----SVAVQHREVQ--GHESETFRAYFKQ--------GLIYK--QGGVASGMK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1d0na2     100.0  27.3  23.4  16.0  12.7
+  2-1d0na1      27.3 100.0  21.3  14.0  17.4
+  3-1svr        23.4  21.3 100.0  14.9  17.0
+  4-1yagg       16.0  14.0  14.9 100.0  54.4
+  5-2vil        12.7  17.4  17.0  54.4 100.0
+
+***************************************************************************

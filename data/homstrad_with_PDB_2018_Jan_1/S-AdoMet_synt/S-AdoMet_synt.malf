@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1mxb       structureX:1mxb:   1 : : 101 : :S-adenosylmethionine synthetase:Escherichia coli: 2.8: 19.4
+[  2] 1qm4a      structureX:1qm4:  17 :A: 116 :A:S-adenosylmethionine synthetase alpha and beta forms:Rattus norvegicus: 2.66: 23
+
+
+1mxb       AKHLFTSESVSEGHPDKIADQISDAVLDAILEQDPKARVACETYVKTGMVLVGGEITTSAWVDIEEITRNTVREI
+1qm4a      GAFMFTSESVGEGHPDKICDQISDAVLDAHLKQDPNAKVACETVCKTGMVLLCGEITSMAMIDYQRVVRDTIKHI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mxb       GYVHSDMGFDANSCAVLSAIGKQSPD*
+1qm4a      GYDDSAKGFDFKTCNVLVALEQQSP-*
+           ====|=========|=========|=
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mxb       100.0  61.0
+  2-1qm4a       61.0 100.0
+
+***************************************************************************

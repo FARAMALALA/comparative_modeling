@@ -1,0 +1,100 @@
+      Code       Title
+
+[  1] 1kgsa      structureX:1kgs:   2 :A: 123 :A:DNA binding response regulator D:Thermotoga maritima: 1.50: 17.9
+[  2] 1b00a      structureX:1b00:   2 :A: 123 :A:Phosphate regulon transcriptional regulatory protein PhoB:Escherichia coli: 1.88: 21.0
+[  3] 1dz3a      structureX:1dz3:   2 :A: 109 :A:Stage 0 sporulation protein A:Bacillus stearothermophilus: 1.65: 20.774
+[  4] 1nat       structureX:1nat:   3 : : 121 : :Sporulation response regulatory protein:Bacillus subtilis: 2.45: 18.1
+[  5] 1tmy       structureX:1tmy:   2 : : 119 : :CheY protein:Thermotoga maritima: 1.9: 18.6
+[  6] 1a2oa      structureX:1a2o:   1 :A: 133 :A:CheB methylesterase:Salmonella typhimurium: 2.4: 22.2
+[  7] 1qkka      structureX:1qkk:   5 :A: 125 :A:C4-dicarboxylate transport transcriptional regulatory protein, receiver domain:Sinorhizobium meliloti: 1.7: 21.8
+[  8] 1ntr       structureN:1ntr:   1 : : 120 : :N-terminal receiver domain of NtrC:Salmonella typhimurium: -1: -1
+[  9] 1dbwa      structureX:1dbw:   1 :A: 123 :A:Transcriptional regulatory protein FixJ, receiver domain:Rhizobium meliloti: 1.6: 18.7
+[ 10] 1jbea      structureX:1jbe:   2 :A: 129 :A:Chemotaxis protein CheY:Escherichia coli: 1.08: -1
+[ 11] 1a04a      structureX:1a04:   5 :A: 128 :A:Nitratenitrite response regulator protein NarL, N-terminal domain:Escherichia coli: 2.2: 21.1
+[ 12] 1i3ca      structureX:1i3c:   6 :A: 149 :A:Response regulator Rcp1:Synechosystis Sp. Pcc 6803: 1.90: 18.8
+[ 13] 1dcf       structureX:1dcf:   6 :A: 128 :A:Etr1 protein, receiver domain:Arabidopsis thaliana: 2.50: 22.2
+
+
+1kgsa      ---NVRVLVVEDERDLADLITEALKKE--FTV-DVCYDGEEGY--ALN-------EPFDVVILDI-LPVHDGWEI
+1b00a      ---ARRILVVEDEAPIREMVCFVLEQNG-FQP-VEAEDYDSAVNQLNE-------PWPDLILLDWMLPGGSGIQF
+1dz3a      ---SIKVCIADDNRELVSLLDEYISSQPDMEVIGTAYNGQDCLQMLEE-------KRPDILLLDIIMPHLDGLAV
+1nat       ---NEKILIVDDQYGIRILLNEVFNKEG-YQT-FQAANGLQALDIVTK-------ERPDLVLLDMKIPGMDGIEI
+1tmy       ---GKRVLIVDDAAFMRMMLKDIITKAG-YEVAGEATNGREAVEKYKE-------LKPDIVTMDITMPEMNGIDA
+1a2oa      -MSKIRVLSVDDSALMRQIMTEIINSHSDMEMVATAPDPLVARDLIKK-------FNPDVLTLDVEMPRMDGLDF
+1qkka      ----PSVFLIDDDRDLRKAMQQTLELAG-FTV-SSFASATEALAGLSA-------DFAGIVISDIRMPGMDGLAL
+1ntr       -MQRGIVWVVDDDSSIRWVLERALAGAG-LTC-TTFENGNEVLAALAS-------KTPDVLLSDIRMPGMDGLAL
+1dbwa      -MQDYTVHIVDDEEPVRKSLAFMLTMNG-FAV-KMHQSAEAFLAFAPD-------VRNGVLVTDLRMPDMSGVEL
+1jbea      ADKELKFLVVDDFSTMRRIVRNLLKELG-FNNVEEAEDGVDALNKLQA-------GGYGFVISDWNMPNMDGLEL
+1a04a      --EPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAES-------LDPDLILLDLNMPGMNGLET
+1i3ca      -NPPKVILLVEDSKADSRLVQEVLKTSTIDHELIILRDGLAAA-FLQQQGEYENSPRPNLILLDLNLPKKDGREV
+1dcf       --TGLKVLVMDENGVSRMVTKGLLVHLG-CEV-TTVSSNEECLRVVSH--------EHKVVFMDVCMPGVENYQI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kgsa      LKSRES-----GVNTPVL-LTA-----LSDVEYRVKGLNGADDYLPKP-----FD----LRELIARVRALIRRKS
+1b00a      IKHLKRESMTR--DIPVVMLTARG----EEEDRVRGLETGADDYITKP-----FS----PKELVARIKAVMRRI-
+1dz3a      LERIRAGFE---HQPNVIMLTAFG--QEDVTKKAVE--LGASYFILK-----PFD--------------------
+1nat       LKRMKV--IDE--NIRVIIMTAYG--ELDMIQESKE--LGALTHFAKP-----FD----IDEIRDAVKKYLPL--
+1tmy       IKEIMK--IDP--NAKIIVCSAMG--QQAMVIEAIK--AGAKDFIVKP-----FQ----PSRVVEALNKVS----
+1a2oa      LEKLMRL---R--PMPVVMVSSLTGKGSEVTLRALE--LGAIDFVTKPQLGIREGMLAYSEMIAEKVRTAARA--
+1qkka      FRKILA--LDP--DLPMILVTGHG--DIPMAVQAIQ--DGAYDFIAKP-----FA----ADRLVQSARRAEEKRR
+1ntr       LKQIKQ--RHP--MLPVIIMTAH--SDLDAAVSAY--QQGAFDYLPKP-----FD-------IDEAVALVERAIS
+1dbwa      LRNLGD--LKI--NIPSIVITGHG--DVPMAVEAMK--AGAVDFIEKP-----FE----DTVIIEAIERASEHLV
+1jbea      LKTIRA--AMS--ALPVLMVTAEA--KKENIIAAAQ--AGASGYVVKP-----FT----AATLEEKLNKIFEKLG
+1a04a      LDKLRE--KSL--SGRIVVFSVSN--HEEDVVTALK--RGADGYLLKD-----ME----PEDLLKALHQAAAG-E
+1i3ca      LAEIKQNPDLK--RIPVVVLTTSHN--EDDVIASYE--LHVNCYLTKSR------NLKDLFKVQGIESFWLETVT
+1dcf       ALRIHEKFTQRHQRPLLVALSGNTD--KSTKEKCMS--FGLDGVLLKP-----VS----LDNIRDVLSDLLE---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kgsa      E-----*
+1b00a      ------*
+1dz3a      ------*
+1nat       ------*
+1tmy       ------*
+1a2oa      ------*
+1qkka      L-----*
+1ntr       ------*
+1dbwa      ------*
+1jbea      M-----*
+1a04a      M-----*
+1i3ca      LPAAPG*
+1dcf       ------*
+           ======
+                 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13]
+
+  1-1kgsa      100.0  32.2  25.0  29.6  22.6  22.6  23.5  31.3  22.6  26.1
+                22.6  24.3  19.1
+  2-1b00a       32.2 100.0  20.4  29.4  28.0  26.2  20.7  26.7  22.1  27.9
+                22.1  25.4  13.9
+  3-1dz3a       25.0  20.4 100.0  32.4  30.6  32.4  26.9  32.4  22.2  25.9
+                27.8  22.2  19.4
+  4-1nat        29.6  29.4  32.4 100.0  32.2  25.2  21.8  32.8  24.4  25.2
+                21.8  26.1  17.6
+  5-1tmy        22.6  28.0  30.6  32.2 100.0  28.8  29.7  28.8  29.7  28.8
+                29.7  14.4  18.6
+  6-1a2oa       22.6  26.2  32.4  25.2  28.8 100.0  20.7  26.7  21.1  25.4
+                25.8  17.3  15.6
+  7-1qkka       23.5  20.7  26.9  21.8  29.7  20.7 100.0  37.5  38.0  32.2
+                20.7  13.2  18.2
+  8-1ntr        31.3  26.7  32.4  32.8  28.8  26.7  37.5 100.0  32.5  30.8
+                22.5  19.2  18.3
+  9-1dbwa       22.6  22.1  22.2  24.4  29.7  21.1  38.0  32.5 100.0  23.6
+                22.0  14.6  16.4
+ 10-1jbea       26.1  27.9  25.9  25.2  28.8  25.4  32.2  30.8  23.6 100.0
+                24.2  22.2  18.9
+ 11-1a04a       22.6  22.1  27.8  21.8  29.7  25.8  20.7  22.5  22.0  24.2
+               100.0  22.6  18.0
+ 12-1i3ca       24.3  25.4  22.2  26.1  14.4  17.3  13.2  19.2  14.6  22.2
+                22.6 100.0  11.5
+ 13-1dcf        19.1  13.9  19.4  17.6  18.6  15.6  18.2  18.3  16.4  18.9
+                18.0  11.5 100.0
+
+***************************************************************************

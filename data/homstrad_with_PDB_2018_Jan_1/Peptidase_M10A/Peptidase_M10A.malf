@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1kapp      structureX:1kap:   1 :P: 470 :P:alkaline metalloproteinase:Pseudomonas aeruginosa: 1.64: 17.6
+[  2] 1sat       structureX:1sat:   4 : : 471 : :serralysin (extracellular metalloproteinase):Serratia marcescens: 1.75: 18.8
+
+
+1kapp      GRSDAYTQVDNFLHAYARGGDELVNGHPSYTVDQAAEQILREQASWQKAPGDS--VLTLSYSFLTKPNDFFNTPW
+1sat       ---TGYDAVDDLLHYHERGNGIQINGKDSFSNEQAGLFITRENQTWN-GYKVFGQPVKLTFSFPDYK--FSSTNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kapp      KYVSDIYSLGKFSAFSAQQQAQAKLSLQSWSDVTNIHFVDAGQGDQGDLTFGNFSS------SVGGAAFAFLPDV
+1sat       A------GDTGLSKFSAEQQQQAKLSLQSWADVANITFTEVAAGQKANITFGNYSQDRPGHYDYGTQAYAFLPNT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kapp      P---DALKGQSWYLINSSYSANVNPANGNYGRQTLTHEIGHTLGLSHPGDYNAGEGDPTYADATYAEDTRAYSVM
+1sat       IWQGQDLGGQTWYNVN--QSNVKHPATEDYGRQTFTHEIGHALGLSHPGDYNAGEGDPTYADVTYAEDTRQFSLM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kapp      SYWEEQNTGQDFKGAYSSAPLLDDIAAIQKLYGANLTTRTGDTVYGFNSNTERDFYSATSSSSKLVFSVWDAGGN
+1sat       SYWSETNTGGDNGGHYAAAPLLDDIAAIQHLYGANLSTRTGDTVYGFNSNTGRDFLSTTSNSQKVIFAAWDAGGN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1kapp      DTLDFSGFSQNQKINLNEKALSDVGGLKGNVSIAAGVTVENAIGGSGSDLLIGNDVANVLKGGAGNDILYGGLGA
+1sat       DTFDFSGYTANQRINLNEKSFSDVGGLKGNVSIAAGVTIENAIGGSGNDVIVGNAANNVLKGGAGNDVLFGGGGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1kapp      DQLWGGAGADTFVYGDIAESSAAAPDTLRDFVSGQDKIDLSGLDAFVNGGLVLQYVDAFAGKAGQAILSYDAASK
+1sat       DELWGGAGKDIFVFSAASDSAPGASDWIRDFQKGIDKIDLSFFDKEANSSSFIHFVDHFSGTAGEALLSYNASSN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1kapp      AGSLAIDFSGDAHADFAINLIGQATQA-DIVV*
+1sat       VTDLSVNIGGHAAPDFLVKIVGQVDVATDFIV*
+           =========|=========|=========|==
+                    0460      0470      0480 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kapp      100.0  56.0
+  2-1sat        56.0 100.0
+
+***************************************************************************

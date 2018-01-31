@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1fo3a      structureX:1fo3: 240 :A: 697 :A:class I alpha1,2-mannosidase in complex with kifunensine:Homo sapiens: 1.75: 21.8
+[  2] 1dl2a      structureX:1dl2:  34 :A: 549 :A:mannosyl-oligosaccharide alpha-1,2-mannosidase:Saccharomyces cerevisiae: 1.54: 20.9
+
+
+1fo3a      QGPVHLNYRQKGVIDVFLHAWKGYRKFAWGHDELKPVSRSFSEWF----GLGLTLIDALDTMWILG---------
+1dl2a      ----GAGEMRDRIESMFLESWRDYSKHGWGYDVYGPIEHTSHNMPRGNQPLGWIIVDSVDTLMLMYNSSTLYKSE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fo3a      LRKEFEEARKWVSKKLHFEKDVDVNLFESTIRILGGLLSAYHLSG------DSLFLRKAEDFGNRLMPAFR-TPS
+1dl2a      FEAEIQRSEHWINDVLDFDIDAEVNVFETTIRMLGGLLSAYHLSDVLEVGNKTVYLNKAIDLGDRLALAFLSTQT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fo3a      KIPYSDVNIGTGVAHPPR---SDSTVAEVTSIQLEFRELSRLTGDKKFQEAVEKVTQHIHGLSGK---KDGLVPM
+1dl2a      GIPYSSINLHSGQAVKNHADGGASSTAEFTTLQMEFKYLAYLTGNRTYWELVERVYEPLYKNNDLLNTYDGLVPI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fo3a      FINTHSGLFTHLGVFTLGARADSYYEYLLKQWIQGGKQETQLLEDYVEAIEGVRTHLLRHSEPSKLTFVGELAHG
+1dl2a      YTFPDTGKFG-ASTIRFGSRGDSFYEYLLKQYLLTH--ETLYYDLYRKSMEGMKKHLLAQSKPSSLWYIGEREQG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1fo3a      ---RFSAKMDHLVCFLPGTLALGVYHGLP-----------ASHMELAQELMETCYQMNRQMETGLSPEIVHFNLY
+1dl2a      LHGQLSPKMDHLVCFMGGLLASGSTEGLSIHEARRRPFFSKSDWDLAKGITDTCYQMYKQSSSGLAPEIVVFNDG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1fo3a      PQP------GRRDVEVKPADRHNLLRPETVESLFYLYRVTGDRKYQDWGWEILQSFSRFTRVP-----SGGYSSI
+1dl2a      NIKDGWWRSSVGDFFVKPLDRHNLQRPETVESIMFMYHLSHDHKYREWGAEIATSFFENTCVDCNDPKLRRFTSL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1fo3a      NNVQDPQKPEPRDKMESFFLGETLKYLFLLFSDDPNLLSLDAYVFNTEAHPLPIWT---------------*
+1dl2a      SDCITL-PTKKSNNMESFWLAETLKYLYILFLDE---FDLTKVVFNTEAHPFPVLDEEILKSQSLTTGWSL*
+           =========|=========|=========|=========|=========|=========|=========|=
+                    0460      0470      0480      0490      0500      0510      0520 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fo3a      100.0  41.1
+  2-1dl2a       41.1 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1erxa      structureX:1erx:   1 :A: 184 :A:nitrophorin 4:Rhodnius prolixus: 1.40: -1
+[  2] 1euoa      structureX:1euo:   0 :A: 179 :A:nitrophorin 2:Rhodnius prolixus: 2.00: 19.5
+
+
+1erxa      -ACTKNAIAQTGFNKDKYFNGDVWYVTDYLDLEPDDVPKRYCAALAAGTASGKLKEALYHYDPKTQDTFYDVSEL
+1euoa      MDCSTNISPKQGLDKAKYFS-GKWYVTHFLDKDPQ-VTDQYCSSFTPRESDGTVKEALYHYNANKKTSFYNIGEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1erxa      QVES-LGKYTANFKKVDKNGNVKVAVTAGNYYTFTVMYADDSSALIHTCLHKGNKDLGDLYAVLNRNKDAAAGDK
+1euoa      KLESSGLQYTAKYKTVDKKKAVLKEADEKNSYTLTVLEADDSSALVHICLREGSKDLGDLYTVLTHQKDAEPSAK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1erxa      VKSAVSAATLEFSKFISTKENNCAYDNDSLKSLLTK*
+1euoa      VKSAVTQAGLQLSQFVGTKDLGCQYDDQFTSL----*
+           =========|=========|=========|======
+                    0160      0170      0180   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1erxa      100.0  45.0
+  2-1euoa       45.0 100.0
+
+***************************************************************************

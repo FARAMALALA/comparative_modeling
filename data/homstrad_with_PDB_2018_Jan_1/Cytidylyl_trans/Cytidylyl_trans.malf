@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1h7ea      structureX:1h7e:   1 :A: 245 :A:3-deoxy-manno-octulosonate cytidylyltransferase:Escherichia coli: 1.83: 16.1
+[  2] 1ezia      structureX:1ezi:   2 :A: 224 :A:acylneuraminate cytidylyltransferase:Neisseria meningitidis: 2.00: 21.2
+
+
+1h7ea      -SKAVIVIPARYGSSRLPGKPLLDIVGKPMIQHVYERALQVAGVAEVWVATDDPRVEQAVQAFGGKAIMTRNDHE
+1ezia      EKQNIAVILARQNSKGLPLKNLRK-NGISLLGHTINAAISSKCFDRIIVSTDGGLIAEEAKNFGVEVVLRPA--A
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h7ea      SGTDRLVEVMHKV--EADIYINLQGDEPMIRPRDVETLLQGMRDDPALPVATLCHAISAAEAAEPSTVKVVVNTR
+1ezia      SSISGVIHALETIGSNSGTVTLLQPTSPLRTGAHIREAFSLFDE-KIKGSVVSACP-EHHPLK---TLLQIN---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h7ea      QDALYFSRSPIPYPRNAEKA-RYLKHVG-IYAYRRDVLQNYSQLPESMPEQAESLEQLRLMNAGINIRTFEVAAT
+1ezia      ---EYAPRHLSDLEQPRQQLPQAFRPNGAIYINDTASLIA------------NNCFFIA------PTKLYISHQD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1h7ea      GPGVDTPACLEKVRALMAQELAENA*
+1ezia      SIDIDTELDLQQAENILN-------*
+           ====|=========|=========|
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h7ea      100.0  14.7
+  2-1ezia       14.7 100.0
+
+***************************************************************************

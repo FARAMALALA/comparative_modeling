@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1nmta      structureX:1nmt:  60 :A: 451 :A:N-myristoyltransferase:Candida albicans: 2.45: 21.4
+[  2] 2nmta      structureX:2nmt:  34 :A: 455 :A:N-myristoyltransferase:Saccharomyces cerevisiae: 2.90: 22.8
+
+
+1nmta      ----------------------EGPIDKLKTPEDVPNDPLPLISDFEWSTLDIDDNLQLDELYKLLYDNYVEDID
+2nmta      AMKDHKFWRTQPVKDFDEKVVEEGPIDKPKTPEDISDKPLPLLSSFEWCSIDVDNKKQLEDVFVLLNENYVEDRD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1nmta      ATFRFKYSHEFFQWALKPPGWRKDWHVGVRVKSTGKLVAFIAATPVTFKLNKSNKVIDSVEINFLCIHKKLRNKR
+2nmta      AGFRFNYTKEFFNWALKSPGWKKDWHIGVRVKETQKLVAFISAIPVTLGVR--GKQVPSVEINFLCVHKQLRSKR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1nmta      LAPVLIKEITRRVNKQNIWQALYTGGSILPTPLTTCRYQHRPINWSKLHDVGFSHLPPNQTKSSMVASYTLPNNP
+2nmta      LTPVLIKEITRRVNKCDIWHALYTAGIVLPAPVSTCRYTHRPLNWKKLYEVDFTGLPDGHTEEDMIAENALPAKT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1nmta      KLKGLRPMTGKDVSTVLSLLYKYQERFDIVQLFTEEEFKHWMLGHDENS--DSNVVKSYVVEDENGIITDYFSYY
+2nmta      KTAGLRKLKKEDIDQVFELFKRYQSRFELIQIFTKEEFEHNFIG-EESLPLDKQVIFSYVVEQPDGKITDFFSFY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1nmta      LLPFTVLDNAQHDELGIAYLFYYASDSFE----------KPNYKKRLNELITDALITSKKFGVDVFNCLTCQDNT
+2nmta      SLPFTILNNTKYKDLGIGYLYYYATDADFQFKDRFDPKATKALKTRLCELIYDACILAKNANMDVFNALTSQDNT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1nmta      YFLKDCKFGSGDGFLNYYLFNYRTFPMDGGIDKKTKEVVEDQTSGIGVVLL*
+2nmta      LFLDDLKFGPGDGFLNFYLFNYRAKPITGGLNP-DNSNDIKRRSNVGVVML*
+           ====|=========|=========|=========|=========|======
+               0380      0390      0400      0410      0420   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1nmta      100.0  56.1
+  2-2nmta       56.1 100.0
+
+***************************************************************************

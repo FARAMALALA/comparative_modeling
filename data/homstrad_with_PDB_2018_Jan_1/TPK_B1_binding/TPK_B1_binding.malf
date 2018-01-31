@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ig3a      structureX:1ig3: 179 :A: 263 :A:thiamin pyrophosphokinase:Mus musculus: 1.90: 21.4
+[  2] 1ig0a      structureX:1ig0: 224 :A: 319 :A:thiamine pyrophosphokinase:Saccharomyces cerevisiae: 1.80: 21.7
+
+
+1ig3a      DSLIYLLQPGKHRLHVDTG---MEGSWCGLIPVGQPCNQVTTTGLKWNLTNDVLGFGT-LVSTSNTYDGSGLVTV
+1ig0a      TDLIFLIKKNGTLIEYDPQFRNTCIGNCGLLPIGEATLVKETRGLKWDVKNWPTSVVTGRVSSSNRFVGDNCCFI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ig3a      ETDHPLLWTMAIKS-------*
+1ig0a      DTKDDIILNVEIFVDKLIDFL*
+           ====|=========|======
+               0080      0090   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ig3a      100.0  27.1
+  2-1ig0a       27.1 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1tig       structureX:1tig:  83 : : 170 : :translation initiation factor if-3:Bacillus stearothermophilus: 2.0: -1
+[  2] 2ifea      structureX:2ife:  90 :A: 180 :A:translation initiation factor if-3:Escherichia coli: -1: -1
+
+
+1tig       -INVKEVRLSPTIEEHDFNTKLRNARKFLEKGDKVKATIRFKGRAITHKEIGQRVLDRLSEACADIAVVETAP-K
+2ifea      VIQVKEIKFRPGTDEGDYQVKLRSLIRFLEEGDKAKITLRFRGREMAHQQIGMEVLNRVKDDLQELAVVESFPTK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tig       MDGRNMFLVLAPKN-D*
+2ifea      IEGRQMIMVLAPKKKQ*
+           ====|=========|=
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tig       100.0  47.7
+  2-2ifea       47.7 100.0
+
+***************************************************************************

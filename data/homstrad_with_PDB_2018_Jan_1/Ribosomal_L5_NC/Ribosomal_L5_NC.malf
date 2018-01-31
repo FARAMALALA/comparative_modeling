@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1iq4a      structureX:1iq4:   1 :A: 179 :A:50S ribosomal protein L5:Bacillus stearothermophilus: 1.80: 21.5
+[  2] 1jj2d      structureX:1jj2:  10 :D: 174 :D:50S ribosomal protein L5p:Haloarcula marismortui: 2.40: 18.9
+
+
+1iq4a      MNRLKEKYLNEVVPALMSKFNYKSIMQVPKIEKIVINMGVGDAVQNPKALDSAVEELTLIAGQRPVVTRAKKSIA
+1jj2d      ----------------------FHEMREPRIEKVVVHMGIGHA--------NAEDILGEITGQMPVRTKAKRTVG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1iq4a      GFRLRQGMPIGAKVTLRGERMYEFLDKLISVSLPRARDFRGVSKKSFDGRGNYTLGIKEQLIFPEIDYDKVNKVR
+1jj2d      EFDIREGDPIGAKVTLRDEMAEEFLQTA----LPLAE----LATSQFDDTGNFSFG-------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1iq4a      GMDIVIVTTAN--------------------TDEEARELLALLGMPFQK*
+1jj2d      -LDVTVNLVRPGYRVAKRDKASRSIPTKHRLNPADAVAFIESTYDVEV-*
+           =========|=========|=========|=========|=========
+                    0160      0170      0180      0190      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1iq4a      100.0  32.9
+  2-1jj2d       32.9 100.0
+
+***************************************************************************

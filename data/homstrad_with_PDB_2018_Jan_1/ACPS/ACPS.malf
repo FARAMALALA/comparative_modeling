@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1qr0a2     structureX:1qr0: 105 :A: 211 :A:4'-phosphopantetheinyl transferase Sfp-coenzyme A complex:Bacillus subtilis: 1.90: 21.6
+[  2] 1f7la      structureX:1f7l:   1 :A: 118 :A:holo-[acyl-carrier protein] synthase:Bacillus subtilis: 1.50: 18.5
+[  3] 1qr0a1     structureX:1qr0:   1 :A: 104 :A:4'-phosphopantetheinyl transferase Sfp-coenzyme A complex:Bacillus subtilis: 1.90: 21.6
+
+
+1qr0a2     -----GIDIEKTK-PIS-----LEIAKRFFSKTEYSDLLAKD-KDEQTDYFYHLWSMKESFIKQEGKG--LSLPL
+1f7la      GIYGIGLDITELKRIASMAGRQKRFAERILTRSELDQYYELS-EKRKNEFLAGRFAAKEAFSKAFGTGIGRQLSF
+1qr0a1     ----MKIYGIYMDRPLS--QEENERFMTFISPEKREKCRRFYHKEDAHRTLLGDVLVRSVISRQYQ------LDK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qr0a2     DSFSVRLHQDGQVSIELPDS-HSPCYIKTYEVDPGYKMAVCAAHPDF*
+1f7la      QDIEIRKDQNGKPYIICTKLSPAAVHVSITH-TKEYAAAQVVIER--*
+1qr0a1     SDIRFSTQEYGKPCI--PDL--PDAHFNISH-SGRWVIGAFDSQPI-*
+           ====|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qr0a2     100.0  19.6  13.5
+  2-1f7la       19.6 100.0  15.4
+  3-1qr0a1      13.5  15.4 100.0
+
+***************************************************************************

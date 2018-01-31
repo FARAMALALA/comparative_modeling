@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1b43a      structureX:1b43:   1 :A: 219 :A:fen-1:Pyrococcus furiosus: 2.00: 23.1
+[  2] 1a77       structureX:1a77:   2 : : 208 : :flap endonuclease-1:Methanococcus jannaschii: 2.0: 21.8
+
+
+1b43a      GVPIGEIIPRKEIELENLYGKKIAIDALNAIYQFLSTIRQKDGTPLMDSKGRITSHLSGLFYRTINLMEAGIKPV
+1a77       GVQFGDFIPKNIISFEDLKGKKVAIDGMNALYQFLTSIRLRDGSPLRNRKGEITSAYNGVFYKTIHLLENDITPI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b43a      YVFDGE---PPEFKKKELEKRREAREEAE-----------EKWREALEKGEIEEARKYAQRATRVNEMLIEDAKK
+1a77       WVFDGEPPKLKEK------TRKVRREMKEKAELKMKEAIKKEDFE--------EAAKYAKRVSYLTPKMVENCKY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1b43a      LLELMGIPIVQAPSEGEAQAAYMAAKGSVYASASQDYDSLLFGAPRLVRNLTITGKRKLPGKNVYVEIKPELIIL
+1a77       LLSLMGIPYVEAPSEGEAQASYMAKKGDVWAVVSQDYDALLYGAPRVVRNLTTTK------------EMPELIEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1b43a      EEVLKELK*
+1a77       NEVLEDLR*
+           ====|===
+               0230 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b43a      100.0  52.7
+  2-1a77        52.7 100.0
+
+***************************************************************************

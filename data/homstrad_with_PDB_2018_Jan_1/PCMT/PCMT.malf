@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jg1a      structureX:1jg1:  14 :A: 228 :A:L-isoaspartyl (D-aspartyl) o- methyltransferase:Pyrococcus furiosus: 1.20: -1
+[  2] 1dl5a      structureX:1dl5:   1 :A: 213 :A:protein-L-isoaspartate o-methyltransferase:Thermotoga maritima: 1.80: 18.2
+
+
+1jg1a      EKELYEKWMRTVEMLKAEGIIRSKEVERAFLKYPRYLSVEDKY-KKYAHIDEPLPIPA----GQTVSAPHMVAIM
+1dl5a      ------MREKLFWILKKYG--VSDHIAKAFLEIPREEFLTKSYPLSYVYEDIVLVSYDDGEEYSTSSQPSLMALF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jg1a      LEIANLKPGMNILEVGTGSGWNAALISEIVK--TDVYTIERIPELVEFAKRNLERAGVKNVHVILGDGSKGFPPK
+1dl5a      MEWVGLDKGMRVLEIGGGTGYNAAVMSRVVGEKGLVVSVEYSRKICEIAKRNVERLGIENVIFVCGDGYYGVPEF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jg1a      APYDVIIVTAGAPKIPEPLIEQLKIGGKLIIPVGSYHL-WQELLEVRKTKDGIKIKNHGGVAFVPLIGEYGWK*
+1dl5a      SPYDVIFVTVGVDEVPETWFTQLKEGGRVIVPINLKLSRRQPAFLFKKKDPYLVGNYKLETRFITAGGNLG--*
+           =========|=========|=========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200      0210      0220 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jg1a      100.0  32.9
+  2-1dl5a       32.9 100.0
+
+***************************************************************************

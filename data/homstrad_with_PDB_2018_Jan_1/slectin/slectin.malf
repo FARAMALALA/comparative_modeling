@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1hlca      structureX:1hlc:   4 :A: 132 :A:galectin-2:Homo sapiens:2.90:17.7
+[  2] 1slta      structureX:1slt:   2 :A: 134 :A:galectin-1:Bos taurus:1.90:16.7
+[  3] 1gana      structureX:1gan:   1 :A: 134 :A:galectin-1:Bufo arenarum:2.23:18.3
+[  4] 3gala      structureX:3gal:   2 :A: 135 :A:galectin-7 (hkl-14):Homo sapiens: 1.90: 21.1
+[  5] 1a3k       structureX:1a3k: 114 : : 250 : :galectin-3:Homo sapiens: 2.1: 17
+
+
+1hlca      ---ELEVKNMD-MKPGSTLKITGSIADGTDGFVINLGQGT---DKLNLHFNPRFS----ESTIVCNSLDGSNWGQ
+1slta      --CGLVASNLN-LKPGECLRVRGEVAADAKSFLLNLGKDD---NNLCLHFNPRFNAHGDVNTIVCNSKDAGAWGA
+1gana      ASAGVAVTNLN-LKPGHCVEIKGSIPPDCKGFAVNLGEDA---SNFLLHFNARFDLHGDVNKIVCNSKEADAWGS
+3gala      -NVPHKSSLPEGIRPGTVLRIRGLVPPNASRFHVNLLCGEEQGSDAALHFNPRLDT----SEVVFNSKEQGSWGR
+1a3k       LIVPYNLPLPGGVVPRMLITILGTVKPNANRIALDFQRG----NDVAFHFNPRFNENN-RRVIVCNTKLDNNWGR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hlca      EQREDHLCFSPGSEVKFTVTFESDKFKVKLPDGHELTFPNRL-GHSHLSYLSVRGGFNMSSFKLKE-*
+1slta      EQRESAFPFQPGSVVEVCISFNQTDLTIKLPDGYEFKFPNRL-NLEAINYLSAGGDFKIKCVAFE--*
+1gana      EQREGVFPFQQGAEVMVCFEYQTDKIIIKFSSGDQFSFPVRK-VLPSIPFLSLEG-LQFKSITTE--*
+3gala      EERGPGVPFQRGQPFEVLIIASDDGFKAVVGDAQYHHFRHRL-PLARVRLVEVGGDVQLDSVRIF--*
+1a3k       EERQSVFPFESGKPFKIQVLVEPDHFKVAVNDAHLLQYNHRVKKLNEISKLGISGDIDLTSASYTMI*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1hlca      100.0  42.6  35.7  27.1  27.9
+  2-1slta       42.6 100.0  48.9  32.3  25.6
+  3-1gana       35.7  48.9 100.0  28.4  23.1
+  4-3gala       27.1  32.3  28.4 100.0  35.8
+  5-1a3k        27.9  25.6  23.1  35.8 100.0
+
+***************************************************************************

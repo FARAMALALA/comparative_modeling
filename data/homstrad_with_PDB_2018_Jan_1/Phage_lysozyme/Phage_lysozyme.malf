@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1l58       structureX:1l58:   1 : : 164 : :lysozyme:Bacteriophage T4: 1.65: 16.7
+[  2] 1k28a      structureX:1k28: 170 :A: 342 :A:tail-associated lysozyme:Bacteriophage T4: 2.90: 21.1
+
+
+1l58       ----MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSP--SLNAAKSELDKAIGRNCN---GVITKDEAEKL
+1k28a      DNPNMSMAEMLRRDEGLRLKVYWDTEGYPTIGIGHLIMKQPVRDMAQINKVLSKQVGREITGNPGSITMEEATTL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1l58       FNQDVDAAVRGILRNAKLKPVYDSLDAVRRCALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQ
+1k28a      FERDLADMQRDIKSHSKVGPVWQAVNRSRQMALENMAFQMGVGGVAKFNTMLTAMLAGDWEKAYKAGRDSLWYQQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1l58       TANRAKRVITTFRTGTWDAYKNL*
+1k28a      TKGRASRVTMIILTGNLESYGVE*
+           =========|=========|===
+                    0160      0170 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1l58       100.0  43.9
+  2-1k28a       43.9 100.0
+
+***************************************************************************

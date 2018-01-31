@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ulo       structureN:1ulo:   1 : : 152 : :endoglucanase C, N-terminal cellulose-binding domain:Cellulomonas fimi: -1: -1
+[  2] 1cx1a      structureN:1cx1:   1 :A: 153 :A:endoglucanase C, second N-terminal cellulose-binding domain:Cellulomonas fimi: -1: -1
+
+
+1ulo       A------SPIGEGTFDDGPEGWVAYGTDGPLDTSTGALCVAVPAGSAQY-GVGVVLNGVAIEEGTTYTLRYTATA
+1cx1a      ASLDSEVELLPHTSFAESLGPWSLYGTS-EPVFADGRMCVDLPGGQGNPWDAGLVYNGVPVGEGESYVLSFTASA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ulo       STDVTVRALVGQNGAPYGTVLDT-SPALTSEPRQVTETFTASATYPATPAADDPEGQIAFQLGGFSADAWTLCLD
+1cx1a      TPDMPVRVLVGEGGGAYRTAFEQGSAPLTGEPATREYAFTSNLTFPPD---GDAPGQVAFHLGK--AGAYEFCIS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ulo       DVALDSEVEL*
+1cx1a      QVSLTTSA-T*
+           =========|
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ulo       100.0  34.9
+  2-1cx1a       34.9 100.0
+
+***************************************************************************

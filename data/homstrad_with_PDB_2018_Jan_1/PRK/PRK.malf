@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1esma      structureX:1esm:   6 :A: 316 :A:pantothenate kinase:Escherichia coli: 2.50: 20.1
+[  2] 1a7j       structureX:1a7j:   2 : : 289 : :phosphoribulokinase 1:Rhodobacter sphaeroides: 2.5: 21.3
+
+
+1esma      QTLTPYLQFDRNQWAALRDSVPTLSEDEIARLKGINEDLSLEEVAEIYLPLSRLLNFYISSNLRRQAVLEQFLGT
+1a7j       ---------------------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1esma      NGQRIPYIISIAGSVAVGKSTTARVLQALLSRWPEHRRVELITTDGFLH-PNQVLKER---------GLKKKGFP
+1a7j       --SKKHPIISVTGSST---STVKHTFDQIFRRE--GVKAVSIEGDAFHRFNRADMKAELDRRYAAGDATFSHFSY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1esma      ESYD-HRLVKFVSDLKSGVPNVTAPVYSHL----IYDVIPDGDKTVV-QPDILILEGLNVLQSGDYPHDPHHVFV
+1a7j       EANELKELERVFREYGETG-QGRTRTYVARTGVAPGNFT--DWRDFDSDSHLLFYEGLHGAVVNS------EVNI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1esma      SDFVDFSIYVDAPEDLLQTWYINRFLKFREGAFTDPDSYFHNYAKLTKEEAIKTATLWKEINWLNLKQNILPTRE
+1a7j       AGLADLKIGVVPVINLEWIQKIHRDRATR--GYT-----------------TEAVTDVILRRMHAYVHCIVPQFS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1esma      RASLILTKSA----------------NHAVEEVRLRK--------------------------------------
+1a7j       QTDINFQRVPVVDTSNPFIARWIPTADESVVVIRFRNPRGIDFPYLTSMIHGSWMSRANSIVVPGNKLDLAMQLI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1esma      --------------*
+1a7j       LTPLIDRVVRESKV*
+           ====|=========
+               0380      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1esma      100.0  12.2
+  2-1a7j        12.2 100.0
+
+***************************************************************************

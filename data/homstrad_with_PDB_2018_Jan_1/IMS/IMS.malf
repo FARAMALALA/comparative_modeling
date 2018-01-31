@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1im4a      structureX:1im4:  -3 :A: 205 :A:DinB homolog (DBH) lesion bypass deoxyribonucleic acid polymerase catalytic fragment:Sulfolobus solfataricus: 2.30: 22.7
+[  2] 1jx4a      structureX:1jx4:   2 :A: 204 :A:Y-family deoxyribonucleic acid polymerase:Sulfolobus solfataricus: 1.70: 21.3
+
+
+1im4a      HHHHHIVIFVDFDYFFAQVEEVLNPQYKGKPLVVCVYST----SGAVATANYEARKLGVKAGMPIIKAMQIAPSA
+1jx4a      -----IVLFVDFDYFYAQVEEVLNPSLKGKPVVVCVFSGRFEDSGAVATANYEARKFGVKAGIPIVEAKKILPNA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1im4a      IYVPMRKPIYEAFSNRIMNLLNKHADKIEVASIDEAYLDVTNKVEGNFENGIELARKIKQEILEKEKITVTVGVA
+1jx4a      VYLP-RKEVYQQVSSRI-NLLREYSEKIEIASIDEAYLDISDKVR-DYREAYNLGLEIKNKILEKEKITVTVGIS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1im4a      PNKILAKIIADKSKPNGLGVIRPTEVQDFLNELDIDEIPGIGSVLARRLNELGIQKLRD*
+1jx4a      KNKVFAKIAAD-AKPNGIKVIDDEEVKRLIRELDIADVPGIGNITAEKLKKLGINKLVD*
+           =========|=========|=========|=========|=========|=========
+                    0160      0170      0180      0190      0200      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1im4a      100.0  61.0
+  2-1jx4a       61.0 100.0
+
+***************************************************************************

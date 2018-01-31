@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1j98a      structureX:1j98:   4 :A: 157 :A:autoinducer-2 production protein LuxS:Bacillus subtilis: 1.20: 12.6
+[  2] 1j6xa      structureX:1j6x:   2 :A: 151 :A:autoinducer-2 production protein LuxS:Helicobacter pylori j99: 2.38: 21.9
+[  3] 1j6wa      structureX:1j6w:   3 :A: 163 :A:autoinducer-2 production protein LuxS:Haemophilus influenzae: 2.10: 21.3
+[  4] 1inna      structureX:1inn:   6 :A: 156 :A:LuxS:Deinococcus radiodurans: 1.80: 20.6
+
+
+1j98a      --VESFELDHNAVVAPYVRHCGVHKVGTDGVVNKFDIRFCQPNKQAMKPDTIHTLEHLLAFTIRSHAEKYDHFDI
+1j6xa      KNVESFNLDHTKVKAPYVRIADRKKGVNGDLIVKYDVRFKQPNRDH--DPSLHSLEHLVAEIIRNHAN-----YV
+1j6wa      -LLDSFKVDHTK-NAPAVRIAKT-LTPKGDNITVFDLRFCIPNKEILSPKGIHTLEHLFAGF-RDHLNG-DSIEI
+1inna      -NVESFDLDHTKVKAPYVRLAGVKTTPKGDQISKYDLRFLQPNQGAIDPAAIHTLEHLLAGY-RDHLE-----GV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1j98a      IDISPMGQTGYYLVVSGETTSAEIVDLLEDTMKEAVEIT---EIPAANEKQCGQAKLHDLEGAKRLMRFWLSQD-
+1j6xa      VDWSPGCQTGFYLTVLNHDNYTEILEVLEKT-QDVLKAK---EVPASNEKQCGWAANHTLEGAQNLARAFLDK--
+1j6wa      IDISPGCRTGFY-SLIGTPNEQKVSEAWLAS-QDVLGVQDQASIPELNIYQCGSYTEHSLEDAHEIAKNVIARGI
+1inna      VDVSPGCRTG-Y-AVIGEPDEQGV-KAFEAALKDTAGHDQ--PIPGVSELECGNYRDHDLAAARQHARDVLDQGL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1j98a      ---KEELLKVFG*
+1j6xa      ---RAEWSEVG-*
+1j6wa      GVNKNEDLSLDN*
+1inna      KVQE--TILL--*
+           =========|==
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1j98a      100.0  44.8  33.3  40.4
+  2-1j6xa       44.8 100.0  37.9  42.8
+  3-1j6wa       33.3  37.9 100.0  47.3
+  4-1inna       40.4  42.8  47.3 100.0
+
+***************************************************************************

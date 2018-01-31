@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1h83a      structureX:1h83:   5 :A: 463 :A:polyamine oxidase:Zea mays: 1.9: 19.6
+[  2] 1f8sa      structureX:1f8s:   5 :A: 486 :A:L-amino acid oxidase complexed with three molecules of o- aminobenzoate:Calloselasma rhodostoma: 2.00: 20.5
+
+
+1h83a      -----------------------------PRVIVVGAGMSGISAAKRLSEAGITDLLILEATDHIGGRMHKTNFA
+1f8sa      NPLAECFQENDYEEFLEIARNGLKATSNPKHVVIVGAGMAGLSAAYVLAGAGH-QVTVLEASERPGGRVRTYRNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h83a      --GINVELGANWVEGVNGGKMNPIWPIVNSTLKLRNFRSDFDYLAQNVYKEDGGVYDEDYVQ---KRIE------
+1f8sa      EAGWYANLGPMRLPE----KHRIVREYI-RKFDLRLNEFSQENDNAWYFIKN-IRKKVGEVKKDPGLLKYPVKPS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h83a      ----LADSVEEMGEKLSATLH--------ASGRDDMSILAMQRLNEHQPNGPATPVDMVVDYYKFDYEFAEPPRV
+1f8sa      EAGKSAGQLYEESLGKVVEELKRTNCSYILNKYDTYSTKEYLIKEGD----LSPGAVDMIGDLLNEDSGY----Y
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1h83a      TSLQNTVPLATFSDFGDDVYFVADQRGYEAVVYYLAGQYLKTDDKSGKIVDPRLQLNKVVREIKYSPGGVTVKTE
+1f8sa      VSFIESLKHDDIFAYEKRFDEIV--DGMDKLPTAMYRDIQ-----------DKVHFNAQVIKIQQNDQKVTVVYE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1h83a      D----NSVYSADYVMVSASLGVLQSDLIQFKPKLPTWKVRAIYQFDMAVYTKIFLKFPRKFWPEGKGREFFLYAS
+1f8sa      TLSKETPSVTADYVIVCTTSRAVR--LIKFNPPLLPKKAHALRSVHYRSGTKIFLTCTTKFWEDDGIHGGKSTTD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1h83a      SRRGYYGVWQEFEKQYP-DANVLLVTVTDEESRRIEQQSDEQTKAEIMQVLRKMFPGKDVPDAT----DILVPRW
+1f8sa      ---LPSRFIYYPNHNFTNGVGVIIAYGIGDDANFFQALDFKDCADIVFNDLSLIHQ-LPKKDIQSFCYPSVIQKW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1h83a      WSDRFYKGTFSNWPVGVNRYEYDQLRAPVGRVYFTGEHTSEHYNGYVHGAYLSGIDSAEILINCAQKKMC*
+1f8sa      SLDKYAMGGITTFTPYQFQHFSDPLTASQGRIYFAGEYTAQ-AHGWIDSTIKSGLRAARDVNLASEN---*
+           =========|=========|=========|=========|=========|=========|=========|
+                    0460      0470      0480      0490      0500      0510      0520 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h83a      100.0  17.2
+  2-1f8sa       17.2 100.0
+
+***************************************************************************

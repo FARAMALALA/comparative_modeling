@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1hsta      structureX:1hst:  24 :A:  97 :A:histone h5:Gallus gallus: 2.6: 27
+[  2] 1ghc       structureX:1ghc:   1 : :  75 : :histone h1.11l:Gallus gallus: -1: -1
+
+
+1hsta      -SHPTYSEMIAAAIRAEKSRGGSSRQSIQKYIKSHYKVG--HNADLQIKLSIRRLLAAGVLKQTKGVGASGSFRL
+1ghc       MAGPSVTELITKAVSASKERKGLSLAALKKALAAG-GYDVEKN-NSRIKLGLKSLVSKGTLVQTKGTGASGSFRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hsta      AK*
+1ghc       SK*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hsta      100.0  40.5
+  2-1ghc        40.5 100.0
+
+***************************************************************************

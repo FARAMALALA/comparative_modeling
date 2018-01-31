@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1yfoa      structureX:1yfo: 208 :A: 495 :A:protein-tyrosine phosphatase alpha:Mus musculus: 2.25: 18.4
+[  2] 1rpma      structureX:1rpm: 879 :A:1156 :A:protein-tyrosine phosphatase mu:Homo sapiens: 2.3: 19.5
+[  3] 1bzha      structureX:1bzh:   2 :A: 298 :A:protein-tyrosine phosphatase 1b:Homo sapiens: 2.1: 19.6
+
+
+1yfoa      KYPPLPVDKLEEEINRRMADDNKLFREEFNALPACPIQATCEAASKEENKEKNRYVNILPYDHSRVHLTPVEGVP
+1rpma      ---AIRVADLLQHITQMKCAEGYGFKEEYESFFEGQS-APWDSAKKDENRMKNRYGNIIAYDHSRVRLQTIEGDT
+1bzha      --------EMEKEFEQIDKSG--SWAAIYQDIRHEASDFPCRVAKLPKNKNRNRYRDVSPFDHSRIKLHQE----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1yfoa      DSDYINASFINGYQEKNKFIAAQGPKEETVNDFWRMIWEQNTATIVMVTNLKERKECKCAQYWPDQ--GCWTYG-
+1rpma      NSDYINGNYIDGYHRPNHYIATQGPMQETIYDFWRMVWHENTASIIMVTNLVEVGRVKCCKYWPDD---TEIYK-
+1bzha      DNDYINASLIKMEEAQRSYILTQGPLPNTCGHFWEMVWEQKSRGVVMLNRVMEKGSLKCAQYWPQKEEKEMIFED
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1yfoa      -NVRVSVEDVTVLVDYTVRKFCIQQ-----QRLITQFHFTSWPDFGVPFTPIGMLKFLKKVKAC--NPQYAGAIV
+1rpma      -DIKVTLIETELLAEYVIRTFAVEKRGVHEIREIRQFHFTGWPDHGVPYHATGLLGFVRQVKSK--SPPSAGPLV
+1bzha      TNLKLTLISEDIKSYYTVRQLELENLTTQETREILHFHYTTWPDFGVPESPASFLNFLFKVRESGSLSPEHGPVV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1yfoa      VHCSAGVGRTGTFVVIDAMLDMMHSERK---VDVYGFVSRIRAQRCQMVQTDMQYVFIYQALLEHYLY-------
+1rpma      VHCSAGAGRTGCFIVIDIMLDMAEREGV---VDIYNCVRELRSRRVNMVQTEEQYVFIHDAILEACL--------
+1bzha      VHCSAGIGRSGTFCLADTCLLLMDKRKDPSSVDIKKVLLDMRKFRMGLIQTAEQLRFSYLAVIEGAKFIMGDSSV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1yfoa      -----------*
+1rpma      -----------*
+1bzha      QDQWKELSHED*
+           =========|=
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1yfoa      100.0  46.8  33.7
+  2-1rpma       46.8 100.0  33.1
+  3-1bzha       33.7  33.1 100.0
+
+***************************************************************************

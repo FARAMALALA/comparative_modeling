@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1pysa      structureX:1pys:  97 :A: 350 :A:phenylalanyl-tRNA synthetase alpha chain:Thermus thermophilus: 2.9: 17.7
+[  2] 1pysb      structureX:1pys: 489 :B: 681 :B:phenylalanyl-tRNA synthetase beta chain:Thermus thermophilus: 2.9: 17.7
+
+
+1pysa      SGGLHPITLMERELVEIFRALGYQAVEGPEVESEFFNFDALNIPEHHPARDMWDTFWLTGEGFRLEGPLGEEVEG
+1pysb      ----EAPYRKEQRLREVLSGLGFQEVYTYSFMDPEDA-RRFRLD--------PPRLLLL----------NPLAPE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pysa      RLLLRTHTSPMQVRYMVAH----TP-PFRIVVPGRVFRFEQTDATHEAVFHQLEGLVVGEG----------IAMA
+1pysb      KAALRTHLFPGLVRVLKENLDLDRPERALLFEVGRVFRE--------REETHLAGLLFGEGVGLPWAKERLSGYF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1pysa      HLKGAIYELAQALFGPDSKVRFQPVYFPFVE--PGAQFAVWWPEGGKWLELGGAGMVHPKVFQAVDAYRERLGLP
+1pysb      LLKGYLEALFARLG---LAFRVEAQAFPFLHPGVSGRVLVE----G--EEVGFLGALHPEIAQEL-------ELP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1pysa      PAYRGVTGFAFGLGVERLAMLRYGIPDIRYFFGGRLKFLEQFKGVL*
+1pysb      ------PVHLFELRLPLPDKP-------------------------*
+           ====|=========|=========|=========|=========|=
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1pysa      100.0  24.9
+  2-1pysb       24.9 100.0
+
+***************************************************************************

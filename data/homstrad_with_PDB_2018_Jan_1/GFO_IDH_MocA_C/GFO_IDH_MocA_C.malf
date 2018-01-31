@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ofga      structureX:1ofg: 161 :A: 322 :A:glucose--fructose oxidoreductase:Zymomonas mobilis: 2.7: 20.3
+[  2] 1gcua      structureX:1gcu: 129 :A: 246 :A:biliverdin reductase A:Rattus norvegicus: 1.40: 21.9
+
+
+1ofga      DPMNRAAVKLIRENQLGKLGMVTTDNSDVMDQNDPAQQWRLRRELAGGGSLMDIGIYGLNGTRYLLGEEPIEVRA
+1gcua      MEEFEFLRREVLG---KELLKGSLRFTASPLE----------EERF-GFPAFS-GISRLTWLVSLFG-ELSLISA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ofga      YTYSDPNDERFVEVEDRIIWQMRFRSGALSHGASSYS--TTTTSRFSVQGDKAVLLMDPATGYYQNLISVQTPGH
+1gcua      TLEERKED-----QYMKMTVQLETQNKGLLSWIEEKGPGLKRNRYVNFQFTSGSLEEVPSVGV------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ofga      ANQSMMPQFIMPAN*
+1gcua      -------------N*
+           =========|====
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ofga      100.0  15.3
+  2-1gcua       15.3 100.0
+
+***************************************************************************

@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1as8a      structureX:1as8:   4 :A: 339 :A:copper-containing nitrite reductase:Alcaligenes faecalis: 1.85: 19.4
+[  2] 1bq5       structureX:1bq5:   8 : : 340 : :nitrite reductase:Alcaligenes xylosoxidans: 2.05: 18
+[  3] 1nif       structureX:1nif:   8 : : 340 : :copper-containing nitrite reductase:Achromobacter cycloclastes: 1.6: 17.5
+
+
+1as8a      ATAAEIAALPRQKVELVDPPFVHAHSQVAEGGPKVVEFTMVIEEKKIVIDDAGTEVHAMAFNGTVPGPLMVVHQD
+1bq5       ----DADKLPHTKVTLVAPPQVHPHEQATKSGPKVVEFTMTIEEKKMVIDDKGTTLQAMTFNGSMPGPTLVVHEG
+1nif       ----DISTLPRVKVDLVKPPFVHAHDQVAKTGPRVVEFTMTIEEKKLVIDREGTEIHAMTFNGSVPGPLMVVHEN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1as8a      DYLELTLINPETNTLMHNIDFHAATGALGGGGLTEINPGEKTILRFKATKPGVFVYHCAPPGMVPWHVVSGMNGA
+1bq5       DYVQLTLVNPATNAMPHNVDFHGATGALGGAKLTNVNPGEQATLRFKADRSGTFVYHCAPEGMVPWHVVSGMSGT
+1nif       DYVELRLINPDTNTLLHNIDFHAATGALGGGALTQVNPGEETTLRFKATKPGVFVYHCAPEGMVPWHVTSGMNGA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1as8a      IMVLPREGLHDGKGKALTYDKIYYVGEQDFYVPRDENGKYKKYEAPGDAYEDTVKVMRTLTPTHVVFNGAVGALT
+1bq5       LMVLPRDGLKDPQGKPLHYDRAYTIGEFDLYIPKGPDGKYKDYATLAESYGDTVQVMRTLTPSHIVFNGKVGALT
+1nif       IMVLPRDGLKDEKGQPLTYDKIYYVGEQDFYVPKDEAGNYKKYETPGEAYEDAVKAMRTLTPTHIVFNGAVGALT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1as8a      GDKAMTAAVGEKVLIVHSQANRDTRPHLIGGHGDYVWATGKFNTPPDVDQETWFIPGGAAGAAFYTFQQPGIYAY
+1bq5       GADALTAKVGETVLLIHSQANRDTRPHLIGGHGDWVWETGKFANPPQRDLETWFIRGGSAGAALYTFKQPGVYAY
+1nif       GDHALTAAVGERVLVVHSQANRDTRPHLIGGHGDYVWATGKFRNPPDLDQETWLIPGGTAGAAFYTFRQPGVYAY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1as8a      VNHNLIEAFELGAAAHFKVTGEWNDDLMTSVLAPSG-*
+1bq5       LNHNLIEAFELGAAGHIKVEGKWNDDLMKQIKAPAPI*
+1nif       VNHNLIEAFELGAAGHFKVTGEWNDDLMTSVVKPASM*
+           =========|=========|=========|=======
+                    0310      0320      0330    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1as8a      100.0  66.4  82.0
+  2-1bq5        66.4 100.0  70.0
+  3-1nif        82.0  70.0 100.0
+
+***************************************************************************

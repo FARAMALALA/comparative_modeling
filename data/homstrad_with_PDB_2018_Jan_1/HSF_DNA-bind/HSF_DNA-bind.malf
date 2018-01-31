@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 3htsb      structureX:3hts: 192 :B: 282 :B:heat shock factor protein (hsf) (heat shock transcription factor)(hstf):Kluyveromyces lactis: 1.75: 20.8
+[  2] 1hkt       structureX:1hkt:  43 : : 148 : :heat shock factor protein (hsf) (heat shock transcription factor)(hstf):Drosophila melanogaster: -1: -1
+
+
+3htsb      -MARPAFVNKLWSMVNDKSNEKFIHWSTSGESIVVPNRERFVQEVLPKYFKHSNFASFVRQLNMYGWHKVQN---
+1hkt       GSGVPAFLAKLWRLVDDADTNRLICWTKDGQSFVIQNQAQFAKELLPLNYKHNNMASFIRQLNMYGFHKITSIDN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3htsb      -----NDSRWEFENER---------------*
+1hkt       GGLRFDRDEIEFSHPFFKRNSPFLLDQIKRK*
+           ====|=========|=========|======
+               0080      0090      0100   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3htsb      100.0  42.7
+  2-1hkt        42.7 100.0
+
+***************************************************************************

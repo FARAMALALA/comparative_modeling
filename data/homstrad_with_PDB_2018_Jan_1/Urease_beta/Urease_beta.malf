@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2kaub      structureX:2kau:   1 :B: 101 :B:urease beta subunit:Klebsiella aerogenes: 2.0: -1
+[  2] 1ubpb      structureX:1ubp:   5 :B: 126 :B:urease beta subunit:Bacillus pasteurii: 1.65: 15.8
+
+
+2kaub      --MIPGEYHVKPGQIALNTGRATCRVVVENHGDRPIQVGSHYHFAEVNPALKFDRQQAAGYRLNIPAGTAVRFEP
+1ubpb      NYIVPGEYRVAEGEIEINAGREKTTIRVSNTGDRPIQVGSHIHFVEVNKELLFDRAEGIGRRLNIPSGTAARFEP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2kaub      GQKREVELVAFAGHRAVFGFRGEVMGPL-------------------*
+1ubpb      GEEMEVELTELGGNREVFGISDLTNGSVDNKELILQRAKELGYKGVE*
+           ====|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2kaub      100.0  54.5
+  2-1ubpb       54.5 100.0
+
+***************************************************************************

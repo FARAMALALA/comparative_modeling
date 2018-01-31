@@ -1,0 +1,69 @@
+      Code       Title
+
+[  1] 1cela      structureX:1cel:   2 :A: 434 :A:exoglucanase I:Trichoderma reesei:1.81:18.1
+[  2] 1eg1a      structureX:1eg1:   2 :A: 371 :A:endoglucanase eg-1:Trichoderma reesei:3.60:20.1
+[  3] 2ovwa      structureX:2ovw:   2 :A: 398 :A:endoglucanase type c:Fusarium oxysporum: 2.3: 20.9
+[  4] 2a39a      structureX:2a39:   2 :A: 398 :A:endoglucanase eg-1:Humicola insolens: 2.2: 18
+
+
+1cela      SACTLQSETHPPLTWQKCSSGGTCTQQTGSVVIDANWRWTHATN--SSTNCYDGN-TWSSTLCPDNETCAKNCCL
+1eg1a      QPGTSTPEVHPKLTTYKCTKSGGCVAQDTSVVLDWNYRWMHDAN---YNSCTVNG-GVNTTLCPDEATCGKNCFI
+2ovwa      TPDK-AKEQHPKLETYRCTKASGCKKQTNYIVADAGIHGIRQK---NGAGCGDWGQKPNATACPDEASCAKNCIL
+2a39a      KPGE-TKEVHPQLTTFRCTKRGGCKPATNFIVLDSLSHPIHRAEGLGPGGCGDWGNPPPKDVCPDVESCAKNCIM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cela      DGA---AYASTYGVTTSGNSLSIGFVTQSA---QKNVGARLYLMASD-TTYQEFTLLGNEFSFDVDVSQLPCGLN
+1eg1a      EGV---DYAA-SGVTTSGSSLTMNQYMPSSSGGYSSVSPRLYLLDSD-GEYVMLKLNGQELSFDVDLSALPCGEN
+2ovwa      SGMDSNAYKN-AGITTSGNKLRLQQLI-N----NQLVSPRVYLLEENKKKYEMLHLTGTEFSFDVEMEKLPCGMN
+2a39a      EGIP--DYSQ-YGVTTNGTSLRLQHILPD----GRVPSPRVYLLDKTKRRYEMLHLTGFEFTFDVDATKLPCGMN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cela      GALYFVSMDADGGVSKYPTNTAGAKYGTGYCDSQCPRDLKFINGQANVEGWEPSSNNANTGIGGHGSCCSEMDIW
+1eg1a      GSLYLSQMDENGGA--NQYNTAGANYGSGYCDAQCPV-QTWRNGTLNTSH--------------QGFCCNEMDIL
+2ovwa      GALYLSEMPQDGGKSTSRNSKAGAYYGAGYCDAQCYV-TPFINGVGNIK--------------GQGVCCNELDIW
+2a39a      SALYLSEMHPTGAK--SKYNPGGAYYGTGYCDAQCFV-TPFINGLGNIE--------------GKGSCCNEMDIW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cela      EANSISEALTPHPCTTVGQEICEGDGCGGTYSDNRYGGTCDPDGCDWNPYRLGNTSFYGPGSSFTLDTTKKLTVV
+1eg1a      EGNSRANALTPHSCTA---------------------TACDSAGCGFNPYGSGYKSYYGPG--DTVDTSKTFTII
+2ovwa      EANSRATHIAPHPCSKPGLYGCTGDECGS-------SGICDKAGCGWNHNRINVTDFYGRGKQYKVDSTRKFTVT
+2a39a      EANSRASHVAPHTCNKKGLYLCEGEECAF-------EGVCDKNGCGWNNYRVNVTDYYGRGEEFKVNTLKPFTVV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1cela      TQFET--------SGAINRYYVQNGVTFQQPNAELGS-YSGNELNDDYCTAEEAEFGGSSFSDKGGLTQFKKATS
+1eg1a      TQFNTDNGSPSGNLVSITRKYQQNGVDIPSAQ---PG---GDTIS--SCP---------SASAYGGLATMGKALS
+2ovwa      SQFVANK---QGDLIELHRHYIQDNKVIESAVVNISGPPKINFINDKYCAAT----GANEYMRLGGTKQMGDAMS
+2a39a      TQFLANR---RGKLEKIHRFYVQDGKVIESFYTNKEGVPYTNMIDDEFCEAT----GSRKYMELGATQGMGEALT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1cela      GGMVLVMSLWDDYYANMLWLDSTYPTNETSSTPGAVRGSCSTSSGVPAQVESQSPNAKVTFSNIKFGPIGSTGNP
+1eg1a      SGMVLVFSIWNDNSQYMNWLDSG------------NAGPCSSTEGNPSNILANNPNTHVVFSNIRWGDIGSTT--
+2ovwa      RGMVLAMSVWWSEGDFMAWLDQ------------GVAGPCDATEGDPKNIVKVQPNPEVTFSNIRIGEIGSTS--
+2a39a      RGMVLAMSIWWDQGGNMEWLDH------------GEAGPCAKGEGAPSNIVQVEPFPEVTYTNLRWGEIGSTY--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1cela      SG*
+1eg1a      --*
+2ovwa      --*
+2a39a      --*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1cela      100.0  47.3  40.8  39.3
+  2-1eg1a       47.3 100.0  44.9  46.2
+  3-2ovwa       40.8  44.9 100.0  58.7
+  4-2a39a       39.3  46.2  58.7 100.0
+
+***************************************************************************

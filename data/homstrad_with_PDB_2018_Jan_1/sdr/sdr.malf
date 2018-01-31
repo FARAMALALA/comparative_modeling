@@ -1,0 +1,132 @@
+      Code       Title
+
+[  1] 1fmca      structureX:1fmc:   1 :A: 255 :A:7 alpha-hydroxysteroid dehydrogenase:Escherichia coli:1.80:20.7
+[  2] 1cyda      structureX:1cyd:   3 :A: 244 :A:carbonyl reductase:Mus musculus:1.80:15.4
+[  3] 1hdca      structureX:1hdc:   2 :A: 255 :A:3-alpha, 20-beta-hydroxysteroid dehydrogenase:Streptomyces hydrogenans:2.20:19.4
+[  4] 1ybva      structureX:1ybv:  14 :A: 283 :A:trihydroxynaphthalene reductase:Magnaporthe grisea:2.80:22.3
+[  5] 1bdb       structureX:1bdb:   1 : : 276 : :cis-biphenyl-2,3-dihydrodiol-2,3-dehydrogenase:Pseudomonas sp.:2.00:17.9
+[  6] 1ae1a      structureX:1ae1:  16 :A: 273 :A:tropinone reductase-I:Datura stramonium: 2.4: 15.5
+[  7] 2ae1       structureX:2ae1:   2 : : 260 : :tropinone reductase-II:Datura stramonium: 2.3: 20.5
+[  8] 1enp       structureX:1enp:  12 : : 308 : :enoyl-[acyl-carrier-protein] reductase [NADH]:Brassica napus:1.90:13.2
+[  9] 1dfia      structureX:1dfi:   2 :A: 258 :A:enoyl-[acyl-carrier-protein] reductase [NADH]:Escherichia coli:2.09:16.2
+[ 10] 1zid       structureX:1zid:   2 : : 269 : :enoyl-[acyl-carrier-protein] reductase [NADH]:Mycobacterium tuberculosis: 2.7: 20.2
+[ 11] 1fds       structureX:1fds:   1 : : 287 : :17-beta-hydroxysteroid-dehydrogenase:Homo sapiens:1.70:17.8
+[ 12] 1sep       structureX:1sep:   3 : : 261 : :sepiapterin reductase:Mus musculus: 1.95: 17.4
+[ 13] 1dhr       structureX:1dhr:   5 : : 240 : :dihydropteridine reductase (dhpr):Rattus norvegicus:2.30:15.4
+
+
+1fmca      -----MFNSDNLRLDGKCAIITGAGA--GIGKEIAITFATA---GASVVVSDI---NADAANHVVDEIQQL----
+1cyda      -----------LNFSGLRALVTGAGK--GIGRDTVKALHAS---GAKVVAVTR---TNSDLVSLAKECP------
+1hdca      ----------NDLSG-KTVIITGGAR--GLGAEAARQAVAA---GARVVLADV---LDEEGAATAREL-------
+1ybva      DAIPGPLGPQSASLEGKVALVTGAGR--GIGREMAMELGRR---GCKVIVNYA--NSTESAEEVVAAIKKN----
+1bdb       -----------MKLKGEAVLITGGAS--GLGRALVDRFVAE---GAKVAVLDK---SAERLAELETDH-------
+1ae1a      ----------RWSLKGTTALVTGGSK--GIGYAIVEELAGL---GARVYTCSR---NEKELDECLEIWREK----
+2ae1       --------AGRWNLEGCTALVTGGSR--GIGYGIVEELASL---GASVYTCSR---NQKELNDCLTQWRSK----
+1enp       ---------LPIDLRGKRAFIAGIADDNGYGWAVAKSLAAA---GAEILVGTWV-PALNIFETSLRRGKFDQSRV
+1dfia      ----------G-FLSGKRILVTGVASKLSIAYGIAQAMHRE---GAELAFTYQNDKLKGRVEEFAAQLG------
+1zid       ---------AG-LLDGKRILVSGIITDSSIAFHIARVAQEQ---GAQLVLTGFD--RLRLIQRITDRLP------
+1fds       --------------ARTVVLITGCSS--GIGLHLAVRLASDPSQSFKVYATLRDLKTQGRLWEAARALACPP---
+1sep       ----------ADGLGCAVCVLTGASR--GFGRALAPQLARLLSPGSVMLVSAR---SESMLRQLKEELGAQ----
+1dhr       --------------EARRVLVYGGRG--ALGSRCVQAFRAR---NWWVASIDVV-----ENE-------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fmca      ----GGQ--AFACRCDITS--------------------EQELSALADFAISKLG----KVDILVNNAGGGG---
+1cyda      ----G----IEPVCVDLGD--------------------WDATEKALGGI----G----PVDLLVNNAALVI---
+1hdca      ----GDA--ARYQHLDVTI--------------------EEDWQRVVAYAREEFG----SVDGLVNNAGIST---
+1ybva      ----GSD--AACVKANVGV--------------------VEDIVRMFEEAVKIFG----KLDIVCSNSGVVS---
+1bdb       ----GDN--VLGIVGDVRS--------------------LEDQKQAASRCVARFG----KIDTLIPNAGIWD---
+1ae1a      ----GLN--VEGSVCDLLS--------------------RTERDKLMQTVAHVFD---GKLNILVNNAGVVI---
+2ae1       ----GFK--VEASVCDLSS--------------------RSERQELMNTVANHFH---GKLNILVNNAGIVI---
+1enp       LPDGSLMEIKKVYPLDAVFDNPEDVPEDVKANKRYAGSSNWTVQEAAECVRQDFG----SIDILVHSLANGPEV-
+1dfia      -------SD-IVLQCDVAE--------------------DASIDTMFAELGKVWP----KFDGFVHSIGFAPGDQ
+1zid       -------AKAPLLELDVQN--------------------EEHLASLAGRVTEAIGA-GNKLDGVVHSIGFMPQTG
+1fds       -------GSLETLQLDVRD--------------------SKSVAAARERV--TEG----RVDVLVCNAGLGL---
+1sep       ----QPDLKVVLAAADLGT--------------------EAGVQRLLSAVRELPRPEGLQRLLLINNAATLG---
+1dhr       -------EASASVIVK---MTD---------------SFTEQADQVTAEVGKLLG--DQKVDAILCVAGGWAG--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fmca      P--KPF-D-MP----MADFRRAYELNVFSFFHLSQLVAPEMEKN-G-GGVILTITSMAAEN-KNINMT-SYASSK
+1cyda      M--QPFLE-VT----KEAFDRSFSVNLRSVFQVSQMVARDMINR-GVPGSIVNVSSMVAHV-TFPNLI-TYSSTK
+1hdca      G--MFLET-ES----VERFRKVVEINLTGVFIGMKTVIPAMKDA-G-GGSIVNISSAAGLM-GLALTS-SYGASK
+1ybva      F--GHVKD-VT----PEEFDRVFTINTRGQFFVAREAYKHLE---I-GGRLILMGSITGQAKAVPKHA-VYSGSK
+1bdb       Y-STALVD-LPEESLDAAFDEVFHINVKGYIHAVKACLPALVAS---RGNVIFTISNAGFY-PNGGGP-LYTAAK
+1ae1a      H--KEAKD-FT----EKDYNIIMGTNFEAAYHLSQIAYPLLKAS-Q-NGNVIFLSSIAGFS-ALPSVS-LYSASK
+2ae1       Y--KEAKD-YT----VEDYSLIMSINFEAAYHLSVLAHPFLKAS-E-RGNVVFISSVSGAL-AVPYEA-VYGATK
+1enp       --SKPLLE-TS----RKGYLAAISASSYSFVSLLSHFLPI----MNPGGASISLTYIASER-IIPGYGGGMSSAK
+1dfia      LD-GDYVNAVT----REGFKIAHDISSYSFVAMAKACRSM----LNPGSALLTLSYLGAER-AIPNYN-VMGLAK
+1zid       MGINPFFD-AP----YADVSKGIHISAYSYASMAKALLPI----MNPGGSIVGMDFD-PSR-AMPAYN-WMTVAK
+1fds       L--GPLEA-LG----EDAVASVLDVNVVGTVRMLQAFLPDMKRR-G-SGRVLVTGSVGGLM-GLPFND-VYCASK
+1sep       DVSKGFLN-VN---DLAEVNNYWALNLTSMLCLTSGTLNAFQDSPGLSKTVVNISSLCALQ-PYKGWG-LYCAGK
+1dhr       ---GNAKSK----SLFKNCDLMWKQSIWTSTISSHLATKH----LKEGGLLTLAGAKAALD-GTPGMI-GYGMAK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1fmca      AAASHLVRNMAF-DLGE-KNIRVNGIAPGAILTDALKSVI-T----------PEIEQKMLQ-HTPI--RRLG-QP
+1cyda      GAMTMLTKAMAM-ELGP-HKIRVNSVNPTVVLTDMGKKVSAD----------PEFARKLKE-RHPL--RKFA-EV
+1hdca      WGVRGLSKLAAV-ELGT-DRIRVNSVHPGMTYTPMTAETGIR------------QGEGNYP-NTPM--GRVG-EP
+1ybva      GAIETFARCMAI-DMAD-KKITVNVVAPGGIKTDMYHAVCREYIPNGENLSNEEVDEYAAVQWSPL--RRVG-LP
+1bdb       HAIVGLVRELAF-ELAP--YVRVNGVGSGGINSDL--RGPSSLG---------PLADMLKS-VLPI--GRMP-EV
+1ae1a      GAINQMTKSLAC-EWAK-DNIRVNSVAPGVIL-------------------QKEEIDNFIV-KTPM--GRAG-KP
+2ae1       GAMDQLTRCLAF-EWAK-DNIRVNGVGPGVIAT--------------QDPEQKENLNKLID-RCAL--RRMG-EP
+1enp       AALESDTRVLAF-EAGRKQNIRVNTISAGPLGSRAA----------KAIGFIDTMIEYSYN-NAPI--QKTL-TA
+1dfia      ASLEANVRYMAN-AMGP-EGVRVNAISAGPIRTL--------------------MLAHCEA-VTPI--RRTV-TI
+1zid       SALESVNRFVAR-EAGK-YGVRSNLVAAGPIRTLAMSAIVGGALGEEAGAQIQLLEEGWDQ-RAPI--GWNMKDA
+1fds       FALEGLCESLAV-LLLP-FGVHLSLIECGPVHT---VLGSPEEVLDRTDIHTFHRFYQYLAHSKQVFREAAQ-NP
+1sep       AARDMLYQVLAA-EEP---SVRVLSYAPGPLDNDMQQLARETSKD----PELRSKLQKLKSD------GALV-DC
+1dhr       GAVHQLCQSLAGKNSGMPSGAAAIAVLPVTLDTPMNRKSMP-----------------------EADFSSWT-PL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1fmca      QDIANAALFLCSP-AASWVSGQILTVSGGGVQELN--------------------------*
+1cyda      EDVVNSILFLLSD-RSASTSGGGILVDAGYLAS----------------------------*
+1hdca      GEIAGAVVKLLSD-TSSYVTGAELAVDGGWTTGPTVKYV---MGQ----------------*
+1ybva      IDIARVVCFLASN-DGGWVTGKVIGIDGGACM-----------------------------*
+1bdb       EEYTGAYVFFATRGDAAPATGALLNYDGGLGVRGFFSGA---GGNDLLEQLNIH-------*
+1ae1a      QEVSALIAFLCFP-AASYITGQIIWADGGFTANGGF-------------------------*
+2ae1       KELAAMVAFLCFP-AASYVTGQIIYVDGGLMANCGF-------------------------*
+1enp       DEVGNAAAFLVSP-LASAITGATIYVDNGLNSMG-----------VALDSPVFK-------*
+1dfia      EDVGNSAAFLCSD-LSAGISGEVVHVDGGFSIAA-----------MNE-------------*
+1zid       TPVAKTVCALLSD-WLPATTGDIIYADGGAHTQL-----------L---------------*
+1fds       EEVAEVFLTAL---RAPKPTL-RYFTTERFLPLLRMRLD---DPSGSNYVTAMHREVFGDV*
+1sep       GTSAQKLLGLLQKDTF--QSGAHVDFYD---------------------------------*
+1dhr       EFLVETFHDWITGNKRP-NSGSLIQVVTT--------DGKTELTPAYF-------------*
+           =========|=========|=========|=========|=========|=========|=
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13]
+
+  1-1fmca      100.0  32.2  31.2  29.0  24.7  30.2  32.1  25.1  23.1  22.7
+                18.0  20.4  13.1
+  2-1cyda       32.2 100.0  26.9  27.3  22.7  27.3  29.3  20.7  21.5  18.6
+                22.3  23.1  16.5
+  3-1hdca       31.2  26.9 100.0  24.9  28.9  25.7  26.6  20.6  17.8  22.5
+                21.3  21.3  16.1
+  4-1ybva       29.0  27.3  24.9 100.0  23.6  28.6  29.0  16.3  23.9  19.4
+                15.9  14.3  16.9
+  5-1bdb        24.7  22.7  28.9  23.6 100.0  30.6  29.8  20.6  19.0  18.0
+                22.1  19.3  16.1
+  6-1ae1a       30.2  27.3  25.7  28.6  30.6 100.0  65.3  24.5  18.8  18.4
+                20.4  20.0  14.0
+  7-2ae1        32.1  29.3  26.6  29.0  29.8  65.3 100.0  21.8  19.0  19.4
+                19.0  21.0  15.7
+  8-1enp        25.1  20.7  20.6  16.3  20.6  24.5  21.8 100.0  30.0  27.6
+                14.5  16.2  12.3
+  9-1dfia       23.1  21.5  17.8  23.9  19.0  18.8  19.0  30.0 100.0  31.2
+                18.6  12.1  15.3
+ 10-1zid        22.7  18.6  22.5  19.4  18.0  18.4  19.4  27.6  31.2 100.0
+                16.4  13.1  11.0
+ 11-1fds        18.0  22.3  21.3  15.9  22.1  20.4  19.0  14.5  18.6  16.4
+               100.0  17.0  14.0
+ 12-1sep        20.4  23.1  21.3  14.3  19.3  20.0  21.0  16.2  12.1  13.1
+                17.0 100.0   9.3
+ 13-1dhr        13.1  16.5  16.1  16.9  16.1  14.0  15.7  12.3  15.3  11.0
+                14.0   9.3 100.0
+
+***************************************************************************

@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1d4aa      structureX:1d4a:   1 :A: 273 :A:NAD(P)H dehydrogenase [quinone] 1:Homo sapiens: 1.70: 20.9
+[  2] 1qrda      structureX:1qrd:   1 :A: 273 :A:NAD(P)H dehydrogenase [quinone] 1:Rattus norvegicus: 2.4: 18.8
+[  3] 1qr2a      structureX:1qr2:   1 :A: 230 :A:NRH dehydrogenase [quinone] 2:Homo sapiens: 2.10: 21.9
+
+
+1d4aa      VGRRALIVLAHSERTSFNYAMKEAAAAALKKKGWEVVESDLYAMNFNPIISRKDITGKLKDPANFQYPAESVLAY
+1qrda      AVRRALIVLAHAERTSFNYAMKEAAVEALKKKGWEVVESDLYAMNFNPLISRNDITGEPKDSENFQYPVESSLAY
+1qr2a      AGKKVLIVYAHQEPKSFNGSLKNVAVDELSRQGCTVTVSDLYAMNFEPRATDKDITGTLSNPEVFNYGVETHEAY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d4aa      KEGHLSPDIVAEQKKLEAADLVIFQFPLQWFGVPAILKGWFERVFIGEFAYTYAAMYDKGPFRSKKAVLSITTGG
+1qrda      KEGRLSPDIVAEQKKLEAADLVIFQFPLYWFGVPAILKGWFERVLVAGFAYTYATMYDKGPFQNKKTLLSITTGG
+1qr2a      KQRSLASDITDEQKKVREADLVIFQFPLYWFSVPAILKGWMDRVLCQGFAFDIPGFYDSGLLQGKLALLSVTTGG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d4aa      SGSMYSLQGIHGDMNVILWPIQSGILHFCGFQVLEPQLTYSIGHTPADARIQILEGWKKRLENIWDETPLYFAPS
+1qrda      SGSMYSLQGVHGDMNVILWPIQSGILRFCGFQVLEPQLVYSIGHTPPDARVQVLEGWKKRLETVWEESPLYFAPS
+1qr2a      TAEMYTKTGVNGDSRYFLWPLQHGTLHFCGFKVLAPQISFAPEIASEEERKGMVAAWSQRLQTIWKEEPIPCTAH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1d4aa      SLFDLNFQAGFLMKKEVQDEEKNKKFGLSVGHHLGKSIPTDNQIKARK*
+1qrda      SLFDLNFQAGFLLKKEVQEEQKKNKFGLSVGHHLGKSIPADNQIKARK*
+1qr2a      WHFGQ-------------------------------------------*
+           ====|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1d4aa      100.0  85.3  47.0
+  2-1qrda       85.3 100.0  48.7
+  3-1qr2a       47.0  48.7 100.0
+
+***************************************************************************

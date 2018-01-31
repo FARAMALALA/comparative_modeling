@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cof       structureX:1cof:   6 : : 140 : :cofilin:Saccharomyces cerevisiae: 2.3: 18.4
+[  2] 1cnua      structureX:1cnu:   2 :A: 134 :A:actophorin:Acanthamoeba castellanii: 2.25: 20.4
+[  3] 1ak6       structureX:1ak6:  -8 : : 165 : :destrin:Homo sapiens and sus scrofa: -1: -1
+
+
+1cof       -------------VAVADESLTAFNDLKL---------GKKYKFILFGLNDAKTEIVVK--ETSTDP--------
+1cnua      ------------GIAVSDDCVQKFNELKL---------GHQHRYVTFKMNASNTEVVVE--HVGGPNA-------
+1ak6       TMITPSSGNSASGVQVADEVCRIFYDMKVRKCSTPEEIKKRKKAVIFCLSADKKCIIVEEGKEILVGDVGVTITD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cof       SYDAFLEKLPENDCLYAIYDFEYEINGNEGKRSKIVFFTWSPDTAPVRSKMVYASSKDALRRALNGVSTDVQGTD
+1cnua      TYEDFKSQLPERDCRYAIFDYEFQV-DG-GQRNKITFILWAPDSAPIKSKMMYTSTKDSIKKKLVGIQVEVQATD
+1ak6       PFKHFVGMLPEKDCRYALYDASFETK--ESRKEELMFFLWAPELAPLKSKMIYASSKDAIKKKFQGIKHECQANG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cof       FSEVSYDSVLERVSR---------GA*
+1cnua      AAEISEDAVSERAKK-----------*
+1ak6       PEDLNRACIAEKLGGSLIVAFEGCPV*
+           =========|=========|======
+                    0160      0170   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cof       100.0  42.1  34.1
+  2-1cnua       42.1 100.0  34.6
+  3-1ak6        34.1  34.6 100.0
+
+***************************************************************************

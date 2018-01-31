@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1fvl       structureX:1fvl:   1 : :  70 : :disintegrin flavoridin (platelet aggregation activation inhibitor):Trimeresurus flavoviridis: -1: -1
+[  2] 1n4ya      structureN:1n4y:   1 :A:  68 :A:kistrin:Agkistrodon rhodostoma:-1:-1
+[  3] 2ech       structureX:2ech:   1 : :  49 : :disintegrin echistatin (platelet aggregation activation inhibitor):Echis carinatus: -1: -1
+
+
+1fvl       GEECDCGSPSNPCCDAATCKLRPGAQCADGLCCDQCRFKKKRTICRIARGDFPDDRCTGLSNDCPRWNDL----*
+1n4ya      GKECDCSSPENPCCDAATCKLRPGAQCGEGLCCEQCKFSRAGKICRIPRGDMPDDRCTGQSADCPRYH------*
+2ech       -------------------------ECESGPCCRNCKFLKEGTICKRARGDDMDDYCNGKTCDCPRNPHKGPAT*
+           =========|=========|=========|=========|=========|=========|=========|====
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1fvl       100.0  73.5  44.9
+  2-1n4ya       73.5 100.0  42.9
+  3-2ech        44.9  42.9 100.0
+
+***************************************************************************

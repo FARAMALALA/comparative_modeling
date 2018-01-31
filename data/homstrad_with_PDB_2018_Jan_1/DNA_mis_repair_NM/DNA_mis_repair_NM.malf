@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1h7sa      structureX:1h7s:  29 :A: 365 :A:PMS1 protein homolog 2:Homo sapiens: 1.95: 21.8
+[  2] 1b63a      structureX:1b63:  -2 :A: 331 :A:DNA mismatch repair protein MutL:Escherichia coli: 1.9: 21.3
+
+
+1h7sa      ------------------GQV-VLSLSTAVKELVENSLDAGATNIDLKLKDYGVDLIEVSDNGCGVEEENFEGLT
+1b63a      SHMPIQVLPPQLANQIAAG-EVVERPASVVKELVENSLDAGATRIDIDIERGGAKLIRIRDNGCGIKKDELALAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h7sa      L----------ADLTQVETFGFRGEALSSLCALSDVTISTCHASAKVGTRLFD--HNGKIIQKTPYPRPRGTTVS
+1b63a      ARHATSKIASLDDLEAIISLGFRGEALASISSVSRLTLTSRTAEQQEAWQAYAEGRDMNV-TVKPAAHPVGTTLE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h7sa      VQQLFSTLPVRHKEFQRNIKKEYAK-VQVLHAYCIISAGIRVSCTNQLGQGKRQPVVCTGGSP---SIKENIGSV
+1b63a      VLDLFYNTPARRKFL-RTEKTEFNHIDEIIRRIALARFDVTINLSHN--G---KIVRQYRAVPEGGQKERRLGAI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1h7sa      FGQKQLQSLIPFVQLPPSDSVCEEYGLSCSDALHNLFYISGFISQCTHGVGRS-STDRQFFFINRRPCDPAKVCR
+1b63a      CGTAFLEQALAIEWQH------------------GDLTLRGWVADPN--HTTPALAEIQYCYVNGRMMRDRLINH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1h7sa      LVNEVYHYNR--HQYPFVVLNISVDSECVDIN------QILLQEEKLLLAVLKTSLIGFDS*
+1b63a      AIRQACEDKLGADQQPAFVLYLEIDPHQVDVNVHPAKHEVRFHQSRLVHDFIYQGVLSVLQ*
+           =========|=========|=========|=========|=========|=========|=
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h7sa      100.0  22.4
+  2-1b63a       22.4 100.0
+
+***************************************************************************

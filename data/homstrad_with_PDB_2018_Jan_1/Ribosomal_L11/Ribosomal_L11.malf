@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1qa6a      structureX:1qa6:   6 :A:  72 :A:50s ribosomal protein L11:Bacillus stearothermophilus: 2.80: 24
+[  2] 1mmsa      structureX:1mms:  71 :A: 140 :A:50s ribosomal protein L11:Thermotoga maritima: 2.57: 21.9
+
+
+1qa6a      KTPPAAVLLKKAAGIESGS-GEPNRNKVATIKRDKVREIAELKMPDLNAASIEAAMRMIEGTARSMGI---*
+1mmsa      KTPPASFLLKKAAGIEKGSSEPKRKIVGKVT-RKQIEEIAKTKMPDLNANSLEAAMKIIEGTAKSMGIEVV*
+           =========|=========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qa6a      100.0  61.2
+  2-1mmsa       61.2 100.0
+
+***************************************************************************

@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1khva      structureX:1khv:   5 :A: 501 :A:RNA-directed RNA polymerase:Rabbit hemorrhagic disease virus: 2.50: 21.7
+[  2] 1rdr       structureX:1rdr:  12 : : 461 : :poliovirus 3d polymerase:Poliovirus type 1: 2.4: 24.4
+
+
+1khva      FCGEPIDYRGITAHRLVGAEPRPPVSGTRYAKVPGVPDEYKTGYRPANLGRSDPDSDKSLMNIAVKNLQVYQQEP
+1rdr       ------------VGYPIINAPSKTK----LEPSA-FHYVFEGVIT------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1khva      KLDKVDEFIERAAADVLGYLRFLTKGERQANLNFKAAFNTLDLSTSCGPFVPGKKIDHVKDGVMDQVLAKHLYKC
+1rdr       ---EVDEYMKEAVDHYAGQLMSL--DINTEQMC--LN--------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1khva      WSVANSGKALHHIYACGLKDELRPLDGKKRLLWGCDVGVAVCAAAVFHNICYKLKMVAR-FGPIAVGVDMTSRDV
+1rdr       -------------------------------------DS-VAMRMAFGNLYAAFHKNPGVITGSAVGCDPD-LFW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1khva      DVIINNLTSKASDFLCLDYSKWDSTMSPCVVRLAIDILADCCEQTELTKSVVLTLKSHPMTILDAMIVQTKRGLP
+1rdr       SKIPVLME---EKLFAFDYTGYDASLSPAWFEALKMVLEKIGFGD--RVDYIDYLN-------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1khva      SGMPFTSVINSICHWLLWSAAVYKSCAEIGLHCSNLYEDAPFYTYGDDGVYAMTPMMVSLLPAIIENLRDYGLSP
+1rdr       ---SGTSIFNSMINNLIIRTLLLKTYK----GID--LDHLKMIAYGDDVIASYPHEV--DASLLAQSGKDYGLTM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1khva      TAADKTEFIDVCPLNKISFLKRTFELTD---IGWVSKLDKSSILRQLEWSKTTSRHMVIEETYDLAKEERGVQLE
+1rdr       TPADKSATFETVTWENVTFLKRFFRADEKYPFLIHPVMPMKEIHESIRWTKDP--------------RNTQDHVR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1khva      ELQVAAAAHGQEFFNFVCRELERQQAYTQFSVYSYDAARKILADRKR*
+1rdr       SLCLLAWHNGEEEYNKFLAKIRSVPIGRALLLPEYSTLYRRWLDS-F*
+           =========|=========|=========|=========|=======
+                    0460      0470      0480      0490    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1khva      100.0  17.7
+  2-1rdr        17.7 100.0
+
+***************************************************************************

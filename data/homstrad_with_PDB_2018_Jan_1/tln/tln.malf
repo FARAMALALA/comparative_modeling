@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 1npc       structureX:1npc:   1 : : 317 : :neutral protease:Bacillus cereus: 2.00:17.50
+[  2] 8tlne      structureX:8tln:   1 :E: 323 :D:thermolysin:Bacillus thermoproteolyticus: 1.60:16.50
+[  3] 1ezm       structureX:1ezm:   1 : : 298 : :elastase:Pseudomonas aeruginosa: 1.50:18.00
+[  4] 1bqba      structureX:1bqb:   1 :A: 301 :A:zinc metalloproteinase aureolysin:Staphylococcus aureus: 1.72: 17.6
+
+
+1npc       VTGTNKVGTGKGV---LGD------TKSLNTTLSGSSYYLQDNTRGATIFTYDAKNRSTLPG-TLWADADNVFNA
+8tlne      ITGTSTVGVGRGV---LGD------QKNINTTYS-TYYYLQDNTRGDGIFTYDAKYRTTLPG-SLWADADNQFFA
+1ezm       -----AEAGGPGGNQKIGKYTYGSDYGPLIVND---RCEMDDG----NVITVDMNSSTDDSKTTPFRFACPTNTY
+1bqba      ---AAATGTGKGV---LGD------TKDININSIDGGFSLEDLTHQGKLSAYNFNDQTGQ-A-TLITNEDENFVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1npc       ----AYDAAAVDAHYYAGKTYDYYKATFNRNSINDAGAPLKSTVHYGS-----NYNNAFWNGSQMVYGDGDGVTF
+8tlne      ----SYDAPAVDAHYYAGVTYDYYKNVHNRLSYDGNNAAIRSSVHYSQ-----GYNNAFWNGSEMVYGDGDGQTF
+1ezm       KQVNGAYSPLNDAHFFGGVVFKLYRDWFGTSPLT---HKLYMKVHYGR-----SVENAYWDGTAMLFGDGA-TMF
+1bqba      ----DDQRAGVDANYYAKQTYDYYKNTFGRESYDNHGSPIVSLTHVNHYGGQDNRNNAAWIGDKMIYGDGDGRTF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1npc       TSLSGGIDVIGHELTHAVTENSSNLIYQNESGALNEAISDIFGTLVEFYDNRNPDWEIGEDIYTPGKAGDALRSM
+8tlne      IPLSGGIDVVAHELTHAVTDYTAGLIYQNESGAINEAISDIFGTLVEFYANKNPDWEIGEDVYTPGISGDSLRSM
+1ezm       YPLV-SLDVAAHEVSHGFTEQNSGLIYRGQSGGMNEAFSDMAGEAAEFYMRGKNDFLIGYDIKK---GSGALRYM
+1bqba      TNLSGANDVVAHEITHGVTQQTANLEYKDQSGALNESFSDVFGYFVDD-----EDFLMGEDVYTPGKEGDALRSM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1npc       SDPTKYG-DPDHYSKRYTGSSDNGGVHTNSGIINKQAYLLANGGTHYGVTVTGIGKDKLGAIYYRANTQYFTQST
+8tlne      SDPAKYG-DPDHYSKRYTGTQDNGGVHINSGIINKAAYLISQGGTHYGVSVVGIGRDKLGKIFYRALTQYLTPTS
+1ezm       DQPSRDGRSIDNASQYYN----GIDVHHSSGVYNRAFYLLANSP--------GWDTRKAFEVFVDANRYYWTATS
+1bqba      SNPEQFG-QPSHMKDYVYTEKDNGGVHTNSGIPNKAAYNVIQA----------IGKSKSEQIYYRALTEYLTSNS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1npc       TFSQARAGAVQAAADLYGANSAEVAAVKQSFSAVGVN---*
+8tlne      NFSQLRAAAVQSATDLYGSTSQEVASVKQAFDAVGVK-VK*
+1ezm       NYNSGACGVIRSAQNRNY----SAADVTRAFSTVGVT-CP*
+1bqba      NFKDLKDALYQAAKDLYEQ--QTAEQVYEAWNEVGVE---*
+           =========|=========|=========|=========|
+                    0310      0320      0330      0340 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1npc       100.0  72.9  30.5  46.8
+  2-8tlne       72.9 100.0  29.9  47.5
+  3-1ezm        30.5  29.9 100.0  25.8
+  4-1bqba       46.8  47.5  25.8 100.0
+
+***************************************************************************

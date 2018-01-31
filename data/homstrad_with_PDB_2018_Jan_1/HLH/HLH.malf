@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1mdya      structureX:1mdy:   1 :A: 166 :A:myoblast determination protein 1:Mus musculus: 2.8: -1
+[  2] 1an4a      structureX:1an4: 196 :A: 260 :A:upstream stimulatory factor 1 (major late transcription factor 1):Homo sapiens: 2.9: 23.6
+[  3] 1hloa      structureX:1hlo:   3 :A:  82 :A:max protein:Homo sapiens: 2.80: 21.3
+[  4] 1am9a      structureX:1am9: 319 :A: 398 :A:sterol regulatory element binding protein-1 (srebp-1) (sterolregulatory element-binding transcription factor 1):Homo sapiens: 2.3: 21.9
+[  5] 1a0aa      structureX:1a0a:   0 :A:  62 :A:phosphate system positive regulatory protein pho4:Saccharomyces cerevisiae: 2.8: 23
+
+
+1mdya      MELKRKTTNADRRKAATMRERRRLSKVNEAFETLKRSTSSNP----NQRL-PKVEILRNAIRYIEGLQALLRD--
+1an4a      -------MDEKRRAQHNEVERRRRDKINNWIVQLSKIIPDSSMESTKSGQ-SKGGILSKASDYIQELRQSNHR--
+1hloa      NDDIEVESDADKRAHHNALERKRRDHIKDSFHSLRDSVPSLQ----GEKA-SRAQILDKATEYIQYMRRKNHTHQ
+1am9a      ------QSRGEKRTAHNAIEKRYRSSINDKIIELKDLV-VGT----EAKL-NKSAVLRKAIDYIRFLQHSNQKLK
+1a0aa      ----------MKRESHKHAEQARRNRLAVALHELASLIPAEWKQQNVSAAPSKATTVEAACRYIRHLQQNGST--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mdya      -----------------*
+1an4a      -----------------*
+1hloa      QDIDDLKRQN-------*
+1am9a      QENLSLRTAVHKSKSLK*
+1a0aa      -----------------*
+           ====|=========|==
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1mdya      100.0  24.6  22.1  26.5  19.0
+  2-1an4a       24.6 100.0  36.9  30.8  25.4
+  3-1hloa       22.1  36.9 100.0  27.5  25.4
+  4-1am9a       26.5  30.8  27.5 100.0  23.8
+  5-1a0aa       19.0  25.4  25.4  23.8 100.0
+
+***************************************************************************

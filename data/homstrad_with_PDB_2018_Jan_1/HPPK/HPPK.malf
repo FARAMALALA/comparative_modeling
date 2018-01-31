@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1q0na      structureX:1q0n:   1 :A: 158 :A:2-amino-4-hydroxy-6:Escherichia coli:1.25:11.5
+[  2] 1cbka      structureX:1cbk:   1 :A: 160 :A:7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase:Haemophilus influenzae: 2.02: 16.2
+
+
+1q0na      -TVAYIAIGSNLASPLEQVNAALKALGDIPESHILTVSSFYRTPPLGPQDQPDYLNAAVALETSLAPEELLNHTQ
+1cbka      MITAYIALGSNLNTPVEQLHAALKAISQLSNTHLVTTSSFYKSKPLGPQDQPDYVNAVAKIETELSPLKLLDELQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1q0na      RIELQQGRVRKAERWGPRTLDLDIMLFGNEVINTERLTVPHYDMKNRGFMLWPLFEIAPELVFPDGEMLRQILHT
+1cbka      RIENEQGRVRL-RRWGERTLDLDILLYGNEIIQNERLTIPHYDMHNREFVIVPLFEIASDLVLPNSQIITELVKQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1q0na      RAFDKLNKW--*
+1cbka      FADHKMIKLNP*
+           =========|=
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1q0na      100.0  55.7
+  2-1cbka       55.7 100.0
+
+***************************************************************************

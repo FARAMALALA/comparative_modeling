@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2if1       structureX:2if1:  40 : : 126 : :translation initiation factor eIF-1 (SUI1):Homo sapiens: -1: -1
+[  2] 1d1ra      structureX:1d1r:  29 :A: 111 :A:hypothetical 11.4 kd protein in pyrf-osmb intergenic region:Escherichia coli: -1: -1
+
+
+2if1       TED-YIHIRIQQRNG-RKTLTTVQGIA-DDYDKKKLVKAFKKKFACNGTVIEHPEYGEVIQLQGDQRKNICQFLV
+1d1ra      KGDGVVRIQRQTSGRKGKGVCLITGVDLDDAELTKLAAELKKKCGCGGAVKD-----GVIEIQGDKRDLLKSLLE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2if1       EIGLAKDDQLKVHGF--*
+1d1ra      AKGM----KVKLAGGLE*
+           ====|=========|==
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2if1       100.0  30.1
+  2-1d1ra       30.1 100.0
+
+***************************************************************************

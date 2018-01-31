@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1gmwa      structureX:1gmw:   2 :A: 138 :A:urease accessory protein ureE:Klebsiella aerogenes: 1.5: 22.3
+[  2] 1eb0a      structureX:1eb0:   1 :A: 143 :A:urease accessory protein ureE:Bacillus pasteurii: 1.85: 22.03
+
+
+1gmwa      LYLTQRL------EIPAAATASVTLPIDVRVKSRVKVTLNDGRDAGLLLPRGLLLRGGDVLSNEEGTEFVQVIAA
+1eb0a      MVITKIVGHIDDLSHQIKKVDWLEVEWEDLNKRILRKETENGTDIAIKLENSGTLRYGDVLYESD-DTLIAIRTK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gmwa      DEEVSVVRCDDP-FLAKACYALGNRHVPLQI-PGELRYHHDHVLDDL-RQFGLTVTFGQLPF-EPEAGA*
+1eb0a      LEKVYVIKPQTMQEMGKMAFEIGNRHTMCIIEDDEILVRYDKTLEKLIDEVGVSYEQSERRFKEPFKYR*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gmwa      100.0  20.9
+  2-1eb0a       20.9 100.0
+
+***************************************************************************

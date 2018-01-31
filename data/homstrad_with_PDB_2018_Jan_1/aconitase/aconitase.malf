@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1c96a      structureX:1c96:  34 :A: 480 :A:Mitochondrial aconitase:Bos taurus: 1.81: 22.5
+[  2] 1l5ja      structureX:1l5j: 380 :A: 822 :A:Aconitate hydratase 2:Escherichia coli: 2.40: 15.1
+
+
+1c96a      RPLTLSEKIVYGHLDDPANQEIERGKTYLRLRPDRVAMQDATAQMAMLQFISSGLPKVAV-PSTIHCDHLIEAQL
+1l5ja      RGFSLAQKMVGRACGV---KGIRPG-AYCEPKMTSVGSQDTTGPMTRDELKDLACLGFSADLVMQSFCHTAAYPK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c96a      GGEKDLRRAKDINQEVYNFLATAGAKYGVGFWRPGSGIIHQIILENYAYPGVLLIGTDSHTPNGGGLGGICIGVG
+1l5ja      ----------PVDVNTHHTLPDFIMNRGGVSLRPGDGVIHSWLNR-MLLPDTVGTGGDSHTR--FPI-GISFPAG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1c96a      GADAVDVMAGIPWELKCPKVIGVKLTGSLSGWTSPKDVILKVAGILTVK------------GGTGAIVEYHGPGV
+1l5ja      SGLVAFAAATGVMPLDMPESVLVRFKGKMQPGITLRDLVHAIPLYAIKQGLLTVEKKGKKNIFSGRILEIEG--L
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1c96a      DSISCTGMATICNMGAEIGATTSVFPYN-HRMKKYLSKT------------GRADIANLADEFKDH-------LV
+1l5ja      PDLKVEQAFELTDASAERSAAGCTIKLNKEPIIEYLNSNIVLLKWMIAEGYGDRRTLERRIQGMEKWLANPELLE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1c96a      PDPGCHYDQVIEINLSEL-KPHINGPFTPDLAHPVAEVGSVAEKEGWPLDIRVGLIGSCTNSSYEDMGRSAAVAK
+1l5ja      ADADAEYAAVIDIDLADIKEPILCAPNDPDDARPLSAVQG--------EKIDEVFIGSCM-TNIGHFRAAGKLLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1c96a      QALAHGLKCKSQFTITPGSEQIRATIERDGYAQVLRDVGGIVLANACGPCIGQWDRKDIKKGEKNTIVTSYNRNF
+1l5ja      A---HKGQLPTRLWVAPPTRMDAAQLTEEGYYSVFGKSGARIEIPGCSLCMGNQAR--VADG--ATVVSTSTRNF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1c96a      TGRNDANPETHAFVTSPEIVTALAIAGTLKF*
+1l5ja      PNRLGT--GANVFLASAELAAVAALIGKLPT*
+           =========|=========|=========|=
+                    0460      0470      0480 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c96a      100.0  20.3
+  2-1l5ja       20.3 100.0
+
+***************************************************************************

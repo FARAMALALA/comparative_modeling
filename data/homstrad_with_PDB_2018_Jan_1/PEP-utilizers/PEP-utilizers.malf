@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1h6za      structureX:1h6z: 404 :A: 532 :A:Pyruvate phosphate dikinase:Trypanosoma brucei: 3.0: 24.5
+[  2] 1kbla      structureX:1kbl: 377 :A: 509 :A:Pyruvate phosphate dikinase:Clostridium symbiosum: 1.94: 19.5
+[  3] 1zyma      structureX:1zym:   3 :A: 249 :A:Enzyme I, amino-terminal domain:Escherichia coli: 2.5: 20.5
+
+
+1h6za      MHPNLEPGAEKANKPIGRGLAASPGAAVGQVVFDAESAKEWSGRGKKVIMVRLETSPEDLA--GMDAACGILTAR
+1kbla      LHPTFNPAALKAGEVIGSALPASPGAAAGKVYFTADEAKAAHEKGERVILVRLETSPEDIE--GMHAAEGILTVR
+1zyma      -----------------SGILASPGIAFGKALLLKEKIIDLSAIQDEVILVAADLTPSETAQLNLKKVLGFITDA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h6za      GGMTSHAAVVARGMGKCCVSGCGDM-VIR--GKSFKLNGSVFRE-GDYITID-GSKGLIYA--------------
+1kbla      GGMTSHAAVVARGMGTCCVSGCGEI-KINEEAKTFELGGHTFAEGDYISLDGSTGKIYKGD--------------
+1zyma      GGRTSHTSIMARSLELPAIVGTGSVTS-------------QVKNDDYLILDAVNNQVYVNPTNEVIDKMRAVQEQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h6za      ----*
+1kbla      ----*
+1zyma      VASE*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1h6za      100.0  55.8  21.0
+  2-1kbla       55.8 100.0  23.4
+  3-1zyma       21.0  23.4 100.0
+
+***************************************************************************

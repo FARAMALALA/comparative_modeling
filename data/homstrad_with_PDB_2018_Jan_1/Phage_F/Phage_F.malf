@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1cd3f      structureX:1cd3:   1 :F: 426 :F:capsid protein:Bacteriophage phi-x174: 3.50: 27.5
+[  2] 1gff1      structureX:1gff:  10 :1: 426 :1:capsid protein:Bacteriophage g4: 3.0: 35.2
+
+
+1cd3f      SNIQTGAERMPHDLSHLGFLAGQIGRLITISTTPVIAGDSFEMDAVGALRLSPLRRGLAIDSTVDIFTFYVPHRH
+1gff1      ---------VPHDLSHLVFEAGKIGRLKTISWTPVVAGDSFECDMVGAIRLSPLRRGLAVDSRVDIFSFYIPHRH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cd3f      VYGEQWIKFMKDGVNATPLPTVNTTGYIDHAAFLGTINPDTNKIPKHLFQGYLNIYNNYFKAPWMPDRTEANPNE
+1gff1      IYGQQWINFMKDGVNASPLPPVTCSSGWDSAAYLGTIPSSTLKVPKFLHQGYLNIYNNYFKPPWSDDLTYANPSN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cd3f      LNQDDARFGFRCCHLKNIWTAPLPPETELSRQMTTSTTSIDIMGLQAAYANLHTDQERDYFMQRYRDVISSFGGK
+1gff1      MPSEDYKWGVRVANLKSIWTAPLPPDTRTSENMTTGTSTIDIMGLQAAYAKLHTEQERDYFMTRYRDIMKEFGGH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cd3f      TSYDADNRPLLVMRSNLWASGYDVDGTDQTSLGQFSGRVQQTYKHSVPRFFVPEHGTMFTLALVRFPPTATKEIQ
+1gff1      TSYDGDNRPLLLMRSEFWASGYDVDGTDQSSLGQFSGRVQQTFNHKVPRFYVPEHGVIMTLAVTRFPPTHEMEMH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1cd3f      YLNAKGALTYTDIAGDPVLYGNLPPREISMKDVFRSGDSSKKFKIAEGQWYRYAPSYVSPAYHLLEGFPFIQEPP
+1gff1      YLVGKENLTYTDIACDPALMANLPPREVSLKEFFHSSPDSAKFKIAEGQWYRTQPDRVAFPYNALDGFPFYSALP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1cd3f      SGDLQERVLIRHHDYDQCFQSVQLLQWNSQVKFNVTVYRNLPTTRDSIMTS*
+1gff1      STDLKDRVLVNTNNYDEIFQSMQLAHWNMQTKFNINVYRHMPTTRDSIMTS*
+           ====|=========|=========|=========|=========|======
+               0380      0390      0400      0410      0420   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cd3f      100.0  66.9
+  2-1gff1       66.9 100.0
+
+***************************************************************************

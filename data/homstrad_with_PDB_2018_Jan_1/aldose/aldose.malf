@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1ald       structureX:1ald:   1 : : 363 : :aldolase A:Homo sapiens: 2.00:22.00
+[  2] 1fbaa      structureX:1fba:   2 :A: 364 :A:fructose-bisphosphate aldolase:Drosophila melanogaster: 1.90:17.90
+[  3] 1a5ca      structureX:1a5c:  13 :A: 354 :A:fructose-bisphosphate aldolase:Plasmodium falciparum: 3.0: 23.9
+
+
+1ald       PYQYPALTPEQKKELSDIAHRIVAPGKGILAADESTGSIAKRLQSIGTENTEENRRFYRQLLLTADDRVNPCIGG
+1fbaa      TTYFNYPSKELQDELREIAQKIVAPGKGILAADESGPTMGKRLQDIGVENTEDNRRAYRQLLFSTDPKLAENISG
+1a5ca      ------LPADVAEELATTAQKLVQAGKGILAADESTQTIKKRFDNIKLENTIENRASYRDLLFGTKG-LGKFISG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ald       VILFHETLYQKADDGRPFPQVIKSKGGVVGIKVDKGVVPLAGTNGETTTQGLDGLSERCAQYKKDGADFAKWRCV
+1fbaa      VILFHETLYQKADDGTPFAEILKKKGIILGIKVDKGVVPLFGSEDEVTTQGLDDLAARCAQYKKDGCDFAKWRCV
+1a5ca      AILFEETLFQKNEAGVPMVNLLHNENIIPGIKVDKGLVNIPCTDEEKSTQGLDGLAERCKEYYKAGARFAKWRTV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ald       LKIG--EHTPSALAIMENANVLARYASICQQNGIVPIVEPEILPDGDHDLKRCQYVTEKVLAAVYKALSDHHIYL
+1fbaa      LKIG--KNTPSYQSILENANVLARYASICQSQRIVPIVEPEVLPDGDHDLDRAQKVTETVLAAVYKALSDHHVYL
+1a5ca      LVIDTAKGKPTDLSIHETAWGLARYASICQQNRLVPIVEPEILADGPHSIEVCAVVTQKVLSCVFKALQENGVLL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ald       EGTLLKPNMVTPGHACTQKFSHEEIAMATVTALRRTVPPAVTGITFLSGGQSEEEASINLNAINKCPLLKPWALT
+1fbaa      EGTLLKPNMVTAGQS-AKKNTPEEIALATVQALRRTVPAAVTGVTFLSGGQSEEEATVNLSAINNVPLIRPWALT
+1a5ca      EGALLKPNMVTAGYECTAKTTTQDVGFLTVRTLRRTVPPALPGVVFLSGGQSEEEASVNLNSINALG-PHPWALT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ald       FSYGRALQASALKAWGGKKENLKAAQEEYVKRALANSLACQGKYTPSGQAGAAASESLFVSNHAY*
+1fbaa      FSYGRALQASVLRAWAGKKENIAAGQNELLKRAKANGDAAQGKYV-AGSAG-AGSGSLFVANHAY*
+1a5ca      FSYGRALQASVLNTWQGKKENVAKAREVLLQRAEANSLATYGKYK-GGAGG--------------*
+           =========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ald       100.0  70.6  55.8
+  2-1fbaa       70.6 100.0  55.8
+  3-1a5ca       55.8  55.8 100.0
+
+***************************************************************************

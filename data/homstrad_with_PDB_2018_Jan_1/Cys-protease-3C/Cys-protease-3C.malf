@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cqqa      structureX:1cqq:   1 :A: 180 :A:picornain 3C:Human rhinovirus 2: 1.85: 0
+[  2] 1l1na      structureX:1l1n:   1 :A: 180 :A:picornain 3C:Poliovirus type 1: 2.10: 21.3
+[  3] 1qa7a      structureX:1qa7:   1 :A: 213 :A:picornain 3C:Hepatitis a virus: 1.90: 20.4
+
+
+1cqqa      GPEEEFGMSLIKHNSCVITTE------NGKFTGLGVYDRFVVVPTHADPG------KEIQVD--GITTKVI----
+1l1na      GPGFDYAVAMAKRNIVTATTS------KGEFTMLGVHDNVAILPTHASPG------ESIVID--GKEVEIL----
+1qa7a      -STLEIAGLVRK-NLVQFGVGEKNGSVRWVMNALGVKDDWLLVPSHAYKFEKDYEMMEFYFNRGGTYYSISAGNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cqqa      DSYDLYNKNGIKLEITVLKLDRNEKFRDIRRYIPN--NED--DYPNCNLALLANQPEPTIINVGDVVSYGNILLS
+1l1na      DAKALEDQAGTNLEITIITLKRNEKFRDIRPHIPT--QIT--ETNDGVLIVNTSKYPNMYVPVGAVTEQGYLNLG
+1qa7a      VIQSLDV---GAQDVVLMKVPTIPKFRDITQHFIKKGDVPRALNRLATLVTTVNG-TPMLISEGPLKMEEKATYV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cqqa      ---------GNQTARMLKYSYPTKSGYCGGVLYKI-----GQVLGIHVGGNGRDGFSAMLLRSYFT---*
+1l1na      ---------GRQTARTLMYNFPTRAGQCGGVITCT-----GKVIGMHVGGNGSHGFAAALKRSYFT---*
+1qa7a      HKKNDGTTVDLTVDQAWRGKGEGLPGMCGGALVSSNQSIQNAILGIHVAGGNSILVAKLVTQEMFQNID*
+           =========|=========|=========|=========|=========|=========|=========
+                    0160      0170      0180      0190      0200      0210      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cqqa      100.0  43.9  20.6
+  2-1l1na       43.9 100.0  18.9
+  3-1qa7a       20.6  18.9 100.0
+
+***************************************************************************

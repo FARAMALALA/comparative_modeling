@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1kao       structureX:1kao:   1 : : 167 : :rap2a:Homo sapiens:1.70:18.6
+[  2] 1guaa      structureX:1gua:   1 :A: 167 :A:rap1a:Homo sapiens:2.00:22.0
+[  3] 5p21       structureX:5p21:   1 : : 166 : :Harvey-ras p21:Homo sapiens: 1.40:19.60
+[  4] 1mh1       structureX:1mh1:   1A: : 181 : :rac1:Homo sapiens:1.38:17.5
+[  5] 1ftn       structureX:1ftn:   4 : : 180 : :rhoA (H12):Homo sapiens:2.10:18.6
+[  6] 1etu       structureX:1etu:   5 : : 200 : :elongation factor Tu (domain I):Escherichia coli: 2.90:18.00
+[  7] 1a4ra      structureX:1a4r:   1 :A: 190 :A:g25k GTP-binding protein, placental isoform:Homo sapiens:2.5:22.8
+[  8] 1zbda      structureX:1zbd:  16 :A: 192 :A:ras-related protein rab-3a:Rattus norvegicus:2.60:23.3
+
+
+1kao       -----MREYKVVVLGSGGVGKSALTVQFVTGTFIEKYD-PTI-EDFYRKEIEVDSSPSVLEILDTAGTEQFASMR
+1guaa      -----MREYKLVVLGSGGVGKSALTVQFVQGIFVDEYD-PTI-EDSYRKQVEVDCQQCMLEILDTAGTEQFTAMR
+5p21       -----MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYD-PTI-EDSYRKQVVIDGETCLLDILDTAGQEEYSAMR
+1mh1       --GS-PQAIKCVVVGDGAVGKTCLLISYTTNAFPGEYI-PTV-FDNYSANVMVDGKPVNLGLWDTAGQEDYDRLR
+1ftn       ------IRKKLVIVGDGACGKTCLLIVNSKDQFPEVYV-PTV-FENYVADIEVDGKQVELALWDTAGQEDYDRLR
+1etu       FERT-KPHVNVGTIGHVDHGKTTLTAAITTV-LAKTYG-ITINTSHVEYDTP----TRHYAHVDCPGHADYVKNM
+1a4ra      -----MQTIKCVVVGDVAVGKTCLLISYTTNKFPSEYV-PTV-FDNYAVTVMIGGEPYTLGLFDTAGQEDYDRLR
+1zbda      -SH-FDY-FKILIIGNSSVGKTSFLFRYADDSFTPAFV-STVGIDFKVKTIYRNDKRIKLQIWDTAGLERYRTIT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kao       DLYIKNGQGFILVYSLVNQQSFQDIKP-MRDQIIRVKRYEKVPVILVGNKVDLES------E------REVSSSE
+1guaa      DLYMKNGQGFALVYSITAQSTFNDLQD-LREQILRVKDTEDVPMILVGNKCDLED------E------RVVGKEQ
+5p21       DQYMRTGEGFLCVFAINNTKSFEDIHQ-YREQIKRVKDSDDVPMVLVGNKCDL-A------A------RTVESRQ
+1mh1       PLSYPQTDVSLICFSLVSPASFENVRAKWYPEVRHHCP--NTPIILVGTKLDLRDDKDTIEKLKEKKLTPITYPQ
+1ftn       PLSYPDTDVILMCFSIDSPDSLENIPEKWTPEVKHFCP--NVPIILVGNKKDLRNDEHTRRELAKMKQEPVKPEE
+1etu       ITGAAQMDGAILVVAATDG-PMPQTRE-HILLGRQVG---VPYIIVFLNKCDMVDD---------EELLELVEME
+1a4ra      PLSYPQTDVFLVCFSVVSPSSFENVKEKWVPEITHHCP--KTPFLLVGTQIDLRDDPSTIEKLAKNKQKPITPET
+1zbda      TAYYRGA-GFIL-YDITNEESFNAVQD-WSTQIKTYSW-DNAQVLLVGNKCD-ED------------ERVVSSER
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kao       GRALAEEW-----GCPFMETSAKS--------KTMVDELFAEIVRQMNYA-----------*
+1guaa      GQNLARQWC----NCAFLESSAKS--------KINVNEIFYDLVRQINR------------*
+5p21       AQDLARSY-----GIPYIETSAKT--------RQGVEDAFYTLVREIRQH-----------*
+1mh1       GLAMAKEIG----AVKYLECSALT--------QRGLKTVFDEAIRAVLCPPP---------*
+1ftn       GRDMANRIG----AFGYMECSAKT--------KDGVREVFEMATRAALQ------------*
+1etu       VRELLSQYDFPGDDTPIVRGSALKALEGDAEWEAKILELAGFLDSYIP-------------*
+1a4ra      AEKLARDLK----AVKYVECSALT--------QKGLKNVFDEAILAALEPPEPKKSRRCVL*
+1zbda      GRQLADHLG-----FEFFEASAKD--------NINVKQTFERLVDVICEKSESL------D*
+           =========|=========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1kao       100.0  64.7  48.8  29.9  32.3  18.0  27.5  31.7
+  2-1guaa       64.7 100.0  58.4  28.1  30.5  16.8  26.9  34.1
+  3-5p21        48.8  58.4 100.0  31.9  33.7  16.3  33.7  30.1
+  4-1mh1        29.9  28.1  31.9 100.0  58.8  15.3  69.4  24.0
+  5-1ftn        32.3  30.5  33.7  58.8 100.0  14.7  53.7  28.7
+  6-1etu        18.0  16.8  16.3  15.3  14.7 100.0  14.1  14.0
+  7-1a4ra       27.5  26.9  33.7  69.4  53.7  14.1 100.0  26.3
+  8-1zbda       31.7  34.1  30.1  24.0  28.7  14.0  26.3 100.0
+
+***************************************************************************

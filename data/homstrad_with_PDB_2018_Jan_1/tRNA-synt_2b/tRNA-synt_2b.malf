@@ -1,0 +1,78 @@
+      Code       Title
+
+[  1] 1kmma      structureX:1kmm:   4 :A: 325 :A:histidyl-tRNA synthetase:Escherichia coli: 2.6: 22.1
+[  2] 1adja      structureX:1adj:   2 :A: 325 :A:histidyl-tRNA synthetase:Thermus aquaticus: 2.7: 21.7
+[  3] 1srya      structureX:1sry: 111 :A: 421 :A:seryl-tRNA synthetase:Thermus aquaticus: 2.5: 18.4
+[  4] 1qf6a      structureX:1qf6: 241 :A: 531 :A:threonyl-tRNA synthetase:Escherichia coli: 2.90: 19.5
+[  5] 1atia      structureX:1ati:   1 :A: 394 :A:glycyl-tRNA synthetase:Thermus aquaticus: 2.75: 22.7
+
+
+1kmma      -------------------------------------------NI-QAIRGMNDYLPGETAIWQRIEGTLKNVLG
+1adja      -------------------------------------------TA-RAVRGTKDLFGKELRMHQRIVATARKVLE
+1srya      VGGEEANREIKRVGGPPEFSFPPL---DHVALMEKNGWWEPRISQVSG-SRSYALKGDLALYELALLRFAMDFMA
+1qf6a      ----------------------KR---DHRKIGKQLDLYHMQ--E-EA-PGMVFWHNDGWTIFRELEVFVRSKLK
+1atia      ---------------------AASSLDELVALCKRRGFIFQSSEIYGGLQGVYDYGPLGVELKNNLKQAWWRRNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kmma      -SYG-YSEIRLPIVEQTPLFKRAIGEVTD----VVEKE-------MYTFEDR-----NGDSLTLRPEGTAGCVRA
+1adja      -AAG-ALELVTPIFEETQVFEKGVGAATD----IVRKE-------MFTFQDR-----GGRSLTLRPEGTAAMVRA
+1srya      -RRG-FLPMTLPSYAREKAFLGTGHFPAY------RDQ-------VWAIA--------ETDLYLTGTAEVVLNAL
+1qf6a      -EYQ-YQEVKGPFMMDRVLWEKTGHWDNY------KDA-------MFTTSSE------NREYCIKPMNCPGHVQI
+1atia      YERDDMEGLDASVLTHRLVLHYSGHEATFADPMVDNWTPPRYFNMMFQDLRGPRGGRGL-LAYLRPETAQGIFVN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kmma      GIEH----G--LLY-NQEQRLWYIGPMFRHER-------PQKGRYRQFHQLGCEVFGLQ----GPDIDAELIMLT
+1adja      YLEH----G--MKVWPQPVRLWMAGPMFRAER-------PQKGRYRQFHQVNYEALGSE----NPILDAEAVVLL
+1srya      HSGE----ILP--YEALPLRYAGYAPAFRSEAGSFGKDVRGLMRVHQFHKVEQYVLTEASLEASDRAFQELLENA
+1qf6a      FNQG----LKS--YRDLPLRMAEFGSCHRNEP-S--GSLHGLMRVRGFTQDDAHIFCT--EEQIRDEVNGCIRLV
+1atia      FKNVLDATSRK-----LGFGIAQIGKAFRNEITPR----NFIFRVREFEQMEIEYFVR--PGEDEYWHRYWVEER
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kmma      ARWWRALGI-SEHVTLELNSIGSLEARANYRDALVAFLEQH----------------------------------
+1adja      YECLKELGL-R-RLKVKLSSVGDPEDRARYNAYLREVLSPHREALSEDSKERLEENPMRILDSKSERDQALLKEL
+1srya      EEILRLLEL---PYRLVEVAT------------------------------------------------------
+1qf6a      YDMYSTFGF--EKIVVKLSTRPE----------------------------------------------------
+1atia      LKWWQEMGLSRENLVPYQQPP------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1kmma      ---ALGDYLDEESREHFAGLCKLLESAGIAYTVNQRLVRGLDYYNRTVFEWVTN--SLGSQGTVCAGGRYD-GLV
+1adja      GVRPMLDFLGEEARAHLKEVERHLERLSVPYELEPALVRGLDYYVRTAFEVHHE--EIGAQSALGGGGRYD-GLS
+1srya      -----------------------------------GDM--GPGK-WRQVDIEVYLPSEGRYRETHSCSALLDWQA
+1qf6a      -KRIGS---DEMWDRAEADLAVALEENNIPFEYQLGEG--AFYG--PKIEFTLYDCL-DRAWQCGTVQLDF-SLP
+1atia      -----------------------------------ESS--AHYA-KATVDILYRFPH--GSLELEGIAQRTDFDL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1kmma      EQLG---------------------GR----------ATPAVGFAMG--LERLVLLVQAVNPEFKA---------
+1adja      ELLG---------------------GP----------RVPGVGFAFG--VERVALALEAEGFGLPE---------
+1srya      RRAN---------------------LRYR-DPEGRVRYAYTLNNTALAT-PRILAMLLENHQLQDG-----RVRV
+1qf6a      SRLS---------------------ASYV-GEDNERKVPVMIHRAILGSMERFIGILTEEFAG------------
+1atia      GSHTKDQEALGITARVLRNEHSTQRLAYRDPETGKWFVPYVIEPSAG--VDRGVLALLAEAFTREELPNGEERIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1kmma      -----------------*
+1adja      -----------------*
+1srya      PQALIPYMGKEVLEPCG*
+1qf6a      -----------------*
+1atia      LKLKP------------*
+           =========|=======
+                    0460    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1kmma      100.0  45.6   9.1  16.0  12.2
+  2-1adja       45.6 100.0   9.6  16.2  12.7
+  3-1srya        9.1   9.6 100.0  12.4  12.9
+  4-1qf6a       16.0  16.2  12.4 100.0  13.1
+  5-1atia       12.2  12.7  12.9  13.1 100.0
+
+***************************************************************************

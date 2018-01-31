@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1d9xa      structureX:1d9x:   2 :A: 414 :A:deoxyribonucleic acid repair protein uvrB:Bacillus caldotenax: 2.60: 25.6
+[  2] 1c4oa      structureX:1c4o:   2 :A: 409 :A:excinuclease ABC subunit B:Thermus aquaticus: 1.50: 25.2
+[  3] 1hv8a      structureX:1hv8:   3 :A: 210 :A:probable ATP-dependent RNA helicase mj0669:Methanococcus jannaschii: 3.00: 27
+[  4] 1qdea      structureX:1qde:  12 :A: 222 :A:eukaryotic initiation factor 4a:Saccharomyces cerevisiae: 2.00: 21.4
+
+
+1d9xa      ---------------------EGRFQLVAPYEPQGDQPQAIAKLVDGLRRGVKHQTLLGATGTGKTFTISNVIAQ
+1c4oa      -----------------------TFRYRGP-SPKGDQPKAIAGLVEALRDGERFVTLLGATGTGKTVTMAKVIEA
+1hv8a      -------VEYNFNELNLSDNILNAIRNKGFEKPTDIQ-KVIPLFLN----DEYNIVAQARTGSGKTASFAIPLIE
+1qdea      IQTNYDKVVYKFDDMELDENLLRGVFGYGFEEPSAIQQRAIMPIIE----G-HDVLAQAQSGTGKTGTFSIAALQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1d9xa      VN------KPTLVIAHNKTLAGQLYSELKEFFPHNAVEYFVSYYDYYQPEAYVPQTDTYIEKDAKINDEIDKLRH
+1c4oa      LG------RPALVLAPNKILAAQLAAEFRELFPENAVEYFISYYDYYQPEAYVPGKDLYIEKDASINPEIERLRH
+1hv8a      LVNENN-GIEAIILTPTRELAIQVADEIESLKGNKNLKIAKIYGG----------------------KAIYPQIK
+1qdea      RIDTSVKAPQALMLAPTRELALQIQKVVMALAFHMDIKVHACI--------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1d9xa      SATSALFERRDVIIVASVSCIYGLGSPEEYRELVVSLRVGMEIERNALLRRLVDIQYDRNDIFRGTFRVRGDVVE
+1c4oa      STTRSLLTRRDVIVVASVSAIYGLGDPREYRARNLVG--------------------------------------
+1hv8a      ALK------NANIVVGTPGRIL------DHINR------------------------------------------
+1qdea      GLR------DAQIVVGTPGRVF------DNIQR------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1d9xa      IFPASRDEHCIRVEFFGDEIEAEVDALTGKVLGEREHVAIFPASHFVTREEKMRLAIQNIEQELEERLAELRAQG
+1c4oa      -------------------------------------FVLFPATHYLSPE-GLEEILKEIEKELWERVRYFEERG
+1hv8a      ---------------------------------------------------------------------------
+1qdea      ---------------------------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1d9xa      KLLEAQRLEQRTRYDLEMMREMGFCSGIENYSRHLALRPPGSTPYTLLDYFPDDFLIIVDESHVTLPQLRGMYNG
+1c4oa      EVLYAQRLKERTLYDLEMLRVMGTCPGVENYARYFTGKAPGEPPYTLLDYFPEDFLVFLDESHVTVPQLQGMYRG
+1hv8a      ----------------------------------------------GTLNLKNVKYFILDEADELN--------G
+1qdea      ----------------------------------------------RRFRTDKIKMFILDEADEMLSS------G
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1d9xa      DRARKQVLVDHGFRLPSALDNRPLTFEEFEQKINQIIYVSATPGPYELEHSP------GVVEQIIRP*
+1c4oa      DYARKKTLVDYGFRLPSALDNRPLRFEEFLERVSQVVFVSATPGPFELAHSG------RVVEQIIRP*
+1hv8a      FIKDVEKILN--ACNK----------------DKRILLFSAT-PREILNLAKKY-GDYSFIKAKI--*
+1qdea      FKEQIYQIFT--LLPP----------------TTQVVLLSATMPNDVLEVTTKFMRNPVRIL-----*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0380      0390      0400      0410      0420      0430      0440 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1d9xa      100.0  61.2  13.4  16.9
+  2-1c4oa       61.2 100.0  19.3  19.4
+  3-1hv8a       13.4  19.3 100.0  32.8
+  4-1qdea       16.9  19.4  32.8 100.0
+
+***************************************************************************

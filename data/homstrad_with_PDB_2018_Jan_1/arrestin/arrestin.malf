@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1cf1a      structureX:1cf1:  10 :A: 182 :A:S-arrestin:Bos taurus: 2.80: 23.3
+[  2] 1g4ma      structureX:1g4m:   5 :A: 177 :A:beta-arrestin 1:Bos taurus: 1.90: 23.5
+
+
+1cf1a      -HVIFKKISRDKSVTIYLGKRDYIDHVERVEPVDGVVLVDPELVKGKRVYVSLTCAFRYGQEDIDVMGLSFRRDL
+1g4ma      GTRVFKKASPNGKLTVYLGKRDFVDHIDLVEPVDGVVLVDPEYLKERRVYVTLTCAFRYGREDLDVLGLTFRKDL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cf1a      YFSQVQVFPPVGASG-ATTRLQESLIKKLGANTYPFLLTFPDYLPCSVMLQPAPQDVGKSCGVDFEIKAFATHST
+1g4ma      FVANVQSFPPAPEDKKPLTRLQERLIKKLGEHAYPFTFEIPPNLPCSVTLQPGPEDTGKACGVDYEVKAFCAE--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cf1a      DVEEDKIPKKSSVRLLIRKVQHAP-R*
+1g4ma      NLEE-KIHKRNSVRLVIRKVQYAPER*
+           =========|=========|======
+                    0160      0170   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cf1a      100.0  61.3
+  2-1g4ma       61.3 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1c44a      structureX:1c44:   1 :A: 123 :A:sterol carrier protein 2:Oryctolagus cuniculus: 1.80: 17.5
+[  2] 1ikta      structureX:1ikt:   6 :A: 120 :A:estradiol 17 beta-dehydrogenase 4:Homo sapiens: 1.75: 19.2
+
+
+1c44a      SSAGDGFKANLVFKEIEKKLEEEGEQFVKKIGGIFAFKVKDGPGGKE-ATWVVDVKNGKGSVLPNSDK-KADCTI
+1ikta      ------LQSTFVFEEIGRRLKDIGPEVVKKVNAVFEWHITK--GGNIGAKWTIDLKSGSGKVYQGPAKGAADTTI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c44a      TMADSDLLALMTGKMNPQSAFFQGKLKITGNMGLAMKLQNLQLQPGKAKL*
+1ikta      ILSDEDFMEVVLGKLDPQKAFFSGRLKARGNIMLSQKLQMILK--DYAKL*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c44a      100.0  39.1
+  2-1ikta       39.1 100.0
+
+***************************************************************************

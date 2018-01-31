@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 1n8ia      structureX:1n8i:   2 :A: 727 :A:probable malate synthase G:Mycobacterium tuberculosis: 2.10: 18.5
+[  2] 1d8ca      structureX:1d8c:   3 :A: 722 :A:malate synthase G:Escherichia coli: 2.00: 17.7
+
+
+1n8ia      TDRVSVGNLRIARVLYDFVNNEALPGTDIDPDSFWAGVDKVVADLTPQNQALLNARDELQAQIDKWHRR------
+1d8ca      -QTITQSRLRIDANFKRFVDEEVLPGTGLDAAAFWRNFDEIVHDLAPENRQLLAERDRIQAALDEWHRSNPGPVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1n8ia      DMDAYRQFLTEIGYLLPEPDDFTITTSGVDAEITTTAGPQLVVPVLNARFALNAANARWGSLYDALYGTDVIPET
+1d8ca      DKAAYKSFLRELGYLVPQPERVTVETTGIDSEITSQAGPQLVVPA-NARYALNAANARWGSLYDALYGSDIIPQE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1n8ia      DGAEKGPTYNKVRGDKVIAYARKFLDDSVPLSSGSFGDATGFTVQDGQLVVALPD-KSTGLANPGQFAGYTGAAE
+1d8ca      ---GAVSGYDPQRGEQVIAWVRRFLDESLPLENGSYQDVVAFKVVDKQLRIQLKNGKETTLRTPAQFVGYRGDAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1n8ia      SPTSVLLINHGLHIEILIDPESQVGTTDRAGVKDVILESAITTIMDFEDSVAAVDAADKVLGYRNWLGLNKGDLA
+1d8ca      APTCILLKNNGLHIELQIDANGRIGKDDPAHINDVIVEAAISTILDCEDSVAAVDAEDKILLYRNLLGL-QGTLQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1n8ia      ARVLNRDRNYTAPGGGQFTLPGRSLMFVRNVGHLMTNDAIVDTDGSEVFEGIMDALFTGLIAIHGLKASDINSRT
+1d8ca      -RKLNDDRHYTAADGSEISLHGRSLLFIRNVGHL-TIPVIWDSEGNEIPEGILDGV-TGAIALYDLKV-QKNSRT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1n8ia      GSIYIVKPKMHGPAEVAFTCELFSRVEDVLGLPQNTMKIGIMDEERRTTVNLKACIKAAADRVVFINTGFLDRTG
+1d8ca      GSVYIVKPK-HGPQEVAFANKLFTRIET-LG-APNTLK-GI-DEERRTSLNLRSCIAQARNRVAFINTGFLDRTG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1n8ia      DEIHTSMEAGPMVRKGTMKSQPWILAYEDHNVDAGLAAGFSGRAQVGKGMWTMTELMADMVETKIAQPRAGASTA
+1d8ca      DE-HSV-EAGP-LRKNQ-KSTPWIKAYERNNVLSGLFCGLRGKAQIGKG-WA-PDL-AD-YSQKGDQLRAGANTA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1n8ia      WVPSPTAATLHALHYHQVDVAAVQQGLAGKRRA-----TIEQLLTIPLAKELAWAPDEIREEVDNNCQSILGYVV
+1d8ca      WVPSPTAATLHALHYHQTNVQSVQANIAQTEFNAEFEPLLDDLLTIPVAENANWSAQEIQQELDNNVQGILGYVV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1n8ia      RWVDQGVGCSKVPDIHDVALMEDRATLRISSQLLANWLRHGVITSADVRASLERMAPLVDRQN----AYRPMAPN
+1d8ca      RWVEQGIGCSKVPDIHNVAL-EDRATLRISSQHIANWLRHGILTKEQVQASLEN-AKVVDQQNAGDPAYRP-AGN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1n8ia      FDDSIAFLAAQELILSGAQQPNGYTEPILHRRRREFKARAAE*
+1d8ca      FANSCAFKAASDLIFLGVKQPNGYTEPLLHAWRLREKES---*
+           ====|=========|=========|=========|=======
+               0680      0690      0700      0710    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1n8ia      100.0  58.0
+  2-1d8ca       58.0 100.0
+
+***************************************************************************

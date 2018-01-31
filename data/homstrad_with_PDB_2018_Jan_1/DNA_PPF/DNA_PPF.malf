@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1czda1     structureX:1czd:1001 :A:1110 :A:processivity clamp gp45:Bacteriophage t4: 2.45: 23.2
+[  2] 1b77a1     structureX:1b77:   1 :A: 110 :A:A sliding clamp complexed with an interaction peptide from DNA polymerase:Bacteriophage rb69: 2.10: 22.5
+[  3] 1czda2     structureX:1czd:1111 :A:1228 :A:processivity clamp gp45:Bacteriophage t4: 2.45: 23.2
+[  4] 1b77a2     structureX:1b77: 111 :A: 228 :A:A sliding clamp complexed with an interaction peptide from DNA polymerase:Bacteriophage rb69: 2.10: 22.5
+
+
+1czda1     -----MKLSKDTTALLKNFAT--INSGIMLKS---GQFIMTRAV----NGTTYAEANISDVID----FDVAIYDL
+1b77a1     -----MKLSKDTIAILKNFAS--INSGILLSQ---GKFIMTRAV----NGTTYAEANISDEID----FDVALYDL
+1czda2     VASAVTEIKAEDLQQLLRVSRGLQIDTIAITVKEGKIVINGFNKVEDSALTRVKYSLTLGDYDGENTFNFIIN--
+1b77a2     VASVITEIKAEDLQQLLRVSRGLQIDTIAITNKDGKIVINGYNKVEDSGLTRPKYSLTLTDYDGSNNFNFVIN--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1czda1     NGFLGILSLVNDDAEISQS--ED-GNIKIADARSTIFWPAADPSTVVAPNKPIPFP*
+1b77a1     NSFLSILSLVSDDAEISMH--TD-GNIKIADTRSTVYWPAADKSTIVFPNKPIQFP*
+1czda2     MANMKMQ---PGNYKLLLWAKGKQGAAKFEGEHANYVVALEA--DSTHDF------*
+1b77a2     MANMKIQ---PGNYKVMLWGAGDKVAAKFESSQVSYVIAMEA--DSTHDF------*
+           ====|=========|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1czda1     100.0  80.0   8.2   9.1
+  2-1b77a1      80.0 100.0   7.3   8.2
+  3-1czda2       8.2   7.3 100.0  78.0
+  4-1b77a2       9.1   8.2  78.0 100.0
+
+***************************************************************************

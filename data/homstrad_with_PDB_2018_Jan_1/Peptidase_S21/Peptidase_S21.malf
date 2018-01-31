@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1wpoa      structureX:1wpo:   9 :A: 256 :A:human cytomegalovirus protease:Human cytomegalovirus: 2.0: 22.1
+[  2] 1at3a      structureX:1at3:  17 :A: 247 :A:herpes simplex virus type ii protease:Herpes simplex virus type ii: 2.50: 20.5
+[  3] 1vzv       structureX:1vzv:  11 : : 231 : :Varicella-zoster virus protease:Varicella-zoster virus: 3.0: 22.3
+
+
+1wpoa      QAVAPVYVGGFLARYDQS-----LLPRDVVEHWLHA-VALPLNINHDDTAVVGHVAA-QSVRDGLFCLGCVTSPR
+1at3a      -RAVPIYVAGFLALYDSGDPGELALDPDTVRAALPPENPLPINVDHRARCEVGRVLAVVNDPRGPFFVGLIACVQ
+1vzv       ---EALYVAGYLALYSK-DEGELNITPEIVRSALPPTSKIPINIDHRKDCVVGEVIAIIEDIRGPFFLGIVRCPQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1wpoa      FLEIVRRASEKSELVSRGPVSPLQPDKVVEFLSGSYAGLSLSS----TPFKHVALCSVGRRRGTLAVYGRDPEWV
+1at3a      LERVLETAAS-AA-------ILSREERLLYLITNYLPSVSLSTKPDRTLFAHVALCAIGRRLGTIVTYDTSLDAA
+1vzv       LHAVLFEAAH-SNFFGNRDSVLSPLERALYLVTNYLPSVSLSSK---RLFTHVALCVVGRRVGTVVNYDCTPESS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1wpoa      -QRFPDLTAADRDGLRAQWQR-------GDPFRSD---SYGLLGNSVDAY-IRERLPKLRYDKQLVGVTERESYV
+1at3a      IAPFRHLDPATREGVRREAAEAELALAGRTWAPGVEALTHTLLSTAVNNMMLRDRWSLVAERRRQAGIA-GHTYL
+1vzv       IEPFRVLSMESKARLLSLVKDY--AGLNKVWKVSEDKLAKVLLSTAVNNMLLRDRWDVVAKRRREAGIM-GH---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1wpoa      KA*
+1at3a      QA*
+1vzv       --*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1wpoa      100.0  27.0  26.5
+  2-1at3a       27.0 100.0  51.7
+  3-1vzv        26.5  51.7 100.0
+
+***************************************************************************

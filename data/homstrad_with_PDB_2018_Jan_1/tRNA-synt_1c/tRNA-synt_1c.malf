@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1qtqa      structureX:1qtq:   8 :A: 338 :A:glutaminyl-tRNA synthetase:Escherichia coli: 2.4: 24.4
+[  2] 1gln       structureX:1gln:   1 : : 321 : :glutamyl-tRNA synthetase:Thermus aquaticus: 2.5: 18.5
+
+
+1qtqa      TNFIRQIIDEDLASGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDYKGQCNLRFDDTNPVKEDIEYVESIK
+1gln       ------------------MVVTRIAPSPTGDPHVGTAYIALFNYAWARRNGGRFIVRIEDTDRARYVPGAEERIL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qtqa      NDVEWLGFHWSG--------NVRYSSDYFDQLHAYAIELINKGLAYVDELTPEQIREYR---GTLTQPGKNSPYR
+1gln       AALKWLGLSYDEGPDVAAPTGPYRQSERLPLYQKYAEELLKRGWAYRAFETPEELEQIRKEKG-----GYDGRAR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qtqa      DRSVEENLALFEKMRAGGFEEGKACLRAKIDMASP--------------FIVMRDPVLYRIKFAEHHQTGNKWCI
+1gln       NIPPEEAEERARR----GEP---HVIRLKVPRPGTTEVKDELRGVVVYDNQEIPDVVLLKS------------DG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qtqa      YPMYDFTHCISDALEGITHSLCTLEFQDNRRLYDWVLDNITIPVHPRQYEFSRLNLEY-TVMSKRKLNLLVTDKH
+1gln       YPTYHLANVVDDHLMGVTDVIRAEEWLVSTPIHVLLYRAFGW-EAPRFYHMPLLRNPDKTKISKR----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qtqa      VEGWDDPRMPTISGLRRRGYTAASIREFCKRIGVTKQ-------------------------DNTIEMASLESCI
+1gln       ------KSHTSLDWYKAEGFLPEALRNYLCLMGFS--MPDGREIFTLEEFIQAFTWERVSLGGPVFDLEKLRWMN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qtqa      REDLNEN*
+1gln       GKYIREV*
+           ====|==
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qtqa      100.0  19.9
+  2-1gln        19.9 100.0
+
+***************************************************************************

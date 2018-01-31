@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1prb       structureX:1prb:   1 : :  53 : :albumin-binding protein:Peptostreptococcus magnus: -1: -1
+[  2] 1gjta      structureX:1gjt:   1 :A:  65 :A:immunoglobulin G binding protein G:Streptococcus sp.: -1: -1
+
+
+1prb       -------------TIDQWLLKNAKEDAIAELKKAGITSDFYFNAINKAKTVEEVNALKNEILKAHA*
+1gjta      MKAIFVLNAQHDEAVDANSLAEAKVLANRELDKYGV-SDYYKNLINNAKTVEGVKALIDEILAALP*
+           =========|=========|=========|=========|=========|=========|======
+                    0010      0020      0030      0040      0050      0060   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1prb       100.0  50.9
+  2-1gjta       50.9 100.0
+
+***************************************************************************

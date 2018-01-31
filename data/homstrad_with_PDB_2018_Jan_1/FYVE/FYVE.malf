@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1dvpa      structureX:1dvp: 157 :A: 220 :A:FYVE domain of hrs:Drosophila melanogaster: 2.00: 21.5
+[  2] 1vfya      structureX:1vfy: 169 :A: 235 :A:FYVE domain of vacuolar protein sorting-associated protein vps27:Saccharomyces cerevisiae: 1.15: 17.4
+
+
+1dvpa      NWADGRVCHRCRVEFTFTNRKHHCRNCGQVFCGQCTAKQCPLPKYGIEKEVRVCDGCFAALQRG---*
+1vfya      DWIDSDACMICSKKFSLLNRKHHCRSCGGVFCQEHSSNSIPLPDLGIYEPVRVCDSCFEDYEFIVTD*
+           =========|=========|=========|=========|=========|=========|=======
+                    0010      0020      0030      0040      0050      0060    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dvpa      100.0  45.3
+  2-1vfya       45.3 100.0
+
+***************************************************************************

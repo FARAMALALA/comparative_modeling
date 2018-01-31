@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1kid       structureX:1kid: 184 : : 376 : :GroEL (hsp60 class):Escherichia coli: 1.7: 18
+[  2] 1srva      structureX:1srv: 192 :A: 336 :A:GroEL (hsp60 class):Thermus thermophilus: 1.70: 19.9
+[  3] 1a6db      structureX:1a6d: 215 :B: 367 :B:thermosome:Thermoplasma acidophilum: 2.6: 21.5
+[  4] 1ass       structureX:1ass:   1 : : 152 : :thermosome, alpha subunit:Thermoplasma acidophilum: 2.3: 22.2
+
+
+1kid       GLVPRGSEGMQFDRGYLSPYFINKPETGAVELESPFILLADKKIS-----------------------------N
+1srva      --------GYQFDKGYISPYFVTNPETMEAVLEDAFILIVEKKVS-----------------------------N
+1a6db      -------NGIIVDKEKVHPGMPD-------VVKDAKIALLDAPLEIKKPE-----FDTNLRIEDPSMIQKFLAQE
+1ass       ------MSGIVIDKEKVHSKMPD-------VVKNAKIALIDSALEIKKTEIEAKVQ--ISD---PSKIQDFLNQE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kid       IREMLPVLEAVAKAGKPLLIIAEDVEGEALATLVVNTMRGIVKVAAVKAPGFGDRRKAMLQDIATLTGGTVISEE
+1srva      VRELLPILEQVAQTGKPLLIIAEDVEGEALATLVVNKLRGTLSVAAVKAPGFGDRRKEMLKDIAAVTGGTVISEE
+1a6db      ENMLREMVDKIKSVGANVVITQKGIDDMAQHYLSRA------GIYAVRRVK-----KSDMDKLAKATGASIVS--
+1ass       TNTFKQMVEKIKKSGANVVLCQKGIDDVAQHYLAKE------GIYAVRRVK-----KSDMEKLAKATGAKIVT--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kid       IGMELEKATLEDLGQAKRVVINK----DTTTIIDGVGEEAAIQGRVAQIRQQIEEATSDYDREKLQERVAKLAGG
+1srva      LGFKLENATLSMLGRAERVRITK----DETTIVGGK---------------------------------------
+1a6db      ---TIDEISSSDLGTAERVEQVKVGEDYMTFVTGCKNP-------------------------------------
+1ass       ---DLDDLTPSVLGEAETVEERKIGDDRMTFVMGCK---------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kid       V*
+1srva      -*
+1a6db      -*
+1ass       -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1kid       100.0  69.0  16.3  15.8
+  2-1srva       69.0 100.0  21.4  19.3
+  3-1a6db       16.3  21.4 100.0  63.8
+  4-1ass        15.8  19.3  63.8 100.0
+
+***************************************************************************

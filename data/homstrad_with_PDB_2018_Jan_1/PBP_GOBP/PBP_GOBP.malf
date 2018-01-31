@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1dqea      structureX:1dqe:   1 :A: 137 :A:pheromone-binding protein:Bombyx mori: 1.80: 21
+[  2] 1c3za      structureX:1c3z:   1 :A: 108 :A:Thp12-carrier protein:Tenebrio molitor: -1: -1
+
+
+1dqea      --SQEVMKNLSLNFGKALDECKKEMTLTDAINEDFYNFWKEGYEIKNRETGCAIMCLSTKLNMLDPEGNLHHGNA
+1c3za      ETPREKLKQHSD-------ACKAESGVS---EESLNKVRNRE-EVDDPKLKEHAFCILKRAGFIDASGEFQLDHI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dqea      MEFAKKHGADETMAQQLIDIVHGCEKSTPANDDKCIWTLGVATCFKAEIHKLNWAPSMDVAVGE*
+1c3za      KTKFKE-NSE--HPEKVDDLVAKCAV---KKDTPQHSSADFFKCVHDNR--------------S*
+           ====|=========|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      0130      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dqea      100.0  15.7
+  2-1c3za       15.7 100.0
+
+***************************************************************************

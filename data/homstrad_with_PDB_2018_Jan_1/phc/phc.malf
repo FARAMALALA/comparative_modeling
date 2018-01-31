@@ -1,0 +1,94 @@
+      Code       Title
+
+[  1] 1phnb      structureX:1phn:   1 :B: 174 :B:phycocyanin:Cyanidium caldarium: 1.65:18.3
+[  2] 1cpcb      structureX:1cpc:   1 :B: 174 :B:C-phycocyanin:Cyanobacterium (fremyella diplosiphon): 1.66:18.1
+[  3] 1liab      structureX:1lia:   1 :B: 174 :B:r-phycoerythrin:Polysiphonia urceolata: 2.80:18.0
+[  4] 1b8db      structureX:1b8d:   1 :B: 177 :B:phycoerythrin:Griffithsia monilis: 1.90:17.5
+[  5] 1allb      structureX:1all:   1 :B: 174 :B:allophycocyanin:Spirulina platensis: 2.30:19.6
+[  6] 1alla      structureX:1all:   3 :A: 174 :A:allophycocyanin:Spirulina platensis:2.30:19.6
+[  7] 1b33a      structureX:1b33:   1 :A: 160 :A:allophycocyanin:Mastigocladus laminosus: 2.30: 21.1
+[  8] 1phna      structureX:1phn:   1 :A: 174 :A:phycocyanin:Cyanidium caldarium:1.65:18.3
+[  9] 1cpca      structureX:1cpc:   1 :A: 174 :A:C-phycocyanin:Cyanobacterium (fremyella diplosiphon):1.66:18.1
+[ 10] 1liaa      structureX:1lia:   1 :A: 174 :A:r-phycoerythrin:Polysiphonia urceolata:2.80:18.0
+[ 11] 1b8da      structureX:1b8d:   1 :A: 164 :A:phycoerythrin:Griffithsia monilis: 1.90: 17.5
+[ 12] 1qgwc      structureX:1qgw:   3 :C: 177 :C:b-phycoerythrin beta chain:Guillardia theta: 1.63: 14.9
+
+
+1phnb      MLDAFAKVVAQADARGEFLSNTQLDALSKMVSEGNKRLDVVNRITSNASAIVTNAARALFSEQPQLI-QPGG--A
+1cpcb      MLDAFAKVVSQADARGEYLSGSQIDALSALVADGNKRMDVVNRITGNSSTIVANAARSLFAEQPQLI-APGGN-A
+1liab      MLDAFSRVVVNSDSKAAYVSGSDLQALKTFINDGNKRLDAVNYIVSNSSCIVSDAISGMICENPGLI-TPGGN-C
+1b8db      MLDAFSRVVVTSDAKAAYVGGSDLQSLKSFINDGNKRLDAVNYIVSNASCIVSDAVSGMICENPGLI-APGG--C
+1allb      MQDAITSVINSSDVQGKYLDASAIQKLKAYFATGELRVRAATTISANAANIVKEAVAKSLL-YSDVT-RPGGN-M
+1alla      --SIVTKSIVNADAEARYLSPGELDRIKSFVTSGERRVRIAETMTGARERIIKQAGDQLFGKRPDVV-SPGGN-A
+1b33a      --SIVTKSIVNADAEARYLSPGELDRIKSFVSSGEKRLRIAQILTDNRERIVKQAGDQLFQKRPDVV-SPGGN-A
+1phna      MKTPITEAIAAADNQGRFLSNTELQAVNGRYQRAAASLEAARSLTSNAERLINGAAQAVYSKFPYTSQMPGPQYA
+1cpca      MKTPLTEAVAAADSQGRFLSSTEIQTAFGRFRQASASLAAAKALTEKASSLASGAANAVYSKFPYTTSQNGPNFA
+1liaa      MKSVITTTISAADAAGRYPSTSDLQSVQGNIQRAAARLEAAEKLGSNHEAVVKEAGDACFSKYGYNK-NPGEA-G
+1b8da      MKSVITTTISAADAAGRFPSSSDLESIQGNIQRAAARLEAAQKLSGNHEAVVKEAGDACFAKYSYLK-NAGEA-G
+1qgwc      --DAFSRVV------AAYVGGADLQALKKFISEGNKRLDSVNSIVSNASCIVSDAVSGMICENPSLI-SPSG--C
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1phnb      YTNRRMAACLRDMEIILRYVSYAIIAGDSSILDDRCLNGLRETYQALGVPGASVAVGIEKMKDSAIAIANDPS--
+1cpcb      YTSRRMAACLRDMEIILRYVTYAIFAGDASVLDDRCLNGLKETYLALGTPGSSVAVGVQKMKDAALAIAGDTN--
+1liab      YTNRRMAACLRDGEIILRYVSYALLAGDASVLEDRCLNGLKETYIALGVPTNSTVRAVSIMKAAAVCFISNTASQ
+1b8db      YTNRRMAACLRDGEIILRYVSYALLAGDSSVLDDRCLNGLKETYIALGVPTASSSRAVSIMKATATAFITNTASG
+1allb      YTTRRYAACIRDLDYYLRYATYAMLAGDPSILDERVLNGLKETYNSLGVPIGATVQAIQAMKEVTAGLVG-----
+1alla      YGADMTATCLRDLDYYLRLITYGIVAGDVTPIEEIGVVGVREMYKSLGTPIEAIAEGVRAMKSVATSLLS-----
+1b33a      YGQEMTATCLRDLDYYLRLITYGIVAGDVTPIEEIGIVGVREMYKSLGTPIDAVAAGVSAMKNVASSILS-----
+1phna      SSAVGKAKCARDIGYYLRMVTYCLVVGGTGPMDEYLIAGLEEINRTFDLSPSWYVEALNYIKANHG----LS---
+1cpca      STQTGKDKCVRDIGYYLRMVTYCLVVGGTGPLDDYLIGGIAEINRTFDLSPSWYVEALKYIKANHG----LS---
+1liaa      ENQEKINKCYRDIDHYMRLINYTLVVGGTGPLDEWGIAGAREVYRTLNLPSAAYIAAFVFTRDRLCIPRDMS---
+1b8da      DSPEKINKCYRDIDHYMRLINYSLVVGGTGPVDEWGIAGSREVYRALNLPGSAYIAAFTFTRDRLCVPRDMS---
+1qgwc      YTNRRMAACLRDGEIILRYVSYALLSGDASVLEDRCLNGLKETYSSLGVPANSNARAVSIMKACAVAFVNNTASQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1phnb      ---GITTGDCSALMAEVGTYFDRAATAVQ*
+1cpcb      ---GITRGDCASLMAEVASYFDKAASAVA*
+1liab      RKVEVIEGDCSALASEVASYCDRVVAAVS*
+1b8db      RKVEVAAGDCQALQAEAASYFDKVGSSID*
+1allb      ----------GGAGKEMGIYFDYICSGLS*
+1alla      ----------GADAAEAGSYFDYLIGAMS*
+1b33a      ----------AEDAAEAGAYFDYVAGALA*
+1phna      ----------GQAANEANTYIDYAINALS*
+1cpca      ----------GDPAVEANSYIDYAINALS*
+1liaa      ----------AQAGVEFCTALDYLINSLS*
+1b8da      ----------SQAGVEFTSALDYVINSLC*
+1qgwc      KKLSTPQGDCSGLASEVGGYFDKVTAAIS*
+           =========|=========|=========
+                    0160      0170      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12]
+
+  1-1phnb      100.0  76.0  54.4  55.0  37.3  33.8  38.1  27.8  25.9  23.2
+                22.6  54.8
+  2-1cpcb       76.0 100.0  57.0  56.4  41.0  35.6  39.4  22.2  24.1  20.1
+                22.0  51.8
+  3-1liab       54.4  57.0 100.0  82.4  40.4  31.2  33.1  22.8  24.1  21.3
+                20.7  79.2
+  4-1b8db       55.0  56.4  82.4 100.0  41.0  30.0  31.9  21.0  21.6  23.2
+                22.0  75.6
+  5-1allb       37.3  41.0  40.4  41.0 100.0  38.1  36.9  26.7  25.5  28.0
+                26.1  38.5
+  6-1alla       33.8  35.6  31.2  30.0  38.1 100.0  83.1  30.6  26.2  30.6
+                29.4  28.1
+  7-1b33a       38.1  39.4  33.1  31.9  36.9  83.1 100.0  30.0  26.2  34.4
+                33.8  31.9
+  8-1phna       27.8  22.2  22.8  21.0  26.7  30.6  30.0 100.0  73.5  45.1
+                42.0  20.4
+  9-1cpca       25.9  24.1  24.1  21.6  25.5  26.2  26.2  73.5 100.0  36.4
+                35.2  19.1
+ 10-1liaa       23.2  20.1  21.3  23.2  28.0  30.6  34.4  45.1  36.4 100.0
+                83.5  17.7
+ 11-1b8da       22.6  22.0  20.7  22.0  26.1  29.4  33.8  42.0  35.2  83.5
+               100.0  15.9
+ 12-1qgwc       54.8  51.8  79.2  75.6  38.5  28.1  31.9  20.4  19.1  17.7
+                15.9 100.0
+
+***************************************************************************

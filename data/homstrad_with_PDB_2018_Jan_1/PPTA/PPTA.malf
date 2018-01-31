@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1dcea      structureX:1dce:   2 :A: 443 :A:rab geranylgeranyltransferase alpha subunit :Rattus norvegicus: 2.00: 21.5
+[  2] 1ft1a      structureX:1ft1:  55 :A: 369 :A:protein farnesyltransferase alpha subunit :Rattus norvegicus: 2.25: 21
+
+
+1dcea      HGRLKVKTSE------EQAE---------------AKRLEREQKLKLYQSATQAVFQKRQAGELDESVLELTSQI
+1ft1a      ---FLSLDSPTYVLYRDRAEWADIDPVPQNDGPSPVVQI---IYSEKFRDVYDYFRAVLQRDERSERAFKLTRDA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dcea      LGANPDFATLWNCRREVLQHLETEKSPEESAALVKAELGFLESCLRVNPKSYGTWHHRCWLLSRLPEPNWARELE
+1ft1a      IELNAANYTVWHFRRVLLRSL---------QKDLQEEMNYIIAIIEEQPKNYQVWHHRRVLVEWLK--DPSQELE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dcea      LCARFLEADERNFHCWDYRRFVAAQAAVAPAEELAFTDSLITRNFSNYSSWHYRSCLLPQLHPQPDSGPQGRLPE
+1ft1a      FIADILNQDAKNYHAWQHRQWVIQEFRL-WDNELQYVDQLLKEDVRNNSVWNQRHFVISNTT--------GYSDR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dcea      NVLLKELELVQNAFFTDPNDQSAWFYHRWLRCELSVEKSTVLQSELESCKELQELEPENKWCLLTIILLMRALD-
+1ft1a      AVLEREVQYTLEMIKLVPHNESAWNYLKGILQD---RGLSRYPNLLNQLLDLQPSHS-SPYLIAFLVDIYEDMLE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1dcea      -----PLLYEKETLQYFSTLKA-VDPMRAAYLDDLRSKFLLENSVLKMEYADV*
+1ft1a      NQCDNKEDILNKALELCEILAKEKDTIRKEYWRYIGRSLQSKHSR--------*
+           =========|=========|=========|=========|=========|===
+                    0310      0320      0330      0340      0350 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dcea      100.0  19.7
+  2-1ft1a       19.7 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1dpga      structureX:1dpg:   1 :A: 426 :A:glucose-6-phosphate 1-dehydrogenase:Leuconostoc mesenteroides: 2.: -1
+[  2] 1qkia      structureX:1qki:  12 :A: 449 :A:glucose-6-phosphate 1-dehydrogenase:Homo sapiens: 3.0: 24.7
+
+
+1dpga      VS--EIKTLVTFFGGTGDLAKRKLYPSVFNLYKKGYLQKHFAIVGTARQALNDDEFKQLVRDCIKDFTD--DQAQ
+1qkia      VCHQSDTHIFIIMGASGDLAKKKIYPTIWWLFRDGLLPENTFIVGYARSRLT--VADIRKQSEPFFKATPEEKLK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dpga      AEAFIEHFSYRAHDVTDAASYAVLKEAIEEAADKFDIDGNRIFYMSVAPRFFGTIAKYLKSEGLLADTGYNRLMI
+1qkia      LEDFFARNSYVAGQYDDAASYQRLNSHMNALHLGS--QANRLFYLALPPTVYEAVTKNIHES-CMSQIGWNRIIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dpga      EKPFGTSYDTAAELQNDLENAFDDNQLFRIDHYLGEPYERMIHDTMNGD-*
+1qkia      EKPFGRDLQSSDRLSNHISSLFREDQIYRID-----AYERLILDVFCGSQ*
+           =========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dpga      100.0  30.0
+  2-1qkia       30.0 100.0
+
+***************************************************************************

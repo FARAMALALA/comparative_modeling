@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1aisb      structureX:1ais:1108 :B:1300 :B:transcription initiation factor IIB:Pyrococcus woesei: 2.1: 21.2
+[  2] 1vola      structureX:1vol: 113 :A: 315 :A:transcription initiation factor IIB:Homo sapiens: 2.7: 21.5
+
+
+1aisb      NLAFALSELDRITAQLKLPRHVEEEAARLYREAVRKGLIRGRSIESVMAACVYAACRLLKVPRTLDEIADIARVD
+1vola      AMMNAFKEITTMADRINLPRNKVDRTNNLFRQAYEQKSLKGRANDAIASACLYIACRQEGVPRTFKEICAVSRIS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aisb      KKEIGRSYRFIARNLNLTPKKLFVKPTDYVNKFADELGLSEKVRRRAIEILDEAYKRGLTSGKSPAGLVAAALYI
+1vola      KKEIGRCFKLILKALETSVD--LITTGDFMSRFCSNLCLPKQVQMAATHIARKAVELDLVPGRSPISVAAAAIYM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1aisb      ASLLEGEKRTQREVAEVARVTEVTVRNRYKELVEKLKIKVPIA------------*
+1vola      ASQASAEKRTQKEIGDIAGVADVTIRQSYRLIYPRAPDLFPTDFKFDTPVDKLPQ*
+           =========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1aisb      100.0  32.1
+  2-1vola       32.1 100.0
+
+***************************************************************************

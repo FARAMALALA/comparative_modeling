@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 2ccya      structureX:2ccy:   2 :A: 128 :A:cytochrome c':Rhodospirilium molischianum: 1.70:18.80
+[  2] 1bbha      structureX:1bbh:   1 :A: 131 :A:cytochrome c':Chromatium vinosum: 1.80:18.50
+[  3] 1a7va      structureX:1a7v:   1 :A: 125 :A:cytochrome c':Rhodopseudomonas palustris: 2.3: 19.4
+[  4] 1jafa      structureX:1jaf:   1 :A: 128 :A:cytochrome c':Rhodocyclus gelatinosus: 2.5: 17.9
+
+
+2ccya      QS-KPEDLLKLRQGLMQTLKSQWVPIAGFAAGKADLPA-DAAQRAENMAMVAKL-APIGWAKGTEALP---NGET
+1bbha      AGLSPEEQIETRQAGYEFMGWNMGKIKANLEG--EYNAAQVEAAANVIAAIANSGMGALYGPGTDKNVGDVKTRV
+1a7va      QT----DVIAQRKAILKQMGEATKPIAAMLKGEAKFDQAVVQKSLAAIADDSKK-LPALFPADSKTGG---DTAA
+1jafa      QFQKPGDAIEYRQSAFTLIANHFGRVAAMAQGKAPFDAKVAAENIALVSTLSKL-PLTAFGPGTDKGH---GTEA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ccya      KPEAFGSKSAEFLEGWKALATESTKLAAAAKA-GPDALKAQAAATGKVCKACHEEFKQD--*
+1bbha      KPEFF-QNMEDVGKIAREFVGAANTLAEVAATGEAEAVKTAFGDVGAACKSCHEKYRAK--*
+1a7va      LPKIW-EDKAKFDDLFAKLAAAATAAQGTIK--DEASLKANIGGVLGNCKSCHDDFRAKKS*
+1jafa      KPAVW-SDAAGFKAAADKFAAAVDKLDAAGKTGDFAQIKAAVGETGGACKGCHDKFKE---*
+           ====|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2ccya      100.0  21.3  20.8  31.5
+  2-1bbha       21.3 100.0  24.0  26.6
+  3-1a7va       20.8  24.0 100.0  32.8
+  4-1jafa       31.5  26.6  32.8 100.0
+
+***************************************************************************

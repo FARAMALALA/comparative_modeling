@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1bcpc      structureX:1bcp:  90 :C: 199 :C:pertussis toxin subunit 3:Bordetella pertussis: 2.7: 23.2
+[  2] 1bcpb      structureX:1bcp:  90 :B: 199 :B:pertussis toxin subunit 2:Bordetella pertussis: 2.7: 23.2
+
+
+1bcpc      TIYKTGQPAADHYYSKVTATRLLASTNSRLCAVFVRDGQSVIGACASPYEGRYRDMYDALRRLLYMIYMSGLAVR
+1bcpb      TTRNTGQPATDHYYSNVTATRLLSSTNSRLCAVFVRSGQPVIGACTSPYDGKYWSMYSRLRKMLYLIYVAGISVR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bcpc      VHVSKEEQYYDYEDATFQTYALTGISLCNPAASIC*
+1bcpb      VHVSKEEQYYDYEDATFETYALTGISICNPGSSLC*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bcpc      100.0  75.5
+  2-1bcpb       75.5 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1etpa      structureX:1etp:   1 :A: 190 :A:cytochrome c4:Pseudomonas stutzeri: 2.2: 20.1
+[  2] 1fcdc      structureX:1fcd:   1 :C: 174 :C:cytochrome subunit of sulfide dehydrogenase:Chromatium vinosum: 2.53: 23.7
+
+
+1etpa      AGDAEAGQGKVAVCGACHGVDGNSPAPNFPKLAGQGERYLLKQLQDIKAGSTPGAPEGVGRKVLEMTGMLDPLSD
+1fcdc      ---EPTAEMLTNNCAGCHGTHGNSVGPASPSIAQMDPMVFVEVMEGFKSG---------EIASTIMGRIAKGYST
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1etpa      QDLEDIAAYFSSQKGSVG--YADPALAKQGEKLFRGGKLDQGMPACTGCHAPNGVGN-DLAGFPKLGGQHAAYTA
+1fcdc      ADFEKMAGYFKQQTYQPAKQSFDTALADTGAKLHD--------KYCEKCHVEGGKPLADEEDYHILAGQWTPYLQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1etpa      KQLTDFREGNRTNDGDTMIMRGVAA-KL---SNKDIEALSSYIQGLH*
+1fcdc      YAMSDFREERRPME---KKMASKLRELLKAEGDAGLDALFAFYASQQ*
+           =========|=========|=========|=========|=======
+                    0160      0170      0180      0190    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1etpa      100.0  25.9
+  2-1fcdc       25.9 100.0
+
+***************************************************************************

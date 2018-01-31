@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1gyta      structureX:1gyt:   1 :A: 179 :A:Cytosol aminopeptidase:Escherichia coli: 2.5: 16.5
+[  2] 1lam       structureX:1lam:   1 : : 159 : :Leucine aminopeptidase:Bos taurus: 1.6: -1
+
+
+1gyta      MEFSVKSGSPEKQRSACIVVGVFEP------RRLSPIAEQLDKISDGYISALLRRGELEGKPGQTLLLHHVPNVL
+1lam       --------------TKGLVLGIYSKEKEEDEPQFTSAGENFNKLVSGKLREILNISGPPLKAGKTRTFYGLHE-D
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gyta      SERILLIGCGKER---------ELDERQYKQVIQKTINTLNDTGSMEAVCFLTELHVKGRNNYWKVRQAVETAKE
+1lam       FPSVVVVGLGKKTAGIDEQENWHEGKENIRAAVAAGCRQIQDLEIPSVEVDPCG----------DAQAAAEGAVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gyta      TLYSFDQLKTNKSEPRRPLRKMVFNVPTRRELTSGERAIQHGLA*
+1lam       GLYEYDDLKQ----KRKVVVSAKLHG--SEDQEAWQRGVL----*
+           =========|=========|=========|=========|====
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gyta      100.0  14.5
+  2-1lam        14.5 100.0
+
+***************************************************************************

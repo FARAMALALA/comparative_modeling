@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1k25a      structureX:1k25: 264 :A: 631 :A:PBP2X from a highly penicillin-resistant clinical isolate:Streptococcus pneumoniae: 3.2: 23.5
+[  2] 1qmea      structureX:1qme: 264 :A: 620 :A:penicillin-binding protein 2X:Streptococcus pneumoniae: 2.4: 19.7
+
+
+1k25a      TLSSPLQSFMETQMDAFLEKVKGKYMTATLVSAKTGEILATTQRPTFNADTKEGITEDFVWRDILYQSNYEPGSA
+1qmea      TISSPLQSFMETQMDAFQEKVKGKYMTATLVSAKTGEILATTQRPTFDADTKEGITEDFVWRDILYQSNYEPGST
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k25a      MKVMTLASSIDNNTFPSGEYFNSSEL------------------------------SSNVGMSLLEQKMGDATWL
+1qmea      MKVMMLAAAIDNNTFPGGEVFNSSELKIADATIRDWDVNEGLTGGRMMTFSQGFAHSSNVGMTLLEQKMGDATWL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1k25a      DYLKRFKFGVPTRFGLTDEYAGQLPADNIVSIAQSSFGQGISVTQTQMLRAFTAIANDGVMLEPKFISAIYDTNN
+1qmea      DYLNRFKFGVPTRFGLTDEYAGQLPADNIVNIAQSSFGQGISVTQTQMIRAFTAIANDGVMLEPKFISAIYDPND
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1k25a      QSVRKSQKEIVGNPVSKEAASTTRNHMILVGTDP------------LIITVPGQNVAVKSGTAQIADEKNGGYLV
+1qmea      QTARKSQKEIVGNPVSKDAASLTRTNMVLVGTDPVYGTMYNHSTGKPTVTVPGQNVALKSGTAQIADEKNGGYLV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1k25a      GSTNYIFSAVTMNPAENPDFILYVTVQQPEHYSGIQLGEFATPILERASAMKESLNLQSPAKNLDKVT*
+1qmea      GLTDYIFSAVSMSPAENPDFILYVTVQQPEHYSGIQLGEFANPILERASAMKDSLNL-----------*
+           =========|=========|=========|=========|=========|=========|========
+                    0310      0320      0330      0340      0350      0360     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k25a      100.0  86.8
+  2-1qmea       86.8 100.0
+
+***************************************************************************

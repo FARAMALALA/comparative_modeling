@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1bgyd      structureX:1bgy:   1 :D: 241 :D:cytochrome bc1 complex:Bos taurus: 3.0: 32
+[  2] 1ezvd      structureX:1ezv:  62 :D: 306 :D:cytochrome bc1 complex co- crystallized with an antibody fv-fragment:Saccharomyces cerevisiae: 2.30: 22.2
+
+
+1bgyd      SDL---ELHPPSYPWSHRGLLSSLDHTSIRRGFQVYKQVCSSCHSMDYVAYRHLVGVCYTEDEAKALAEEVEVQD
+1ezvd      MTAAEHGLHAPAYAWSHNGPFETFDHASIRRGYQVYREVCAACHSLDRVAWRTLVGVSHTNEEVRNMAEEF----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bgyd      GPNEDGEM---------FMRPGKLSDYFPKPYPNPEAARAANNGALPPDLSYIVRARHGGEDYVFSLLTGYC-EP
+1ezvd      EYD-----DEPDEQGNPKKRPGKLSDYIPGPYPNEQAARAANQGALPPDLSLIVKARHGGCDYIFSLLTGYPDEP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bgyd      PTGVSLREGLYFNPYFPGQAIGMAPPIYNEVLEFDDGTPATMSQVAKDVCTFLRWAAEPEHDHRKRMGLKMLLMM
+1ezvd      PAGVALPPGSNYNPYFPGGSIAMARVLFDDMVEYEDGTPATTSQMAKDVTTFLNWCAEPEHDERKRLGLKTVIIL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bgyd      GLLLPLVYAMKRHKWSVLKSRKLAYRPPK*
+1ezvd      SSLYLLSIWVKKFKWAGIKTRKFVFNPPK*
+           ====|=========|=========|====
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bgyd      100.0  56.0
+  2-1ezvd       56.0 100.0
+
+***************************************************************************

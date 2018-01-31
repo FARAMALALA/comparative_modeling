@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1lm0a      structureN:1lm0:  32 :A: 132 :A:Heme chaperone, ccmE:Shewanella putrefaciens: -1: -1
+[  2] 1liza      structureN:1liz:  30 :A: 143 :A:cytochrome c-type biogenesis protein, ccmE:Escherichia coli: -1: -1
+
+
+1lm0a      --SNLNLFYTPSEIVNGKTDTGVKPEAGQRIRVGGMVTVGSMVRDPNSLHVQFAVHDSLGGEILVTYDDLLPDLF
+1liza      LRSNIDLFYTPGEILYGKRETQQMPEVGQRLRVGGMVMPGSVQRDPNSLKVTFTIYDAE-GSVDVSYEGILPDLF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lm0a      REGQGIVAQGVLGEDGKLAATEVLAKHD------------*
+1liza      REGQGVVVQGELEKGNHILAKEVLAKHDENYTPPEVEKAM*
+           ====|=========|=========|=========|=====
+               0080      0090      0100      0110  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lm0a      100.0  58.4
+  2-1liza       58.4 100.0
+
+***************************************************************************

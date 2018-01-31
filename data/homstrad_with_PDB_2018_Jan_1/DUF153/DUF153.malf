@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1eo1a      structureN:1eo1:   1 :A: 124 :A:hypothetical protein mth1175:Methanobacterium thermoautotrophicum: -1: -1
+[  2] 1o13a      structureX:1o13:   2 :A: 107 :A:hypothetical protein tm1816:Thermotoga maritima: 1.83: 20.7
+
+
+1eo1a      MKIAIASSGTD-LGSEVSRFFGRAPYFMIVEMKKGNIESSEVIENPSA-SASGGAGIRTAQIIANNGVKAVIASS
+1o13a      -IIAIPVSENRGKDSPISEHFGRAPYFAFVKVKNNAIADISVEENPLAQDHVHG---AVPNFVKEKGAELVIVRG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eo1a      PGPNAFEVLNELGIKIYRATGTSVEENLKLFTEGNLEEIRSPGSGRGRRRR*
+1o13a      IGRRAIAAFEA-GVKVIKGASGTVEEVVNQYLSGQ----------------*
+           ====|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eo1a      100.0  31.4
+  2-1o13a       31.4 100.0
+
+***************************************************************************

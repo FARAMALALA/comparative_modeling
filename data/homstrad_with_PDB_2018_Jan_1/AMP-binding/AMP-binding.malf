@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1lci       structureX:1lci:   4 : : 540 : :luciferase:Photinus pyralis: 2.0: 22.4
+[  2] 1amua      structureX:1amu:  17 :A: 530 :A:gramicidin synthetase I (phenylalanine activating domain):Bacillus brevis: 1.9: 21.3
+
+
+1lci       ------AKNI-KKGPAPFYPLEDGTAGEQLHKAMKRYALVPGTIAFTDAHIEVNITYAEYFEMSVRLAEAMKRYG
+1amua      GTHEEEQYLFAVNNTKAEYP-RDKTIHQLFEEQVSKR---PNNVAIVCE--NEQLTYHELNVKANQLARIFIEKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lci       LNTNHRIVVCSENSLQFFMPVLGALFIGVAVAPANDIYNERELLNSMNISQPTVVFVSKKGLQKILNVQKKLPII
+1amua      IGKDTLVGIMMEKSIDLFIGILAVLKAGGAYVPIDIEYPKERIQYILDDSQARMLLTQKHLVHLIHNI--QFN--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lci       QKIIIMDSKTDYQGFQSMYTFVTSHLPPGFNEYDFVPESFDRDKTIALIMNSLPKGVALPHRTACVRFSHARDPI
+1amua      GQVEIFEED-----------TIKIR-----EGTNLH-VPSKST-DLAYVIYTSPKGTMLEHKGISNLKVFFEN--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1lci       FGNQIIPDTAILSVVPFHHGFGMFTTLGYLICGFRVVLMYR---FEEELFLRSLQDYKIQSALLVPTLFSFFAKS
+1amua      SLN-VTEKDRIGQFASISFDASVWEMFMALLTGASLYIILKDTINDFVKFEQYINQKEITVITLPPTYVVHL---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1lci       TLIDKYDLSNLHEIASGGAPLSKEVGEAVAKRFHLPGIRQGYGLTETTSAILITPEG------PGAVGKVVPFFE
+1amua      -DPERI--LSIQTLITAGSATSPSLVNKWKEKV---TYINAYGPTETTICATTWVATKETIGHSVPIGAPIQNTQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1lci       AKVVDLDTGKTLGVNQRGELCVRGPMIMSGYVNNPEATNALIDKD------GWLHSGDIAYWDEDEHFFIV----
+1amua      IYIVDE-NLQLKSVGEAGELCIGGEGLARGYWKRPELTSQKFVDNPFVPGEKLYKTGDQARWLSDGNIEYLGRID
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1lci       -LIKYKGYQVAPAELESILLQHPNIFDAGVAGLPDDDAGELPAAVVVLEHGKTMTEKEIVDYVASQVTTAKKLRG
+1amua      NQVKIRGHRVELEEVESILLKHMYISETAVSVHKDHQEQPYLCAYFVSE--KHIPLEQLRQFSSEELPTYMIPS-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1lci       GVVFVD-----EVPKLDARKIREILI--*
+1amua      YFIQLDKMPLTSNGKIDRKQLPEPDLTF*
+           ====|=========|=========|===
+               0530      0540      0550 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lci       100.0  17.9
+  2-1amua       17.9 100.0
+
+***************************************************************************

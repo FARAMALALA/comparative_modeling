@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fsha      structureN:1fsh:  12 :A: 105 :A:dishevelled-1 DEP domain:Mus musculus: -1: -1
+[  2] 1o7fa      structureX:1o7f: 180 :A: 273 :A:CAMP-dependent rap1 guanine-nucleotide exchange factor DEP domain:Mus musculus: 2.50: 24.4
+
+
+1fsha      EAPLTVKSDMSAIVRVMQLP-DSGLE--IRDRMWLKITIANAVIGADVVDWLYTHVEGFKERREARKYASSMLKH
+1o7fa      VPS-E---KILRAGKILRIAILSRAPHMIRDRKYHLKTYRQCCVGTELVDWMIQQTSCVHSRTQAVGMWQVLLED
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fsha      GFLRHTVNKITFSEQ-CYYVFGD*
+1o7fa      GVLNHVDQERHFQDKYLFYRFLD*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fsha      100.0  21.3
+  2-1o7fa       21.3 100.0
+
+***************************************************************************

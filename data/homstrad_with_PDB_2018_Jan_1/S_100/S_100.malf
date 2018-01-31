@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1cb1       structureX:1cb1:  -2 : :  75 : :vitamin D-dependent calcium-binding protein, intestinal (calbindin D9K):Sus scrofa: -1: -1
+[  2] 4icb       structureX:4icb:   0 : :  75 : :vitamin D-dependent calcium-binding protein, intestinal (calbindin D9K):Bos taurus: 1.5: 19.5
+[  3] 1cnpa      structureX:1cnp:   1 :A:  90 :A:calcyclin:Oryctolagus cuniculus: -1: -1
+[  4] 1mho       structureX:1mho:   1 : :  88 : :S-100 protein, beta chain:Bos taurus: 2.0: 19.5
+[  5] 1a4pa      structureX:1a4p:   1 :A:  92 :A:calpactin I light chain:Homo sapiens , and bos taurus: 2.25: 22.7
+[  6] 1psra      structureX:1psr:   1 :A: 100 :A:S-100 calcium-binding protein A7 (psoriasin):Homo sapiens: 1.05: -1
+
+
+1cb1       ---SAQKSPAELKSIFEKYAAKEGDPNQLSKEELKQLIQAEFPSLLK-----GPRTLDDLFQELDKNGDGEVSFE
+4icb       -----MKSPEELKGIFEKYAAKEGDPNQLSKEELKLLLQTEFPSLLK-----GPSTLDELFEELDKNGDGEVSFE
+1cnpa      MASPLDQAIGLLIGIFHKYSGKEGDKHTLSKKELKELIQKELTIGSKLQ--DAEIVKLMDD-LDRN-KDQEVNFQ
+1mho       --SELEKAVVALIDVFHQYSGREGDKHKLKKSELKELINNELS--HFLEEIKEQEVVDKVMETLDSDGDGECDFQ
+1a4pa      -PSQMEHAMETMMFTFHKFAGD---KGYLTKEDLRVLMEKEFPGFLENQKD--PLAVDKIMKDLDQCRDGKVGFQ
+1psra      SNTQAERSIIGMIDMFHKYTRR---DDKIDKPSLLTMMKENFPNFLSACDKKGTNYLADVFEKKDKNEDKKIDFS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cb1       EFQVLVKKISQ-----------------*
+4icb       EFQVLVKKISQ-----------------*
+1cnpa      EYITFLGALAMIYNEALKG---------*
+1mho       EFMAFVAMITTACHEFF-----------*
+1a4pa      SFFSLIAGLTIACNDYFVVH-----MKQ*
+1psra      EFLSLLGDIATDYHKQSHGAAPCSGGSQ*
+           ====|=========|=========|===
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1cb1       100.0  88.2  32.1  34.6  28.2  29.5
+  2-4icb        88.2 100.0  32.9  35.5  30.3  28.9
+  3-1cnpa       32.1  32.9 100.0  38.6  22.2  17.8
+  4-1mho        34.6  35.5  38.6 100.0  31.8  25.0
+  5-1a4pa       28.2  30.3  22.2  31.8 100.0  22.8
+  6-1psra       29.5  28.9  17.8  25.0  22.8 100.0
+
+***************************************************************************

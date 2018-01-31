@@ -1,0 +1,74 @@
+      Code       Title
+
+[  1] 1yea       structureX:1yea:  -9 : : 103 : :cytochrome-c isozyme 2:Saccharomyces cerevisiae: 1.90:19.00
+[  2] 1ycc       structureX:1ycc:  -5 : : 103 : :cytochrome-c isozyme 1:Saccharomyces cerevisiae: 1.20:19.20
+[  3] 2pcbb      structureX:2pcb:   1 :B: 104 :B:cytochrome-c:Equus caballus: 2.80:22.20
+[  4] 5cytr      structureX:5cyt:   1 :R: 103 :R:cytochrome-c:Thunnus alalunga: 1.50:15.90
+[  5] 1ccr       structureX:1ccr:   1 : : 111 : :cytochrome-c:Oryza sativa: 1.50:19.00
+[  6] 1cry       structureX:1cry:   1 : : 107 : :cytochrome-c2:Rhodopseudomonas viridis: 3.00:21.90
+[  7] 1hroa      structureX:1hro:   2 :A: 106 :A:cytochrome c2:Rhodopila globiformis:2.20:18.7
+[  8] 1cxc       structureX:1cxc:   1 : : 124 : :cytochrome c2:Rhodobacter sphaeroides:1.60:22.5
+[  9] 1c2ra      structureX:1c2r:   1 :A: 116 :A:cytochrome-c2:Rhodobacter capsulatus: 2.50:16.80
+[ 10] 155c       structureX:155c:   1 : : 121 : :cytochrome-c550:Paracoccus denitrificans: 2.50:-1.00
+[ 11] 2c2c       structureX:2c2c:   1 : : 112 : :cytochrome-c2:Rhodospirillum rubrum: 2.00:17.20
+
+
+1yea       AKESTGFKPGSAKKGATLFKTRCQQCHTIEE-------GGPNKVGPNLHGIFGRHSGQVKGYS-YTDANINK---
+1ycc       ----TEFKAGSAKKGATLFKTRCLQCHTVEK-------GGPHKVGPNLHGIFGRHSGQAEGYS-YTDANIKK---
+2pcbb      ---------GDVEKGKKIFVQKCAQCHTVEK-------GGKHKTGPNLHGLFGRKTGQAPGFT-YTDANKNK---
+5cytr      ---------GDVAKGKKTFVQKCAQCHTVEN-------GGKHKVGPNLWGLFGRKTGQAEGYS-YTDANKSK---
+1ccr       ASFS-EAPPGNPKAGEKIFKTKCAQCHTVDK-------GAGHKQGPNLNGLFGRQSGTTPGYS-YSTADKNM---
+1cry       ---------QDAASGEQVFK-QCLVCHSIGP-------GAKNKVGPVLNGLFGRHSGTIEGFA-YSDANKNS---
+1hroa      -----SAPPGDPVEGKHLFHTICITCHTDIK-------G-ANKVGPSLYGVVGRHSGIEPGYN-YSEANIKS---
+1cxc       -------QEGDPEAGAKAFN-QCQTCHVIVDDSGTTIAGRNAKTGPNLYGVVGRTAGTQADFKGYGEGMKEAGAK
+1c2ra      ---------GDAAKGEKEFN-KCKTCHSIIAPDGTEIVKG-AKTGPNLYGVVGRTAGTYPEFK-YKDSIVALGAS
+155c       -------NEGDAAKGEKEFN-KCKACHMIQAPD-GTDIKG-GKTGPNLYGVVGRKIASEEGFK-YGEGILEVAEK
+2c2c       --------EGDAAAGEKVSK-KCLACHTFDQ-------GGANKVGPNLFGVFENTAAHKDNYA-YSESYTEMKAK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1yea       --NVKWDEDSMSEYLTNPKKYIP--------GTKMAFAGLKKEKDRNDLITYMTKAAK-----*
+1ycc       --NVLWDENNMSEYLTNPKKYIP--------GTKMAFGGLKKEKDRNDLITYLKKACE-----*
+2pcbb      --GITWKEETLMEYLENPKKYIP--------GTKMIFAGIKKKTEREDLIAYLKKATNE----*
+5cytr      --GIVWNNDTLMEYLENPKKYIP--------GTKMIFAGIKKKGERQDLVAYLKSATS-----*
+1ccr       --AVIWEENTLYDYLLNPKKYIP--------GTKMVFPGLKKPQERADLISYLKEATS-----*
+1cry       --GITWTEEVFREYIRDPKAKIP--------GTKMIFAGVKDEQKVSDLIAYIKQFNADGSKK*
+1hroa      --GIVWTPDVLFKYIEHPQKIVP--------GTKMGYPGQPDPQKRADIIAYLETLK------*
+1cxc       --GLAWDEEHFVQYVQDPTKFLKEYTGDAKAKGKMTF-KLKKEADAHNIWAYLQQVAVRP---*
+1c2ra      --GFAWTEEDIATYVKDPGAFLKEKLDDKKAKTGMAF-KLAK--GGEDVAAYLASVVK-----*
+155c       NPDLTWTEANLIEYVTDPKPLVKKMTDDKGAKTKMTF-KMGK--NQADVVAFLAQDDPDA---*
+2c2c       --GLTWTEANLAAYVKNPKAFVLEKSGDPKAKSKMTF-KLTKDDEIENVIAYLKTLK------*
+           ====|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11]
+
+  1-1yea       100.0  84.3  57.7  57.3  53.2  45.8  41.9  32.1  30.4  29.5
+                30.4
+  2-1ycc        84.3 100.0  61.5  61.2  57.4  44.9  41.9  31.5  30.6  32.4
+                34.3
+  3-2pcbb       57.7  61.5 100.0  82.5  61.5  51.0  42.3  36.5  38.5  38.5
+                37.5
+  4-5cytr       57.3  61.2  82.5 100.0  59.2  48.5  43.7  32.0  35.0  37.9
+                36.9
+  5-1ccr        53.2  57.4  61.5  59.2 100.0  44.9  46.7  31.5  29.7  29.7
+                36.9
+  6-1cry        45.8  44.9  51.0  48.5  44.9 100.0  43.8  34.6  35.5  35.5
+                36.4
+  7-1hroa       41.9  41.9  42.3  43.7  46.7  43.8 100.0  32.4  31.4  32.4
+                35.2
+  8-1cxc        32.1  31.5  36.5  32.0  31.5  34.6  32.4 100.0  53.4  43.8
+                43.8
+  9-1c2ra       30.4  30.6  38.5  35.0  29.7  35.5  31.4  53.4 100.0  52.6
+                45.5
+ 10-155c        29.5  32.4  38.5  37.9  29.7  35.5  32.4  43.8  52.6 100.0
+                45.5
+ 11-2c2c        30.4  34.3  37.5  36.9  36.9  36.4  35.2  43.8  45.5  45.5
+               100.0
+
+***************************************************************************

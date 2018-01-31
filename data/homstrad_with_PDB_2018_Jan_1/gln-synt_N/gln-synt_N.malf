@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1f52a      structureX:1f52:   1 :A: 100 :A:glutamine synthetase:Salmonella typhimurium: 2.49: 24.3
+[  2] 1htqa      structureX:1htq: 601 :A: 100 :A:glutamine synthetase 1:Mycobacterium tuberculosis: 2.40: 20.4
+
+
+1f52a      ---SAEHVLTMLNEHEVKFVDLRFTDTKGKEQHVTIPAHQVNAEFFEEGKMFDGSSIGGWKGINESDMVLMPD--
+1htqa      TEKTPDDVFKLAKDEKVEYVDVRFCDLPGIMQHFTIPASAFDKSVFDDGLAFDGSSIRGFQSIHESDMLLLPDPE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f52a      -ASTAVIDPFFADSTLIIRCDILEPGTLQGY*
+1htqa      T---ARIDPFRAAKTLNINFFVHDPFTLEPY*
+           ====|=========|=========|======
+               0080      0090      0100   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f52a      100.0  44.0
+  2-1htqa       44.0 100.0
+
+***************************************************************************

@@ -1,0 +1,64 @@
+      Code       Title
+
+[  1] 1ixa       structureN:1ixa:  46 : :  84 : :EGF-like module coagulation factor IX:Homo sapiens:-1.00:-1.00
+[  2] 1apo       structureN:1apo:  45 : :  86 : :EGF-like module coagulation factor X:Bos taurus:-1.00:-1.00
+[  3] 1urk       structureN:1urk:   6 : :  46 : :EGF-like module uPA:Homo sapiens:-1.00:-1.00
+[  4] 1fsb       structureX:1fsb:   1 : :  40 : :EGF-like domain P-selectin:Homo sapiens:-1:-1
+[  5] 1esl       structureX:1esl: 121 : : 157 : :EGF-like domain E-selectin:Homo sapiens:2.00:16.40
+[  6] 1hre       structureN:1hre: 175 : : 241 : :EGF-like domain heregulin-alpha:Homo sapiens:-1.00:-1.00
+[  7] 1epi       structureN:1epi:   1 : :  53 : :epidermal growth factor:Mus musculus:-1.00:-1.00
+[  8] 4tgf       structureN:4tgf:   1 : :  50 : :transforming growth factor alpha:Homo sapiens:-1.00:-1.00
+[  9] 1hcgb      structureX:1hcg:   1 :B:  51 :B:coagulation factor x:Homo sapiens: 2.2: 16.8
+[ 10] 1dan1      structureX:1dan:  47 :L:  86 :L:coagulation factor vii:Homo sapiens: 2.0: 18.7
+[ 11] 1dan2      structureX:1dan:  87 :L: 142 :L:coagulation factor vii:Homo sapiens: 2.0: 18.7
+[ 12] 1rfnb      structureX:1rfn:  86 :B: 142 :B:coagulation factor IXa:Homo sapiens: 2.80: 21.6
+
+
+1ixa       --VDGDQCE---SNPCLNGGSCKDDI-----NSYECWCPFGFEG----KNCEL------------------*
+1apo       --KDGDQCE---GHPCLNQGHCKDGI-----GDYTCTCAEGFEG----KNCEFSTR---------------*
+1urk       --QVPSNCD------CLNGGTCVSNKYFS--NIHWCNCPKKFGG----QHCEIDK----------------*
+1fsb       ----TASCQD---MSCSKQGECLETI-----GNYTCSCYPGFYG----PECEYVRE---------------*
+1esl       ------ACTN---TSCSGHGECVETI-----NNYTCKCDPGFSG----LKCEQIV----------------*
+1hre       GTSHLVKCAEKEKTFCVNGGECFMVKDLSNPSRYLCKCQPGFTG----ARCTENVPMKVQNQEKAEELYQK*
+1epi       --NSYPGCPSSYDGYCLNGGVCMHI-ESL--DSYTCNCVIGYSG----DRCQTRDLRWWELR---------*
+4tgf       VVSHFNDCPDSHTQFCF-HGTCRFLVQ---EDKPACVCHSGYVG----ARCEHADLLA-------------*
+1hcgb      -------CSLD-NGDCD--QFCHEEQ----N-SVVCSCARGYTLADNGKACIPTGPYPCGKQTLER-----*
+1dan1      ----GDQCASS---PCQNGGSCKDQL-----QSYICFCLPAFEG----RNCETHKD---------------*
+1dan2      ---DQLICVN-ENGGCE--QYCSDHT----GTKRSCRCHEGYSLLADGVSCTPTVEYPCGKIPILE-----*
+1rfnb      -----MTCNI-KNGRCE--QFCKNSA----DNKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSK--*
+           =========|=========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12]
+
+  1-1ixa       100.0  66.7  38.5  33.3  37.8  33.3  35.9  25.6  23.1  59.0
+                23.1  28.2
+  2-1apo        66.7 100.0  29.3  40.0  37.8  28.6  31.0  23.8  21.4  50.0
+                23.8  26.2
+  3-1urk        38.5  29.3 100.0  25.0  32.4  31.7  29.3  24.4  14.6  32.5
+                14.6  19.5
+  4-1fsb        33.3  40.0  25.0 100.0  56.8  32.5  27.5  27.5  22.5  30.0
+                20.0  22.5
+  5-1esl        37.8  37.8  32.4  56.8 100.0  43.2  32.4  29.7  21.6  32.4
+                27.0  27.0
+  6-1hre        33.3  28.6  31.7  32.5  43.2 100.0  24.5  28.0  19.6  35.0
+                19.6  15.8
+  7-1epi        35.9  31.0  29.3  27.5  32.4  24.5 100.0  32.0  19.6  37.5
+                18.9  17.0
+  8-4tgf        25.6  23.8  24.4  27.5  29.7  28.0  32.0 100.0  16.0  25.0
+                20.0  22.0
+  9-1hcgb       23.1  21.4  14.6  22.5  21.6  19.6  19.6  16.0 100.0  17.5
+                39.2  47.1
+ 10-1dan1       59.0  50.0  32.5  30.0  32.4  35.0  37.5  25.0  17.5 100.0
+                17.5  20.0
+ 11-1dan2       23.1  23.8  14.6  20.0  27.0  19.6  18.9  20.0  39.2  17.5
+               100.0  37.5
+ 12-1rfnb       28.2  26.2  19.5  22.5  27.0  15.8  17.0  22.0  47.1  20.0
+                37.5 100.0
+
+***************************************************************************

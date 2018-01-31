@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1eexb      structureX:1eex:  46 :B: 223 :B:Propanediol dehydratase, beta subunit:Klebsiella oxytoca: 1.70: 16.4
+[  2] 1iwpb      structureX:1iwp:  11 :B: 194 :B:Glycerol dehydratase, beta subunit:Klebsiella pneumoniae: 2.10: 20.9
+
+
+1eexb      --GFLTEVGEARQGTQQDEVIIAVGPAFGLAQTVNIVGIPHKSILREVIAGIEEEGIKARVIRCFKSSDVAFVAV
+1iwpb      FTLKTREGGVASADERADEVVIGVGPAFDKHQHHTLIDMPHGAILKELIAGVEEEGLHARVVRILRTSDVSFMAW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eexb      EGNRLSGSGISIGIQSKGTTVIHQQGLPPLSNLELFPQAPLLTLETYRQIGKNAARYAKRESPQPVPTLNDQMAR
+1iwpb      DAANLSGSGIGIGIQSKGTTVIHQRDLLPLSNLELFSQAPLLTLETYRQIGKNAARYARKESPSPVPVVNDQMVR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1eexb      PKYQAKSAILHIKETKYVVTGKNPQELRVA----*
+1iwpb      PKFMAKAALFHIKETKHVVQDAEPVTLHIDLVRE*
+           =========|=========|=========|====
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eexb      100.0  61.2
+  2-1iwpb       61.2 100.0
+
+***************************************************************************

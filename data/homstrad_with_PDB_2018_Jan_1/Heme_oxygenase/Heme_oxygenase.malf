@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1dvga      structureX:1dvg:  10 :A: 223 :A:heme oxygenase 1:Rattus norvegicus: 2.2: 21.2
+[  2] 1n45a      structureX:1n45:  10 :A: 223 :A:unknown:unknown:1.50:15.1
+
+
+1dvga      SQDLSEALKEATKEVHIRAENSEF-RNFQKGQVSREGFKLVTASLYHIYTALEEEIERNKQNPVYAPLYFPEELH
+1n45a      PQDLSEALKEATKEVHTQAENAEFMRNFQKGQVTRDGFKLVMASLYHIYVALEEEIERNKESPVFAPVYFPEELH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dvga      RRAALEQDLAFWYGPHWQEAIPYTPATQHYVKRLHEVGGTHPELLVAHAYTRYLGDLSGGQVLKKIAQKALALPS
+1n45a      RKAALEQDLAFWYGPRWQEVIPYTPAMQRYVKRLHEVGRTEPELLVAHAYTRYLGDLSGGQVLKKIAQKALDLPS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dvga      SGEGLASFTFPSIDNPTKFKQLYRAR-NTLELTPEVKHRVTEEAKTAFLLNIELFEELQALLTE*
+1n45a      SGEGLAFFTFPNIASATKFKQLYRSRMNSLEMTPAVRQRVIEEAKTAFLLNIQLFEELQELLTH*
+           =========|=========|=========|=========|=========|=========|====
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dvga      100.0  83.5
+  2-1n45a       83.5 100.0
+
+***************************************************************************

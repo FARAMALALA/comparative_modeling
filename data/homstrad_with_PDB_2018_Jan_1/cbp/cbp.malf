@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 4cln       structureX:4cln:   1 : : 148 : :calmodulin:Drosophila melanogaster: 2.20:19.70
+[  2] 3cln       structureX:3cln:   5 : : 147 : :calmodulin:Rattus rattus: 2.20:17.50
+[  3] 5tnc       structureX:5tnc:   2 : : 162 : :troponin C:Meleagris gallopavo: 2.00:15.50
+[  4] 1tn4       structureX:1tn4:   1 : : 157 : :troponin C:Oryctolagus cuniculus:1.90:18.9
+[  5] 1aj4       structureX:1aj4:   2 : : 161 : :troponin C:Gallus gallus: -1: -1
+[  6] 1br1b      structureX:1br1:   3 :B: 150 :B:myosin light chain:Gallus gallus:3.5:22.7
+[  7] 2scpa      structureX:2scp:   1 :A: 174 :A:sarcoplasmic calcium-binding protein:Nereis diversicolor: 2.00:18.00
+[  8] 2sas       structureX:2sas:   1 : : 185 : :sarcoplasmic calcium-binding protein (iso type ii):Branchiostoma lanceolatum: 2.40:19.90
+
+
+4cln       ---------ADQLTEEQIAEFKEAFSL-FDKDGDGTITTKELGTVMRSLGQ---------------NPTEAELQD
+3cln       -------------TEEQIAEFKEAFSL-FDKDGDGTITTKELGTVMRSLGQ---------------NPTEAELQD
+5tnc       SMTDQQAEARAFLSEEMIAEFKAAFDM-FDADGGGDISTKELGTVMRMLGQ---------------NPTKEELDA
+1tn4       --TDQQAEARSYLSEEMIAEFKAAFDM-FDADGGGDISVKELGTVMRMLGQ---------------TPTKEELDA
+1aj4       --ADIYKAAVEQLTEEQKNEFKAAFDIFVLGAEDGSISTKELGKVMRMLGQ---------------NPTPEELQE
+1br1b      ------------FSEEQTAEFKEAFQL-FDRTGDGKILYSQCGDVMRALGQ---------------NPTNAEVMK
+2scpa      -------------SDLWVQKMKTYFNR-IDFDKDGAITRMDFESMAERFAKESE--MKAEHAKVLMDSLTGVWDN
+2sas       -----------GLNDFQKQKIKFTFDFFLDMNHDGSIQDNDFEDMMTRYKEVNKGSLSDADYKSMQASLEDEWRD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+4cln       MINEVDAD--GNGTIDFPEFLTMMARKMKDTD--------SEEEIREAFRVFDKDGNGFISAAELRHVMTNLGEK
+3cln       MINEVDAD--GNGTIDFPEFLTMMARKMKDTD--------SEEEIREAFRVFDKDGNGYISAAELRHVMTNLGEK
+5tnc       IIEEVDED--GSGTIDFEEFLVMMVRQMKED-----AKGKSEEELEDCFRIFDKNADGFIDIEELGEILRATGEH
+1tn4       IIEEVDED--GSGTIDFEEFLVMMVRQMKEDAK-----GKSEEELAELFRIFDRNADGYIDAEELAEIFRASGEH
+1aj4       MIDEVDED--GSGTVDFDEFLVMMVRSMKDDS-----KGKTEEELSDLFRMFDKNADGYIDLEELKIMLQATGET
+1br1b      VLGNPKSDEMNLKTLKFEQFLPMMQTIAKNKD------QGCFEDYVEGLRVFDKEGNGTVMGAEIRHVLVTLGEK
+2scpa      FLTAVAG----GKGIDETTFINSMKEMVKNPE----AKSVVEGPLPLFFRAVDTNEDNNISRDEYGIFFGMLGLD
+2sas       LKGRADIN--KDDVVSWEEYLAMWEKTIATCKSVADLPAWCQNRIPFLFKGMDVSGDGIVDLEEFQNYCKNFQLQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+4cln       LTDEEVDEMIREADIDGDGQVNYEEFVTMMTSK-----------------*
+3cln       LTDEEVDEMIREANIDGDGQVNYEEFVQMMTA------------------*
+5tnc       VTEEDIEDLMKDSDKNNDGRIDFDEFLKMMEGVQ----------------*
+1tn4       VTDEEIESLMKDGDKNNDGRIDFDEFLKMMEG------------------*
+1aj4       ITEDDIEELMKDGDKNNDGRIDYDEFLEFMKGVE----------------*
+1br1b      MTEEEVEQLVAGHE-DSNGCINYEELVRMVLSG-----------------*
+2scpa      --KTMAPASFDAIDTNNDGLLSLEEFVIAGSDFFMNDGDSTNKVFWGPLV*
+2sas       --CADVPAVYNVITDGGKVTFDLNRYKELYYRLLTSPAADAGNTLMGQKP*
+           =========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-4cln       100.0  97.2  52.0  52.0  50.0  47.3  20.3  16.9
+  2-3cln        97.2 100.0  51.7  53.1  50.3  48.3  20.3  16.8
+  3-5tnc        52.0  51.7 100.0  87.9  67.5  35.8  21.1  14.3
+  4-1tn4        52.0  53.1  87.9 100.0  64.3  34.5  20.4  14.6
+  5-1aj4        50.0  50.3  67.5  64.3 100.0  32.4  18.1  18.8
+  6-1br1b       47.3  48.3  35.8  34.5  32.4 100.0  14.9  14.2
+  7-2scpa       20.3  20.3  21.1  20.4  18.1  14.9 100.0  16.7
+  8-2sas        16.9  16.8  14.3  14.6  18.8  14.2  16.7 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1czta      structureX:1czt:   0 :A: 159 :A:coagulation factor V C2 domain:Homo sapiens: 1.87: 20.1
+[  2] 1d7pm      structureX:1d7p:2171 :M:2329 :M:coagulation factor VIII C2 domain:Homo sapiens: 1.50: 20.5
+
+
+1czta      --GCSTPLGMENGKIENKQITASSFKKSWWGDYWEPFRARLNAQGRVNAWQAKANNNKQWLEIDLLKIKKITAII
+1d7pm      LNSCSMPLGMESKAISDAQITASSYFTNMF-ATWSPSKARLHLQGRSNAWRPQVNNPKEWLQVDFQKTMKVTGVT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1czta      TQGCKSLSSEMYVKSYTIHYSEQGVEWKPYRLKSSMVDKIFEGNTNTKGHVKNFFNPPIISRFIRVIPKTWNQSI
+1d7pm      TQGVKSLLTSMYVKEFLISSSQDGHQWTLFFQNG--KVKVFQGNQDSFTPVVNCLDPPLLTRYLRIHPQSWVHQI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1czta      TLRLELFGCDIY*
+1d7pm      ALRMEVLGCEAQ*
+           =========|==
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1czta      100.0  41.5
+  2-1d7pm       41.5 100.0
+
+***************************************************************************

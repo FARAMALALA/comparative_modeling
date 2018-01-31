@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1akz       structureX:1akz:  82 : : 304 : :uracil-DNA glycosylase:Homo sapiens: 1.57: 18.9
+[  2] 1udg       structureX:1udg:  17 : : 244 : :uracil-DNA glycosylase:Herpes simplex virus type 1: 1.75: 19.9
+[  3] 1uuga      structureX:1uug:   5 :A: 226 :A:uracil-DNA glycosylase:Escherichia coli: 2.40: 19.0
+
+
+1akz       --------MEFFGESWKKHLSGEFGKPYFIKLMGFVAEERKH-YTVYPPPHQVFTWTQMCDIKDVKVVILGQDPY
+1udg       LDWTTFRRVFLIDDAWRPLMEPELANPLTAHLLAEYNRRCQT-EEVLPPREDVFSWTRYCTPDEVRVVIIGQDPY
+1uuga      -------------LTWHDVLAEEKQQPYFLNTLQTVASERQSGVTIYPPQKDVFNAFRFTELGDVKVVILGQDPY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1akz       HGPNQAHGLCFSVQRPVPPPPSLENIYKELSTDIEDFVHPGHGDLSGWAKQGVLLLNAVLTVRAHQANSHKERGW
+1udg       HHPGQAHGLAFSVRANVPPPPSLRNVLAAVKNCYPEARMSGHGCLEKWARDGVLLLNTTLTVKRGAAASHSRIGW
+1uuga      HGPGQAHGLAFSVRPGIAIPPSLLNMYKELENTIPGFTRPNHGYLESWARQGVLLLNTVLTVRAGQAHSHASLGW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1akz       EQFTDAVVSWLNQNSNGLVFLLWGSYAQKKGSAIDRKRHHVLQTAHPSPLSVYRGFFGCRHFSKTNELLQKSGKK
+1udg       DRFVGGVIRRLAARRPGLVFMLWGTHAQNAIR-PDPRVHCVLKFSHPSPLS-KVPFGTCQHFLVANRYLETRSIS
+1uuga      ETFTDKVISLINQHREGVVFLLWGSHAQKKGAIIDKQRHHVLKAPHPSPLSAHRGFFGCNHFVLANQWLEQRGET
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1akz       PIDWKEL---*
+1udg       PIDWSV----*
+1uuga      PIDWMPVLPA*
+           ====|=====
+               0230  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1akz       100.0  40.8  55.9
+  2-1udg        40.8 100.0  45.0
+  3-1uuga       55.9  45.0 100.0
+
+***************************************************************************

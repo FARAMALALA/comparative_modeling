@@ -1,0 +1,126 @@
+      Code       Title
+
+[  1] 1dsn       structureX:1dsn:   2 : : 316 : :lactoferrin (N-terminal lobe):Homo sapiens:2.05:17.5
+[  2] 1tfd       structureX:1tfd:   6 : : 304 : :serotransferrin (N-terminal lobe):Oryctolagus cuniculus:2.30:22.5
+[  3] 1ovt       structureX:1ovt:   5 : : 686 : :ovotransferrin:Gallus gallus:2.40:17.1
+[  4] 1dot       structureX:1dot:   1 : : 686 : :ovotransferrin:Anas platyrhynchos:2.35:23.0
+[  5] 1a8e       structureX:1a8e:   3 : : 331 : :serotransferrin (N-terminal lobe):Homo sapiens: 1.60: 18.1
+[  6] 1b1xa      structureX:1b1x:   1 :A: 689 :A:lactoferrin:Equus caballus: 2.62:19.4
+[  7] 1ce2a      structureX:1ce2:   1 :A: 689 :A:lactoferrin:Bubalus arnee bubalis: 2.50: 18.7
+
+
+1dsn       --RRRSVQWCAVSQPEATKCFQWQRNMRRV---RGPPVSCIKRDSPIQCIQAIAENRADAVTLSGGFIYEAGLAP
+1tfd       ------VRWCAVNDHEASKCANFRDSMKKVLPEDGPRIICVKKASYLDCIKAIAAHEADAVTLDAGLVHEAGLTP
+1ovt       ----SVIRWCTISSPEEKKCNNLRDLTQ----QERISLTCVQKATYLDCIKAIANNEADAISLDGGQAFEAGLAP
+1dot       APPKTTVRWCTISSAEEKKCNSLKDHMQ----QERVTLSCVQKATYLDCIKAISNNEADAISLDGGQVFEAGLAP
+1a8e       ---DKTVRWCAVSEHEATKCQSFRDHMKSVIPSDGPSVACVKKASYLDCIRAIAANEADAVTLDAGLVYDAYLAP
+1b1xa      -APRKSVRWCTISPAEAAKCAKFQRNMKKV---RGPSVSCIRKTSSFECIQAIAANKADAVTLDGGLVYEAGLHP
+1ce2a      -APRKNVRWCTISQPEWLKCHRWQWRMKKL---GAPSITCVRRASVLECIRAITEKKADAVTLDGGMVFEAGRDP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dsn       YKLRPVAAEVYGTERQPRTHYYAVAVVKKGGSFQLNELQGLKSCHTGLRRTAGWNVPIGTLRP--FLNWTGPP-E
+1tfd       NNLKPVVAEFYGSKENPKTFYYAVALVKKGSNFQLNELQGKKSCHTGLGRSAGWNIPIGLLYC--DLPEPRK---
+1ovt       YKLKPIAAEVYEHTEGSTTSYYAVAVVKKGTEFTVNDLQGKTSCHTGLGRSAGWNIPIGTLLHRGAIEWEGIESG
+1dot       YKLKPIAAEVYERSGGSTTSYYAVAVVKKGTDFMIKDLRGKTSCHTGLGRSAGWNIPIGTLIHREDIEWEGIESG
+1a8e       NNLKPVVAEFYGSKEDPQTFYYAVAVVKKDSGFQMNQLRGKKSCHTGLGRSAGWNIPIGLLYC--DLPEPRK---
+1b1xa      YKLRPVAAEVYQTRGKPQTRYYAVAVVKKGSGFQLNQLQGVKSCHTGLGRSAGWNIPIGTLRP--YLNWTGPP-E
+1ce2a      YKLRPVAAEIYGTKESPQTHYYAVAVVKKGSNFQLDQLQGRNSCHTGLGRSAGWNIPMGILRP--YLSWTESL-E
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dsn       PIEAAVARFFSASCVPGADKGQFPNLCRLCAGTGENKCAFSSQEPYFSYSGAFKCLRDGAGDVAFIRESTVFEDL
+1tfd       PLEKAVASFFSGSCVPCAD-----QLCQLCPG-----CGCSSSQPYFGYSGAFKCLKDGLGDVAFVKQETIFENL
+1ovt       SVEQAVAKFFSASCVPGAT--IEQKLCRQCKGDPKTKCAR--NAPYSGYSGAFHCLKDGKGDVAFVKHTTVNENA
+1dot       ISEQAVAKFFSASCVPGAT--IEQKLCRQCKGDAKTKCLR--NGPYSGYSGAFQCLKDGKGDVAFVKHTTVQENA
+1a8e       PLEKAVANFFSGSCAPCADGTDFPQLCQLCPG-----CGCSTLNQYFGYSGAFKCLKDGAGDVAFVKHSTIFENL
+1b1xa      PLQKAVANFFSASCVPCADGKQYPNLCRLCAGTEADKCACSSQEPYFGYSGAFKCLENGAGDVAFVKDSTVFENL
+1ce2a      PLQGAVAKFFSASCVPCVDRQAYPNLCQLCKGEGENQCACSPREPYFGYSGAFKCLQDGAGDVAFVKETTVFENL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dsn       SDEAERDEYELLCPDNTRKPVDKFKDCHLARVPSHAVVARSVNGKEDAIWNLLRQAQEKFGKDKSPKFQLFGSPS
+1tfd       PSKDERDQYELLCLDNTRKPVDEYEQCHLARVPSHAVVARSVDGKEDLIWELLNQAQEHFGKDKSGDFQLFSSP-
+1ovt       P--DQKDEYELLCLDGSRQPVDNYKTCNWARVAAHAVVARDD-NKVEDIWSFLSKAQSDFGVDTKSDFHLFGPPG
+1dot       P--EEKDEYELLCLDGSRQPVDSYKTCNWARVAAHAVVARDD-SKIDDIWSFLGMQAYSLGVDTTSDFHLFGPPG
+1a8e       ANKADRDQYELLCLDNTRKPVDEYKDCHLAQVPSHTVVARSMGGKEDLIWELLNQAQEHFGKDKSKEFQLFSSP-
+1b1xa      PDEAERDKYELLCPDNTRKPVDAFKECHLARVPSHAVVARSVDGREDLIWKLLHRAQEEFGRNKSSAFQLFGSTP
+1ce2a      PEKADRDQYELLCLNNTRAPVDAFKECHLAQVPSHAVVARSVDGKEDLIWKLLSKAQEKFGKNKSGSFQLFGSPP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1dsn       ----GQKDLLFKDSAIGFSRVPPRIDS------------------------------------------------
+1tfd       ----HGKNLLFKDSAYGFFK-------------------------------------------------------
+1ovt       KKDPVLKDLLFKDSAIMLKRVPSLMDSQLYLGFEYYSAIQSMRKDQLTPSPRENRIQWCAVGKDEKSKCDRWSVV
+1dot       KKDPVLKDLLFKDSAIMLKRVPELMDSQLYLGFEYYSAIQSLRKDQLTVGPRENKIQWCAVGKDEKSKCDRWSVV
+1a8e       ----HGKDLLFKDSAHGFLKVPPRMDAKMYLGYEYVTAIRNLREGTC----------------------------
+1b1xa      ----GEQDLLFKDSALGFVRIPSQIDSGLYLGANYLTATQNLRETAAEVAARRERVVWCAVGPEEERKCKQWSDV
+1ce2a      ----GQRDLLFKDSALGFLRIPSKVDSALYLGSRYLTALKNLRETAEEVQARRARVVWCAVGPEEQKKCQQWSQQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1dsn       ---------------------------------------------------------------------------
+1tfd       ---------------------------------------------------------------------------
+1ovt       SNGDVECTVVDETKDCIIKIMKGEADAVALDGGLVYTAGVCGLVPVMAERYDDESQCSKT-DE-RPASYFAVAVA
+1dot       SNGEVECTILDDNKDCIVKITKGEADAISLDGGFVYTAGVCGLVPVVGESYEDETQCSK--DEEQPAYYFAVAVV
+1a8e       ---------------------------------------------------------------------------
+1b1xa      SNRKVACASASTTEECIALVLKGEADALNLDGGFIYVAGKCGLVPVLAENQKSQNSNAPDCVHRPPEGYLAVAVV
+1ce2a      SGQIVTCATASTTDDCIALVLKGEADALSLDGGYIYTAGKCGLVPVLAENRKSSKHSSLDCVLRPTEGYLAVAVV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1dsn       ---------------------------------------------------------------------------
+1tfd       ---------------------------------------------------------------------------
+1ovt       RKDS-NVNWNNLKGKKSCHTAVGRTAGWVIPMGLIHNRTGTCNFDEYFSEGCAPGSPPNSRLCQLCQGSGGIPPE
+1dot       KKSS-AITWNNLQGKKSCHTAVGRTAGWNIPMGLIHNKTGSCDFDDYFSEGCAPGSPPNSRLCKLCQGSGENLLE
+1a8e       ---------------------------------------------------------------------------
+1b1xa      RKSDADLTWNSLSGKKSCHTGVGRTAAWNIPMGLLFNQTGSCKFDKFFSQSCAPGADPQSSLCALCVGNNE-NEN
+1ce2a      KKANEGLTWNSLKGKKSCHTAVDRTAGWNIPMGLIANQTGSCAFDEFFSQSCAPGADPKSRLCALCAGDDQ-GLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1dsn       ---------------------------------------------------------------------------
+1tfd       ---------------------------------------------------------------------------
+1ovt       KCVASSHEKYFGYTGALRCLVE-KGDVAFIQHSTVEENTGGKNKADWAKNLQMDDFELLCTDGRRANVMDYRECN
+1dot       KCVASSHEKYYGYTGALRCLVE-QGDVAFIKHSTVGENVSGSNKDDWAKGLTRDDFELLCTNGKRAKTMDYKTCH
+1a8e       ---------------------------------------------------------------------------
+1b1xa      KCMPNSEERYYGYTGAFRCLAEKAGDVAFVKDVTVLQNTDGKNSEPWAKDLKQEDFELLCLDGTRKPVAEAESCH
+1ce2a      KCVPNSKEKYYGYTGAFRCLAEDVGDVAFVKNDTVWENTNGESTADWAKNLNREDFRLLCLDGTRKPVTEAQSCH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1dsn       ---------------------------------------------------------------------------
+1tfd       ---------------------------------------------------------------------------
+1ovt       LAEVPTHAVVVRPEKANKIRDLLERQEKRFGVNGSEKS-KFMMFESQNKDLLFKDLTKCLFKVREGTTYKEFLGD
+1dot       LAKVPTHAVVARPEKANKIRELLEGQEKLFGLHGTEKE-RFMMFQSQTKDLLFKALTKCLVKLRQGITYKEFLGD
+1a8e       ---------------------------------------------------------------------------
+1b1xa      LARAPNHAVVSQSDRAQHLKKVLFLQQDQFGGNGPDCPGKFCLFKSETKNLLFNDNTECLAELQGKTTYEQYLGS
+1ce2a      LAVAPNHAVVSLSERAAHVEQVLLHQQALFGENGKNCPDKFCLFKSETKNLLFNDNTECLAKLGGRPTYEEYLGT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1dsn       ---------------------------*
+1tfd       ---------------------------*
+1ovt       KFYTVISSLKTCNPSDILQMCSFLEGK*
+1dot       EYYASVASLNTCNPSDLLQVCTFLEDK*
+1a8e       ---------------------------*
+1b1xa      EYVTSITNLRRCSSSPLLEACAFLRA-*
+1ce2a      EYVTAIANLKKCSTSPLLEACAFLTR-*
+           ====|=========|=========|==
+               0680      0690      0700 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7]
+
+  1-1dsn       100.0  63.3  51.4  50.5  61.3  73.7  66.0
+  2-1tfd        63.3 100.0  55.1  53.7  83.0  67.3  66.3
+  3-1ovt        51.4  55.1 100.0  80.8  51.4  50.4  51.9
+  4-1dot        50.5  53.7  80.8 100.0  52.0  50.7  51.2
+  5-1a8e        61.3  83.0  51.4  52.0 100.0  64.4  62.9
+  6-1b1xa       73.7  67.3  50.4  50.7  64.4 100.0  72.9
+  7-1ce2a       66.0  66.3  51.9  51.2  62.9  72.9 100.0
+
+***************************************************************************

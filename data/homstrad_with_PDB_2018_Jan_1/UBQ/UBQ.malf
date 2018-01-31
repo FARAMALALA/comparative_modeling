@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1ubq       structureX:1ubq:   1 : :  76 : :ubiquitin:Homo sapiens: 1.80: 17.6
+[  2] 1ndda      structureX:1ndd:   1 :A:  74 :A:ubiquitin-like protein nedd8:Mus musculus: 1.60: 21.9
+[  3] 1bt0a      structureX:1bt0:   1 :A:  73 :A:rub1:Arabidopsis thaliana: 1.70: 18.0
+
+
+1ubq       MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRG
+1ndda      MLIKVKTLTGKEIEIDIEPTDKVERIKERVEEKEGIPPQQQRLIYSGKQMNDEKTAADYKILGGSVLHLVLALR-
+1bt0a      MLIKVKTLTGKEIEIDIEPTDTIDRIKERVEEKEGIPPVQQRLIYAGKQLADDKTAKDYNIEGGSVLHLVLAL--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ubq       G*
+1ndda      -*
+1bt0a      -*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ubq       100.0  56.8  61.6
+  2-1ndda       56.8 100.0  84.9
+  3-1bt0a       61.6  84.9 100.0
+
+***************************************************************************

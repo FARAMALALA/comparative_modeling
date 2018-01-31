@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1fjna      structureX:1fjn:   1 :A:  39 :A:defensin MGD-1:Mytilus galloprovincialis: -1: -1
+[  2] 1ica       structureX:1ica:   1 : :  40 : :phormicin:Protophormia terraenovae: -1: -1
+
+
+1fjna      -------GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRCG*
+1ica       ATCDLLSG-TGINHSACAAHCLLR-GNRGGYCNG--KGVCVCRN--*
+           =========|=========|=========|=========|======
+                    0010      0020      0030      0040   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fjna      100.0  33.3
+  2-1ica        33.3 100.0
+
+***************************************************************************

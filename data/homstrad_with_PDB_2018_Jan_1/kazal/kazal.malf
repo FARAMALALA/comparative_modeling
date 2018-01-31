@@ -1,0 +1,33 @@
+      Code       Title
+
+[  1] 1cgii      structureX:1cgi:   1 :I:  56 :I:pancreatic secretory trypsin inhibitor:Homo sapiens: 2.30:19.50
+[  2] 1tgsi      structureX:1tgs:   1 :I:  56 :I:pancreatic secretory trypsin inhibitor:Sus scrofa: 1.80:18.60
+[  3] 1pce       structureN:1pce:   1 : :  60 : :PEC-60:Sus scrofa:-1.00:-1.00
+[  4] 2ovo       structureX:2ovo:   1 : :  56 : :third domain ovomucoid inhibitor:Lophura nycthemera: 1.50:19.90
+[  5] 1ovoa      structureX:1ovo:   1 :A:  56 :A:third domain ovomucoid inhibitor:Coturnix coturnix Japonica: 1.90:20.00
+[  6] 2bus       structureN:2bus:   2 : :  57 : :seminal plasma proteinase inhibitor IIA:Bos taurus:-1.00:-1.00
+
+
+1cgii      --DSLGREAKCYN---ELNGCTYEYRPVCGTDGDTYPNECVLCFENRKRQTSILIQKSGPC*
+1tgsi      --TSPQREATCTS---EVSGCPKIYNPVCGTDGITYSNECVLCSENKKRQTPVLIQKSGPC*
+1pce       EKQVFSRMPICEHM-TESPDCSRIYDPVCGTDGVTYESECKLCLARIENKQDIQIVKDGEC*
+2ovo       ---LAAVSVDCSE--YPKPACTMEYRPLCGSDNKTYGNKCNFCNAVVESNGTLTLSHFGKC*
+1ovoa      ---LAAVSVDCSE--YPKPACPKDYRPVCGSDNKTYSNKCNFCNAVVESNGTLTLNHFGKC*
+2bus       -----GAQVDCAEFKDPKVYCTRESNPHCGSNGETYGNKCAFCKAVMKSGGKINLKHRGKC*
+           =========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1cgii      100.0  67.9  41.1  30.4  28.6  32.1
+  2-1tgsi       67.9 100.0  41.1  25.0  32.1  26.8
+  3-1pce        41.1  41.1 100.0  28.6  30.4  26.8
+  4-2ovo        30.4  25.0  28.6 100.0  89.3  53.6
+  5-1ovoa       28.6  32.1  30.4  89.3 100.0  48.2
+  6-2bus        32.1  26.8  26.8  53.6  48.2 100.0
+
+***************************************************************************

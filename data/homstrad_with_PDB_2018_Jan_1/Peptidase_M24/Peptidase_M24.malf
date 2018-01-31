@@ -1,0 +1,55 @@
+      Code       Title
+
+[  1] 2mata      structureX:2mat:   2 :A: 263 :A:methionine aminopeptidase:Escherichia coli: 1.90: -1
+[  2] 1xgsa      structureX:1xgs:   1 :A: 295 :A:methionine aminopeptidase:Hyperthermophile pyrococcus furiosus: 1.75: 18.7
+[  3] 1az9       structureX:1az9: 175 : : 440 : :aminopeptidase P:Escherichia coli: 2.0: 16
+[  4] 1chma      structureX:1chm: 157 :A: 402 :A:creatinase:Pseudomonas putida: 1.9: 17.7
+
+
+2mata      AISIKTPEDIEKMRVAGRLAAEVLEMIEPYVKPGVSTGELDRICNDYIVNEQHAVSACLGYHG-YPKSVCISINE
+1xgsa      -------MDTEKLMKAGEIAKKVREKAIKLARPGMLLLELAESIEKMIMELG----------GKPAFPVNLSINE
+1az9       ---FKSPEEIAVLRRAGEITAMAHTRAMEKCRPGMFEYHLEGEIHHEFNRHGAR---------YPSYNTIVGSGE
+1chma      --MIKSAEEHVMIRHGARIADIGGAAVVEALGDQVPEYEVALHATQAMVRAIAD--TFEDVELMDTW-TWFQSGI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2mata      ---VVCHGIPDD--AKLLKDGDIVNIDVTVIKDGFHGDTSKMFIVG-KPTIMGERLCRITQESLYLALRMVKPGI
+1xgsa      ---IAAHYTPYKGDTTVLKEGDYLKIDVGVHIDGFIADTAVTVRVGMEED----ELMEAAKEALNAAISVARAGV
+1az9       NGCIL-HYTENE---CEMRDGDLVLIDAGCEYKGYAGDITRTFPVNGKFTQAQREIYDIVLESLETSLRLYRPGT
+1chma      NTDGA-HNPVTT---RKVNKGDILSLNCFPMIAGYYTALERTLFLD-HCSDDHLRLWQVNVEVHEAGLKLIKPGA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2mata      NLREIGAAIQKFVEAE----------------GFSV---VREYCGHGIGQ-GFHEEPQVL-HYDSRETNVVLKPG
+1xgsa      EIKELGKAIENEIRKR----------------GFKP---IVNLSGHKIERYKLHAGISIP-NIYRPHDNYVLKEG
+1az9       SILEVTGEVVRIMVSGLVKLGILKGDVDELIAQNAHRPFFMHGLSHWLGL-DVHDVG-----VYGQDRSRILEPG
+1chma      RCSDIARELNEIFLKH------------------DVLQYRTFGYGHSFGT-LSHYYGREAGLELREDIDTVLEPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2mata      MTFTIEPMVNAGKKEIRTMKD------------------------------------------------------
+1xgsa      DVFAIEPFATIGAGQVIEVPPTLIYMYVRDVPVRVAQARFLLAKIKREYGTLPFAYRWLQNDMPEGQLKLALKTL
+1az9       MVLTVEPGLYIAP--------------------------------------------------------------
+1chma      MVVSMEPMIMLPE--------------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2mata      --------GWTVKTKDRSL-SAQYEHTIVVTDNGCEILTLRKDDTIP--AIISHD--------*
+1xgsa      EKAGAIYGYPVLKEIRNGI-VAQFEHTIIVEKDSVIVTTE-----------------------*
+1az9       ---------DAEVPEQYRGIGIRIEDDIVITETGNENLTA-SVVKKPEEI---EALMVAARKQ*
+1chma      ---------GL----PGAG-GYREHDILIVNENGAENIT--KFPYGPEKNII-R---------*
+           =========|=========|=========|=========|=========|=========|===
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2mata      100.0  26.7  20.6  17.9
+  2-1xgsa       26.7 100.0  17.7  12.2
+  3-1az9        20.6  17.7 100.0  22.4
+  4-1chma       17.9  12.2  22.4 100.0
+
+***************************************************************************

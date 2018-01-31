@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1ksr       structureX:1ksr:   1 : : 100 : :gelation factor (actin binding protein 120):Dictyostelium discoideum: -1: -1
+[  2] 1qfha1     structureX:1qfh: 646 :A: 749 :A:gelation factor (actin binding protein 120):Dictyostelium discoideum: 2.2: 22.2
+[  3] 1qfha2     structureX:1qfh: 750 :A: 857 :A:gelation factor (actin binding protein 120):Dictyostelium discoideum: 2.2: 22.2
+
+
+1ksr       ---ADPEKSYAEGPGLDGGECFQPSKFKIHAVDPDGVHRTDGGDGFVVTIEGPAP--VDPVMVDNGDGTYDVEFE
+1qfha1     KPAPSAEHSYAEGEGLVKVFDNAPAEFTIFAVDTKGVARTDGGDPFEVAINGPDGLVVDAKVTDNNDGTYGVVYD
+1qfha2     --GANGEDSSF-----------GSFTFTVAAKNKKGEVKTYGGDKFEVSITGPAE-EITLDAIDNQDGTYTAAYS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ksr       PKEAGDYVINLTLDGDNVNGFPKTVTVKPA-----------------*
+1qfha1     APVEGNYNVNVTLRGNPIKNMPIDVKCIE------------------*
+1qfha2     LVGNGRFSTGVKLNGKHIEGSPFKQVLGNPGKKNPEVKSFTTTRTAN*
+           ====|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ksr       100.0  44.0  27.0
+  2-1qfha1      44.0 100.0  28.8
+  3-1qfha2      27.0  28.8 100.0
+
+***************************************************************************

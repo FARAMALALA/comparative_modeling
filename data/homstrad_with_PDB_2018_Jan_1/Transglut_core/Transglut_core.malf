@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1evua      structureX:1evu: 191 :A: 508 :A:coagulation factor XIII A chain:Homo sapiens: 2.01: 20.8
+[  2] 1g0da      structureX:1g0d: 141 :A: 461 :A:protein-glutamine gamma-glutamyltransferase:Pagrus major: 2.50: 20
+
+
+1evua      DAVYLDNEKEREEYVLNDIGVIFYGEVNDIKTRSWSYGQFEDGILDTCLYVMDRAQMD-------LSGRGNPIKV
+1g0da      DMVYLPDESKLQEYVMNEDGVIYMGTWDYIRSIPWNYGQFEDYVMDICFEVLDNSPAALKNSEMDIEHRSDPVYV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1evua      SRVGSAMVNAKDDEGVLVGSWDNIYAYGVPPSAWTGSVDILLEYRSSE-NPVRYGQCWVFAGVFNTFLRCLGIPA
+1g0da      GRTITAMVNSNGDRGVLTGRWEEPYTDGVAPYRWTGSVPILQQWSKAGVRPVKYGQCWVFAAVACTVLRCLGIPT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1evua      RIVTNYFSAHDNDANLQMDIFLEEDGNVNSKLTK-DSVWNYHCWNEAWMTRPDLPVGFGGWQAVDSTPQENSDGM
+1g0da      RPITNFASAHDVDGNLSVDFLLNERLESLDSRQRSDSSWNFHCWVESWMSREDLPEGNDGWQVLDPTPQELSDGE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1evua      YRCGPASVQAIKHGHVCFQFDAPFVFAEVNSDLIYITAKKDGTHVVENVDATHIGKLIVTKQIGGDGMMDITDTY
+1g0da      FCCGPCPVAAIKEGNLGVKYDAPFVFAEVNADTIYWIVQKDGQRRKITEDHASVGKNISTKSVYGNHREDVTLHY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1evua      KFQEGQEEERLALETALMYGAKKPLNT*
+1g0da      KYPEGSQKEREVYKKA---GRRVT---*
+           =========|=========|=======
+                    0310      0320    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1evua      100.0  46.9
+  2-1g0da       46.9 100.0
+
+***************************************************************************

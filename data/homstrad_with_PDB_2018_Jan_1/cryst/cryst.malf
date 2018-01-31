@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1elpa      structureX:1elp:   1 :A: 174 :A:gamma-D crystallin:Bos taurus: 1.95:20.4
+[  2] 1a45       structureX:1a45:   1 : : 174 : :gamma-IV crystallin:Bos taurus: 2.30:18.60
+[  3] 1a5da      structureX:1a5d:   1 :A: 174 :A:gamma crystallin E (3-1) (gamma-2):Rattus norvegicus: 2.3: 16.8
+[  4] 4gcr       structureX:4gcr:   1 : : 174 : :gamma-II crystallin:Bos taurus: 1.50:18.10
+[  5] 2bb2       structureX:2bb2:  -2 : : 175 : :beta-B2 crystallin:Bos taurus: 2.10:18.60
+[  6] 1prs       structureN:1prs:   1 : : 173 : :spore coat protein S:Myxococcus xanthus:-1.00:-1.00
+[  7] 1bd7a      structureX:1bd7:  87 :A:  82 :A:circularly permuted beta-B2 crystallin:Rattus norvegicus: 2.78: 19
+
+
+1elpa      --GKITFYEDRGFQGRHYECS-SDHS--NLQP-YLG--RCNSVRVDS-GCWMIYEQPNYLGPQYFLRRGDYPDYQ
+1a45       --GKITFYEDRGFQGRHYECS-SDHS--NLQP-YFS--RCNSIRVDS-GCWMLYEQPNFQGPQYFLRRGDYPDYQ
+1a5da      --GKITFYEDRGFQGRHYECS-TDHS--NLQP-YFS--RCNSVRVDS-GCWMLYEQPNFTGCQYFLRRGDYPDYQ
+4gcr       --GKITFYEDRGFQGHCYECS-SDCP--NLQP-YFS--RCNSIRVDS-GCWMLYERPNYQGHQYFLRRGDYPDYQ
+2bb2       LNPKIIIFEQENFQGHSHELN-GPCP--NLKETGVE--KAGSVLVQA-GPWVGYEQANCKGEQFVFEKGEYPRWD
+1prs       -MANITVFYNEDFQGKQVDLPPGNYTRAQLAALGIENNTISSVKVPPGVKAILYQNDGFAGDQIEVV-ANAE---
+1bd7a      -EHKIILYENPNFTGKKMEIVDDDVP--SFHAHGYQE-KVSSVRVQS-GTWVGYQYPGYRGLQYLLEKGDYKDNS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1elpa      QWMGL--NDSIRSCRLIPHAG-SHRLRLYEREDYRGQMIEIT-EDCSS--LQDRFHFN-EIHSLNVLEGSWVLYE
+1a45       QWMGL--NDSIRSCRLIPHTG-SHRLRIYEREDYRGQMVEIT-EDCSS--LHDRFHFS-EIHSFNVLEGWWVLYE
+1a5da      QWMGF--SDSVRSCRLIPHSS-SHRIRIYEREDYRGQMVEIT-DDCPH--LQDRFHFS-DFHSFHVMEGYWVLYE
+4gcr       QWMGF--NDSIRSCRLIPQHTGTFRMRIYERDDFRGQMSEIT-DDCPS--LQDRFHLT-EVHSLNVLEGSWVLYE
+2bb2       SWTSSRRTDSLSSLRPIKVDSQEHKITLYENPNFTGKKMEVIDDDVPS--FHAHGYQE-KVSSVRVQSGTWVGYQ
+1prs       -ELGPLNN-NVSSIRVISVP-VQPRARFFYKEQFDGKEVDLPPGQYTQAELERYGIDNNTISSVKPQGLAVVLFK
+1bd7a      DFGAP--HPQVQSVRRIRDMQGNPKIIIFEQENFQGHSHELS-GPCPN--LKET-GME-KAGSVLVQAGPWVGYE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1elpa      LPNYRGRQYLLRPGEYRRYHDWG--AMNAKVGSLRRVIDIY-*
+1a45       MTNYRGRQYLLRPGDYRRYHDWG--ATNARVGSLRRAVDFY-*
+1a5da      MPNYRGRQYLLRPGEYRRYHDWG--AMNARVGSLRRIMDFY-*
+4gcr       MPSYRGRQYLLRPGEYRRYLDWG--AMNAKVGSLRRVMDFY-*
+2bb2       YPGYRGLQYLLEKGDYKDSGDFG--APQPQVQSVRRIRDMQW*
+1prs       NDNFSGDTLPVN-SDAPTLGA-----MNNNTSSIRIS-----*
+1bd7a      QANCKGEQFVFEKGEYPRWDSWTSSRRTDSLSSLRPIK----*
+           =========|=========|=========|=========|==
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7]
+
+  1-1elpa      100.0  87.9  82.7  81.5  35.3  19.1  30.6
+  2-1a45        87.9 100.0  86.1  80.9  34.7  19.7  29.5
+  3-1a5da       82.7  86.1 100.0  80.3  37.0  19.7  32.9
+  4-4gcr        81.5  80.9  80.3 100.0  36.8  17.3  31.6
+  5-2bb2        35.3  34.7  37.0  36.8 100.0  20.8  32.4
+  6-1prs        19.1  19.7  19.7  17.3  20.8 100.0  22.5
+  7-1bd7a       30.6  29.5  32.9  31.6  32.4  22.5 100.0
+
+***************************************************************************

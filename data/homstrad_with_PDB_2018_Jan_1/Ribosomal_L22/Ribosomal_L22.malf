@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bxe       structureX:1bxe:   2 :A: 110 :A:50S ribosomal protein L22:Thermus aquaticus: 1.90: 18.9
+[  2] 1jj2q      structureX:1jj2:   1 :Q: 150 :Q:50S ribosomal protein L22p:Haloarcula marismortui: 2.40: 18.9
+
+
+1bxe       ------------EAKAIARYVRISPRKVRLVVDLIRGKSLEEARNILRYTN------------------------
+1jj2q      GISYSVEADPDTTAKAMLRERQMSFKHSKAIAREIKGKTAGEAVDYLEAVIEGDQPVPFKQHNSGVGHKSKVDGW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bxe       ------KRGAYFVAKVLESAAANAVNNHDLEDRLYVKAAYVDEGPALKRVLPRA-RGRADIIKKRTSHITVILGE
+1jj2q      DAGRYPEKASKAFLDLLENAVGNADHQGFDGEAMTIKHVAAHKVGEQQGRKPR-AMGRASAWNSPQVDVELILEE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bxe       K*
+1jj2q      P*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bxe       100.0  23.1
+  2-1jj2q       23.1 100.0
+
+***************************************************************************

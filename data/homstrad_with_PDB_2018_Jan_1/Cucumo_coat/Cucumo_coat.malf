@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1laja      structureX:1laj:  44 :A: 217 :A:Capsid protein:Tomato aspermy virus: 3.40: 21.8
+[  2] 1f15a      structureX:1f15:  62 :A: 218 :A:coat protein:Cucumber mosaic virus: 3.20: 24.6
+
+
+1laja      NIASSSAPSLQHPTFIASKKCRAGYTYTSLDVRPTRTEKDKSFGQRLIIPVPVSEYPKKKVSCVQVRLNPSPKFN
+1f15a      ------------------ERCRPGYTFTSITLKPPKIDRGSYYGKRLLLPDSVTEYDKKLVSRLQIRVNPLPKFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1laja      STIWVSLRRLDE-TTLLTSENVFKLFTDG-LAVLIYQHVPTGIQPNNKITFDMSNVGAEIGDMGKYALIVYSKDD
+1f15a      STVWVTVRKVPASSDLSV-AAISAMFADGASPVLVYQYAASGVQANNKLLYDLSAMRADIGDMRKYAVLVYSKDD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1laja      VLEADEMVIHIDIEHQRIPSASTLPV*
+1f15a      ALETDELVLHVDIEHQRIPTSGVLPV*
+           =========|=========|======
+                    0160      0170   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1laja      100.0  49.0
+  2-1f15a       49.0 100.0
+
+***************************************************************************

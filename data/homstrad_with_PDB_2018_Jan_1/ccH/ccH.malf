@@ -1,0 +1,27 @@
+      Code       Title
+
+[  1] 1hfh2      structureN:1hfh:  64 : : 120 : :factor H 16th C-module domain:Homo sapiens:-1.00:-1.00
+[  2] 1hfh1      structureN:1hfh:   1 : :  63 : :factor H 15th C-module domain:Homo sapiens:-1.00:-1.00
+[  3] 1vvd2      structureX:1vvd:  59 : : 118 : :complement control protein, module 4:Vaccinia virus: -1: -1
+[  4] 1vvd1      structureX:1vvd:   1 : :  58 : :complement control protein, module 3:Vaccinia virus: -1: -1
+
+
+1hfh2      --LPCKSPPEISHGVVA-H--MSDSYQYGEEVTYKCFEGFGIDGPAIAKCL-GEKWS-HPPSCI-*
+1hfh1      EKIPCSQPPQIEHGTINSSRSSQESYAHGTKLSYTCEGGFRISEENETTCY-MGKWS-SPPQCEG*
+1vvd2      --VKCPHPT-ISNGYLSSG--FKRSYSYNDNVDFKCKYGYKLSGSSSSTCSPGNTWKPELPKCVR*
+1vvd1      --VKCQSPPSISNGRHN-G--YEDFYTDGSVVTYSCNSGYSLIGNSGVLCS-GGEWS-DPPTCQI*
+           =========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1hfh2      100.0  38.6  31.6  40.4
+  2-1hfh1       38.6 100.0  25.0  31.0
+  3-1vvd2       31.6  25.0 100.0  39.7
+  4-1vvd1       40.4  31.0  39.7 100.0
+
+***************************************************************************

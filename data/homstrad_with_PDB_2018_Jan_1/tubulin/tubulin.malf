@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1tuba      structureX:1tub:   1 :A: 440 :A:tubulin alpha chain:Sus scrofa: 3.7: -1
+[  2] 1tubb      structureX:1tub:   1 :B: 437 :B:tubulin beta chain:Sus scrofa: 3.7: -1
+
+
+1tuba      MRECISIHVGQAGVQIGNACWELYCLEHGIQPDGQ---MPSDKTIGGGDDSFNTFFSETGAGKHVPRAVFVDLEP
+1tubb      MREIVHIQAGQCGNQIGAKFWEVISDEHGIDPTGSYHGDSDLQLE--RI---NVYYNEAAGNKYVPRAILVDLEP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tuba      TVIDEVRTGTYRQLFHPEQLITGK-EDAANNYARGHYTIGKEIIDLVLDRIRKLADQCTGLQGFSVFHSFGGGTG
+1tubb      GTMDSVRSG-PFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVVRKESESCDCLQGFQLTHSLGGGTG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tuba      SGFTSLLMERLSVDYGKKSKLEFSIYPAPQVSTAVVEPYNSILTTHTTLEHSDCAFMVDNEAIYDICRRNLDIER
+1tubb      SGMGTLLISKIREEYPDRIMNTFSVVPSPKVSDTVVEPYNATLSVHQLVENTDETYCIDNEALYDICFRTLKLTT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1tuba      PTYTNLNRLIGQIVSSITASLRFDGALNVDLTEFQTNLVPYPRGHFPLATYAPVISAEKAYHEQLSVAEITNACF
+1tubb      PTYGDLNHLVSATMSGVTTCLRFPGQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALTVPELTQQMF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1tuba      EPANQMVKCDPRHGKYMACCLLYRGDVVPKDVNAAIATIKTKRTIQFVDWCPTGFKVGINYEPPTVVPGGDLAKV
+1tubb      DAKNMMAACDPRHGRYLTVAAVFRGRMSMKEVDEQMLNVQNKNSSYFVEWIPNNVKTAVCDIPPR--------GL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1tuba      QRAVCMLSNTTAIAEAWARLDHKFDLMYAKRAFVHWYVGEGMEEGEFSEAREDMAALEKDYEEVGVDSV*
+1tubb      KMSATFIGNSTAIQELFKRISEQFTAMFRRKAFLHWYTGEGMDEMEFTEAESNMNDLVSEYQQYQD---*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0380      0390      0400      0410      0420      0430      0440 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tuba      100.0  39.8
+  2-1tubb       39.8 100.0
+
+***************************************************************************

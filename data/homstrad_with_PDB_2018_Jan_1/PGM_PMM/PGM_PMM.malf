@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 3pmga      structureX:3pmg: 421 :A: 561 :A:Phosphoglucomutase:Oryctolagus cuniculus: 2.4: -1
+[  2] 1kfqa      structureX:1kfq: 444 :A: 572 :A:Phosphoglucomutase. open form:Paramecium tetraurelia: 2.40: 23.3
+
+
+3pmga      RNFFTRYDYEEVEAEGATKMMKDLEALMFDRSFVGKQFSANDKVYTVEKADNFEYHDPVDGSVSKNQGLRLIFAD
+1kfqa      RNYYSRYDYEQVDSAGANKMMEHLKTKFQ--YFEQLK--------QGNKADIYDYVDPVDQSVSKNQGVRFVFGD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3pmga      GSRIIFRLSGTGSAGATIRLYIDSYEKDNAKINQDPQVMLAPLISIALKVSQLQERTGRTAPTVIT*
+1kfqa      GSRIIFRLSGTGSVGATIRIYFEQFEQ--QQIQHETATALANIIKLGLEISDIAQFTGRNEPTVIT*
+           ====|=========|=========|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3pmga      100.0  51.9
+  2-1kfqa       51.9 100.0
+
+***************************************************************************

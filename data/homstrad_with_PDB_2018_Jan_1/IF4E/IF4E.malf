@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ejha      structureX:1ejh:  32 :A: 217 :A:eukaryotic translation initiation factor 4e:Mus musculus and rattus norvegicus: 2.2: 21.8
+[  2] 1ap8       structureX:1ap8:   1 : : 213 : :eukaryotic translation initiation factor 4e:Saccharomyces cerevisiae: -1: -1
+
+
+1ejha      ---------------------------------EHYIKHPLQNRWALWFFKNDK--SKTWQANLRLISKFDTVED
+1ap8       MSVEEVSKKFEENVSVDDTTATPKTVLSDSAHFDVK--HPLNTKWTLWYTKPAVDKSESWSDLLRPVTSFQTVEE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ejha      FWALYNHIQLSSNLMPGCDYSLFKDGIEPMWEDEKNKRGGRWLITLNKQQRRSDLDRFWLETLLCLIGESFDDYS
+1ap8       FWAIIQNIPEPHELPLKSDYHVFRNDVRPEWEDEANAKGGKWSFQLR-GKGADIDELWLRTLLAVIGETI-DEDD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ejha      DDVCGAVVNVRAKGDKIAIWTTECENRDAVTHIGRVYKERLGLPPKIVIGYQSHADTAT---KNRFVV*
+1ap8       SQINGVVLSIRKGGNKFALWTKSE-DKEPLLRIGGKFKQVLKLTDDGHLEFFPHSSANGRHPQPSITL*
+           =========|=========|=========|=========|=========|=========|========
+                    0160      0170      0180      0190      0200      0210     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ejha      100.0  27.2
+  2-1ap8        27.2 100.0
+
+***************************************************************************

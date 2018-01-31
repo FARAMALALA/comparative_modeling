@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2dtr       structureX:2dtr:  65 : : 140 : :diphtheria toxin repressor:Corynebacterium diphtheriae: 2.0: 1.7
+[  2] 1fx7a      structureX:1fx7:  65 :A: 140 :A:iron-dependent repressor:Mycobacterium tuberculosis: 2.00: 21.4
+
+
+2dtr       TPTGRTLATAVMRKHRLAERLLTDIIGLDINKVHDEACRWEHVMSDEVERRLVKVLKDVSRSPFGNPIPGLDELG
+1fx7a      TEKGRALAIAVMRKHRLAERLLVDVIGLPWEEVHAEACRWEHVMSEDVERRLVKVLNNPTTSPFGNPIPGLDELG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2dtr       V*
+1fx7a      V*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2dtr       100.0  76.3
+  2-1fx7a       76.3 100.0
+
+***************************************************************************

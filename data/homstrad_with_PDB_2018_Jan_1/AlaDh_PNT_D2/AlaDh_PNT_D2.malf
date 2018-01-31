@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1f8ga      structureX:1f8g: 144 :A: 326 :A:nicotinamide nucleotide transhydrogenase complexed with NAD+:Rhodospirillum rubrum: 2.00: 21
+[  2] 1pjca      structureX:1pjc: 136 :A: 303 :A:L-alanine dehydrogenase complexed with NAD:Phormidium lapideum: 2.00: 20
+
+
+1f8ga      AGYRAVIDGAYEFA-------RAFPT---AAGTVPPARVLVFGVGVAGLQAIATAKRLGAVV-ATDVRAATKEQV
+1pjca      AGRLSVQFGARFLERQQGGRGVLLGGVPG----VKPGKVVILGGGVVGTEAAKMAVGLGAQVQIFDINVERLSYL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f8ga      ESL---GGKFITVDDEATAETAGGYAKEGEEFRKKQAEAVLKELVKTDIAITTALIPGKPAPVLITEE-VTK-KP
+1pjca      ETLFGSRVELLYSN----------------------SAEIETAVAEADLLIGAVLVPGRRAPILVPASLVEQMRT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f8ga      GSVIIDLAVEAGGNCPLSEPG----KIVVKHGVKIVGHTNVPSR*
+1pjca      GSVIVDVAVDQGGCVETLHPTSHTQPTYEVFGVVHYGVPNMPGA*
+           =========|=========|=========|=========|====
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f8ga      100.0  26.8
+  2-1pjca       26.8 100.0
+
+***************************************************************************

@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1mnc       structureX:1mnc: 106 : : 263 : :neutrophil collagenase:Homo sapiens:2.10:17.6
+[  2] 1hfc       structureX:1hfc: 107 : : 263 : :fibroblast collagenase:Homo sapiens:1.56:17.4
+[  3] 1mmpa      structureX:1mmp: 100 :A: 264 :A:matrilysin:Homo sapiens:2.30:18.0
+[  4] 1bqoa      structureX:1bqo:  83 :A: 251 :A:stromelysin-1:Homo sapiens: 2.3: 22.9
+[  5] 456ca      structureX:456c: 110 :A: 269 :A:collagenase-3 (mmp-13):Homo sapiens: 2.4: 21.58
+[  6] 1bqqm      structureX:1bqq: 114 :M: 287 :M:matrix metalloproteinase-14 (membrane-type matrix metalloproteinase 1):Homo sapiens: 2.75: 18.9
+
+
+1mnc       ------GPKWERTNLTYRIRNYTPQLSEAEVERAIKDAFELWSVASPLIFTGISQ--------GEADINIAFYQR
+1hfc       -------PRWEQTHLTYRIENYTPDLPRADVDHAIEKAFQLWSNVTPLTFTKVSE--------GQADIMISFVRG
+1mmpa      YSLFPNSPKWTSKVVTYRIVSYTRDLPHITVDRLVSKALNMWGKEIPLHFRKVVW--------GTADIMIGFARG
+1bqoa      FRTFPGIPKWRKTHLTYRIVNYTPDLPKDAVDSAVEKALKVWEEVTPLTFSRLYE--------GEADIMISFAVR
+456ca      ------TLKWSKMNLTYRIVNYTPDMTHSEVEKAFKKAFKVWSDVTPLNFTRLHD--------GIADIMISFGIK
+1bqqm      ----IQGLKWQHNEITFCIQNYTPKVGEYATYEAIRKAFRVWESATPLRFREVPYAYIREGHEKQADIMIFFAEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mnc       DHGDGSPFDGPNGILAHAFQPGQGIGGDAHFDAEETWTNTS---ANYNLFLVAAHEFGHSLGLAHSSDPGALMYP
+1hfc       DHRDNSPFDGPGGNLAHAFQPGPGIGGDAHFDEDERWTNNF---REYNLHRVAAHELGHSLGLSHSTDIGALMYP
+1mmpa      AHGDSYPFDGPGNTLAHAFAPGTGLGGDAHFDEDERWTDGSS--LGINFLYAATHELGHSLGMGHSSDPNAVMYP
+1bqoa      EHGDFYPFDGPGNVLAHAYAPGPGINGDAHFDDDEQWTKDT---TGTNLFLVAAHEIGHSLGLFHSANTEALMYP
+456ca      EHGDFYPFDGPSGLLAHAFPPGPNYGGDAHFDDDETWTSSS---KGYNLFLVAAHEFGHSLGLDHSKDPGALMFP
+1bqqm      FHGDSTPFDGEGGFLAHAYFPGPNIGGDTHFDSAEPWTVRNEDLNGNDIFLVAVHELGHALGLEHSSDPSAIMAP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mnc       NY-AFRETSNYSLPQDDIDGIQAIYG----*
+1hfc       SY-TFSG--DVQLAQDDIDGIQAIYGRS--*
+1mmpa      TYGNG-DPQNFKLSQDDIKGIQKLYGK---*
+1bqoa      LYHSLTDLTRFRLSQDDINGIQSLYGPPPD*
+456ca      IY-TYTGKSHFMLPDDDVQGIQSLYGPG--*
+1bqqm      FY-QWMDTENFVLPDDDRRGIQQLYGGE-S*
+           =========|=========|=========|
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1mnc       100.0  65.6  50.6  55.1  60.8  50.0
+  2-1hfc        65.6 100.0  55.4  61.1  58.6  48.4
+  3-1mmpa       50.6  55.4 100.0  56.0  50.6  45.8
+  4-1bqoa       55.1  61.1  56.0 100.0  63.1  47.3
+  5-456ca       60.8  58.6  50.6  63.1 100.0  51.2
+  6-1bqqm       50.0  48.4  45.8  47.3  51.2 100.0
+
+***************************************************************************

@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1aoic      structureX:1aoi:  11 :C: 106 :C:histone H2A:Xenopus laevis: 2.8: 22.4
+[  2] 1aoia      structureX:1aoi:  59 :A: 135 :A:histone H3:Xenopus laevis: 2.8: 22.4
+[  3] 1aoid      structureX:1aoi:  26 :D: 100 :D:histone H2B:Xenopus laevis: 2.8: 22.4
+[  4] 1aoib      structureX:1aoi:  20 :B: 102 :B:histone H4:Xenopus laevis: 2.8: 22.4
+
+
+1aoic      RAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQL
+1aoia      -------ELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVALFEDTNLCAIHAKRVTIMPKDIQL
+1aoid      R-RKTRKE------SYAIYVYKVLKQVHPDTGISSKAMSIMNSFVNDVFERIAGEASRLAHYNKRSTITSREIQT
+1aoib      -----KVLRDNIQGITKPAIRRLARRGGVK-RISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aoic      AVRNDEELNKLLGRVTIAQGG*
+1aoia      ARRIRGERA------------*
+1aoid      AVRLLLP--------------*
+1aoib      ALKRQGRTLY-------GFGG*
+           ====|=========|======
+               0080      0090   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1aoic      100.0  19.5  20.0  14.5
+  2-1aoia       19.5 100.0  18.7  16.9
+  3-1aoid       20.0  18.7 100.0  12.0
+  4-1aoib       14.5  16.9  12.0 100.0
+
+***************************************************************************

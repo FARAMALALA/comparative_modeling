@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1uox1      structureX:1uox:   1 : : 136 : :uricase (urate oxidase):Aspergillus flavus: 2.0: 19.8
+[  2] 1uox2      structureX:1uox: 137 : : 295 : :uricase (urate oxidase):Aspergillus flavus: 2.0: 19.8
+
+
+1uox1      SAVKAARYGKDNVRVYKVHKDE-------------------KTGVQTVYEMTVCVLLEG-EIE-TSYTKADNSVI
+1uox2      GKGIDIKSSLSGLTVLKST---NSQFWGFLRDEYTTLKETW----DRILSTDVDATWQWKNFSGLQEVRSHVPKF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1uox1      VA-TDSIKNTIYITAKQNPVTPPELFGSILGTHFIEKYNHIHAAHVNIVCHRWTRMDI---DGKPH----PHSFI
+1uox2      DATWATAREVTLKTFAEDNSASVQATMYKMAEQILARQQLIETVEYSLPNKHYFEIDLSWHKGLQNTGKNAEVFA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1uox1      RDSEEKRNVQVDVVE-*
+1uox2      PQSDPNGLIKCTVGRS*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1uox1      100.0   8.1
+  2-1uox2        8.1 100.0
+
+***************************************************************************

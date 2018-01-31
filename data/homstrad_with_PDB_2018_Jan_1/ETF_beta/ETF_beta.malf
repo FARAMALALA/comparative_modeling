@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1efpb      structureX:1efp:   1 :B: 246 :B:electron transfer flavoprotein beta-subunit:Paracoccus denitrificans: 2.60: 19.3
+[  2] 1efvb      structureX:1efv:   4 :B: 255 :B:electron transfer flavoprotein beta-subunit:Homo sapiens: 2.1: 17.2
+
+
+1efpb      MKVLVPVKRLIDYNVKARVKSDGSGVDLANVKMSMNPFDEIAVEEAIRLKEKGQAEEIIAVSIGVKQAAETLRTA
+1efvb      LRVLVAVKRVIDYAVKIRVKPDRTGVVTDGVKHSMNPFCEIAVEEAVRLKEKKLVKEVIAVSCGPAQCQETIRTA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1efpb      LAMGADRAILVVAADDVQQDIEPLAVAKILAAVARAEGTELIIAGKQAIDNDMNATGQMLAAILGWAQATFASKV
+1efvb      LAMGADRGIHVEVPPAEAERLGPLQVARVLAKLAEKEKVDLVLLGKQAIDDDCNQTGQMTAGFLDWPQGTFASQV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1efpb      EIEGAKAKVTREVDGGLQTIAVSLPAVVTADLRLNEPRYASLPNIMKAKKKPLDEKTAADYGVDVAPRLEVVSVR
+1efvb      TLEGDKLKVEREIDGGLETLRLKLPAVVTADLRLNEPRYATLPNIMKAKKKKIEVIKPGDLGVDLTSKLSVISVE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1efpb      EPEGRKAGIKVGSVDELVGKL------*
+1efvb      DPPQRTAGVKVETTEDLVAKLKEIGRI*
+           ====|=========|=========|==
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1efpb      100.0  58.5
+  2-1efvb       58.5 100.0
+
+***************************************************************************

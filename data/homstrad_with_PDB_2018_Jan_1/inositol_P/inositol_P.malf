@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1qgxa      structureX:1qgx:   2 :A: 355 :A:halotolerance protein Hal2:Saccharomyces cerevisiae:1.6:19.7
+[  2] 2hhma      structureX:2hhm:   5 :A: 276 :A:myo-inositol-1(or 4)-monophosphatase:Homo sapiens: 2.1: 16.6
+[  3] 1inp       structureX:1inp:   1 : : 400 : :inositol polyphosphate 1-phosphatase:Bos taurus: 2.3: 19.8
+
+
+1qgxa      ALERELLVATQAVRKASLLTKRIQS--EVISHKDSTTITKN-DNSPVT----TGDYAAQTIIINAIKSNFPD---
+2hhma      -WQECMDYAVTLARQAGEVVCEAIK--N---EM--NVMLKSSPVDLVT----ATDQKVEKMLISSIKEKYPS---
+1inp       -MSDILQELLRVSEKAANIARACRQQETLFQLLIEEKKEGEKNKKFAVDFKTLADVLVQEVIKENMENKFPGLGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qgxa      DKVVGEESSS------------------GLSDAFVSGILNEIKANDEVYNKNYKKDDFLFTNDQFPLKSLEDVRQ
+2hhma      HSFIGEESVAA-----------------G----------------------------------------------
+1inp       K-IFGEESN-ELTNDLGEKIIMRLGPTEEETVALLSKVLNGNKLASEALAKVVHQDVFFSDPAL-----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qgxa      IIDFGNYEGGRKGRFWCLDPIDGTKGFLRG--------------E-QFAVCLALIV--DGVVQLGCIGCPNLV-L
+2hhma      ----EKSILTD-NPTWIIDPIDGTTNFVHR--------------FPFVAVSIGFAV--NKKIEFGVVYSCVE---
+1inp       --DSVEINIPQDILGIWVDPIDSTYQYIKGSADITPNQGIFPSGLQCVTVLIGVYDIQTGVPLMGVINQPFVSQD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qgxa      SSYGAQDLKGHESFGYIFRAVR-GLGAFYSPSSDAE---------SWTKIHVRHLKDTKDMITLEGVEK-----G
+2hhma      --------------GKMYTARK-GKGAFCN----------------GQKLQVSQQEDITKSLLVTELGSSRTPET
+1inp       L-------HTRRWKGQCYWGLSYLGTNIHSLLPPVSTRSNSEAQSQGTQNPSSEGSCRFSVVISTSE-KET----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qgxa      HSSHDEQTAIKNKLNISKSLHLDS-QAKYCLLALGLADVYLRLPIKLSYQEKIWDHAAGNVIVHEAGGIHTDAME
+2hhma      VRMVLSNMEKLFCIPVHGIRSVGTAAVNMCLVATGGADAYYEM------GIHCWDVAGAGIIVTEAGGVLMDV-T
+1inp       ------IKGALSHVCGERIFRAAGAGYKSLCVILGLADIYIFSE----DTTFKWDSCAAHAILRAMGGGMVDLKE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qgxa      DV-----------PLDFGN--------GRTLATKGVIASSGPRELHDLVVSTSC----DVIQSR---------*
+2hhma      GG-----------PFD--------------LMSRRVIAANN-RILAERIAKEIQVIPLQRDDE----------*
+1inp       CLERNPDTGLDLPQLVYHVGNEGAAGVDQWANKGGLIAYRS-EKQLETFLSRLL---------QHLAPVATHT*
+           ====|=========|=========|=========|=========|=========|=========|========
+               0380      0390      0400      0410      0420      0430      0440     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qgxa      100.0  22.8  16.4
+  2-2hhma       22.8 100.0  15.8
+  3-1inp        16.4  15.8 100.0
+
+***************************************************************************

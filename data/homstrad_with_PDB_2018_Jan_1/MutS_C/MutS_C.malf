@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ewqa      structureX:1ewq: 542 :A: 765 :A:DNA mismatch repair protein MutS:Thermus aquaticus: 2.2: 22.7
+[  2] 1e3ma      structureX:1e3m: 567 :A: 800 :A:DNA mismatch repair protein MutS:Escherichia coli: 2.2: 22.814
+
+
+1ewqa      YVRPRFGD--RLQIRAGRHPVVERRT--EFVPNDLEAH--ELVLITGPNAGKSTFLRQTALIALLAQVGSFVPAE
+1e3ma      YTCPTFIDKPGIRITEGRHPVVEQVLNEPFIANPLNLSPQRRLIITGPNGGKSTY-RQTALIAL-AYIGSYVPAQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ewqa      EAHLPLFDGIYTRIGAGKSTFVEEEVALILKEATENSLVLLDEVGRGTSSLDGVAIATAVAEALHE-RRAYTLFA
+1e3ma      KVEIGPIDRIFTRVGF-----VETETANILHNATEYSLVL-DEIGRGTSTYDGLSLAWACAENLANKIKALTLFA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ewqa      THYFELTAL-GLPRLKNLHVAAREEAGGLVFYHQVLPGPASKSYGVEVAA-AGLPKEVVARARALLQAAAR--*
+1e3ma      THYFELTQLPEKEGVANVHLDALEHGDTIAF-HSVQDGAASKSYGLAVAALAGVPKEVIKRARQKLRELESIS*
+           =========|=========|=========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200      0210      0220 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ewqa      100.0  51.9
+  2-1e3ma       51.9 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ycqa      structureX:1ycq:  21 :A: 108 :A:MDM2 protein (p53-associated):Xenopus laevis: 2.3: 18.8
+[  2] 1ycra      structureX:1ycr:  25 :A: 109 :A:MDM2 protein (p53-associated):Homo sapiens: 2.6: 20
+
+
+1ycqa      EKLVQPTPLLLSLLKSAGAQKETFTMKEVIYHLGQYIMAKQLYDEKQQHIVHCSNDPLGELFGVQEFSVKEPRRL
+1ycra      ETLVRPKPLLLKLLKSVGAQKDTYTMKEVLFYLGQYIMTKRLYDEKQQHIVYCSNDLLGDLFGVPSFSVKEHRKI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ycqa      YAMISRNLVSANV*
+1ycra      YTMIYRNLVV---*
+           ====|========
+               0080     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ycqa      100.0  72.9
+  2-1ycra       72.9 100.0
+
+***************************************************************************

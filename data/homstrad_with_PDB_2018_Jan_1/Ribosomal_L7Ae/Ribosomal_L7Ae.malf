@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1jj2f      structureX:1jj2:   1 :F: 119 :F:50s ribosomal protein l7ae:Haloarcula marismortui: 2.40: 18.9
+[  2] 1e7ka      structureX:1e7k:   4 :A: 128 :A:NHP2-like protein 1:Homo sapiens: 2.9: 21.6
+[  3] 1cn9a      structureX:1cn9:   2 :A: 105 :A:60s ribosomal protein l30:Saccharomyces cerevisiae: -1: -1
+
+
+1jj2f      ---PVYVDFDVPADLEDDALEALEVARDTGAVKKGTNETTKSIERGSAELVFVAEDVQPEEIVMHIPELADEKGV
+1e7ka      ADVNPKAYPLADAHLTKKLLDLVQQSCNYKQLRKGANEATKTLNRGISEFIVMAADAEPLEIILHLPLLCEDKNV
+1cn9a      ----------APVKSQESINQKLALVIKSGKYTLGYKSTVKSLRQGKSKLIIIAANT-PVLRKSELEYYAMLSKT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jj2f      PFIFVEQ-QDDLGHAAGLEVGSAAAAVTDA--GAAATVLEEIADKVEELR-*
+1e7ka      PYVFVRS-KQALGRACGVSRPVIACSVTIKEGSQLKQQIQSIQQSIERLLV*
+1cn9a      KVYYFQGGNNELGTAVGKLFRVGVVSILEA--GDSD-ILTTLA--------*
+           ====|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1jj2f      100.0  29.4  19.2
+  2-1e7ka       29.4 100.0  16.3
+  3-1cn9a       19.2  16.3 100.0
+
+***************************************************************************

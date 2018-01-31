@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1pca       structureX:1pca:   4A: :  99A: :carboxypeptidase A activation peptide:Sus scrofa: 2.0: -1
+[  2] 1pyta      structureX:1pyt:   4 :A:  99 :A:carboxypeptidase A activation peptide:Bos taurus: 2.35: 19.2
+[  3] 1aye       structureX:1aye:   4A: :  99A: :carboxypeptidase A2 activation peptide:Homo sapiens: 1.8: 17.8
+[  4] 1nsa       structureX:1nsa:   7A: :  95A: :carboxypeptidase B activation peptide:Sus scrofa: 2.30: 16.9
+
+
+1pca       KEDFVGHQVLRISVDDEAQVQKVKELEDLEHLQLDFWR--GPA--RPGFPIDVRVPFPSIQAVKVFLEAHGIRYT
+1pyta      KEDFVGHQVLRITAADEAEVQTVKELEDLEHLQLDFWR--GPG--QPGSPIDVRVPFPSLQAVKVFLEAHGIRYR
+1aye       LETFVGDQVLEIVPSNEEQIKNLLQLEAQEHLQLDFWK--SPT--TPGETAHVRVPFVNVQAVKVFLESQGIAYS
+1nsa       ---FEGEKVFRVNVEDENDISELHELAS--TRQIDFWKPDSVTQIKPHSTVDFRVKAEDILAVEDFLEQNELQYE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1pca       IMIEDVQLLLDEEQEQMFASQGR*
+1pyta      IMIEDVQSLLDEEQEQMFASQSR*
+1aye       IMIEDVQVLLDKENEEMLFNRRR*
+1nsa       VLINNLRSVLEAQFDS--VS--R*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1pca       100.0  87.2  56.4  31.5
+  2-1pyta       87.2 100.0  55.3  31.5
+  3-1aye        56.4  55.3 100.0  30.3
+  4-1nsa        31.5  31.5  30.3 100.0
+
+***************************************************************************

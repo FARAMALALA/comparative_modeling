@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1tf4b      structureX:1tf4:   1 :B: 460 :B:endoglucanase e-4 (cellulase e4) catalytic domain:Thermomonospora fusca: 1.9: 20
+[  2] 1clc       structureX:1clc: 135 : : 575 : :endoglucanase d (cellulase d):Clostridium thermocellum: 1.9: 20.4
+
+
+1tf4b      EPAFNYAEALQKSMFFYEAQRSGKLPE---NNRVSWRGDSGLNDGADV-------GLDLTGGWYDAGDHVKFGFP
+1clc       A-MNVYEDAFKTAMLGMYLLRCGTSVSATYNGIHYSHGPCHTNDAYLDYINGQHTKKDSTKGWHDAGDYNKYVVN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tf4b      MAFTATMLAWGAIESPEGYIRSG--------QMPYLKDNLRWVNDYFIKAH-PS-PNVLYVQVGDGDADHKWWGP
+1clc       AGITVGSMFLAWEHFKDQLEPVALEIPEKNNSIPDFLDELKYEIDWILTMQYPDGSGRVAHKVSTR--NFGGFIM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tf4b      AEVMPMERPSFKVDPSCPGSDVAAETAAAMAASSIVFADDDPAYAATLVQHAKQLYTFADTYRGV---YSDCVPA
+1clc       PENEHDERFFVPW-----SSAATADFVAMTAMAARIFRPYDPQYAEKCINAAKVSYEFLKNNPANVFANQSGFST
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1tf4b      GAFYNSWSGYQDELVWGAYWLYKATGDDSYLAKAEYEYDFLSTEQQTDLRSYRWTIAWDDKSYGTYVLLAKET--
+1clc       G-EYATV-SDADDRLWAAAEMWETLGDEEYLRDFENRAAQF------SKKIEADF-DWDNVANLGMFTYLLSERP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1tf4b      G-----KQKYIDDANRWLDYWTVGVNGQRVPYSPGGMAV--LDTWGALRYAANTAFVALVYAKVIDDPVRKQRYH
+1clc       GKNPALVQSIKDSLLSTADSIVRTSQ-----NHGYGRTLGTTYYWGCNGTVVRQTMILQVANKISP----NNDYV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1tf4b      DFAVRQINYALGDNPRNSSYVVGFGNNPPRNPHHRTAHGSWTDSIASPAENRHVLYGALVGGPGSPNDAYTDDRQ
+1clc       NAALDAISHVFGRNYYNRSYVTGLGINPPMNPHDRRSGADG---------IWEPWPGYLVGGGWPGPKDWVDIQD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1tf4b      DYVANEVATDYNAGFSSALAMLVEEYGGTPLADFPPTEEPDG*
+1clc       SYQTNEIAINWNAALIYALAGFVNYN----------------*
+           =========|=========|=========|=========|==
+                    0460      0470      0480      0490 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tf4b      100.0  21.8
+  2-1clc        21.8 100.0
+
+***************************************************************************

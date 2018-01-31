@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1dtwb      structureX:1dtw: 205 :B: 342 :B:2-oxoisovalerate dehydrogenase beta subunit:Homo sapiens: 2.7: 22.4
+[  2] 1qs0b      structureX:1qs0: 206 :B: 339 :B:2-oxoisovalerate dehydrogenase beta subunit:Pseudomonas putida: 2.40: 21.8
+[  3] 1trka      structureX:1trk: 535 :A: 680 :A:transketolase 1:Saccharomyces cerevisiae: 2.0: 15.7
+
+
+1dtwb      ---PYNIPLSQAEVIQEGS--DVTLVAWGTQVHVIREVASMAKEKLGVSCEVIDLRTIIPWD---VDTICKSVIK
+1qs0b      ---YYTVPLDKAAITRPGN--DVSVLTYGTTVYVAQVAAEES----GVDAEVIDLRSLWPLD---LDTIVESVKK
+1trka      EGSSIESASKGGYVLQDVANPDIILVATGSEVSLSVEAAKTLAAK-NIKARVVSLPDFFTFDKQPLEYRLSVLPD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dtwb      TGRLLISHEAPLTGGFASEISSTVQEECFLNLEAPISRVCGYDTPFPH----IFEPFYIPDKWKCYDALRKMINY
+1qs0b      TGRCVVVHEATRTCGFGAELVSLVQEHCFHHLEAPIERVTGWDTPYPH----AQEWAYFPGPSRVGAALKKVE-V
+1trka      NVPIMSVEVLATT--CWGKYAH--------------QSFGI-DRFGASGKAPEVFKFFGFTPEGVAERAQKTIAF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dtwb      --------------*
+1qs0b      --------------*
+1trka      YKGDKLISPLKKAF*
+           =========|====
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1dtwb      100.0  47.4  13.8
+  2-1qs0b       47.4 100.0  12.0
+  3-1trka       13.8  12.0 100.0
+
+***************************************************************************

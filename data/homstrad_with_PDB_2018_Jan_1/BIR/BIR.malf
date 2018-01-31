@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1qbha      structureX:1qbh: 263 :A: 363 :A:inhibitor of apoptosis (IAP) repeat:Homo sapiens: -1: -1
+[  2] 1g73c      structureX:1g73: 256 :C: 344 :C:XIAP-BIR3 domain bound to Smac:Homo sapiens: 2.00: 22.7
+[  3] 1c9qa      structureX:1c9q:   1 :A: 117 :A:BIR-2 domain of XIAP:Homo sapiens: -1: -1
+[  4] 1f3ha      structureX:1f3h:   5 :A: 140 :A:baculoviral IAP repeat-containing protein 5:Homo sapiens: 2.58: 22.8
+
+
+1qbha      ---------------------------------GSHMQTHAARMRTFMYWPS--SVPVQPEQLASAGFYYVGR--
+1g73c      ------------------------------LPRNPSMADYEARIFTFGTWI----YSVNKEQLARAGFYALGE--
+1c9qa      RDHFALDRPSETHADYLLRTGQVVDISDTIYPRNPAMYSEEARLKSFQNWPD--YAHLTPRELASAGLYYTGI--
+1f3ha      -----------------------------TLPPAWQPFLKDHRISTFKNWPFLEGCACTPERMAEAGFIHCPTEN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qbha      -NDDVKCFCCDGGLRCWESGDDPWVEHAKWFPRCEFLIRMKGQ------EFVDEIQGRYPHLL------------
+1g73c      -GDKVKCFHCGGGLTDWKPSEDPWEQHAKWYPGCKYLLEQKGQ------EYINNIHL------------------
+1c9qa      -GDQVQCFACGGKLKNWEPGDRAWSEHRRHFPNCFFVLGRNLN------IRSE----------------------
+1f3ha      EPDMAQCFFCFKELEGWEPDDDPIEEHKKHSSGCAFLSVKKQFEELTLGEFLKLDRERAKNKIAKETNNKKKEFE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qbha      -EQLLSTS-------*
+1g73c      ---------------*
+1c9qa      ---------------*
+1f3ha      ETAKKVRRAIEQLAA*
+           =========|=====
+                    0160  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1qbha      100.0  46.1  32.7  30.7
+  2-1g73c       46.1 100.0  36.0  32.6
+  3-1c9qa       32.7  36.0 100.0  22.2
+  4-1f3ha       30.7  32.6  22.2 100.0
+
+***************************************************************************

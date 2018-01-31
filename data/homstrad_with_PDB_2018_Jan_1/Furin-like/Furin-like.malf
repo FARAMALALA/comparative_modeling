@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1m6ba      structureX:1m6b: 163 :A: 309 :A:receptor protein-tyrosine kinase erbB-3, extracellular domain:Homo sapiens: 2.60: 23.8
+[  2] 1igra      structureX:1igr: 150 :A: 299 :A:insulin-like growth factor I receptor:Homo sapiens: 2.60: 23.7
+
+
+1m6ba      SCPPCHE------VCK---------GRCWGPGSEDCQTLTKTICAPQCNGHCFGPNPNQCCHDECAGGCSG-PQD
+1igra      --DLCPGTMEEKPMCEKTTINNEYNYRCWTT--NRCQK----MCPSTCGKRACTEN-NECCHPECLGSCSAPDND
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1m6ba      TDCFACRHFNDSGACVPRCPQPLVYNKLTFQLEPNPHTKYQYGGVCVA-SCPH-----------NFVVDQTSCVR
+1igra      TACVACRHYYYAGVCVPACPP---------------NTYRFEGWRCVDRDFCANILSAESSDSEGFVIHDGECMQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1m6ba      ACPPDKMEVDKNGLKMCEPCGGLCP*
+1igra      ECPSGFIRN-GSQSMYCIPCEGPCP*
+           =========|=========|=====
+                    0160      0170  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1m6ba      100.0  32.0
+  2-1igra       32.0 100.0
+
+***************************************************************************

@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 4tsva      structureX:4tsv:  10 :A: 156 :A:tumor necrosis factor (TNF-alpha):Homo sapiens: 1.8: 20
+[  2] 2tnfa      structureX:2tnf:   9 :A: 157 :A:tumor necrosis factor (TNF-alpha):Mus musculus: 1.40: 20.1
+[  3] 1d4vb      structureX:1d4v: 119 :B: 281 :B:TNF-related apoptosis inducing ligand:Homo sapiens: 2.2: 22.1
+[  4] 1tnra      structureX:1tnr:  28 :A: 171 :A:tumor necrosis factor (TNF-beta):Homo sapiens: 2.85: 16
+[  5] 1aly       structureX:1aly: 116 : : 261 : :cd40 ligand:Homo sapiens: 2.0: 22.3
+
+
+4tsva      ----DKPVAHVVANPQAEG----------------QLQWSN-RRANALLAN-GVELR-DNQLVVPIEGLFLIYSQ
+2tnfa      S---DKPVAHVVANHQVEE----------------QLEWLS-QRANALLAN-GMDLK-DNQLVVPADGLYLVYSQ
+1d4vb      P---QRVAAHITGTRGRSNTLSSPNSKNEKALGRKINSWESSRSGHSFLSN--LHLR-NGELVIHEKGFYYIYSQ
+1tnra      -----KPAAHLIGDPSKQN----------------SLLWRA-NTDRAFLQD-GFSLS-NNSLLVPTSGIYFVYSQ
+1aly       GDQNPQIAAHVISEASS--------------KTTSVLQWAE--KGYYTMSNNLVTLENGKQLTVKRQGLYYIYAQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+4tsva      VLFKGQGC----PSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRL
+2tnfa      VLFKGQGC----P-DYVLLTHTVSRFAISYQEKVNLLSAVKSPCPKDTPEGAELKPWYEPIYLGGVFQLEKGDQL
+1d4vb      TYFRFQEEIKENTKNDKQMVQYIYKYTS-YPDPILLMKSARNSCWSK-----DAEYGLYSIYQGGIFELKENDRI
+1tnra      VVFSGKAYSPKATSSPLYLAHEVQLFSSQYPFHVPLLSSQKMVYPGL------QEPWLHSMYHGAAFQLTQGDQL
+1aly       VTFCSNRE----ASSQAPFIASLCLKSPGR-FERILLRAANTHSSAK-------PCGQQSIHLGGVFELQPGASV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+4tsva      SAEINRPDYLDFAESGQVYFGIIA--*
+2tnfa      SAEVNLPKYLDFAESGQVYFGVIAL-*
+1d4vb      FVSVTNEHLIDM-DHEASFFGAFLVG*
+1tnra      STHTDGIPHLVL-SPSTVFFGAFAL-*
+1aly       FVNVTDPSQVSH-GTGFTSFGLLKL-*
+           =========|=========|======
+                    0160      0170   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-4tsva      100.0  78.9  22.4  32.6  24.0
+  2-2tnfa       78.9 100.0  20.3  36.1  23.3
+  3-1d4vb       22.4  20.3 100.0  25.0  23.3
+  4-1tnra       32.6  36.1  25.0 100.0  21.5
+  5-1aly        24.0  23.3  23.3  21.5 100.0
+
+***************************************************************************

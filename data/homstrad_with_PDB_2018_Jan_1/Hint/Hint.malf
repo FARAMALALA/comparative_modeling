@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1at0       structureX:1at0: 258 : : 402 : :17-kda fragment of hedgehog c-terminal autoprocessing domain:Drosophila melanogaster: 1.9: 21.76
+[  2] 1am2       structureX:1am2:   0 : : 198 : :DNA gyrase subunit A intein:Mycobacterium xenopi: 2.2: 18.7
+
+
+1at0       -CFTPESTALLESGVRKPLGELS----------IGDRVLSTANGQAVYSEVILFDRNLEQQNFVQLHTDGGAVLT
+1am2       ASITGDALVALPEGESVRIADIVPGARPNSDNAIDLKVLDR-HG--NPVLADRLFHSG-EHPVYAVRTVEGLRVT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1at0       VTPAHLVSVWQP--ESQKLTFVFADRIEEKNQVLVRDV------------------------------ETGELRP
+1am2       GTANHPLLCLVDVAGVPTLLWKLIDEIKPGDYAVIQRSAFSTVGVPGLVRFLEAHHRDPDAKAIADELTDGRFYY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1at0       QRVVKVGSVRSKGVVAPLTR--EGTIVVNSVAASCYA*
+1am2       AKVASVTDAGVQPVYSLRVDTADHAFITNGFVSHN--*
+           =========|=========|=========|=======
+                    0160      0170      0180    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1at0       100.0  14.1
+  2-1am2        14.1 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1b9la      structureX:1b9l:   2 :A: 120 :A:D-erythro-7,8-dihydroneopterin triphosphate epimerase:Escherichia coli: 2.90: 18.8
+[  2] 1dhn       structureX:1dhn:   1 : : 121 : :7,8-dihydroneopterin aldolase:Staphylococcus aureus: 1.65: 19.7
+
+
+1b9la      AQPAAIIRIKNLRLRTFIGIKEEEINNRQDIVINVTIHYPADKARTSEDINDALNYRTVTKNIIQHVENNRFSLL
+1dhn       --MQDTIFLKGMRFYGYHGALSAENEIGQIFKVDVTLKVDLSEAGRTDNVIDTVHYGEVFEEVKSIMEGKAVNLL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b9la      EKLTQDVLDIARE-HHWVTYAEVEIDKLHALR--YADSVSMTLSWQ-R*
+1dhn       EHLAERIANRINSQYNRVMETKVRITKENPPIPGHYDGVGIEIVRENK*
+           ====|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b9la      100.0  19.3
+  2-1dhn        19.3 100.0
+
+***************************************************************************

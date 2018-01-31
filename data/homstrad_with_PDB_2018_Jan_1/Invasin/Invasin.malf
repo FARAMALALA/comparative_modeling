@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1cwva3     structureX:1cwv: 503 :A: 596 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+[  2] 1cwva1     structureX:1cwv: 597 :A: 692 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+[  3] 1cwva2     structureX:1cwv: 693 :A: 795 :A:invasin:Yersinia pseudotuberculosis: 2.30: 22.4
+
+
+1cwva3     ----LT---LTAAVIGDGAPANGKTAITVEFTVADFEGKPLAGQ-EVVITTNNGALPNKITEKTDANGVARIALT
+1cwva1     ---TIAADKSTLAAVPTSIIADGLMASTITLELKDTYGDPQAGA-NVAFDTT--LG-NMGVITDHNDGTYSAPLT
+1cwva2     ADPIPDAGRSSFTVSTPDILADGTMSSTLSFVPVDKNGHFISGMQGLSFTQNGVPV-SISPITEQPD-SYTATVV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cwva3     NTTDGVTVVTAEVEGQRQ------SVDTHFVKG*
+1cwva1     STTLGVATVTVKVDGAAFSVP---SVTVNFT--*
+1cwva2     GNSVGDVTITPQVDTLIL---STLQKKISLFPV*
+           ====|=========|=========|========
+               0080      0090      0100     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cwva3     100.0  29.8  13.8
+  2-1cwva1      29.8 100.0  24.0
+  3-1cwva2      13.8  24.0 100.0
+
+***************************************************************************

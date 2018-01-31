@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1beha      structureX:1beh:   3 :A: 186 :A:phosphatidylethanolamine-binding protein:Homo sapiens: 1.75: 23.5
+[  2] 1qoua      structureX:1qou:   9 :A: 175 :A:centroradialis protein:Antirrhinum majus: 1.9: 21.2
+
+
+1beha      VDLSKWSGPLSLQEVDEQP--QHPLHVTYA-GAAVDELGKVLTPTQVKNRPTSISWDGLDSGKLYTLVLTDPDAP
+1qoua      -----GR---VIGDVVDHFTSTVKMSVIYNSIKHVY-NGHELFPSAVTSTP-RVEVHGGDMRSFFTLIMTDPDVP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1beha      SRKDPKYREWHHFLVVNMKGN-DISSGTVLSDYVGSGPPKGTGLHRYVWLVYEQDRPLKCDEPILSNRSGDHRGK
+1qoua      GPSDPYLREHLHWIVTDIPGTTDSSFGKEVVSYEMPRPNI--GIHRFVFLLFKQKKRG-----------VVCRDG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1beha      FKVASFRKKYELRAPVAGTCYQAEWDDYVPKLYEQLSG*
+1qoua      FNTRKFTQENELGLPVAAVFFNCQRET-----------*
+           =========|=========|=========|========
+                    0160      0170      0180     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1beha      100.0  28.6
+  2-1qoua       28.6 100.0
+
+***************************************************************************

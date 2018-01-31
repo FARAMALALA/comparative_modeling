@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ijxa      structureX:1ijx:   1 :A: 125 :A:cysteine-rich domain of secreted frizzled-related protein 3:Mus musculus: 1.90: 22
+[  2] 1ijya      structureX:1ijy:   5 :A: 126 :A:cysteine-rich domain of mouse frizzled 8:Mus musculus: 1.35: 22.5
+
+
+1ijxa      A-ACEPVRIPLCKSLPWEMTKMPNHLHHSTQANAILAMEQFEGLLGTHCSPDLLFFLCAMYAPICTIDFQHEPIK
+1ijya      ELACQEITVPLCKGIGYEYTYMPNQFNHDTQDEAGLEVHQFWPLVEIQCSPDLKFFLCSMYTPICLEDYK-KPLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ijxa      PCKSVCERARQGCEPILIKYRHSWPESLACDELPVY--DRGVCISPEAIVTAD*
+1ijya      PCRSVCERAKAGCAPLMRQYGFAWPDRMRCDRLPEQGNPDTLCMDYER-----*
+           ====|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ijxa      100.0  45.1
+  2-1ijya       45.1 100.0
+
+***************************************************************************

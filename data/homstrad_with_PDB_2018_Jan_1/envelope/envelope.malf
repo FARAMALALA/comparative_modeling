@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1mof       structureX:1mof:  46 : :  98 : :coat polyprotein:Moloney murine leukemia virus: 1.7: 16.9
+[  2] 1mg1a      structureX:1mg1: 371 :A: 455 :A:gp21 ectodomain (gp62):Human tumour leukemia virus type I: 2.50: 22.3
+
+
+1mof       ---------DLREVEKSISNLEKSLTSLSEVVLQNRRGLDLLFLKE-------GGLCAALKEECA---FYAD---
+1mg1a      AMSLASGKSLLHEVDKDISQLTQAIVKNHKNLLKIAQYAAQNRRGLDLLFWEQGGLCKALQEQCCFLNITNSHVS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mof       ----------*
+1mg1a      ILQERPPLEN*
+           ====|=====
+               0080  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mof       100.0  30.2
+  2-1mg1a       30.2 100.0
+
+***************************************************************************

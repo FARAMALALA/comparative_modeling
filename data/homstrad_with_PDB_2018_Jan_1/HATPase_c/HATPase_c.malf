@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1kija      structureX:1kij:   9 :A: 220 :A:DNA gyrase subunit B, N-terminal domains:Thermus thermophilus: 2.30: 20.6
+[  2] 1ei1a      structureX:1ei1:   2 :A: 220 :A:DNA gyrase B, N-terminal domains:Escherichia coli: 2.30: 16.6
+[  3] 1b63a      structureX:1b63:  -2 :A: 202 :A:MutL, ATPase fragment:Escherichia coli: 1.9: 21.3
+[  4] 1h7sa      structureX:1h7s:  29 :A: 217 :A:PMS1 protein homolog 2, N-terminal domains:Homo sapiens: 1.95: 21.8
+[  5] 1byq       structureX:1byq:  11 :A: 223 :A:Heat shock protein 90, N-terminal domain:Homo sapiens: 1.50: 18.9
+[  6] 1ah6       structureX:1ah6:   2 : : 214 : :Heat shock protein 90, N-terminal domain:Saccharomyces cerevisiae: 1.8: 20.6
+
+
+1kija      -------AIR---VLKGLEGVRHRPAMYIGGTG-VEGYHHLFKEILDNAVDEALAG--------------YATEI
+1ei1a      SNSSDSSSIK---VLKGLDAVRKRPGMYIGDTDDGTGLHHMVFEVVDNAIDEALAG--------------HCKEI
+1b63a      ----SHMPIQ---VLPPQLANQIAAG-----EVV-ERPASVVKELVENSLDA------------------GATRI
+1h7sa      -------------------------G----QV-V-LSLSTAVKELVENSLDA------------------GATNI
+1byq       -----PMEEEEVETFAFQAEIAQLMSLIINT--FYSNKEIFLRELISNSSDALDKIRYETLTDPSKLDSGKELHI
+1ah6       ----------ASETFEFQAEITQLMSLIINT--VYSNKEIFLRELISNASDALDKIRYKSLSDPKQLETEPDLFI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kija      LVRLNE--DGSLTVEDNGRGIPVDLMPEEGKPAVEVIYNTLHSGGKFEQ---------GAYKVSGGLHGVGASVV
+1ei1a      IVTIHA--DNSVSVQDDGRGIPTGIHPEEGVSAAEVIMTVLHAGGKFDD---------NSYKVSGGLHGVGVSVV
+1b63a      DIDIERGGAKLIRIRDNGCGIK--------KDELALAL-ARHATSKIASLDDLE--AII----SLGFRGEALASI
+1h7sa      DLKLKDYGVDLIEVSDNGCGVE--------EENFEGLT-L----------------ADLTQVETFGFRGEALSSL
+1byq       NLIPNKQ-DRTLTIVDTGIGMT--------KADLINNLGTIAKSGTKAFMEALQAGADISMI---GQFGVGFYSA
+1ah6       RITPKPE-QKVLEIRDSGIGMT--------KAELINNLGTIAKSGTKAFMEALSAGADVSMI---GQFGVGFYSL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kija      NALSEWTVVEVFRE--GKHHRIAFS--RGEVTEPLRVVGEAPRGKTGTRVTFKPDPEIFG-------N-LRFDPS
+1ei1a      NALSQKLELVIQRE--GKIHRQIYE--HGVPQAPLAVTGET--EKTGTMVRFWPSLETFT-------NVTEFEYE
+1b63a      SSVS-RLTLTSRTAEQQEAWQAYAEGRDMNV-T-VKPA-AHP---VGTTLEVLDLFYNTPARRKFL-RTEKTEFN
+1h7sa      CALS-DVTISTCHASAKVGTRLFDH--NGKIIQ-KTPY-PRP---RGTTVSVQQLFSTLPVRHKEFQRNIKKEYA
+1byq       YLVAEKVTVITKHNDD-EQYAWESSAG-GSF-T-VRTDT-GEPMGRGTKVILHLKE----------DQTEYLEER
+1ah6       FLVADRVQVISKSNDD-EQYIWESNAG-GSF-T-VTLDEVNERIGRGTILRLFLKD----------DQLEYLEEK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kija      KIRARLREVAYLVAGLKLVFQD-RQH--GKEEVFLDKG*
+1ei1a      ILAKRLRELSFLDSGVSIRLRD-KRD--GKEDHFHYEG*
+1b63a      HIDEIIRRIALARFDVTINLSHN-----GKIVRQYRAV*
+1h7sa      K-VQVLHAYCIISAGIRVSCTNQLGQGKRQPVVCT---*
+1byq       RIKEIVKKHSQFIG-YPITLFVE---------------*
+1ah6       RIKEVIKRHSEFVA-YPIQLVVTKEVE-----------*
+           ====|=========|=========|=========|===
+               0230      0240      0250      0260 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1kija      100.0  50.5  15.7  17.5  13.2  11.8
+  2-1ei1a       50.5 100.0  17.2  16.4  11.3  11.7
+  3-1b63a       15.7  17.2 100.0  29.9  18.6  20.6
+  4-1h7sa       17.5  16.4  29.9 100.0  14.7  15.3
+  5-1byq        13.2  11.3  18.6  14.7 100.0  68.1
+  6-1ah6        11.8  11.7  20.6  15.3  68.1 100.0
+
+***************************************************************************

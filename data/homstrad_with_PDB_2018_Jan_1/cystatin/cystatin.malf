@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1stfi      structureX:1stf:   6 :I: 125 :I:cystatin b (liver thiol proteinase inhibitor):Homo sapiens: 2.37: 19
+[  2] 1dvc       structureX:1dvc:   6 : : 125 : :cystatin a (stevin a):Homo sapiens: -1: -1
+[  3] 1cewi      structureX:1cew:   9 :I: 116 :I:cystatin (egg-white cystatin):Gallus gallus: 2.0: 19.8
+
+
+1stfi      MMSGAPSATQPATAETQHIADQVRSQLEEKYNKKFPVF--KAVSFKSQVVAGTNYFIKVHVGD------------
+1dvc       MIPGGLSEAKPATPEIQEIVDKVKPQLEEKTNETYGKL--EAVQYKTQVVAGTNYYIKVRAGD------------
+1cewi      ---GAPVPVDENDEGLQRALQFAMAEYNRASNDKYSSRVVRVISAKRQLVSGIKYILQVEIGRTTCPKSSGDLQS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1stfi      -----------EDFVHLRVFQSLPHENKPLTLSNYQTNKAKHDELTYF*
+1dvc       -----------NKYMHLKVFKSLPGQNEDLVLTGYQVDKNKDDELTGF*
+1cewi      CEFHDEPEMAKYTTCTFVVYSI-PWLN-QIKLLESKCQ----------*
+           ====|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1stfi      100.0  53.1  18.4
+  2-1dvc        53.1 100.0  15.3
+  3-1cewi       18.4  15.3 100.0
+
+***************************************************************************

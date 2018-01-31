@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1gia       structureX:1gia:  34 : : 343 : :guanine nucleotide-binding protein G(i), alpha-1 subunit (adenylatecyclase-inhibiting G alpha protein):Rattus rattus:2.00:17.5
+[  2] 1tag       structureX:1tag:  27 : : 340 : :guanine nucleotide-binding protein G(t), alpha-1 subunit (transducin alpha-1 chain):Bos taurus:1.80:18.7
+[  3] 1cjvc      structureX:1cjv:  39 :C: 388 :C:guanine nucleotide-binding protein G(s), alpha subunit (adenylatecyclase-stimulating G alpha protein):Bos taurus: 3.00: 20.3
+
+
+1gia       ---VKLLLLGAGESGKSTIVKQMKIIHEAGYSEEECKQYKAVVYSNTIQSIIAIIRAMGRL--KIDFGDAARADD
+1tag       ARTVKLLLLGAGESGKSTIVKQMKIIHQDGYSLEECLEFIAIIYGNTLQSILAIVRAMTTL--NIQYGDSARQDD
+1cjvc      -ATHRLLLLGAGESGKSTIVKQMRILHV------EKATKVQDIKNNLKEAIETIVAAMSNLVPPVELANPENQFR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gia       ARQLFVLAGAAEEGFMTAELAGVIKRLWKDSGVQACFNRSREYQLNDSAAYYLNDLDRIAQPNYIPTQQDVLRTR
+1tag       ARKLMHMADTIEEGTMPKEMSDIIQRLWKDSGIQACFDRASEYQLNDSAGYYLSDLERLVTPGYVPTEQDVLRSR
+1cjvc      VDYILSVMNVP-DFDFPPEFYEHAKALWEDEGVRACYERSNEYQLIDCAQYFLDKIDVIKQDDYVPSDQDLLRCR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gia       VKTTGIVETHFTFKDLHFKMFDVGGQRSERKKWIHCFEGVTAIIFCVALSDYDLVLAEDEEMNRMHESMKLFDSI
+1tag       VKTTGIIETQFSFKDLNFRMFDVGGQRSERKKWIHCFEGVTCIIFIAALSAYDMVLVEDDEVNRMHESLHLFNSI
+1cjvc      VLTSGIFETKFQVDKVNFHMFDVGGQRDERRKWIQCFNDVTAIIFVVASSSYNMVIREDNQTNRLQEALNLFKSI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gia       CNNKWFTDTSIILFLNKKDLFEEKIK--KSPLTICYPEYA-------------GSNTYEEAAAYIQCQFEDLN-K
+1tag       CNHRYFATTSIVLFLNKKDVFSEKIK--KAHLSICFPDYN-------------GPNTYEDAGNYIKVQFLELN-M
+1cjvc      WNNRWLRTISVILFLNKQDLLAEKVLAGKSKIEDYFPEFARYTTPEDATPEPGEDPRVTRAKYFIRDEFLRISTA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gia       RKD-TKEIYTHFTCATDTKNVQFVFDAVTDVI-----*
+1tag       RRD-VKEIYSHMTCATDTQNVKFVFDAVTDIII----*
+1cjvc      SGDGRHYCYPHFTCAVDTENIRRVFNDCRDIIQRMHL*
+           =========|=========|=========|=======
+                    0310      0320      0330    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1gia       100.0  69.4  43.5
+  2-1tag        69.4 100.0  42.4
+  3-1cjvc       43.5  42.4 100.0
+
+***************************************************************************

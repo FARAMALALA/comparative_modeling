@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1jaca      structureX:1jac:   1 :A: 133 :A:agglutinin alpha chain (jacalin alpha chain):Artocarpus integer: 2.43: 17.4
+[  2] 1jota      structureX:1jot:   1 :A: 133 :A:agglutinin alpha chain (mpa):Maclura pomifera: 2.20: 17.2
+
+
+1jaca      GKAFDDGAFTGIREINLSYNKETAIGDFQVVYDLNGSPYVGQNHKSFITGFTPVKISLDFPSEYIMEVSGYTGNV
+1jota      GVTFDDGAYTGIREINFEYNSETAIGGLRVTYDLNGMPFVAEDHKSFITGFKPVKISLEFPSEYIVEVSGYVGKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jaca      SGYVVVRSLTFKTNKKTYGPYGVTSGTPFNLPIENGLIVGFKGSIGYWLDYFSMYLSL*
+1jota      EGYTVIRSLTFKTNKQTYGPYGVTNGTPFSLPIENGLIVGFKGSIGYWLDYFSIYLSL*
+           ====|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jaca      100.0  79.7
+  2-1jota       79.7 100.0
+
+***************************************************************************

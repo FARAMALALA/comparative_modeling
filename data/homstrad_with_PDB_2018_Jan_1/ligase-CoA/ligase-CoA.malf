@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1eudb      structureX:1eud: 246 :B: 394 :B:succinyl-CoA ligase [GDP-forming] beta-chain:Sus scrofa: 2.10: 15.6
+[  2] 2scub      structureX:2scu: 239 :B: 385 :B:succinyl-CoA synthetase beta chain:Escherichia coli: 2.30: 19.5
+[  3] 2scud      structureX:2scu: 122 :D: 286 :D:succinyl-CoA synthetase alpha chain:Escherichia coli: 2.30: 19.5
+
+
+1eudb      EPIENEAAKYDLKYIGL--------------DGNIACFVNGAGLAMATCDIIFLNGGKPANFLDLGGG-VKESQV
+2scub      DPREAQAAQWELNYVAL--------------DGNIGCMVNGAGLAMGTMDIVKLHGGEPANFLDVGGG-ATKERV
+2scud      ---------NCPGVITPGECKIGIQPGHIHKPGKVGIVSRSGTLTYEAVKQTTDYGFGQSTCVGIGGDPIPGSNF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eudb      YQAFKLLTADPKVEAILVNIFGGIVN-AIIANGITKA-RELELKVPLVVRLEG-------------------TNV
+2scub      TEAFKIILSDDKVKAVLVNIFGGIVRCDLIADGIIGAVAEVGVNVPVVVRLEG-------------------NNA
+2scud      IDILEMFEKDPQTEAIVMIGEIGG----SAEEEAAAYIKE-HVTKPVVGYIAGVTAPKGKRMGAGAIIAGGKGTA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1eudb      HEAQNILTNSGLPITSAVDLEDAAKKAVASVTK*
+2scub      ELGAKKLADSGLNIIAAKGLTDAAQQVVAAV--*
+2scud      DEKFAALEAAG--VKTVRSLADIGEALKTV---*
+           =========|=========|=========|===
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1eudb      100.0  54.4  15.0
+  2-2scub       54.4 100.0  13.6
+  3-2scud       15.0  13.6 100.0
+
+***************************************************************************

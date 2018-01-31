@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1dzra      structureX:1dzr:   1 :A: 183 :A:dTDP-4-dehydrorhamnose 3,5-epimerase:Salmonella typhimurium: 2.17: 22.6
+[  2] 1ep0a      structureX:1ep0:   3 :A: 185 :A:dTDP-6-deoxy-d-xylo-4- hexulose 3,5-epimerase:Methanobacterium thermoautotrophicum: 1.50: 18.3
+
+
+1dzra      MMIVIKTAIPDVLILEPKVFGDERGFFFESYNQQTFEELIGRKVTFVQDNHSKSKKNVLRGLHFQRGENAQGKLV
+1ep0a      EFRFIKTSLDGAIIIEPEVYTDERGYFMETFNEAIFQENG-LEVRFVQDNESMSVRGVLRGLHFQRE-KPQGKLV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dzra      RCAVGEVFDVAVDIRKESPTFGQWVGVNLSAENKRQLWIPEGFAHGFVTLSEYAEFLYKATNYYSPSSEGSILWN
+1ep0a      RVIRGEIFDVAVDLRKNSDTYGEWTGVRLSDENRREFFIPEGFAHGFLALSDECIVNYKCTELYHPEYDSGIPWD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dzra      DEAIGIEWPFS--QLPELSAKDAAAPLLDQALLTE*
+1ep0a      DPDIGIDWPLEMVDDLIISEKDRNWKPLRENPVYL*
+           =========|=========|=========|=====
+                    0160      0170      0180  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dzra      100.0  48.1
+  2-1ep0a       48.1 100.0
+
+***************************************************************************

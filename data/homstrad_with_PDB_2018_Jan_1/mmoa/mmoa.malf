@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1mtyd      structureX:1mty:  15 :D: 526 :D:methane monooxygenase component A alpha chain:Methylococcus capsulatus: 1.70: 18.3
+[  2] 1mhyd      structureX:1mhy:  17 :D: 526 :D:methane monooxygenase component A alpha chain:Methylosinus trichosporium: 2.00: 13.7
+
+
+1mtyd      AANRAPTSVNAQEVHRWLQSFNWDFKNNRTKYATKYKMANETKEQFKLIAKEYARMEAVKDERQFGSLQVALTRL
+1mhyd      --NRAPVGVEPQEVHKWLQSFNWDFKENRTKYPTKYHMANETKEQFKVIAKEYARMEAAKDERQFGTLLDGLTRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mtyd      NAGVRVHPKWNETMKVVSNFLEVGEYNAIAATGMLWDSAQAAEQKNGYLAQVLDEIRHTHQCAYVNYYFAKNGQD
+1mhyd      GAGNKVHPRWGETMKVISNFLEVGEYNAIAASAMLWDSATAAEQKNGYLAQVLDEIRHTHQCAFINHYYSKHYHD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mtyd      PAGHNDARRTRTIGPLWKGMKRVFSDGFISGDAVECSLNLQLVGEACFTNPLIVAVTEWAAANGDEITPTVFLSI
+1mhyd      PAGHNDARRTRAIGPLWKGMKRVFADGFISGDAVECSVNLQLVGEACFTNPLIVAVTEWASANGDEITPTVFLSV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mtyd      ETDELRHMANGYQTVVSIANDPASAKYLNTDLNNAFWTQQKYFTPVLGMLFEYGSKFKVEPWVKTWDRWVYEDWG
+1mhyd      ETDELRHMANGYQTVVSIANDPASAKFLNTDLNNAFWTQQKYFTPVLGYLFEYGSKFKVEPWVKTWNRWVSEDWG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mtyd      GIWIGRLGKYGVESPRSLKDAKQDAYWAHHDLYLLAYALWPTGFFRLALPDQEEMEWFEANYPGWYDHYGKIYEE
+1mhyd      GIWIGRLGKYGVESPRSLRDAKRDAYWAHHDLALAAYAMWPLGFARLALPDEEDQAWFEANYPGWADHYGKIFNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mtyd      WRARGCEDPSSGFIPLMWFIENNHPIYIDRVSQVPFCPSLAKGASTLRVHEYNGEMHTFSDQWGERMWLAEPERY
+1mhyd      WKKLGYEDPKSGFIPYQWLLANGHDVYIDRVSQVPFIPSLAKGTGSLRVHEFNGKKHSLTDDWGERQWLIEPERY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1mtyd      ECQNIFEQYEGRELSEVIAELHGLRSDGKTLIAQPHVRGDKLWTLDDIKRLNCVFKNPVKAF*
+1mhyd      ECHNVFEQYEGRELSEVIAEGHGVRSDGKTLIAQPHTRGDNLWTLEDIKRAGCVFPDPLAKF*
+           =========|=========|=========|=========|=========|=========|==
+                    0460      0470      0480      0490      0500      0510 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mtyd      100.0  81.6
+  2-1mhyd       81.6 100.0
+
+***************************************************************************

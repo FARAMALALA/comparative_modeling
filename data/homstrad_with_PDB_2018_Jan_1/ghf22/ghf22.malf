@@ -1,0 +1,79 @@
+      Code       Title
+
+[  1] 1hml       structureX:1hml:   1 : : 123 : :alpha lactalbumin:Homo sapiens: 1.70:16.50
+[  2] 1alc       structureX:1alc:   1 : : 122 : :alpha-lactalbumin:Papio cynocephalus: 1.70:22.00
+[  3] 1hfya      structureX:1hfy:   1 :A: 120 :A:alpha-lactalbumin:Capra hircus:2.30:19.5
+[  4] 1hfx       structureX:1hfx:   1 : : 123 : :alpha-lactalbumin:Cavia porcellus:1.90:17.9
+[  5] 1ghla      structureX:1ghl:   0 :A: 129 :A:lysozyme:Phasianus colchicus: 2.10:17.80
+[  6] 1lzt       structureX:1lzt:   1 : : 129 : :lysozyme:Gallus gallus: 2.00:25.40
+[  7] 1lz3       structureX:1lz3:   1 : : 129 : :lysozyme:Meleagris gallopavo: 1.50:18.40
+[  8] 1hhl       structureX:1hhl:   1 : : 129 : :lyszoyme:Numida meleagris: 1.90:17.0
+[  9] 1lmn       structureX:1lmn:   1 : : 129 : :lysozyme:Oncorhynchus mykiss: 1.80:17.40
+[ 10] 1lz1       structureX:1lz1:   1 : : 130 : :lysozyme:Homo sapiens: 1.50:18.70
+[ 11] 1jug       structureX:1jug:   1 : : 125 : :lysozyme:Tachyglossus aculeatus:1.90:17.0
+[ 12] 2eql       structureX:2eql:   1 : : 129 : :lysozyme (apo form):Equus caballus:2.50:23.4
+
+
+1hml       -KQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSGYDTQAIVENN--ESTEYGLFQISNKLWCKSSQVPQSR
+1alc       -KQFTKCELSQNLY--DIDGYGRIALPELICTMFHTSGYDTQAIVEND--ESTEYGLFQISNALWCKSSQSPQSR
+1hfya      -EQLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSGYDTQAIVQNN--DSTEYGLFQINNKIWCKDDQNPHSR
+1hfx       -KQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISGYDTQAIVKNS--DHKEYGLFQINDKDFCESSTTVQSR
+1ghla      GKVYGRCELAAAMKRMGLDNYRGYSLGNWVCAAKFESNFNTGATNRNT-DGSTDYGILQINSRWWCNDGRTPGSK
+1lzt       -KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNT-DGSTDYGILQINSRWWCNDGRTPGSR
+1lz3       -KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESNFDTHATNRNT-DGSTDYGILQINSRWWCNDGRTPGSK
+1hhl       -KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNSQATNRNT-DGSTDYGVLQINSRWWCNDGRTPGSR
+1lmn       -KVYDRCELARALKASGMDGYAGNSLPNWVCLSKWESSYNTQATNRNT-DGSTDYGIFQINSRYWCDDGRTPGAK
+1lz1       -KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAV
+1jug       -KILKKQELCKNLVAQGMNGYQHITLPNWVCTAFHESSYNTRATNHNT-DGSTDYGILQINSRYWCHDGKTPGSK
+2eql       -KVFSKCELAHKLKAQEMDGFGGYSLANWVCMAEYESNFNTRAFNGKNANGSSDYGLFQLNNKWWCKDN-KRSSS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hml       NICDISCDKFLDDDITDDIMCAKKILDI-KGIDYWLAHKALCT-EKLEQWLCE-KL*
+1alc       NICDITCDKFLDDDITDDIMCAKKILDI-KGIDYWIAHKALCT-EKLEQWLCE-K-*
+1hfya      NICNISCDKFLDDDLTDDIVCAKKILDK-VGINYWLAHKALCS-EKLDQWLC----*
+1hfx       NICDISCDKLLDDDLTDDIMCVKKILDI-KGIDYWLAHKPLCS-DKLEQWYCE-AQ*
+1ghla      NLCHIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRKHCKGTDVNVWIRGCRL*
+1lzt       NLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTDVQAWIRGCRL*
+1lz3       NLCNIPCSALLSSDITASVNCAKKIASGGDGMNAWVAWRNRCKGTDVHAWIRGCRL*
+1hhl       NLCNIPCSALQSSDITATANCAKKIVSDGDGMNAWVAWRKHCKGTDVRVWIKGCRL*
+1lmn       NVCGIRCSQLLTDDLTVAIRCAKRVVLDPNGIGAWVAWRLHCQNQDLRSYVAGCGV*
+1lz1       NACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV*
+1jug       NACNISCSKLLDDDITDDLKCAKKIAGEAKGLTPWVAWKSKCRGHDLSKFKC----*
+2eql       NACNIMCSKLLDENIDDDISCAKRVVRDPKGMSAWKAWVKHCKDKDLSEYLASCNL*
+           ====|=========|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12]
+
+  1-1hml       100.0  93.4  75.8  69.9  35.0  37.4  35.8  35.8  38.2  38.2
+                45.5  42.3
+  2-1alc        93.4 100.0  70.8  68.0  32.8  35.2  33.6  33.6  36.9  36.1
+                45.9  38.5
+  3-1hfya       75.8  70.8 100.0  65.0  38.3  40.8  40.0  39.2  40.8  37.5
+                47.5  43.3
+  4-1hfx        69.9  68.0  65.0 100.0  30.9  32.5  31.7  30.9  35.0  33.3
+                43.9  33.3
+  5-1ghla       35.0  32.8  38.3  30.9 100.0  93.0  91.5  89.9  62.0  58.5
+                52.8  48.8
+  6-1lzt        37.4  35.2  40.8  32.5  93.0 100.0  93.0  91.5  60.5  60.5
+                52.8  48.8
+  7-1lz3        35.8  33.6  40.0  31.7  91.5  93.0 100.0  86.8  58.1  58.1
+                53.6  45.7
+  8-1hhl        35.8  33.6  39.2  30.9  89.9  91.5  86.8 100.0  58.9  56.6
+                50.4  48.8
+  9-1lmn        38.2  36.9  40.8  35.0  62.0  60.5  58.1  58.9 100.0  69.8
+                55.2  49.6
+ 10-1lz1        38.2  36.1  37.5  33.3  58.5  60.5  58.1  56.6  69.8 100.0
+                52.8  50.4
+ 11-1jug        45.5  45.9  47.5  43.9  52.8  52.8  53.6  50.4  55.2  52.8
+               100.0  47.2
+ 12-2eql        42.3  38.5  43.3  33.3  48.8  48.8  45.7  48.8  49.6  50.4
+                47.2 100.0
+
+***************************************************************************

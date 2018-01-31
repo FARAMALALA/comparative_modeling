@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1foha      structureX:1foh:   1 :A: 461 :A:phenol hydroxylase:Trichosporon cutaneum: 2.4: 21.7
+[  2] 1pbe       structureX:1pbe:   1 : : 391 : :p-hydroxybenzoate hydroxylase:Pseudomonas fluorescens: 1.9: 15.6
+
+
+1foha      TKYSESYCDVLIVGAGPAGLMAARVLSEYVRQKPDLKVRIIDKRST--KVYNGQADGLQCRTLESLKNLGLADKI
+1pbe       -----MKTQVAIIGAGPSGLLLGQLLHKAG-----IDNVILERQTPDYVLGRIRAGVLEQGMVDLLREAGVDRRM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1foha      LSEANDMSTIALYNPDENGHIRRTDRIPDTLPGISRYHQVVLHQGRIERHILDSIAEISDTRIKVERPLIPEKME
+1pbe       ARDGLVHEGVEIAFA------GQRRRIDL-KRLSGGKTVTVYGQTEVTRDLMEAREAC---GATTVYQAAEVRLH
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1foha      IDSSKAEDPEAYPVTMTLRYMSDHESTPLQFGHKTENSLFHSNLQTQEEEDANYRLPEGKEAGEIETVHCKYVIG
+1pbe       DLQGE-------RPYVTFERD-----------------------------------------GERLRLDCDYIAG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1foha      CDGGHSWVRRTL---GFEMIGEQTDYIWGVLDAVPASNFPDIRSRCAIHSAESGSIMIIPRENNLVRFYVQLQ--
+1pbe       CDGFHGISRQSIPAERLKVFERVYPFGWLGLLADTPPVS---HELIYANHP-RGFALCSQRSATRSRYYVQVPLT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1foha      -----FTPEVVIANAKKIFHPY---TFDVQQLDWFTAYHIGQRVTEKFSKDERVFIAGDACHTHSPKAGQGMNTS
+1pbe       EKVEDWSDERFWTELKARLPAEVAEKLVTGPSLEKSIAPLRSFVVEPMQHG-RLFLAGDAAHIVPPTGAKGLNLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1foha      MMDTYNLGWKLGLVLTGRAKRDILKTYEEERHAFAQALIDFDHQFSRLFSGRPAKDV--ADEMGVSMDVFK---E
+1pbe       ASDVSTLYRLLLKAYREG-RGELLERYSAICLRRIWKAERFSWWMTSVLHRFPDTDAFSQRIQQTELEYYLGSEA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1foha      AFVKGNEFASGTAINYDE*
+1pbe       GLATIAENYVGLPYE---*
+           =========|========
+                    0460     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1foha      100.0  16.1
+  2-1pbe        16.1 100.0
+
+***************************************************************************

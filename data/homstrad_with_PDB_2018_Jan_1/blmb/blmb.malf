@@ -1,0 +1,69 @@
+      Code       Title
+
+[  1] 1smla      structureX:1sml:   2 :A: 267 :A:penicillinase:Xanthomonas maltophilia: 1.70: 18.00
+[  2] 1k07a      structureX:1k07:  36 :A: 311 :A:Fez-1 beta-lactamase residues 20-282:Fluoribacter gormanii: 1.65: 17.40
+[  3] 3bc2       structureX:3bc2:   8 : : 227 : :metallo beta-lactamase II:Bacillus cereus: 1.70: 22.70
+[  4] 1jjta      structureX:1jjt:   3 :A: 222 :A:imp-1 metallo beta-lactamase metallo-beta-lactamase:Pseudomonas aeruginosa: 1.80: 19.90
+[  5] 1znba      structureX:1znb:  20 :A: 249 :A:metallo-beta-lactamase:Bacteroides fragilis: 1.85: 16.70
+[  6] 1qh5a      structureX:1qh5:   1 :A: 260 :A:hydroxyacylglutathione hydrolase:Homo sapiens: 1.45: 20.40
+
+
+1smla      EVPLPQLRAYTVDASWLQPMAPLQIADHTWQIGTE---------DLTALLVQTP--DGAVLLDGGM-PQMASHLL
+1k07a      -----------YP--MPNPFPPFRIAGNLYYVGTD---------DLASYLIVTP--RGNILINSDL-EANVPMIK
+3bc2       --------VIKNETG---TISISQLNKNVWVHTELGA------VPSNGLVLNTS--KGLVLVDSSWDDKLTKELI
+1jjta      --------SLP-------DLKIEKLDEGVYVHTSFEEVNGWGVVPKHGLVVLVN--AEAYLIDTPFTAKDTEKLV
+1znba      --------KSVKISD---DISITQLSDKVYTYVSLAEIE--GMVPSNGMIVINN--HQAALLDTPINDAQTETLV
+1qh5a      --------------------------MKVEVLPALT--------DNYMYLVIDDETKEAAIVDPV----QPQKVV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1smla      DNMKA-RGVTPRDLRLILLSHAHADHAGPVAELKRRT-GAKVAANAESAVLLARGGSDDLHFG--DGITYPPANA
+1k07a      ASIKK-LGFKFSDTKILLISHAHFDHAAGSELIKQQT-KAKYMVMDEDVSVILSGGKSDFHYANDSSTYFTQSTV
+3bc2       EMVEKKFQKR---VTDVIITHAHADRIGGIKTLKER--GIKAHSTALTAELAKKNG---------------YEEP
+1jjta      TWFVER-GYK---IKGSISSHFHSDSTGGIEWLNSR--SIPTYASELTNELLKKDG---------------KVQA
+1znba      NWVADSLHAK---VTTFIPNHWHGDCIGGLGYLQKK--GVQSYANQMTIDLAKEKG---------------LPVP
+1qh5a      DAARK-HGVK---LTTVLTTHHHWDHAGGNEKLVKLESGLKVYGGDD-----------------------RIGAL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1smla      DRIVM-DGEVITVGGIVFTAHFM-AGHTPGSTAWTWTDTRNGKPVRIAYADSLSAP-GY-QLQGNPRYPHLIEDY
+1k07a      DKVLH-DGERVELGGTVLTAHLT-PGHTRGCTTWTMKLKDHGKQYQAVIIGSIGVNPGY-KLVDNITYPKIAEDY
+3bc2       LGDLQ-TVTNLKFGNMKVETFYPGKGHTEDNIVVWLPQ------YNILVGG-LVKSTSAKDLGNVADA--YVNEW
+1jjta      TNSFSGVNYWLVKN--KIEVFYPGPGHTPDNVVVWLPE------RKILFGGCFIKP---YGLGNLGDA--NIEAW
+1znba      EHGFT-DSLTVSLDGMPLQCYYLGGGHATDNIVVWLPT------ENILFGGCMLKDNQATSIGNISDA--DVTAW
+1qh5a      THKIT-HLSTLQVGSLNVKCLAT-PCHTSGHICYFVSKPG-GSEPPAVFTGDTLFVA---GCGKFYEG--TADEM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1smla      RRSFATVRAL--PCDVLLTPHPGASNWDYAAGA------RAGAKALTCKAYADAAEQKFDGQLAKETAG------
+1k07a      KHSIKVLESM--RCDIFLGSHAGMFDLKNKYVLLSKGQNNPFVDPTGCKNYIEQKANDFYTELKKQETG------
+3bc2       STSIENVLKRYRNINAVVPGHG----------------------EVGDKGLLLHTLDLLK---------------
+1jjta      PKSAKLLKSKYGKAKLVVPSHS----------------------EVGDASLLKLTLEQAVKGLNESKK-------
+1znba      PKTLDKVKAKFPSARYVVPGHG----------------------DYGGTELIEHTKQIVNQYIESTSKP------
+1qh5a      CKALLEVLGRLPPDTRVYCGHEYTINNLKFARHVEP-----------GNAAIREKLAWAKEKYSIGEPTVPSTLA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1smla      --------------------------------------------*
+1k07a      --------------------------------------------*
+3bc2       --------------------------------------------*
+1jjta      --------------------------------------------*
+1znba      --------------------------------------------*
+1qh5a      EEFTYNPFMRVREKTVQQHAGETDPVTTMRAVRREKDQFKMPRD*
+           =========|=========|=========|=========|====
+                    0310      0320      0330      0340 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1smla      100.0  28.6  16.4  14.1  11.8  12.3
+  2-1k07a       28.6 100.0  13.1  12.7   9.6  11.9
+  3-3bc2        16.4  13.1 100.0  35.0  33.6  16.4
+  4-1jjta       14.1  12.7  35.0 100.0  34.1  14.5
+  5-1znba       11.8   9.6  33.6  34.1 100.0  18.0
+  6-1qh5a       12.3  11.9  16.4  14.5  18.0 100.0
+
+***************************************************************************

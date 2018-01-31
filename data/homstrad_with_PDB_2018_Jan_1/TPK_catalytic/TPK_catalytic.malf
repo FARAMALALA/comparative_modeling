@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ig3a      structureX:1ig3:  10 :A: 178 :A:thiamin pyrophosphokinase:Mus musculus: 1.90: 21.4
+[  2] 1ig0a      structureX:1ig0:   3 :A: 223 :A:thiamine pyrophosphokinase:Saccharomyces cerevisiae: 1.80: 21.7
+
+
+1ig3a      HSS-----------GLVPRGSHMEHAFTPLEPLLPTGNLKYCLVVLNQPLD---ARFRHLWKKALLRACADGGAN
+1ig0a      EECIENPERIKIGTDLINIR----NKMNLKELIHPNEDENSTLLILNQKIDIPRPLFYKIWKLHDLKVCADGAAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ig3a      HLYDLTE---GERESFLPEFVSGDFDSIRPEVKEYYTKKGCDLISTPDQDHTDFTKCLQVLQRKIEEK-------
+1ig0a      RLYDYLDDDETLRIKYLPNYIIGDLDSLSEKVYKYYRKNKVTIIKQTTQYSTDFTKCVNLISLHFNSPEFRSLIS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ig3a      -------------------------------ELQVDVIVTLGGLGGRFDQIMASVNTLFQATHITP-VPIIIIQK
+1ig0a      NKDNLQSNHGIELEKGIHTLYNTMTESLVFSKVTPISLLALGGIGGRFDQTVHSITQLYTLSENASYFKLCYMTP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ig3a      100.0  30.2
+  2-1ig0a       30.2 100.0
+
+***************************************************************************

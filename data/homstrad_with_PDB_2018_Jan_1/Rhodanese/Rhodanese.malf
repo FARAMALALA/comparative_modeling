@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1e0ca1     structureX:1e0c:   1 :A: 135 :A:thiosulfate sulfurtransferase:Azotobacter vinelandii: 1.8: 18
+[  2] 1rhs1      structureX:1rhs:   1 : : 149 : :thiosulfate sulfurtransferase:Bos taurus: 1.36: -1
+[  3] 1c25       structureX:1c25: 335 : : 495 : :M-phase inducer phosphatase 1:Homo sapiens: 2.3: 22.7
+[  4] 1qb0a      structureX:1qb0: 374 :A: 550 :A:M-phase inducer phosphatase 2:Homo sapiens: 1.91: -1
+[  5] 1e0ca2     structureX:1e0c: 136 :A: 271 :A:thiosulfate sulfurtransferase:Azotobacter vinelandii: 1.8: 18
+[  6] 1rhs2      structureX:1rhs: 150 : : 293 : :thiosulfate sulfurtransferase:Bos taurus: 1.36: -1
+
+
+1e0ca1     -----------------MDDFASLPLVIEPADLQARL----S--APELILVDLTS--------AARYAE------
+1rhs1      ----------------VHQV--LYRALVSTKWLAESVRAGKV--GPGLRVLDASWYSPGTREARKEYLE------
+1c25       ---MLIGDFSKGYLFHTVAGKHQDLKYISPEIMASVLNGKFANLIKEFVIIDCRY--------PYEYE-------
+1qb0a      DHRELIGDYSKAFLLQTVDGKHQDLKYISPETMVALLTGKFSNIVDKFVIVDCRY--------PYEYE-------
+1e0ca2     --------------GGPVALSLHDEPTASRDYLLGRLGA------ADLAIWDARS--------PQEYRGEKVL--
+1rhs2      --------------A-IFKATLNRSLLKTYEQVLENLES------KRFQLVDSRA--------QGRYLGTQPEPD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1e0ca1     ------GHIPGARFVDPKRTQLGQPPAPGLQPPREQLESLFGELGHRP-----EAVYVVYDDE--GGGWAGRFIW
+1rhs1      ------RHVPGASFFDIEECRDKASPYEVMLPSEAGFADYVGSLGISN-----DTHVVVYDGDDLGSFYAPRVWW
+1c25       -----GGHIKGAVNLHM----------------EEEVEDFLLKKPIVPT-DGKRVIVVFHCE--FSSERGPRMCR
+1qb0a      -----GGHIKTAVNLPL----------------ERDAESFLLKSPIAPCSLDKRVILIFHCE--FSSERGPRMCR
+1e0ca2     AA--KGGHIPGAVNFEWTAAMDPSRA--LRIRT--DIAGRLEELGITP-----DKEIVTHQ----THHRSGLTYL
+1rhs2      AVGLDSGHIRGSVNMPFMNFLTE--D--GFEKSPEELRAMFEAKKVDL-----TKPLIATR----KGVTACHIAL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1e0ca1     LLDVIG----------QQRYHYLNGGLTAWLAE---DRPLSRE-----------------LPAPA-*
+1rhs1      MFRVFG----------HRTVSVLNGGFRNWLKE---GHPVTSE-----------------PSRPEP*
+1c25       YVRERDRLGNEYPKLHYPELYVLKGGYKEFFMKC-QSYCEPPSYRPMHHEDFKE------------*
+1qb0a      FIRERDRAVNDYPSLYYPEMYILKGGYKEFFPQH-PNFCEPQDYRPMNHEAFKDELKTFRLKTRSW*
+1e0ca2     IAKALG----------YPRVKGYAGSWGEWGNH--PDTPVEL------------------------*
+1rhs2      AAYLCG----------KPDVAIYDGSWFEWFHRAPPETWVSQG---------------------KG*
+           =========|=========|=========|=========|=========|=========|======
+                    0160      0170      0180      0190      0200      0210   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1e0ca1     100.0  27.4  14.1  15.6  18.5  15.6
+  2-1rhs1       27.4 100.0  14.1  10.1  19.3   9.8
+  3-1c25        14.1  14.1 100.0  67.7  21.5  14.0
+  4-1qb0a       15.6  10.1  67.7 100.0  20.7  15.4
+  5-1e0ca2      18.5  19.3  21.5  20.7 100.0  22.2
+  6-1rhs2       15.6   9.8  14.0  15.4  22.2 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cy9a      structureX:1cy9: 214 :A: 473 :A:DNA topoisomerase I:Escherichia coli: 1.80: 20.5
+[  2] 1i7da      structureX:1i7d: 216 :A: 487 :A:DNA topoisomerase III:Escherichia coli: 2.05: 23.3
+
+
+1cy9a      FVPEEFWEVDASTTTPSGEALALQVTHQND------KPFRPVNKEQTQAAVSLLEKARYSVLEREDKPTTSKPGA
+1i7da      FVAKDFFEVKAHIVTPADERFTAIWQPSEACEPYQDEEGRLLHRPLAEHVVNRISGQPAIVTSYNDKRESESAPL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cy9a      PFITSTLQQAASTRLGFGVKKTMMMAQRLYEA-GYITYMRTDSTNLSQDAVN---MVRGYISDNFG-----KKYL
+1i7da      PFSLSALQIEAAKRFGLSAQNVLDICQKLYETHKLITFPRSDCRYLPEEHFAGRHAVMNAISVHAPDLLPQPVVD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cy9a      PESPNQYAS------HEAIRPSDVNVMAESLKDMEADAQKLYQLIWRQFVACQMTPAKYDSTTLTVGAGDFRLKA
+1i7da      PDIRNRCWDDKKVDAHHAIIPTARSSAI----NLTENEAKVYNLIARQYLMQFCPDAVFRKCVIELDIAKGKFVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cy9a      RGRILRFDGWTKVMD----------RILPAVNKGDALTLVELTPAQHFTKP*
+1i7da      KARFLAEAGWRTLLGSKERDEENDGTPLPVVAKGDELLCEKGEVVERQTQP*
+           ====|=========|=========|=========|=========|======
+               0230      0240      0250      0260      0270   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cy9a      100.0  24.9
+  2-1i7da       24.9 100.0
+
+***************************************************************************

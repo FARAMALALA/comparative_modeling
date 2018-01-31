@@ -1,0 +1,100 @@
+      Code       Title
+
+[  1] 1jatb      structureX:1jat:   2 :B: 137 :B:ubiquitin-conjugating enzyme variant MMS2:Saccharomyces cerevisiae: 1.60: 20.30
+[  2] 1j7da      structureX:1j7d:   6 :A: 145 :A:MMS2:Homo sapiens: 1.85: 21.50
+[  3] 1j7db      structureX:1j7d:   2 :B: 150 :B:ubiquitin-conjugating enzyme E2-17 kDa:Homo sapiens: 1.85: 21.50
+[  4] 1jata      structureX:1jat:   1 :A: 152 :A:ubiquitin-conjugating enzyme E2-17.5 kDa:Saccharomyces cerevisiae: 1.60: 20.30
+[  5] 1qcqa      structureX:1qcq:   1 :A: 148 :A:ubiquitin conjugating enzyme:Saccharomyces cerevisiae: 2.70: 24.00
+[  6] 1fzya      structureX:1fzy:   2 :A: 150 :A:ubiquitin-conjugating enzyme E2-24 kDa:Saccharomyces cerevisiae: 1.90: 20.90
+[  7] 2ucz       structureX:2ucz:   2 : : 165 : :ubiquitin conjugating enzyme:Saccharomyces cerevisiae: 2.93: 22.70
+[  8] 1u9b       structureX:1u9b:   0 : : 158 : :ubiquitin-conjugating enzyme E9:Mus musculus: 2.00: 18.50
+[  9] 2e2c       structureX:2e2c:  22 : : 177 : :ubiquitin conjugating enzyme:Spisula solidissima: 2.00: 21.60
+[ 10] 1i7ka      structureX:1i7k:  30 :A: 175 :A:ubiquitin-conjugating enzyme E2 H10:Homo sapiens: 1.95: 17.60
+[ 11] 2aak       structureX:2aak:   1 : : 150 : :ubiquitin conjugating enzyme:Arabidopsis thaliana: 2.40: 22.10
+[ 12] 1ayza      structureX:1ayz:   2 :A: 154 :A:ubiquitin-conjugating enzyme rad6:Saccharomyces cerevisiae: 2.60: 21.30
+[ 13] 1c4zd      structureX:1c4z:   4 :D: 147 :D:ubiquitin conjugating enzyme E2:Homo sapiens: 2.60: 23.70
+
+
+1jatb      -----SKVPRNFRLLEELEKGEK----ESCSYGLADSDDI--TMTKWNGTILGPPHSNHENRIYSLSIDCGPNYP
+1j7da      ----GVKVPRNFRLLEELEEGQKGVGDGTVSWGLEDDEDM--TLTRWTGMIIGPPRTNYENRIYSLKVECGPKYP
+1j7db      ------A-GLPRRIIKETQRLLAEPV-PGIKAEPD-E----SNARYFHVVIAGPQDSPFEGGTFKLELFLPEEYP
+1jata      ------AASLPKRIIKETEKLVSDPV-PGITAEPH-D----DNLRYFQVTIEGPEQSPYEDGIFELELYLPDDYP
+1qcqa      -------MSSSKRIAKELSDLERDPP-TSCSAGPVGD-----DLYHWQASIMGPADSPYAGGVFFLSIHFPTDYP
+1fzya      --------SRAKRIMKEIQAVKDDPA-AHITLEFVSE----SDIHHLKGTFLGPPGTPYEGGKFVVDIEVPMEYP
+2ucz       ------SKTAQKRLLKELQQLIKDSP-PGIVAGPKSE----NNIFIWDCLIQGPPDTPYADGVFNAKLEFPKDYP
+1u9b       ----NMSGIALSRLAQERKAWRKDHP-FGFVAVPTKNPDGTMNLMNWECAIPGKKGTPWEGGLFKLRMLFKDDYP
+2e2c       MTTSKERHSVSKRLQQELRTLLMSGD-PGITAFPDG-----DNLFKWVATLDGPKDTVYESLKYKLTLEFPSDYP
+1i7ka      --------PVGKRLQQELMTLMMSGD-KGISAFPES-----DNLFKWVGTIHGAAGTVYEDLRYKLSLEFPSGYP
+2aak       -----MSTPARKRLMRDFKRLQQDPP-AGISGAPQ-D----NNIMLWNAVIFGPDDTPWDGGTFKLSLQFSEDYP
+1ayza      ------STPARRRLMRDFKRMKEDAP-PGVSASPL-P----DNVMVWNAMIIGPADTPYEDGTFRLLLEFDEEYP
+1c4zd      ----------SRRLMKELEEIRKCGM-KNFRNIQVDE----ANLLTWQGLIVP-DNPPYDKGAFRIEINFPAEYP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jatb      DSPPKVTFISKINLPCVNPTTGEVQT-DFHTLR--------------DWKRAYTMETLLLDLRKEMAT-------
+1j7da      EAPPSVRFVTKINMNGINNSSGMVDARSIPVLA--------------KWQNSYSIKVVLQELRRLMMS-------
+1j7db      MAAPKVRFMTKIYHPNVDK-LGRIC---LDILK-D------------KWSPALQIRTVLLSIQALLSAPNPDDPL
+1jata      MEAPKVRFLTKIYHPNIDR-LGRIC---LDVLK-T------------NWSPALQIRTVLLSIQALLASPNPNDPL
+1qcqa      FKPPKISFTTKIYHPNINA-NGNIC---LDILK-D------------QWSPALTLSKVLLSICSLLTDANPDDPL
+1fzya      FKPPKMQFDTKVYHPNISSVTGAIC---LDILK-N------------AWSPVITLKSALISLQALLQSPEPNDPQ
+2ucz       LSPPKLTFTPSILHPNIYP-NGEVC---ISILHSPGDDPNMYELAEERWSPVQSVEKILLSVMSMLSEPNIESGA
+1u9b       SSPPKCKFEPPLFHPNVYP-SGTVC---LSILEED-----------KDWRPAITIKQILLGIQELLNEPNIQDPA
+2e2c       YKPPVVKFTTPCWHPNVDQ-SGNIC---LDILK-E------------NWTASYDVRTILLSLQSLLGEPNNASPL
+1i7ka      YNAPTVKFLTPCYHPNVDT-QGNIS---LDILK-E------------KWSALYDVRTILLSIQSLLGEPNIDSPL
+2aak       NKPPTVRFVSRMFHPNIYA-DGSIC---LDILQ-N------------QWSPIYDVAAILTSIQSLLCDPNPNSPA
+1ayza      NKPPHVKFLSEMFHPNVYA-NGEIC---LDILQ-N------------RWTPTYDVASILTSIQSLFNDPNPASPA
+1c4zd      FKPPKITFKTKIYHPNIDE-KGQVC---LPVISAE------------NWKPATKTDQVIQSLIALVNDPQPEHPL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jatb      ------------PANKKLRQPKE-----GETF--*
+1j7da      ------------KENMKLPQPPE-----GQTYNN*
+1j7db      ANDVAEQWKTNEAQAIETARAWTRLYAMN-----*
+1jata      ANDVAEDWIKNEQGAKAKAREWTKLYAKKKP---*
+1qcqa      VPEIAHIYKTDRPKYEATAREWTKKYA--V----*
+1fzya      DAEVAQHYLRDRESFNKTAALWTRLYA--S----*
+2ucz       NIDACILWRDNRPEFERQVKLSILKSLG-----F*
+1u9b       QAEAYTIYCQNRVEYEKRVRAQAKKFAP-----S*
+2e2c       NAQAADMWS-NQTEYKKVLHEKYKTAQ--SD--K*
+1i7ka      NTHAAELWK-NPTAFKKYLQETYSKQV--T----*
+2aak       NSEAARMYSESKREYNRRVRDVVEQSW--T----*
+1ayza      NVEAATLFKDHKSQYVKRVKETVEKSW--EDDMD*
+1c4zd      RADLAEEYSKDRKKFCKNAEEFTKKY--------*
+           =========|=========|=========|====
+                    0160      0170      0180 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13]
+
+  1-1jatb      100.0  50.0  18.9  22.7  25.8  20.5  24.2  22.7  23.5  25.8
+                18.2  21.2  21.2
+  2-1j7da       50.0 100.0  17.9  22.1  20.7  20.0  22.1  20.0  22.9  23.6
+                20.0  20.7  23.6
+  3-1j7db       18.9  17.9 100.0  69.1  45.9  40.9  31.5  32.2  36.2  39.0
+                35.6  34.2  31.9
+  4-1jata       22.7  22.1  69.1 100.0  48.6  41.6  31.6  30.9  39.5  41.1
+                34.0  30.9  36.8
+  5-1qcqa       25.8  20.7  45.9  48.6 100.0  44.6  37.8  37.2  37.2  35.6
+                40.5  36.5  40.3
+  6-1fzya       20.5  20.0  40.9  41.6  44.6 100.0  30.2  29.5  30.9  28.8
+                32.9  29.5  35.4
+  7-2ucz        24.2  22.1  31.5  31.6  37.8  30.2 100.0  37.7  34.6  37.0
+                39.3  39.2  28.5
+  8-1u9b        22.7  20.0  32.2  30.9  37.2  29.5  37.7 100.0  34.0  33.6
+                40.0  38.6  28.5
+  9-2e2c        23.5  22.9  36.2  39.5  37.2  30.9  34.6  34.0 100.0  67.1
+                38.7  40.5  28.5
+ 10-1i7ka       25.8  23.6  39.0  41.1  35.6  28.8  37.0  33.6  67.1 100.0
+                37.7  42.5  27.1
+ 11-2aak        18.2  20.0  35.6  34.0  40.5  32.9  39.3  40.0  38.7  37.7
+               100.0  62.7  25.0
+ 12-1ayza       21.2  20.7  34.2  30.9  36.5  29.5  39.2  38.6  40.5  42.5
+                62.7 100.0  27.1
+ 13-1c4zd       21.2  23.6  31.9  36.8  40.3  35.4  28.5  28.5  28.5  27.1
+                25.0  27.1 100.0
+
+***************************************************************************

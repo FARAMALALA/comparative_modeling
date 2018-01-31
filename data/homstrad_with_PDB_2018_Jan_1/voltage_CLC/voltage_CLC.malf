@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1kpka      structureX:1kpk:  12 :A: 461 :A:CLC chloride channel:Escherichia coli: 3.50: 29
+[  2] 1kpla      structureX:1kpl:  31 :A: 460 :A:CLC chloride channel:Salmonella typhimurium: 3.00: 25.4
+
+
+1kpka      QAARLRRRQLIRQLLERDKTPLAILFMAAVVGTLVGLAAVAFDKGVAWLQNQRMGALVHTADNYPLLLTVAFLCS
+1kpla      -------------------TPLAILFMAAVVGTLTGLVGVAFEKAVSWVQNMRIGALVQVADHAFLLWPLAFILS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kpka      AVLAMFGYFLVRKYAPEAGGSGIPEIEGALEDQRPVRWWRVLPVKFFGGLGTLGGGMVLGREGPTVQIGGNIGRM
+1kpla      ALLAMVGYFLVRKFAPEAGGSGIPEIEGALEELRPVRWWRVLPVKFIGGMGTLGAGMVLGREGPTVQIGGNLGRM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1kpka      VLDIFRLKGDEARHTLLATGAAAGLAAAFNAPLAGILFIIEEMRPQFRYTLISIKAVFIGVIMSTIMYRIFNHEV
+1kpla      VLDVFRMRSAEARHTLLATGAAAGLSAAFNAPLAGILFIIEEMRPQFRYNLISIKAVFTGVIMSSIVFRIFNGEA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1kpka      ALIDVGKLSDAPLNTLWLYLILGIIFGIFGPIFNKWVLGMQDLLHRVHGGNITKWVLMGGAIGGLCGLLGFVAPA
+1kpla      PIIEVGKLSDAPVNTLWLYLILGIIFGVVGPVFNSLVLRTQDMFQRFHGGEIKKWVLMGGAIGGLCGILGLIEPA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1kpka      TSGGGFNLIPIATAGNFSMGMLVFIFVARVITTLLCFSSGAPGGIFAPMLALGTVLGTAFGMVAVELFPQYHLEA
+1kpla      AAGGGFNLIPIAAAGNFSVGLLLFIFITRVVTTLLCFSSGAPGGIFAPMLALGTLLGTAFGMAAAVLFPQYHLEA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1kpka      GTFAIAGMGALLAASIRAPLTGIILVLEMTDNYQLILPMIITGLGATLLAQFTGGKPLYSAILARTLAKQEAEQL
+1kpla      GTFAIAGMGALMAASVRAPLTGIVLVLEMTDNYQLILPMIITCLGATLLAQFLGGKPLYSTILARTLAKQDAEQ-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kpka      100.0  80.9
+  2-1kpla       80.9 100.0
+
+***************************************************************************

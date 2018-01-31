@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 1zaa1      structureX:1zaa:  3 :C: 33 :C:zinc-finger (ZIF268, domain 1):Mus musculus:2.10:18.20
+[  2] 1zaa2      structureX:1zaa: 34 :C: 61 :C:zinc-finger (ZIF268, domain 2):Mus musculus:2.10:18.20
+[  3] 1zaa3      structureX:1zaa: 62 :C: 87 :C:zinc-finger (ZIF268, domain 3):Mus musculus:2.10:18.20
+[  4] 1ard       structureN:1ard: 102 : : 130 : :zinc-finger (transcription factor ADR1):Saccharomyces cerevisiae:-1.00:-1.00
+[  5] 1znf       structureN:1znf:   1 : :  25 : :zinc-finger (XFIN, 31st domain):Xenopus laevis:-1.00:-1.00
+[  6] 2drp2      structureX:2drp: 137 :A: 165:A:zinc-finger (tramtrack, domain 2):Drosophila melanogaster:2.80:19.30
+[  7] 3znf       structureN:3znf:   1 : :  30 : :zinc-finger (enhancer binding protein):Homo sapiens:-1.00:-1.00
+[  8] 5znf       structureN:5znf:   1 : :  30 : :zinc-finger (ZFY-6T):Homo sapiens:-1.00:-1.00
+[  9] 1bboN      structureX:1bbo:   1 : :  27 : :human enhancer-binding protein mbp-1 mutant with cys 11 replaced by abu (c11abu) (nmr, 60 structures):Synthetic peptide based on the human (homo sapiens) sequence:-1:-100
+[ 10] 2drp1      structureX:2drp: 103 :A: 136 :A:zinc-finger (tramtrack, domain 1):Drosophila melanogaster:2.80:19.30
+[ 11] 1paa       structureX:1paa: 130 : : 159 : :zinc-finger (transcription factor adr1:Saccharomyces cerevisiae:-1:-1
+[ 12] 1sp1       structureX:1sp1:   1 : :  29 : :sp1f3:Homo sapiens:-1:-1
+[ 13] 1sp2       structureX:1sp2:   1 : :  31 : :sp1f2:Homo sapiens:-1:-1
+[ 14] 1zfd       structureX:1zfd:  39 : :  70 : :swi5:Saccharomyces cerevisiae:-1:-1
+[ 15] 1znm       structureX:1znm:   2 : :  28 : :yy1:Homo sapiens:-1:-100
+
+
+1zaa1      ------RPYACPVESCDRRFSRSDELTRHI-RI-HTGQK*
+1zaa2      -------PFQCRI--CMRNFSRSDHLTTHI-RT-HTGEK*
+1zaa3      -------PFACDI--CGRKFARSDERKRHT-KI-HLR--*
+1ard       ------RSFVCEV--CTRAFARQEHLKRHY-RS-HTNEK*
+1znf       --------YKCGL--CERSFVEKSALSRHQ-RV-HKN--*
+2drp2      ----NVKVYPCPF--CFKEFTRKDNMTAHV-KIIHK---*
+3znf       ------RPYHCSY--CNFSFKTKGNLTKHMKSKAHSKK-*
+5znf       ------KTYQCQY--CEYRSADSSNLKTHIKTK-HSKEK*
+1bboN      -------KYICEE--CGIRCKKPSMLKKHI-RT-HTDV-*
+2drp1      FTKEGEHTYRCKV--CSRVYTHISNFCRHY-VTSHKR--*
+1paa       ------KAYACGL--CNRAFTRRDLLIRHAQKI-HSGNL*
+1sp1       ------KKFACPE--CPKRFMRSDHLSKHI--KTHQNKK*
+1sp2       ------RPFMCTWSYCGKRFTRSDELQRHK--RTHTGEK*
+1zfd       -----DRPYSCDHPGCDKAFVRNHDLIRHK-KS-HQEKA*
+1znm       --------FQCTF--CGKRFSLDFNLKTHV-KI-HTG--*
+           =========|=========|=========|=========
+                    0010      0020      0030      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15]
+
+  1-1zaa1      100.0  64.3  53.8  48.3  40.0  37.9  33.3  33.3  37.0  25.8
+                46.7  48.3  54.8  38.7  44.0
+  2-1zaa2       64.3 100.0  46.2  50.0  32.0  28.6  28.6  39.3  33.3  21.4
+                35.7  46.4  53.6  28.6  48.0
+  3-1zaa3       53.8  46.2 100.0  42.3  28.0  34.6  23.1  26.9  23.1  26.9
+                46.2  38.5  50.0  38.5  40.0
+  4-1ard        48.3  50.0  42.3 100.0  40.0  20.7  24.1  31.0  33.3  27.6
+                34.5  37.9  44.8  37.9  36.0
+  5-1znf        40.0  32.0  28.0  40.0 100.0  32.0  36.0  32.0  32.0  36.0
+                44.0  32.0  28.0  36.0  24.0
+  6-2drp2       37.9  28.6  34.6  20.7  32.0 100.0  31.0  24.1  18.5  27.6
+                41.4  34.5  31.0  31.0  44.0
+  7-3znf        33.3  28.6  23.1  24.1  36.0  31.0 100.0  40.0  29.6  20.0
+                30.0  31.0  26.7  33.3  28.0
+  8-5znf        33.3  39.3  26.9  31.0  32.0  24.1  40.0 100.0  37.0  26.7
+                26.7  37.9  30.0  20.0  40.0
+  9-1bboN       37.0  33.3  23.1  33.3  32.0  18.5  29.6  37.0 100.0  25.9
+                22.2  37.0  29.6  22.2  36.0
+ 10-2drp1       25.8  21.4  26.9  27.6  36.0  27.6  20.0  26.7  25.9 100.0
+                26.7  13.8  19.4  18.8  20.0
+ 11-1paa        46.7  35.7  46.2  34.5  44.0  41.4  30.0  26.7  22.2  26.7
+               100.0  34.5  36.7  40.0  36.0
+ 12-1sp1        48.3  46.4  38.5  37.9  32.0  34.5  31.0  37.9  37.0  13.8
+                34.5 100.0  48.3  34.5  36.0
+ 13-1sp2        54.8  53.6  50.0  44.8  28.0  31.0  26.7  30.0  29.6  19.4
+                36.7  48.3 100.0  38.7  52.0
+ 14-1zfd        38.7  28.6  38.5  37.9  36.0  31.0  33.3  20.0  22.2  18.8
+                40.0  34.5  38.7 100.0  32.0
+ 15-1znm        44.0  48.0  40.0  36.0  24.0  44.0  28.0  40.0  36.0  20.0
+                36.0  36.0  52.0  32.0 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ftra1     structure:1ftra1: 1ftr1: 19 :A: 161 :A:Formyltransferase [domain swapped for 1-18]:  Methanopyrus Kanderi:1.7:19.8 
+[  2] 1ftra2     structure:1ftra2: 1ftr1: 162:A: 18 :A:Formyltransferase [domain swapped for 149-161]: Methanopyrus Kanderi:1.7:19.8
+
+
+1ftra1     ---KMARVLITAASHKWAMIAVKEATGFGTSVIMCPAEAGI---DCGYVP-------------------PE----
+1ftra2     TGVAGGNFYIMAESQPAGLQAAEAAVDAIKGV--EGAYAPFPGGIVASASKVGSKQYDFLPASTNDAYCPTVEDN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ftra1     ETPDGR-PGVTIMIGHNDEDELKEQLLDRIGQCVMTAPTA-SAFDAMPE-AEKEDEDRVGYKLSFFGDGYQEEDE
+1ftra2     ELPEGVKCVYEIVINGLNEEAVKEAMRVGIE-AACQQPGVVKISAGNFGGKLGQYEIHLHDLFM----------E
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ftra1     LDGRKVWKIPVVEGEFIVEDSFGIT---*
+1ftra2     IN------------GVEIEDTFAEAFEA*
+           =========|=========|========
+                    0160      0170     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ftra1     100.0  16.8
+  2-1ftra2      16.8 100.0
+
+***************************************************************************

@@ -1,0 +1,146 @@
+      Code       Title
+
+[  1] 6fabhv     structureX:6fab:   1 :H: 126 :H:immunoglobulin FAB 36-71:Mus musculus: 1.90:20.90
+[  2] 1faihv     structureX:1fai:   1 :H: 129 :H:immunoglobulin FAB R19.9:Mus musculus: 2.70:18.90
+[  3] 1jhlhv     structureX:1jhl:   1 :H: 116 :H:immunoglobulin DAB D11.15:Mus musculus: 2.40:21.40
+[  4] 3hflhv     structureX:3hfl:   2 :H: 113 :H:immunoglobulin FAB HyHEL-5:Mus musculus: 2.65:19.60
+[  5] 1bbdhv     structureX:1bbd:   1 :H: 123 :H:immunoglobulin FAB 8F5:Mus musculus: 2.80:19.00
+[  6] 1ncahv     structureX:1nca:   1 :H: 118 :H:immunoglobulin FAB NC41:Mus musculus: 2.50:19.10
+[  7] 1mamhv     structureX:1mam:   1 :H: 124 :H:immunoglobulin FAB YS-T9.1:Mus musculus: 2.50:21.50
+[  8] 1mcphv     structureX:1mcp:   1 :H: 127 :H:immunoglobulin FAB McPC603:Mus musculus: 2.70:22.50
+[  9] 4fabhv     structureX:4fab:   1 :H: 123 :H:immunoglobulin FAB 4-4-20:Mus musculus: 2.70:21.50
+[ 10] 8fabhv     structureX:8fab:   1 :B: 126 :B:immunoglobulin FAB HIL:Homo sapiens: 1.80:17.30
+[ 11] 2fb4hv     structureX:2fb4:   1 :H: 118 :H:immunoglobulin FAB KOL:Homo sapiens: 1.90:18.90
+[ 12] 1dfbhv     structureX:1dfb:   1 :H: 131 :H:immunoglobulin FAB 3D6:Homo sapiens: 2.70:17.70
+[ 13] 1igmhv     structureX:1igm:   1 :H: 129 :H:immunoglobulin FAB POT:Homo sapiens: 2.30:20.10
+[ 14] 1hilhv     structureX:1hil:   1 :B: 118 :B:immunoglobulin FAB 17-9:Mus musculus: 2.00:19.00
+[ 15] 1igfhv     structureX:1igf:   1 :H: 118 :H:immunoglobulin FAB B13I2:Mus musculus: 2.80:18.10
+[ 16] 2fbjhv     structureX:2fbj:   1 :H: 123 :H:immunoglobulin FAB J539:Mus musculus: 2.00:19.40
+[ 17] 3hfmhv     structureX:3hfm:   1 :H: 118 :H:immunoglobulin FAB HyHEL-10:Homo sapiens: 3.00:24.60
+[ 18] 1bafhv     structureX:1baf:   1 :H: 120 :H:immunoglobulin FAB AN02:Mus musculus: 2.90:19.50
+[ 19] 1fdlhv     structureX:1fdl:   1 :H: 121 :H:immunoglobulin FAB D1.3:Mus musculus: 2.50:18.40
+[ 20] 7fabhv     structureX:7fab:   1 :H: 122 :H:immunoglobulin FAB NEW:Homo sapiens: 2.00:16.90
+[ 21] 1bvkb      structureX:1bvk:   1 :B: 116 :B:immunoglobulin FAB HULYS11 (engineered):Homo sapiens and Mus musculus: 2.7: 20.8
+
+
+6fabhv     EVQLQQSGVELVRAGSSVKMSCKASGYTFTS-NGINWVKQRPGQGLEWIGYNNPG--NGYIAYNEKFKGKTTLTV
+1faihv     QVQLQQSGAELVRAGSSVKMSCKASGYTFTS-YGVNWVKQRPGQGLEWIGYINPG--KGYLSYNEKFKGKTTLTV
+1jhlhv     QVQLQQSGAELVRPGASVKLSCKASGYTFIS-YWINWVKQRPGQGLEWIGNIYPS--DSYTNYNQKFKDKATLTV
+3hflhv     -VQLQQSGAELMKPGASVKISCKASGYTFSD-YWIEWVKQRPGHGLEWIGEILPG--SGSTNYHERFKGKATFTA
+1bbdhv     EVQLQQSGAELVRPGASVKLSCTTSGFNIKD-IYIHWVKQRPEQGLEWIGRLDPA--NGYTKYDPKFQGKATITV
+1ncahv     QIQLVQSGPELKKPGETVKISCKASGYTFTN-YGMNWVKQAPGKGLEWMGWINTN--TGEPTYGEEFKGRFAFSL
+1mamhv     EVKLVESGGGLVQPGGSLRLSCATSGFTFTD-YYMSWVRQPPGKALEWLGFIRNKADGYTTEYSASVKGRFTISR
+1mcphv     EVKLVESGGGLVQPGGSLRLSCATSGFTFSD-FYMEWVRQPPGKRLEWIAASRNKGNKYTTEYSASVKGRFIVSR
+4fabhv     EVKLDETGGGLVQPGRPMKLSCVASGFTFSD-YWMNWVRQSPEKGLEWVAQIRNKPYNYETYYSDSVKGRFTISR
+8fabhv     AVKLVQAGGGVVQPGRSLRLSCIASGFTFSN-YGMHWVRQAPGKGLEWVAVIWY--NGSRTYYGDSVKGRFTISR
+2fb4hv     EVQLVQSGGGVVQPGRSLRLSCSSSGFIFSS-YAMYWVRQAPGKGLEWVAIIWD--DGSDQHYADSVKGRFTISR
+1dfbhv     EVQLVESGGGLVQPGRSLRLSCAASGFTFND-YAMHWVRQAPGKGLEWVSGISW--DSSSIGYADSVKGRFTISR
+1igmhv     EVHLLESGGNLVQPGGSLRLSCAASGFTFNI-FVMSWVRQAPGKGLEWVSGVFG--SGGNTDYADAVKGRFTITR
+1hilhv     EVQLVESGGDLVKPGGSLKLSCAASGFSFSS-YGMSWVRQTPDKRLEWVATISN--GGGYTYYPDSVKGRFTISR
+1igfhv     EVQLVESGGDLVKPGGSLKLSCAASGFTFSR-CAMSWVRQTPEKRLEWVAGISS--GGSYTFYPDTVKGRFIISR
+2fbjhv     EVKLLESGGGLVQPGGSLKLSCAASGFDFSK-YWMSWVRQAPGKGLEWIGEIHP--DSGTINYTPSLKDKFIISR
+3hfmhv     DVQLQESGPSLVKPSQTLSLTCSVTGDSITSD-YWSWIRKFPGNRLEYMGYVSYS---GSTYYNPSLKSRISITR
+1bafhv     DVQLQESGPGLVKPSQSQSLTCTVTGYSITSDYAWNWIRQFPGNKLEWMGYMSYS---GSTRYNPSLRSRISITR
+1fdlhv     QVQLKESGPGLVAPSQSLSITCTVSGFSLTG-YGVNWVRQPPGKGLEWLGMIWGD---GNTDYNSALKSRLSISK
+7fabhv     AVQLEQSGPGLVRPSQTLSLTCTVSGTSFDD-YYWTWVRQPPGRGLEWIGYVFYT---GTTLLDPSLRGRVTMLV
+1bvkb      QVQLQESGPGLVRPSQTLSLTCTVSGFSLTG-YGVNWVRQPPGRGLEWIGMIWGD---GNTDYNSALKSRVTMLK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+6fabhv     DKSSSTAYMQLRSLTSEDSAVYFCARSEYYG---G--SYKFDYWGQGTTLTVSSAKTT---P*
+1faihv     DRSSSTAYMQLRSLTSEDAAVYFCARSFYGGSDLA--VYYFDSWGQGTTLTVSSAKTT---P*
+1jhlhv     DKSSSTAYMQLSSPTSEDSAVYYCTRDDNY--------GAMDYWGQGTTVTV----------*
+3hflhv     DTSSSTAYMQLNSLTSEDSGVYYCLHGNY----------DFDGWGQGTTLTVSS--------*
+1bbdhv     DTSSNTAYLHLSSLTSEDTAVYYCDGYYS--------YYDMDYWGPGTSVTVSSAKTT---A*
+1ncahv     ETSASTANLQINNLKNEDKATFFCARGEDNFGS------LSDYWGQGTTLTVSSAKTT---A*
+1mamhv     DNSQSILYLQMNTLRAEDSATYYCTRDPYGP---------AAYWGQGTLVTVSAAKTTP---*
+1mcphv     DTSQSILYLQMNALRAEDTAIYYCARNYYGST------WYFDVWGAGTTVTVSSESARN---*
+4fabhv     DDSKSSVYLQMNNLRVEDMGIYYCTGSYY----------GMDYWGQGTSVTVSSAKTTA---*
+8fabhv     DNSKRTLYMQMNSLRTEDTAVYYCARDPDI-----LTAFSFDYWGQGVLVTVSSASTKG---*
+2fb4hv     NDSKNTLFLQMDSLRPEDTGVYFCARDGGHGFCSSASCFGPDYWGQGTPVTVSS--------*
+1dfbhv     DNAKNSLYLQMNSLRAEDMALYYCVKGRDYYDSGGYFTVAFDIWGQGTMVTVSSASTK---G*
+1igmhv     DNSKNTLYLQMNSLRAEDTAIYYCAKHRVS-----YVLTGFDSWGQGTLVTVSSGSASAPTL*
+1hilhv     DNAKNTLYLQMSSLKSEDSAMYYCARRERY------DENGFAYWGQGTLVTVSAAKTTA---*
+1igfhv     NNARNTLSLQMSSLRSEDTAIYYCTRYSS-------DPFYFDYWGQGTTLTVSSAKTTP---*
+2fbjhv     DNAKNSLYLQMSKVRSEDTALYYCARLHY--------YGYNAYWGQGTLVTVSAESAR---N*
+3hfmhv     DTSKNQYYLDLNSVTTEDTATYYCAN-W-----------DGDYWGQGTLVTVSAAKTTP---*
+1bafhv     DTSKNQFFLQLKSVTTEDTATYFCARGW-----------PLAYWGQGTQVSVSEAKTTP---*
+1fdlhv     DNSKSQVFLKMNSLHTDDTARYYCARERD---------YRLDYWGQGTTLTVSSASTTP---*
+7fabhv     NTSKNQFSLRLSSVTAADTAVYYCARNLIA--------GGIDVWGQGSLVTVSSASTKG---*
+1bvkb      DTSKNQFSLRLSSVTAADTAVYYCARERD---------YRLDYWGQGSLVTVSS--------*
+           ====|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17] [ 18] [ 19] [ 20]
+               [ 21]
+
+  1-6fabhv     100.0  87.3  74.1  70.4  63.4  56.8  45.2  41.3  45.5  45.2
+                42.9  44.4  43.7  50.4  46.8  43.9  42.4  45.0  46.3  41.8
+                46.6
+  2-1faihv      87.3 100.0  73.3  71.3  61.0  57.6  45.2  42.5  44.7  46.0
+                42.9  41.9  42.6  48.0  46.8  43.9  41.5  45.0  48.8  42.6
+                49.1
+  3-1jhlhv      74.1  73.3 100.0  70.4  65.5  50.0  47.4  42.2  46.6  49.1
+                45.7  46.6  44.8  50.0  47.4  50.9  40.5  43.1  43.1  44.0
+                48.3
+  4-3hflhv      70.4  71.3  70.4 100.0  62.6  57.4  46.1  47.8  48.7  48.7
+                44.3  49.6  47.8  47.8  47.0  48.7  40.0  40.0  43.5  41.7
+                42.6
+  5-1bbdhv      63.4  61.0  65.5  62.6 100.0  43.9  45.5  43.9  48.8  43.9
+                42.3  44.7  45.5  48.8  49.6  45.5  47.5  45.0  43.0  49.2
+                49.1
+  6-1ncahv      56.8  57.6  50.0  57.4  43.9 100.0  46.8  41.6  47.2  48.0
+                44.0  46.4  41.6  48.0  47.6  40.7  39.8  42.5  49.6  37.7
+                43.1
+  7-1mamhv      45.2  45.2  47.4  46.1  45.5  46.8 100.0  74.2  66.7  63.7
+                57.3  64.5  61.3  66.9  61.3  63.4  49.2  46.7  52.9  44.3
+                46.6
+  8-1mcphv      41.3  42.5  42.2  47.8  43.9  41.6  74.2 100.0  62.6  59.5
+                54.0  59.1  61.4  56.8  59.7  61.8  41.5  38.3  47.1  45.9
+                44.8
+  9-4fabhv      45.5  44.7  46.6  48.7  48.8  47.2  66.7  62.6 100.0  62.6
+                58.5  63.4  58.5  62.6  59.3  55.3  41.5  40.0  47.9  39.3
+                42.2
+ 10-8fabhv      45.2  46.0  49.1  48.7  43.9  48.0  63.7  59.5  62.6 100.0
+                68.3  68.3  63.5  64.0  61.3  57.7  44.1  41.7  52.9  48.4
+                49.1
+ 11-2fb4hv      42.9  42.9  45.7  44.3  42.3  44.0  57.3  54.0  58.5  68.3
+               100.0  63.5  59.5  60.0  60.5  55.3  39.8  43.3  47.1  44.3
+                46.6
+ 12-1dfbhv      44.4  41.9  46.6  49.6  44.7  46.4  64.5  59.1  63.4  68.3
+                63.5 100.0  69.0  64.8  64.5  63.4  44.1  44.2  51.2  45.1
+                47.4
+ 13-1igmhv      43.7  42.6  44.8  47.8  45.5  41.6  61.3  61.4  58.5  63.5
+                59.5  69.0 100.0  64.0  62.1  61.0  46.6  40.8  52.1  45.9
+                51.7
+ 14-1hilhv      50.4  48.0  50.0  47.8  48.8  48.0  66.9  56.8  62.6  64.0
+                60.0  64.8  64.0 100.0  76.6  64.2  52.5  49.2  50.4  44.3
+                48.3
+ 15-1igfhv      46.8  46.8  47.4  47.0  49.6  47.6  61.3  59.7  59.3  61.3
+                60.5  64.5  62.1  76.6 100.0  58.5  44.9  43.3  49.6  40.2
+                43.1
+ 16-2fbjhv      43.9  43.9  50.9  48.7  45.5  40.7  63.4  61.8  55.3  57.7
+                55.3  63.4  61.0  64.2  58.5 100.0  45.8  45.0  47.9  45.9
+                49.1
+ 17-3hfmhv      42.4  41.5  40.5  40.0  47.5  39.8  49.2  41.5  41.5  44.1
+                39.8  44.1  46.6  52.5  44.9  45.8 100.0  78.8  55.9  56.8
+                57.8
+ 18-1bafhv      45.0  45.0  43.1  40.0  45.0  42.5  46.7  38.3  40.0  41.7
+                43.3  44.2  40.8  49.2  43.3  45.0  78.8 100.0  58.3  55.8
+                59.5
+ 19-1fdlhv      46.3  48.8  43.1  43.5  43.0  49.6  52.9  47.1  47.9  52.9
+                47.1  51.2  52.1  50.4  49.6  47.9  55.9  58.3 100.0  52.1
+                78.4
+ 20-7fabhv      41.8  42.6  44.0  41.7  49.2  37.7  44.3  45.9  39.3  48.4
+                44.3  45.1  45.9  44.3  40.2  45.9  56.8  55.8  52.1 100.0
+                72.4
+ 21-1bvkb       46.6  49.1  48.3  42.6  49.1  43.1  46.6  44.8  42.2  49.1
+                46.6  47.4  51.7  48.3  43.1  49.1  57.8  59.5  78.4  72.4
+               100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1wab       structureX:1wab:   5 : : 216 : :platelet-activating factor acetylhydrolase IB gamma subunit:Bos taurus: 1.7: 19.54
+[  2] 1fxwf      structureX:1fxw:   6 :F: 217 :F:platelet-activating factor acetylhydrolase IB beta subunit:Homo sapiens: 2.10: 21.8
+
+
+1wab       ENPASKPTPVQDVQGDGRWMSLHHRFVADSKDKEPEVVFIGDSLVQLMHQCEIWRELFSPLHALNFGIGGDSTQH
+1fxwf      SNPAAIPHAAEDIQGDDRWMSQHNRFVLDCKDKEPDVLFVGDSMVQLMQQYEIWRELFSPLHALNFGIGGDTTRH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1wab       VLWRLENGELEHIRPKIVVVWVGTNNHGHTAEQVTGGIKAIVQLVNERQPQARVVVLGLLPRGQHPNPLREKNRR
+1fxwf      VLWRLKNGELENIKPKVIVVWVGTNNHENTAEEVAGGIEAIVQLINTRQPQAKIIVLGLLPRGEKPNPLRQKNAK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1wab       VNELVRAALAGHPRAHFLDADPGFVHSDGTISHHDMYDYLHLSRLGYTPVCRALHSLLLRLL*
+1fxwf      VNQLLKVSLPKLANVQLLDTDGGFVHSDGAISCHDMFDFLHLTGGGYAKICKPLHELIMQLL*
+           =========|=========|=========|=========|=========|=========|==
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1wab       100.0  66.0
+  2-1fxwf       66.0 100.0
+
+***************************************************************************

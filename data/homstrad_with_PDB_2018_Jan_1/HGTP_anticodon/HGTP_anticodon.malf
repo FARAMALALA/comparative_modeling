@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1evla      structureX:1evl: 533 :A: 642 :A:threonyl-tRNA synthetase:Escherichia coli: 1.55: 21.5
+[  2] 1hc7a      structureX:1hc7: 281 :A: 395 :A:prolyl-tRNA synthetase:Thermus thermophilus: 2.43: 20.6
+[  3] 1atia      structureX:1ati: 395 :A: 505 :A:glycyl-tRNA synthetase:Thermus aquaticus: 2.75: 22.7
+[  4] 1h4vb      structureX:1h4v: 325 :B: 421 :B:histidyl-tRNA synthetase:Thermus aquaticus: 2.4: 20.8
+[  5] 1kmma      structureX:1kmm: 326 :A: 424 :A:histidyl-tRNA synthetase:Escherichia coli: 2.6: 22.1
+[  6] 1qe0a      structureX:1qe0: 326 :A: 420 :A:histidyl-tRNA synthetase:Staphylococcus aureus: 2.7: 19.7
+
+
+1evla      FPTWLAPVQVVIMNIT-----DSQSEYVNELTQKLSNA--GIRVKADLRN-EKIGFKIREHTLRRVPYMLVCGDK
+1hc7a      LPPRLAPIQVVIVPIYKDESRERVLEAAQGLRQALLAQ--GLRVHLDDRDQHTPGYKFHEWELKGVPFRVELGPK
+1atia      ---QLAPIKVAVIPLVKN--RPEITEYAKRLKARLLAL-GLGRVLYED-T-GNIGKAYRRHDEVGTPFAVTVDYD
+1h4vb      ---EEKGPDLYLIPLT-----EEAVAEAFYLAEALRP---RLRAEYALAP-RKPAKGLEEALKRGAAFAGFLGED
+1kmma      ----DPVVDIYLVASG-----ADTQSAAMALAERLRDELPGVKLMTNHGG-GNFKKQFARADKWGARVAVVLGES
+1qe0a      ---IEENLDLFIVTMG-----DQADRYAVKLLNHLRHN--GIKADKDYLQ-RKIKGQMKQADRLGAKFTIVIGDQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1evla      EVES---------GKVAVRTRRGKDLGSMDVNEVIEKLQQEIRSRSLKQLEE*
+1hc7a      DLE---------GGQAVLASRL-GGKETLPLAALPEALPGKLDAFHEELYRR*
+1atia      TIGQSKDGTTRLKDTVTVRDRDTMEQIRLHVDELEGFLRERLRW--------*
+1h4vb      ELR---------AGEVTLKRLATGEQVRLSREEVPGYLLQAL-G--------*
+1kmma      EVA---------NGTAVVKDLRSGEQTAVAQDSVAAHLRTLL-G--------*
+1qe0a      ELE---------NNKIDVKNMTTGESETIELDALVEYFKK------------*
+           ====|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1evla      100.0  28.2  20.9  16.5  13.1  18.9
+  2-1hc7a       28.2 100.0  24.3  22.7  17.2  20.0
+  3-1atia       20.9  24.3 100.0  25.8  21.2  13.7
+  4-1h4vb       16.5  22.7  25.8 100.0  29.9  24.2
+  5-1kmma       13.1  17.2  21.2  29.9 100.0  25.3
+  6-1qe0a       18.9  20.0  13.7  24.2  25.3 100.0
+
+***************************************************************************

@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1klo2      structureX:1klo:  66 : : 121 : :laminin gamma-1 chain:Mus musculus: 2.1: 19.72
+[  2] 1klo1      structureX:1klo:  11 : :  65 : :laminin gamma-1 chain:Mus musculus: 2.1: 19.72
+[  3] 1klo3      structureX:1klo: 122 : : 172 : :laminin gamma-1 chain:Mus musculus: 2.1: 19.72
+
+
+1klo2      CQCNDNIDPNAVGNCN--RLT--GECLKCIYNTAGFYCDRCKEGFFGNPLAPNPAD-KCKA*
+1klo1      CPCPG------GSSCAIVPKTKEVVCTHCPTGTAGKRCELCDDGYFGDPLGSNGPVRLCRP*
+1klo3      CACNPYGTVQQQSSCN--PVT--GQC-QCLPHVSGRDCGTCDPGYY-NLQSG----QGCER*
+           =========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1klo2      100.0  32.7  29.4
+  2-1klo1       32.7 100.0  31.4
+  3-1klo3       29.4  31.4 100.0
+
+***************************************************************************

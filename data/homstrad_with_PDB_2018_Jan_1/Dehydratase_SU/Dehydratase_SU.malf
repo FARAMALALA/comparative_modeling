@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1eexg      structureX:1eex:  37 :G: 173 :G:Propanediol dehydratase, gamma subunit:Klebsiella oxytoca: 1.70: 16.4
+[  2] 1iwpg      structureX:1iwp:   4 :G: 141 :G:Glycerol dehydratase, gamma subunit:Klebsiella pneumoniae: 2.10: 20.9
+
+
+1eexg      -SARVSDYPLANKHPEWVKTATNKTLDDFTLENVLSNKVTAQDMRITPETLRLQASIAKDAGRDRLAMNFERAAE
+1iwpg      KTMRVQDYPLATRCPEHILTPTGKPLTDITLEKVLSGEVGPQDVRISRQTLEYQAQIAEQMQRHAVARNFRRAAE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eexg      LTAVPDDRILEIYNALRPYRSTKEELLAIADDLESRYQAKICAAFVREAATLYVERKKLKGDD*
+1iwpg      LIAIPDERILAIYNALRPFRSSQAELLAIADELEHTWHATVNAAFVRESAEVYQQRHKLRKGS*
+           ====|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eexg      100.0  55.5
+  2-1iwpg       55.5 100.0
+
+***************************************************************************

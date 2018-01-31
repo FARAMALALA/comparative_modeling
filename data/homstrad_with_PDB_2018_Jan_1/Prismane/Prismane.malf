@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1gnla      structureX:1gnl:   1 :A: 543 :A:prismane protein:Desulfovibrio desulfuricans: 1.25: 13
+[  2] 1gnta      structureX:1gnt:   1 :A: 553 :A:prismane protein:Desulfovibrio vulgaris: 1.25: 15.8
+
+
+1gnla      SNAMFCYQCQETVGNKGCTQVGVCGKKPETAALQDALIYVTKGLGQIATRLRAEGKAVDHRIDRLVTGNLFATIT
+1gnta      ---MFCFQCQETAKNTGCTVKGMCGKPEETANLQDLLIFVLRGIAIYGEKLKELGQPD-RSNDDFVLQGLFATIT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gnla      NANFDDDILAERVRMTCAAKKELAASLT----------DKSGLSDAALWEASEKSAMLAKAGTVGVMATTDDDVR
+1gnta      NANWDDARFEAMISEGLARRDKLRNAFLAVYKAKNGKDFSEPLPEAATWTGD-STAFAEKAKSVGILATENEDVR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gnla      SLRWLITFGLKGMAAYAKHADVLGKHENSLDAFMQEALAKTLDDSLSVADLVALTLETGKFGVSAMALLDAANTG
+1gnta      SLRELLIIGLKGVAAYAEHAAVLGFRKTEIDEFMLEALASTTKD-LSVDEMVALVMKAGGMAVTTMALLDEANTT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gnla      TYGHPEITKVNIGVGSNPGILISGHDLRDLEMLLKQTEGTGVDVYTHSEMLPAHYYPAFKKYAHFKGNYGNAWWK
+1gnta      TYGNPEITQVNIGVGKNPGILISGHDLKDMAELLKQTEGTGVDVYTHGEMLPANYYPAFKKYPHFVGNYGGSWWQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1gnla      QKEEFESFNGPVLLTTNCLVPPKDS--YKDRVYTTGIVGFTGCKHIPG-EIGEHKDFSAIIAHAKTCPAPTEIES
+1gnta      QNPEFESFNGPILLTTNCLVPLKKENTYLDRLYTTGVVGYEGAKHIADRPAGGAKDFSALIAQAKKCPPPVEIET
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1gnla      GEIIGGFAHNQVLALADKVIDAVKSGAIKKFVVMAGCDGRAKSRSYYTDFAEGLPKDTVILTAGCAKYRYNKLNL
+1gnta      GSIVGGFAHHQVLALADKVVEAVKSGAIKRFVVMAGCDGRQKSRSYYTEVAENLPKDTVILTAGCAKYRYNKLNL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1gnla      GDIGGIPRVLDAGQCNDSYSLAVIALKLKEVFGLEDVNDLPIVYNIAWYEQKAVIVLLALLSLGVKNIHLGPTLP
+1gnta      GDIGGIPRVLDAGQCNDSYSLAVIALKLKEVFGLDDINDLPVSYDIAWYEQKAVAVLLALLFLGVKGIRLGPTLP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1gnla      AFLSPNVAKVLVEQFNIGGITSPQDDLKAFF---*
+1gnta      AFLSPNVAKVLVENFNIKPIGTVQDDIAAMMAGK*
+           ====|=========|=========|=========
+               0530      0540      0550      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gnla      100.0  66.3
+  2-1gnta       66.3 100.0
+
+***************************************************************************

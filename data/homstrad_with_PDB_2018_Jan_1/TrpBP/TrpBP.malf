@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1c9sa      structureX:1c9s:   7 :A:  75 :A:Trp ribonucleic acid-binding attenuation protein:Bacillus stearothermophilus: 1.90: 18.8
+[  2] 1wapa      structureX:1wap:   8 :A:  75 :A:transcription attenuation protein mtrb:Bacillus subtilis: 1.80: -1
+
+
+1c9sa      SDFVVIKALEDGVNVIGLTRGADTRFHHSEKLDKGEVLIAQFTEHTSAIKVRGKAYIQTRHGVIESEGK*
+1wapa      -DFVVIKAVEDGVNVIGLTRGTDTKFHHSEKLDKGEVIIAQFTEHTSAIKVRGEALIQTAYGEMKSEKK*
+           =========|=========|=========|=========|=========|=========|=========
+                    0010      0020      0030      0040      0050      0060      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c9sa      100.0  82.4
+  2-1wapa       82.4 100.0
+
+***************************************************************************

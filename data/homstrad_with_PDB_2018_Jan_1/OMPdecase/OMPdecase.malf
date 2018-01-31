@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1dbta      structureX:1dbt:   1 :A: 237 :A:orotidine 5'-phosphate decarboxylase:Bacillus subtilis: 2.40: 19.3
+[  2] 1dqwa      structureX:1dqw:   1 :A: 267 :A:orotidine 5'-phosphate decarboxylase:Saccharomyces cerevisiae: 2.10: 21.8
+
+
+1dbta      --------------------------MKNNLPIIALDFASAEETLAFLAPFQQEPLFVKVGMELFYQEGP-SIVK
+1dqwa      MHKATYKERAATHPSPVAAKLFNIMHEKQTNLCASLDVRTTKELLELVEALGPKICLLKTHVDILTDFSMEGTVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dbta      QLKER----NCELFLDLKLHDIPTTVNKAMK----RLASLGVDLVNVHAAGGKKMMQAALEGLEEGTPAGKKRPS
+1dqwa      PLKALSAKYNFLLFEDRKFADIGNTVKLQYSAGVYRIAE-WADITNAHGVVGPGIVSGLKQAAEEVT---KEPRG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dbta      LIAVTQLTSTSEQIMKDELLIEKSLIDTVVHYSKQAEE--SGLDGVVCSVHEAKAIYQAVSPSFLTVTPGIRM-S
+1dqwa      LLMLAEL-SCK------GSLST---GEYTKGTVDIAKSDKDFVIGFIAQ--RDMGGRDEGY-DWLIMTPGVGLDD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dbta      EDAANDQVRVATPAIAREKGSSAIVVGRSITKAE-DPVKAYKAVRLEWEGI---------*
+1dqwa      KGDALG-QQYRTVDDVVSTGSDIIIVGRGLFAKGRDAKVEGERYRKAGWEAYLRRCGQQD*
+           ====|=========|=========|=========|=========|=========|=====
+               0230      0240      0250      0260      0270      0280  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1dbta      100.0  20.7
+  2-1dqwa       20.7 100.0
+
+***************************************************************************

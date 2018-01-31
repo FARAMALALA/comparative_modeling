@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1awcb      structureX:1awc:   5 :B: 127 :B:ga binding protein beta-2 chain (gabp-beta-2 subunit) (gabbp2):Mus musculus: 2.15: 21.1
+[  2] 1iknd      structureX:1ikn: 143 :D: 272 :D:major histocompatibility complex enhancer-binding protein mad3(i-kappa-b-alpha):Homo sapiens: 2.30: 22.3
+[  3] 1ycsb      structureX:1ycs: 327 :B: 455 :B:p53-binding protein 53bp2 (bcl2-binding protein) (bbp):Homo sapiens: 2.2: 20.5
+
+
+1awcb      DLGKKLLEAARAGQDDEVRILMAN-G------APFTTDWLGTSPLHLAAQYGHFSTTEVLLRAGVSRDARTK-VD
+1iknd      RGNTPLHLACEQGCLASVGVLTQSCTTPHLHSILKATNYNGHTCLHLASIHGYLGIVELLVSLGADVNAQEPCNG
+1ycsb      -PLALLLDSSLEGEFDLVQRIIYEVD------DPSLPNDEGITALHNAVCAGHTEIVKFLVQFGVNVNAADS-DG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1awcb      RTPLHMAASEGHANIVEVLLKHGADVNAKDM-LKMTALHWATEHN--HQEVVELLIKYG---*
+1iknd      RTALHLAVDLQNPDLVSLLLKCGADVNRVTY-QGYSPYQLTW--GRPSTRIQQQLGQL----*
+1ycsb      WTPLHCAASCNNVQVCKFLVESGAAVFAMTYSDMQTAADKCEEMEEGYTQCSQFLYGVQEKM*
+           ====|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1awcb      100.0  25.2  26.0
+  2-1iknd       25.2 100.0  25.6
+  3-1ycsb       26.0  25.6 100.0
+
+***************************************************************************

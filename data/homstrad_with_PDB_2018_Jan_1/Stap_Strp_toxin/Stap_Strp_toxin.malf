@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 3seb       structureX:3seb:   1 : : 238 : :enterotoxin type b:Staphylococcus aureus: 1.48: -1
+[  2] 1ste       structureX:1ste:   1 : : 237 : :enterotoxin type c-2:Staphylococcus aureus: 2.0: 20.5
+[  3] 1bxta      structureX:1bxt:   1 :A: 234 :A:streptococcal superantigen:Streptococcus pyogenes: 1.85: 23.7
+[  4] 1esfa      structureX:1esf:   1 :A: 233 :A:enterotoxin type a:Staphylococcus aureus: 1.9: 20.4
+[  5] 1an8       structureX:1an8:   3 : : 208 : :exotoxin type c:Streptococcus pyogenes: 2.4: 17.1
+[  6] 3tss       structureX:3tss:   5 : : 194 : :toxic shock syndrome toxin-1:Staphylococcus aureus: 1.9: 17.3
+
+
+3seb       ESQP--DPKPDELHKSSKFTGL-MENMKVLYDDN-HVSAINVKSIDQFLYFDLIYSIKDTKLGNYDNVRVEFKNK
+1ste       ESQP--DPTPDELHKSSEFTGT-MGNMKYLYDDH-YVSATKVMSVDKFLAHDLIYNISDKKLKNYDKVKTELLNE
+1bxta      SSQP--DPTPEQLNKSSQFTGV-MGNLRCLYDNH-FVEGTNVRSTGQLLQHDLIFPIKDLALKNYDSVKTEFNSK
+1esfa      -SEKSEEINEKDLRKKSELQGTALGNLKQIYYYNEKAKTENKESHDQFLQHTILFKGFFT----YNDLLVDFDSK
+1an8       ----------------KKDISNVKSDLLYAYTIT-PYDYKDCRVNFST-THTLNIDTQ-KYRGKDYYISSEM-SY
+3tss       ----------------------NIKDLLDWYSSG-SDTFTNSEVLDNS-LGSMRIKNT-D----GSISLIIFPSP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3seb       DLADKYK-DKYVDVFGANYYYQCYFSKKTNDINSHQTDKRKTCMYGGVTEHNGNQLD---KYRSITVRVFEDGKN
+1ste       DLAKKYK-DEVVDVYGSNYYVNCYFSSKDNV---GKVTGGKTCMYGGITKHEGNHF-DNGNLQNVLIRVYENKRN
+1bxta      DLAAKYK-NKDVDIFGSNYYANC-----------------KTCMYGGVTEHHRNQI-E-GKFPNITVKVYEDNEN
+1esfa      DIVDKYK-GKKVDLYGAYYGYQCAGGTP----------NKTACMYGGVTLHDNNRLT---EEKKVPINLWLDGKQ
+1an8       EASQKFKRDDHVDVFGLFYILNSH---------------TGEYIYGGITPAQ--NNK---VNHKLLGNLFISGES
+3tss       YYSPAFTKGEKVDLNTKRIKKSQHTS----------EGTWIHFQISGVTNTE--KLP---TPIELPLKVKVHG-K
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3seb       LLSFD---VQTNKKKVTAQELDYLTRHYLVKNKKLYEF--NNSPYETGYIKFIEN-ENSFWYDMMPAPGDKFDQS
+1ste       TISFE---VQTDKKSVTAQELDIKARNFLINKKNLYEF--NSSPYETGYIKFIENNGNTFWYDMMPAPGDKFDQS
+1bxta      ILSFD---ITTNKKQVTVQELDCKTRKILVSRKNLYEF--NNSPYETGYIKFIESSGDSFWYDMMPAPGAIFDQS
+1esfa      NTVP-LETVKTNKKNVTVQELDLQARRYLQEKYNLYNSDVFDGKVQRGLIVFHTSTEPSVNYDLFGAQG--QYSN
+1an8       QQNLN-NKIILEKDIVTFQEIDFKIRKYLMDNYKIYDAT---SPYVSGRIEIGTKDGKHEQIDLFDSPNE-GTRS
+3tss       DSPLK-YWPKFDKKQLAISTLDFKIRHQLTQTHGLYRSS----DKTGGYWKITMNDGSTYQSDLSKKF-------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3seb       KYLMMYNDNK-MVDSKDV-KIEVYLTTKK*
+1ste       KYLMMYNDNK-TVDSKSV-KIEVHLTTK-*
+1bxta      KYLMLYNDNK-TVSSSAI-AIEVHLTKK-*
+1esfa      TLLRIYRDNK-TINSENM-HIDIYLYTS-*
+1an8       DIFAKYKDNR-IINMKNFSHFDIYLEK--*
+3tss       ----EYNTEKPPINIDEIKTIEAEIN---*
+           ====|=========|=========|====
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-3seb       100.0  66.2  64.4  35.8  22.3  16.8
+  2-1ste        66.2 100.0  62.6  31.0  21.8  17.4
+  3-1bxta       64.4  62.6 100.0  33.3  22.3  17.9
+  4-1esfa       35.8  31.0  33.3 100.0  22.8  20.0
+  5-1an8        22.3  21.8  22.3  22.8 100.0  18.4
+  6-3tss        16.8  17.4  17.9  20.0  18.4 100.0
+
+***************************************************************************

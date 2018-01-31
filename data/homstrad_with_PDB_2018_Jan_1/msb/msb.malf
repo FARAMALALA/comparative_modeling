@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1esl       structureX:1esl:   1 : : 120 : :lec domain E-selectin:Homo sapiens:2.00:16.40
+[  2] 1rdo1      structureX:1rdo: 115 :1: 225 :1:mannose-binding protein-c:Rattus rattus:1.70:20.1
+[  3] 1msba      structureX:1msb: 107 :A: 221 :A:mannose-binding protein:Rattus rattus:2.30:17.60
+[  4] 1tn3       structureX:1tn3:  45 : : 181 : :tetranectin (plasminogen-kringle 4 binding protein):Homo sapiens: 2.0: 21.5
+[  5] 2afp       structureX:2afp:   1 : : 129 : :type ii antifreeze protein:Hemitripterus americanus: -1: -1
+[  6] 1qdda      structureX:1qdd:   1 :A: 144 :A:lithostathine 1 alpha:Homo sapiens: 1.30: -1
+[  7] 1ixxa      structureX:1ixx:   1 :A: 129 :A:coagulation factor IX-factor X-binding protein A chain:Trimeresurus flavoviridis: 2.5: 17.8
+[  8] 1ixxb      structureX:1ixx:   1 :B: 123 :B:coagulation factor IX-factor X-binding protein B chain:Trimeresurus flavoviridis: 2.5: 17.8
+
+
+1esl       -----------------------WSYNTSTEAMTYDEASAYCQQR--YTHLVAIQNKEEIEYLNSILS----YSP
+1rdo1      -----------------------KYFMSSVRRMPLNRAKALCSEL--QGTVATPRNAEENRAIQNVAK-------
+1msba      --------------------SGKKFFVTNHERMPFSKVKALCSEL--RGTVAIPRNAEENKAIQEVAK-------
+1tn3       ---------ALQTVCLKGTKVHMKCFLAFTQTKTFHEASEDCISR--GGTLSTPQTGSENDALYEYLRQSV-GNE
+2afp       -------QRAGPNCPAGWQPLGDRCIYYETTAMTWALAETNCMKL--GGHLASIHSQEEHSFIQTL-------NA
+1qdda      QAAATELPAAAASCPEGTNAYRSYCYYFNEDRETWVDADLYCQNMN-SGNLVSVLTQAEGAFVASLIKES-GTDD
+1ixxa      ------------DCLSGWSSYEGHCYKAFEKYKTWEDAERVCTEQAKGAHLVSIESSGEADFVAQLVTQNMKRLD
+1ixxb      ------------DCPSDWSSYEGHCYKPFSEPKNWADAENFCTQQHAGGHLVSFQSSEEADFVVKLAFQTF--GH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1esl       SYYWIGIRKVN----NVWVWVGTQKPLTEEAKNWAP---GEPNNRQKDEDCVEIYIKREKDVGMWNDERCSKKKL
+1rdo1      DVAFLGITDQRTE--NVFEDL-TGNRVR--YTNWNE---GEPNNVGSGENCVVLLT-----NGKWNDVPCSDSFL
+1msba      TSAFLGITDEVTE--GQFMYV-TGGRLT--YSNWKK---DEPNDHGSGEDCVTIVD-----NGLWNDISCQASHT
+1tn3       AEIWLGLNDMAAE--GTWVDM-TGARIA--YKNWETEITAQPDG-GKTENCAVLSGA---ANGKWFDKRCRDQLP
+2afp       GVVWIGGSACLQ--AGAWTWS-DGTPMN--FRSWC---STKPDDV-LAACCMQMTAAAD-Q--CWDDLPCPASHK
+1qdda      FNVWIGLHDP--KKNRAWHWS-SGSLVS--YKSWG---IGAPSSV-NPGYCVSLTSSTGFQ--KWKDVPCEDKFS
+1ixxa      FYIWIGLRVQGKVKQCNSEWS-DGSSVS--YENWI--------EA-ESKTCLGLEKETDFR--KWVNIYCGQQNP
+1ixxb      SIFWMGLSNV--WNQCNWQWS-NAAMLR--YKAW----------A-EESYCVYFKST--NN--KWRSRACRMMAQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1esl       ALCYTA--*
+1rdo1      VVCEFS--*
+1msba      AVCEFPA-*
+1tn3       YICQFGIV*
+2afp       SVCAMTF-*
+1qdda      FVCKFKN-*
+1ixxa      FVCEA---*
+1ixxb      FVCEFQA-*
+           ========
+                   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1esl       100.0  27.9  27.0  25.0  20.0  21.7  17.5  20.8
+  2-1rdo1       27.9 100.0  58.6  34.2  21.6  26.1  18.0  17.1
+  3-1msba       27.0  58.6 100.0  28.7  21.7  17.4  13.0  16.5
+  4-1tn3        25.0  34.2  28.7 100.0  19.4  21.2  21.7  22.0
+  5-2afp        20.0  21.6  21.7  19.4 100.0  30.2  24.8  25.2
+  6-1qdda       21.7  26.1  17.4  21.2  30.2 100.0  34.1  30.1
+  7-1ixxa       17.5  18.0  13.0  21.7  24.8  34.1 100.0  45.5
+  8-1ixxb       20.8  17.1  16.5  22.0  25.2  30.1  45.5 100.0
+
+***************************************************************************

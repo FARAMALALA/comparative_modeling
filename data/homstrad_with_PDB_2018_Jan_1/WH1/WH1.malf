@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1qc6a      structureX:1qc6:1002 :A:1113 :A:evh1 domain from ena-vasp-like protein:Mus musculus: 2.60: 21.5
+[  2] 1evha      structureX:1evh:   2 :A: 112 :A:enabled:Mus musculus: 1.80: 23
+
+
+1qc6a      SEQSICQARASV-VYDDTSKKWVPIK----FSRINIYHNTASSTFRVVGVKLQDQQVVINYSIVKGLKYNQATPT
+1evha      SEQSICQARAAVMVYDDANKKWVPAGGSTGFSRVHIYHHTGNNTFRVVGRKIQDHQVVINCAIPKGLKYNQATQT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qc6a      FHQWRDARQVYGLNFASKEEATTFSNA-LFALNI-N*
+1evha      FHQWRDARQVYGLNFGSKEDANVFASAMMHALEVLN*
+           ====|=========|=========|=========|=
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qc6a      100.0  73.1
+  2-1evha       73.1 100.0
+
+***************************************************************************

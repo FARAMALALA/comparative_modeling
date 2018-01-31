@@ -1,0 +1,105 @@
+      Code       Title
+
+[  1] 3mina      structureX:3min:   5 :A: 480 :A:nitrogenase molybdenum-iron protein alpha chain:Azotobacter vinelandii: 2.03: 20.6
+[  2] 1qh8a      structureX:1qh8:   1 :A: 478 :A:nitrogenase molybdenum-iron protein alpha chain:Klebsiella pneumoniae: 1.6: 15.5
+[  3] 1mioa      structureX:1mio:   2 :A: 526 :A:nitrogenase molybdenum-iron protein alpha chain:Clostridium pasteurianum: 3.0: 18
+[  4] 3minb      structureX:3min:   33 :B: 523 :B:nitrogenase molybdenum-iron protein beta chain:Azotobacter vinelandii: 2.03: 20.6
+[  5] 1qh8b      structureX:1qh8:   1 :B: 519 :B:nitrogenase molybdenum-iron protein beta chain:Klebsiella pneumoniae: 1.6: 15.5
+[  6] 1miob      structureX:1mio:   2 :B: 458 :B:nitrogenase molybdenum-iron protein beta chain:Clostridium pasteurianum: 3.0: 18
+
+
+3mina      ----------------------------------SREEVESLIQEVLEVYPEKARKDRNKHLAVN---------C
+1qh8a      -------------------------------TNATGERNLALIQEVLEVFPETARKERRKHMMVSDPKMKSVGKC
+1mioa      --------------------------------------SENLKDEILEKYIPKTKKTRSGHIVIKTEETPNP--E
+3minb      ------------------------------EKYPQDKIDEVFQWTTTKEYQELNFQRE-----------------
+1qh8b      SQTIDKINSCYPLFEQDEYQELFRNKRQLEEAHDAQRVQEVFAWTTTAEYEALNFRRE-----------------
+1miob      ------------------------------------------LDATPKEIV----ERK-----------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3mina      IISNKKSQPGLMTIRGCAYAGSKGVVWGPIKDMIHISHGPVGCGQYSRAGRRNYYIGTTG-VNAFVTMNFTSDFQ
+1qh8a      IISNRKSQPGVMTVRGCAYAGSKGVVFGPIKDMAHISHGPVGCGQYSRAGRRNYYTGVSG-VDSFGTLNFTSDFQ
+1mioa      IVANTRTVPGIITARGCAYAGCKGVVMGPIKDMVHITHGPIGCSFYTWGGRRFKSKPENGTGLNFNEYVFSTDMQ
+3minb      -------ALTVNPAKACQPLGAV-LCALGFEKTMPYVHGSQGCVAYFRSYFN--------RHFREPVSCVSDSMT
+1qh8b      -------ALTVDPAKACQPLGAV-LCSLGFANTLPYVHGSQGCVAYFRTYFN--------RHFKEPIACVSDSMT
+1miob      -------ALRINPAKTCQPVGAM-YAALGIHNCLPHSHGSQGCCSYHRTVLS--------RHFKEPAMASTSSFT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3mina      EKDIVFGGDKKLAKLIDEVETLFPLNKGISVQSECPIGLIGDDIESVSKVKGAEL----SKTIVPVRCEGFRGVS
+1qh8a      ERDIVFGGDKKLSKLIEEMELLFPLTKGITIQSECPVGLIGDDISAVANASSKAL----DKPVIPVRCEGFRGVS
+1mioa      ESDIVFGGVNKLKDAIHEAYEMFH-PAAIGVYATCPVGLIGDDILAVAATASKEI----GIPVHAFSCEGYKGVS
+3minb      EDAAVFGGQQNMKDGLQNCKATYK-PDMIAVSTTCMAEVIGDDLNAFINNSKKEGFIPDEFPVPFAHTPSFVG-S
+1qh8b      EDAAVFGGNNNMNLGLQNASALYK-PEIIAVSTTCMAEVIGDDLQAFIANAKKDGFVDSSIAVPHAHTPSFIG-S
+1miob      EGASVFGGGSNIKTAVKNIFSLYN-PDIIAVHTTCLSETLGDDLPTYISQMEDAGSIPEGKLVIHTNTPSYVG-S
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3mina      QSLGHHIANDAVRDWVLGKRDEDTTFASTPYDVAIIGDYNIGGDAWSSRILLEEMGLRCVAQWSGD---------
+1qh8a      QSLGHHIANDVVRDWILNNREGQ-PFETTPYDVAIIGDYNIGGDAWASRILLEEMGLRVVAQWSGD---------
+1mioa      QSAGHHIANNTVMTDIIGKG----NKEQKKYSINVLGEYNIGGDAWEMDRVLEKIGYHVNATLTGD---------
+3minb      HVTGWDNMFEGIARYFTLKSMDDKVVGSNKKINIVPGFETYLGNFRVIKRMLSEMGVGYSLLSDPEEVLDTPADG
+1qh8b      HVTGWDNMFEGFAKTFTADY--QGQPGKLPKLNLVTGFETYLGNFRVLKRMMEQMAVPCSLLSDPSEVLDTPADG
+1miob      HVTGFANMVQGIVNYLSENTGA-----KNGKINVIPGFV-GPADMREIKRLFEAMDIPYIMFPDTSGVLDGPTTG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+3mina      ---------GSISEIELTPKVKLNLVHCYRSMNYISRHMEEKYGIPWMEY-NFFGPTKTIESLRAIAAKF-DESI
+1qh8a      ---------GTLVEMENTPFVKLNLVHCYRSMNYIARHMEEKHQIPWMEY-NFFGPTKIAESLRKIADQF-DDTI
+1mioa      ---------ATYEKVQNADKADLNLVQCHRSINYIAEMMETKYGIPWIKC-NFIGVDGIVETLRDMAKCFDDPEL
+3minb      QFRMYA-GGTTQEEMKDAPNALNTVLLQPWHLEKTKKFVEGTWKHEVPKLNIPMGLDWTDEFLMKVSEISGQ---
+1qh8b      HYRMYS-GGTTQQEMKEAPDAIDTLLLQPWQLLKSKKVVQEMWNQPATEVAIPLGLAATDELLMTVSQLSGK---
+1miob      EYKMYPEGGTKIEDLKDTGNSDLTLSLGSYASDLGAKTLEKKCKVPFKTLRTPIGVSATDEFIMALSEATGK---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+3mina      QKKCEEVIAKYKPEWEAVVAKYRPRLEGKRVMLYIGGLRPRHVIGAYEDLGMEVVGTGYEFAHNDDYDRTMKEMG
+1qh8a      RANAEAVIARYEGQMAAIIAKYRPRLEGRKVLLYMGGLRPRHVIGAYEDLGMEIIAAGYEFAHNDDYDRTLPDLK
+1mioa      TKRTEEVIAEEIAAIQDDLDYFKEKLQGKTACLYVGGSRSHTYMNMLKSFGVDSLVAGFEFAHRDDYEGREVIPT
+3minb      --PIPASLTKERGRLVDMMTDSHTWLHGKRFALWGDPDFVMGLVKFLLELGCEPVHILCHNGNKRWKKAVDAILA
+1qh8b      --PIADALTLERGRLVDMMLDSHTWLHGKKFGLYGDPDFVMGLTRFLLELGCEPTVILSHNANKRWQKAMNKMLD
+1miob      --EVPASIEEERGQLIDLMIDAQQYLQGKKVALLGDPDEIIALSKFIIELGAIPKYVVTGTPGMKFQKEIDAMLA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+3mina      ----------------------------------------------------DSTLLYDDVTGYEFEEFVKRIKP
+1qh8a      ----------------------------------------------------EGTLLFDDASSYELEAFVKALKP
+1mioa      IKIDADSKNIPEITVTPDEQKYRVVIPEDKVEELKKAGVPLSAYGGMMKEMHDGTILIDDMNHHDMEVVLEKLKP
+3minb      ASPYGK-----------------------------------------------NATVYIGKDLWHLRSLVFTDKP
+1qh8b      ASPYGR-----------------------------------------------DSEVFINCDLWHFRSLMFTRQP
+1miob      EAG-IE-----------------------------------------------GSKVKVEGDFFDVHQWIKNEGV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+3mina      DLIGSGIKEKFIFQK-------MGIPFREMHSWDY------SGPYHGFDGFAIFARDMDMTLNNPCWKKLQAPWE
+1qh8a      DLIGSGIKEKYIFQK-------MGVPFRQMHSWDY------SGPYHGYDGFAIFARDMDMTLNNPAWNELTAPWL
+1mioa      DMFFAGIKEKFVIQK-------GGVLSKQLHSYDY------NGPYAGFRGVVNFGHELVNGIYTPAWKMITPPWK
+3minb      DFMIGNSYGKFIQRDTLHKGKEFEVPLIRIGFPIFDRHHLHRSTTLGYEGAMQILTTLVNSILERLDEETRGMQA
+1qh8b      DFMIGNSYGKFIQRDTLAKGKAFEVPLIRLGFPLFDRHHLHRQTTWGYEGAMNIVTTLVNAVLEKLDSDTSQLGK
+1miob      DLLISNTYGKFIAREE-------NIPFVRFGFPIMDRYGHYYNPKVGYKGAIRLVEEITNVILDKIERECT----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+3mina      ---------*
+1qh8a      ---------*
+1mioa      KASSES---*
+3minb      TDYNHDLVR*
+1qh8b      TDYSFDLVR*
+1miob      -EEDFEVVR*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-3mina      100.0  74.1  40.9  13.9  13.5  14.9
+  2-1qh8a       74.1 100.0  40.8  14.2  13.8  16.2
+  3-1mioa       40.9  40.8 100.0  15.3  14.5  15.5
+  4-3minb       13.9  14.2  15.3 100.0  69.0  39.6
+  5-1qh8b       13.5  13.8  14.5  69.0 100.0  37.2
+  6-1miob       14.9  16.2  15.5  39.6  37.2 100.0
+
+***************************************************************************

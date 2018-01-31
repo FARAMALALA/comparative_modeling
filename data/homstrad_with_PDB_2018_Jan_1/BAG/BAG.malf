@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1hx1b      structureX:1hx1: 150 :B: 261 :B:BAG-family molecular chaperone regulator-1:Homo sapiens: 1.90: 23.4
+[  2] 1i6za      structureX:1i6z:  85 :A: 219 :A:BAG-family molecular chaperone regulator-1:Mus musculus: -1: -1
+
+
+1hx1b      G----------NSPQEEVELKKLKHLEKSVEKIADQLEELNKELTGIQQGFLPKDLQAEALCKLDRRVKATIEQF
+1i6za      GSPEFMLIGEKSNPEEEVELKKLKDLEVSAEKIANHLQELNKELSGIQQGFLAKELQAEALCKLDRKVKATIEQF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hx1b      MKILEEIDTLILPENFKDSRLKRKGLVKKVQAFLAECDTVEQNICQE-------------*
+1i6za      MKILEEIDTMVLPEQFKDSRLKRKNLVKKVQVFLAECDTVEQYICQETERLQSTNLALAE*
+           ====|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hx1b      100.0  83.0
+  2-1i6za       83.0 100.0
+
+***************************************************************************

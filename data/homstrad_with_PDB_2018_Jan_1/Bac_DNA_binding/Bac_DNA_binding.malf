@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1huuc1     structureX:1huu:   1 :C:  90 :C:DNA-binding protein HU:Bacillus stearothermophilus: 2.00: 19.3
+[  2] 1wtua      structureX:1wtu:   1 :A:  99 :A:transcription factor 1:Bacteriophage sp01: -1: -1
+[  3] 1ihfa      structureX:1ihf:   2 :A:  97 :A:integration host factor alpha-subunit:Escherichia coli: 2.50: 19.2
+[  4] 1ihfb      structureX:1ihf:   1 :B:  94 :B:integration host factor beta-subunit:Escherichia coli: 2.50: 19.2
+
+
+1huuc1     -MNKTELINAVAETSG-LSKKDATKAVDAVFDSITEALRKGDKVQLIGFGNFEVRE-------------------
+1wtua      -MNKTELIKAIAQDTE-LTQVSVSKMLASFEKITTETVAKGDKVQLTGFLNIKPVARQARKGFNPQTQEALEIAP
+1ihfa      ALTKAEMSEYLFDKLG-LSKRDAKELVELFFEEIRRALENGEQVKLSGFGNFDLRDKNQRPGRNPKTGEDIPITA
+1ihfb      -MTKSELIERLATQQSHIPAKTVEDAVKEMLEHMASTLAQGERIEIRGFGSFSLHYRAPRTGRNPKTGDKVELEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1huuc1     RKVPAFKPGKALKDAVK---------*
+1wtua      SVGVSVKPGESLKKAAEGLKYEDFAK*
+1ihfa      RRVVTFRPGQKLKSRVENASPK----*
+1ihfb      KYVPHFKPGKELRDRANIYG------*
+           ====|=========|=========|=
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1huuc1     100.0  40.8  42.3  33.8
+  2-1wtua       40.8 100.0  24.0  25.5
+  3-1ihfa       42.3  24.0 100.0  30.9
+  4-1ihfb       33.8  25.5  30.9 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1phza      structureX:1phz:  19 :A: 115 :A:phenylalanine-4-hydroxylase:Rattus norvegicus: 2.2: 22.3
+[  2] 1psda      structureX:1psd: 327 :A: 410 :A:D-3-phosphoglycerate dehydrogenase:Escherichia coli: 2.75: 17.7
+
+
+1phza      GQETSYIEDNSNQNGAISLIFSLKEEVGALAKVLRLFEENDINLTHIESRPSRLNKDEYEFFTYLDKRTKPVLGS
+1psda      -----FPEVSLPLHGGRRLMHIHENRPGVLTALNKIFAEQGVNIAAQYLQTS---AQMGYVVIDIEA-DEDVAEK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1phza      IIKSLRNDIGA-TVHELSRDKEK*
+1psda      ALQAMKAIPGTIRARLLY-----*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1phza      100.0  14.3
+  2-1psda       14.3 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1vih       structureX:1vih:   6 : :  76 : :vigilin, repeat 6:Homo sapiens: -1: -1
+[  2] 1khma      structureX:1khm:   1 :A:  89 :A:heterogeneous nuclear ribonucleoprotein K:Homo sapiens: -1: -1
+
+
+1vih       ---------INRMDYVEINIDHKFHRHLIGKSGANINRIKDQYKVSVRIPPDSE--KSNLIRIEGDPQGVQQAKR
+1khma      GSPNSYGDLGGPIITTQVTIPKDLARSIIGKGGQRIKQIRHESGASIKIDEPLEGSEDRIITITGTQDQIQNAQY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1vih       ELLELAS-------*
+1khma      LLQNSVKQYSGKFF*
+           ====|=========
+               0080      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1vih       100.0  23.9
+  2-1khma       23.9 100.0
+
+***************************************************************************

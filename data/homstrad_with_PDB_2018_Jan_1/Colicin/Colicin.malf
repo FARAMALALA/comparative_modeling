@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1cola      structureX:1col:   5 :A: 201 :A:colicin A:Citrobacter freundii: 2.40: 18.0
+[  2] 1a87       structureX:1a87: 187 : : 387 : :colicin N:Escherichia coli: 3.10: 17.3
+[  3] 1cii       structureX:1cii: 440 : : 624 : :colicin IA:Escherichia coli: 3.00: 24.1
+
+
+1cola      --AKDERELLEKTSELIAGMGDKIGEHLGDKYKAIAKDIADNIKNFQGKTIRSFDDAMASLNKITANPAMKINKA
+1a87       EKEKNEKEALLKASELVSGMGDKLGEYLGVKYKNVAKEVANDIKNFHGRNIRSYNEAMASLNKVLANPKMKVNKS
+1cii       KRKQDELKATKDAINFTTEFLKSVSEKYGAKAEQLAREMAGQAK---GKKIRNVEEALKTYEKYRADINKKINAK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cola      DRDALVNAWKHVDAQDMANKLGNLSKAFKVADVVMKVEKVREKSIEGYETGNWGPLMLEVESWVLSGIASSVALG
+1a87       DKDAIVNAWKQVNAKDMANKIGNLGKAFKVADLAIKVEKIREKSIEGYNTGNWGPLLLEVESWIIGGVVAGVAIS
+1cii       DRAAIAAALESVKLSDISSNLNRFSRGLGYAGKFTSLADWITEFGKAVRTENWRPLFVKTETIIA-----GNAAT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cola      IFSATLGAYALSLGVPAIAVGIAGILLAAVVGALIDDKFADALNNEIIR---*
+1a87       LFGAVLSFLPIS-GLAVTALGVIGIMTISYLSSFIDANRVSNINNIISSVIR*
+1cii       ALVALVFSILTGSAL----GIIGYGLLMAVTGALIDESLVEKANKFW-----*
+           =========|=========|=========|=========|=========|==
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1cola      100.0  56.9  24.9
+  2-1a87        56.9 100.0  22.2
+  3-1cii        24.9  22.2 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2irfg      structureX:2irf:   5 :G: 113 :G:interferon regulatory factor 2 (irf-2):Mus musculus: 2.2: 20.2
+[  2] 1if1a      structureX:1if1:   7 :A: 111 :A:interferon regulatory factor 1 (irf-1):Mus musculus: 3.0: 24.2
+
+
+2irfg      --RMRMRPWLEEQINSNTIPGLKWLNKEKKIFQIPWMHAARHGWDVEKDAPLFRNWAIHTGKHQPGIDKPDPKTW
+1if1a      RMRPWLEMQINSNQIPGL----IWINKEEMIFQIPWKHAAKHGWDINKDACLFRSWAIHTGRYKAGEKEPDPKTW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2irfg      KANFRCAMNSLPDIEEVKDRSIKKGNNAFRVYRMLP*
+1if1a      KANFRCAMNSLPDIEEVKDQS--RNKGSSAVRVYRM*
+           ====|=========|=========|=========|=
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2irfg      100.0  55.2
+  2-1if1a       55.2 100.0
+
+***************************************************************************

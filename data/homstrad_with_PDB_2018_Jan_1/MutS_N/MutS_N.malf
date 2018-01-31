@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ewqa      structureX:1ewq:   2 :A: 120 :A:DNA mismatch repair protein MutS:Thermus aquaticus: 2.2: 22.7
+[  2] 1e3ma      structureX:1e3m:   2 :A: 116 :A:DNA mismatch repair protein MutS:Escherichia coli: 2.2: 22.814
+
+
+1ewqa      EGLKGEGPG---PLPPLLQQYVELRDQYPDYLLLFQVGDFYECFGEDAERLARALGLVLTHKTSK-DFTTPAGIP
+1e3ma      -----SAIENFDAHTP--QQYLRLKAQHPEILLFYR-GDFYELFYDDAKRASQLLDISLTKRGASAGEPIPAGIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ewqa      LRAFEAYAERLLK-GFRLAVADQVEPAEEAEGLVRREVTQLLTPGT*
+1e3ma      YHAVENYLAKLVNQGESVAICEQIGDPATSKGPVERKVVRIVTP--*
+           ====|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ewqa      100.0  35.1
+  2-1e3ma       35.1 100.0
+
+***************************************************************************

@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1qu9a      structureX:1qu9:   2 :A: 128 :A:protein YjgF:Escherichia coli: 1.20: 16.4
+[  2] 1qd9a      structureX:1qd9:   2 :A: 125 :A:Purine regulatory protein YabJ:Bacillus subtilis: 1.70: 16.6
+[  3] 1jd1a      structureX:1jd1:   3 :A: 128 :A:hypothetical 13.9 kda protein in fcy2-pet117 intergenic region:Saccharomyces cerevisiae: 1.70: 20.7
+
+
+1qu9a      --SKTIATENAPAAIGPYVQGVDLGNMIITSGQIPVNPKTGEVPADVAAQARQSLDNVKAIVEAAGLKVGDIVKT
+1qd9a      --TKAVHTKHAPAAIGPYSQGIIVNNMFYSSGQIPLTPSGEMVNGDIKEQTHQVFSNLKAVLEEAGASFETVVKA
+1jd1a      TTLTPVICESAPAAAASYSHAMKVNNLIFLSGQIPVTPDNKLVEGSIADKAEQVIQNIKNVLEASNSSLDRVVKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qu9a      TVFVKDLNDFATVNATYEAFFTEHNATFPARS-VEVARLPKDVKIEIEAIAVRR*
+1qd9a      TVFIADMEQFAEVNEVYGQYFDT---HKPARSCVEVARLPKDALVEIEVIALVK*
+1jd1a      NIFLADINHFAEFNSVYAKYFNT---HKPARSCVAVAALPLGVDMEMEAIAAER*
+           ====|=========|=========|=========|=========|=========
+               0080      0090      0100      0110      0120      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qu9a      100.0  48.4  38.9
+  2-1qd9a       48.4 100.0  47.6
+  3-1jd1a       38.9  47.6 100.0
+
+***************************************************************************

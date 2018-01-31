@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1lqc       structureX:1lqc:   1 : :  55 : :lactose operon repressor:Escherichia coli: -1: -1
+[  2] 1qpza      structureX:1qpz:   2 :A:  58 :A:purine nucleotide synthesis repressor:Escherichia coli: 2.50: 18.3
+[  3] 1uxd       structureX:1uxd:   1 : :  59 : :fructose repressor (catabolite repressor-activator):Escherichia coli: -1: -1
+
+
+1lqc       MKPVTLYDVAEYAGVSYQTVSRVVNQAS---HVSAKTREKVEAAMAELNYIPNRVAQQ-------*
+1qpza      ---ATIKDVAKRANVSTTTVSHVINKTR---FVAEETRNAVWAAIKELHYS--PSAVARSLKVNH*
+1uxd       ---MKLDEIARLAGVSRTTASYVINGKAKQYRVSDKTVEKVMAVVREHNYH--PNAVAAGLR-LQ*
+           =========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1lqc       100.0  40.0  40.0
+  2-1qpza       40.0 100.0  36.8
+  3-1uxd        40.0  36.8 100.0
+
+***************************************************************************

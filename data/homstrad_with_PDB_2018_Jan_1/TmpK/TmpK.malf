@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1tmka      structureX:1tmk:   3 :A: 216 :A:thymidylate kinase:Saccharomyces cerevisiae: 2.1: 18
+[  2] 4tmka      structureX:4tmk:   2 :A: 211 :A:thymidylate kinase:Escherichia coli: 1.98: 20.4
+
+
+1tmka      GRGKLILIEGLDRTGKTTQCNILYKKLQP----NCKLLKFPERSTRIGGLINEYLTDD----SFQLSDQAIHLLF
+4tmka      -RSKYIVIEGLEGAGKTTARNVVVETLEQLGIRDMVFTREPGG-TQLAEKLRSLLLDIKSVGDEVITDKAEVLMF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tmka      SANRWEIVD-KIKKDLLEGKNIVMDRYVYSGVAYSA-AKGTNGMDLDWCLQPDV---GLLKPDLTLFLSTQFG--
+4tmka      YAARVQLVETVIKPALANGTWVIGDRHDLSTQAYQGGGRG---IDQHMLATLRDAVLGDFRPDLTLYLDVTPEVG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tmka      ---------DERYE--TVKFQEKVKQTFMKLLDKEIRKGDESITIVDVTNKGIQEVEALIWQIVEPVLSTHIDHD
+4tmka      LKRARARGELDRIEQESFDFFNRTRARYLELAAQD-----KSIHTIDAT-QPLEAVMDAIRTTVTHWVKEL----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1tmka      KFSFF*
+4tmka      -----*
+           ====|
+               0230 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tmka      100.0  26.0
+  2-4tmka       26.0 100.0
+
+***************************************************************************

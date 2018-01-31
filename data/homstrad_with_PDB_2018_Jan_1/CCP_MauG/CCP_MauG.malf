@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1iqca      structureX:1iqc:   1 :A: 150 :A:di-heme peroxidase:Nitrosomonas europaea: 1.80: 22.2
+[  2] 1eb7a      structureX:1eb7:   1 :A: 164 :A:cytochrome c551 peroxidase:Pseudomonas aeruginosa: 2.4: 17.2
+
+
+1iqca      ------ANEPIQPIKAVTPE------NADMAELGKMLFFDPRLSKSGFISCNSCHNLSMGGTDNITTSIGHKWQQ
+1eb7a      DALHDQASALFKPIPEQVTELRGQPISEQQRELGKKLFFDPRLSRSHVLSCNTCHNVGTGGADNVPTSVGHGWQK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1iqca      GPINAPTVLNSSMNLAQFWDGRAKDLKEQAAGPIANPKEMASTHEIAEKVVASMPQYRERFKKVFG--SDEVTID
+1eb7a      GPRNSPTVFNAVFNAAQFWDGRAKDLGEQAKGPIQNSVEMHSTPQLVEQTLGSIPEYVDAFRKAFPKAGKPVSFD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1iqca      RITTAIAQFEETLV*
+1eb7a      NMALAIEAYEATLV*
+           =========|====
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1iqca      100.0  52.0
+  2-1eb7a       52.0 100.0
+
+***************************************************************************

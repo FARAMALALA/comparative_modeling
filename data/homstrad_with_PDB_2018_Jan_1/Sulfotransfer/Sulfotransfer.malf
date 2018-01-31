@@ -1,0 +1,70 @@
+      Code       Title
+
+[  1] 1cjma      structureX:1cjm:   8 :A: 293 :A:Sult1A3 with sulfate bound:Homo sapiens: 2.40: 27.6
+[  2] 1aqua      structureX:1aqu:   7 :A: 294 :A:estrogen sulfotransferase, testis isoform:Mus musculus: 1.6: 21.8
+[  3] 1efha      structureX:1efh:   4 :A: 286 :A:alcohol sulfotransferase:Homo sapiens: 2.40: 20.2
+[  4] 1fmja      structureX:1fmj:   8 :A: 349 :A:retinol dehydratase mercury derivative in complex with retinol and PAP:Spodoptera frugiperda: 2.00: 23.1
+[  5] 1nsta      structureX:1nst: 579 :A: 879 :A:heparan sulfate N-deacetylase-N-sulfotransferase:Homo sapiens: 2.3: 21
+
+
+1cjma      -----------------------SRPPLEYVK--GVPLIKYF--AEALGPLQ-SFQARP----DDLLINTYPKSG
+1aqua      ----------------------EYYEVFGEFR--GVLMDKRF--TKYWEDVE-MFLARP----DDLVIATYPKSG
+1efha      --------------------------DFLWFE--GIAFPTMGFRSETLRKVRDEFVIRD----EDVIILTYPKSG
+1fmja      PFPYEFRELNPEEDKLVKANLGAFPTTYVKLGPKGYMVYRPY--LKDAANIY-NMPLRP----TDVFVASYQRSG
+1nsta      ---------------------------------------------------DPLWQDPCCDRFPKLLIIGPQKTG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cjma      TTWVSQILDMIYQ--------------RVPFLEV---NDP-------------------------G-----EPET
+1aqua      TTWISEVVYMIYKEG-------DAIFNRIPYLEC---RNE-------------------------DL--INGIKQ
+1efha      TNWLAEILCLMHSKGDAKWIQSVPIWERSPWVES-------------------------------EI----GYTA
+1fmja      TTMTQELVWLIENDLNFEAAK-TYMSLRYIYLDGFMIYDPEKQEEYNDILPNPENLDMERYLGLLEYSSRPGSSL
+1nsta      TTALYLFLGMHPDLSSNYPSS---ETFEEIQFFNG-----------------------------HNYHK-GIDWY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cjma      LKDTP--PPRLIKSHLP--LALLPQTLLD--QKVKVVYVARNPKDVAVSYYHFHRMEKAHPEPG-TWDSFLE---
+1aqua      LKEKE--SPRIVKTHLP--PKLLPASFWE--KNCKMIYLCRNAKDVAVSYYYFLLMITSYPNPK-SFSEFVE---
+1efha      LSETE--SPRLFSSHLP--IQLFPKSFFS--SKAKVIYLMRNPRDVLVSGYFFWKNMKFIKKPK-SWEEYFE---
+1fmja      LAAVPPTEKRFVKTHLP--LSLMPPNMLD--T-VKMVYLARDPRDVAVSSFHHARLLYLLNKQS-NFKDFWE---
+1nsta      MEFFPISDFYFEKSANYFDSEVAPRRAAALLPKAKVLTILINPADRAYSWYQHQRAHDDPVALKYTFHEVITAGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cjma      -------KFMAGEVSYGSWYQHVQEWWELSRTHPVLYLFYEDMKENPKREIQKILEFVGRS--------------
+1aqua      -------KFMQGQVPYGSWYDHVKAWWEKSKNSRVLFMFYEDMKEDIRREVVKLIEFLERKPSAELVDRIIQHTS
+1efha      -------WFCQGTVLYGSWFDHIHGWMPMREEKNFLLLSYEELKQDTGRTIEKICQFLGKTLEPEELNLILKNSS
+1fmja      -------MFHRGLYTLTPYFEHVKEAWAKRHDPNMLFLFYEDYLKDLPGCIARIADFLGKKLSEEQIQRLCEHLN
+1nsta      DASSKLRALQNRCLVPGWYATHIERWLSAYHANQILVLDGKLLRTEPAKVMDMVQKFLGVT----NTIDYHKTLA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1cjma      ----------------------------------LGDWKTTFTVAQNERFDADYAEKMA-------GCSLSFRS-
+1aqua      --FQEMKNNPSTNYTMMPEEMMNQKVSPFMRKGIIGDWKNHFPEALRERFDEHYKQQMK-------DCTVKFRM-
+1efha      --FQSMKENKMSNYSLLS---VDYVVDQLLRKGVSGDWKNHFTVAQAEDFDKLFQEKMA-------DLPRKLAAA
+1fmja      --FEKFKNNGAVNMEDYREIGILADGEHFIRKGKAGCWRDYFDEEMTKQAEKWIKDNLK-------DTDLRYPNM
+1nsta      FDP---KKGFWCQLLEGGKTKCLGK--SKGRKYP------EMDLDSRAFLKDYYRDHNIELSKLLYKMGQTLPTW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1cjma      ------*
+1aqua      -E----*
+1efha      LE----*
+1fmja      ------*
+1nsta      LREDLQ*
+           ====|=
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1cjma      100.0  46.6  37.7  27.8  15.2
+  2-1aqua       46.6 100.0  36.3  28.1  10.7
+  3-1efha       37.7  36.3 100.0  22.4  12.8
+  4-1fmja       27.8  28.1  22.4 100.0  12.1
+  5-1nsta       15.2  10.7  12.8  12.1 100.0
+
+***************************************************************************

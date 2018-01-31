@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1gd5a      structureX:1gd5:   1 :A: 130 :A:neutrophil cytosol factor 1:Homo sapiens: -1: -1
+[  2] 1h6ha      structureX:1h6h:   2 :A: 144 :A:neutrophil cytosol factor 4:Homo sapiens: 1.7: 19.6
+
+
+1gd5a      G------------SMGDTFIRHIALLGFEKRFVPSQHYVYMFLVKWQDLSEKVVYRRFTEIYEFHKTLKEMFPIE
+1h6ha      AVAQQLRAESDFEQLPDDVAISANIADIEEKRGFTSHFVFVIEVKTKGGSKYLIYRRYRQFHALQSKLEERFGPD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gd5a      AGAINPENR-IIPHLPAPKWFDG-QRAAENRQGTLTEYCSTLMSLPTKISRC-PHLLDFFKVRPDDLKL-P*
+1h6ha      SK--SSALACTLPTLPAKVYVGVKQEIAEMRIPALNAYMKSLLSLP-VWVLMDEDVRIFFYQSPYDSEQVP*
+           ====|=========|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130      0140   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gd5a      100.0  24.6
+  2-1h6ha       24.6 100.0
+
+***************************************************************************

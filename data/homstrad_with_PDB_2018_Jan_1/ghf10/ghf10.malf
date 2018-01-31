@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1exp       structureX:1exp:   1 : : 312 : :beta-1,4-d-glycanase cex-cd:Cellulomonas fimi:1.80:20.8
+[  2] 1clxa      structureX:1clx:   1 :A: 345 :A:endo-1,4-beta-xylanase A:Pseudomonas fluorescens:1.80:16.6
+[  3] 1xyza      structureX:1xyz: 516 :A: 835 :A:endo-1,4-beta-xylanase Z:Clostridium thermocellum:1.40:18.3
+[  4] 1bg4       structureX:1bg4:   2 : : 302 : :endo-1,4-beta-xylanase:Penicillium simplicissimum:1.75: 20
+[  5] 1taxa      structureX:1tax:   1 :A: 302 :A:endo-1,4-beta-xylanase:Thermoascus aurantiacus: 1.14: 18
+
+
+1exp       --ATTLKEAADGAGR-DFGFALDP---NRLS--EAQYKAIADSEFNLVVAENAMKWDATEPSQNSFSFGAGDRVA
+1clxa      ----GLASLA---DF-PIGVAVAASGGNADIFTSSARQNIVRAEFNQITAENIMKMSYMYSGS-NFSFTNSDRLV
+1xyza      ---NALRDYAEARGI-KIGTCVNY---PFYNNSDPTYNSILQREFSMVVCENEMKFDALQPRQNVFDFSKGDQLL
+1bg4       A-SVSIDAKFKAHGKKYLGTIGDQ---YTLT-KNTKNPAIIKADFGQLTPENSMKWDATEPNRGQFTFSGSDYLV
+1taxa      ASAQSVDQLIKARGKVYFGVATDQ---NRLT-TG-KNAAIIQANFGQVTPENSMKWDATEPSQGNFNFAGADYLV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1exp       SYAADTGKELYGHTLVWHS--QLPDWAK-NL--NGSAFESAMVNHVTKVADHFEGKVASWDVVNEAFAD------
+1clxa      SWAAQNGQTVHGHALVWHPSYQLPNWASDSNA----NFRQDFARHIDTVAAHFAGQVKSWDVVNEALFDSADDPD
+1xyza      AFAERNGMQMRGHTLIWHN--QNPSWLT-NGNWNRDSLLAVMKNHITTVMTHYKGKIVEWDVANECMDD------
+1bg4       NFAQSNGKLIRGHTLVWHS--QLPGWVS-SIT-DKNTLISVLKNHITTVMTRYKGKIYAWDVLNEIFNE------
+1taxa      NWAQQNGKLIRGHTLVWHS--QLPSWVT-SIT-DKNTLTNVMKNHITTLMTRYKGKIRAWDVVNEAFNQ------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1exp       ---GG-GRRQDSAFQQKLG-NGYIETAFRAARAADPTAKLCINDYNVEGI-NAKSNSLYDLVKDFKARGVPLDCV
+1clxa      GRGSANGYR-QSVFYRQFGGPEYIDEAFRRARAADPTAELYYNDFNTEEN-GAKTTALVNLVQRLLNNGVPIDGV
+1xyza      ---SGNGLR-SSIWRNVIG-QDYLDYAFRYAREADPDALLFYNDYNIEDL-GPKSNAVFNMIKSMKERGVPIDGV
+1bg4       ---DG-SLR-NSVFYNVIG-EDYVRIAFETARSVDPNAKLYINDYNLDSAGYSKVNGMVSHVKKWLAAGIPIDGI
+1taxa      ---NG-SLR-STVFLNVIG-EDYIPIAFQTARAADPNAKLYINDYNLDSATYPKTQAIVNRVKQWRAAGVPIDGI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1exp       GFQSHLIVGQVP---GDFRQNLQRFADL-GV-DVRITELDIRMRTPSD----------------ATKLATQAADY
+1clxa      GFQMHVMNDYP--SIANIRQAMQKIVALSPTLKIKITELDVRLNNPYDGNSSNDYTNRNDCAVSCAGLDRQKARY
+1xyza      GFQCHFINGMSPEYLASIDQNIKRYAEI-GV-IVSFTEIDIRIPQSEN---------------PATAFQVQANNY
+1bg4       GSQTHLGAG----AGSAVAGALNALASA-GTKEIAITELDIA--------------------------GASSTDY
+1taxa      GSQTHLSAG----QGAGVLNALPLLASA-GTPEVAITELDVA--------------------------GASPTDY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1exp       KKVVQACMQV---TRCQGVTVWGITDKYSWVPDVFP--GEGAALVWDASYAKKPAYAAVMEAF-*
+1clxa      KEIVQAYLEVVPPGRRGGITVWGIADPDSWLY--THQNLPDWPLLFNDNLQPKPAYQGVVEALS*
+1xyza      KELMKICLAN---PNCNTFVMWGFTDKYTWIPGTFP--GYGNPLIYDSNYNPKPAYNAIKEALM*
+1bg4       VNVVNACLNQ---AKCVGITVWGVADPDSWRSSS-------SPLLFDGNYNPKAAYNAIANAL-*
+1taxa      VNVVNACLNV---SSCVGITVWGVADPDSWRAST-------TPLLFDGNFNPKPAYNAIVQNLQ*
+           =========|=========|=========|=========|=========|=========|====
+                    0310      0320      0330      0340      0350      0360 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1exp       100.0  40.7  42.0  37.5  41.1
+  2-1clxa       40.7 100.0  32.8  35.5  40.1
+  3-1xyza       42.0  32.8 100.0  38.5  41.1
+  4-1bg4        37.5  35.5  38.5 100.0  72.8
+  5-1taxa       41.1  40.1  41.1  72.8 100.0
+
+***************************************************************************

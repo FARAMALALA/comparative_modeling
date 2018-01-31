@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1aiw       structureX:1aiw:   1 : :  62 : :endoglucanase z:Erwinia chrysanthemi: -1: -1
+[  2] 1e15a      structureX:1e15: 449 :A: 498 :A:chitinase B:Serratia marcescens: 1.9: 18.3
+[  3] 1ed7a      structureX:1ed7: 655 :A: 698 :A:chitinase A1:Bacillus circulans: -1: -1
+
+
+1aiw       MGDCANANVYPNWVSKDWAGGQPTHNEAGQSIVYKGNLYTANW-YTA---SVPGSD-SSWTQVGSCN*
+1e15a      PIM--TAPAYVPG----------TTYAQGALVSYQGYVWQTKWGYIT---SAPGSD-SAWLKVGR-V*
+1ed7a      --------AWQVN----------TAYTAGQLVTYNGKTYKCLQPHTSLAGWEPSNVPALWQL-----*
+           =========|=========|=========|=========|=========|=========|=======
+                    0010      0020      0030      0040      0050      0060    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1aiw       100.0  34.0  22.7
+  2-1e15a       34.0 100.0  22.7
+  3-1ed7a       22.7  22.7 100.0
+
+***************************************************************************

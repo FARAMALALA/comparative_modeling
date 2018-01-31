@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 2kauc      structureX:2kau:   2 :C: 567 :C:urease alpha subunit:Klebsiella aerogenes: 2.0: -1
+[  2] 1ubpc      structureX:1ubp:   1 :C: 570 :C:urease alpha subunit:Bacillus pasteurii: 1.65: 15.8
+
+
+2kauc      SNISRQAYADMFGPTVGDKVRLADTELWIEVEDDLTTYGEEVKFGGGKVIRDGMGQGQ-MLAA-DCVDLVLTNAL
+1ubpc      MKINRQQYAESYGPTVGDEVRLADTDLWIEVEKDYTTYGDEVNFGGGKVLREGMGENGTYTRTENVLDLLLTNAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2kauc      IVDHWGIVKADIGVKDGRIFAIGKAGNPDIQPNVT--IPIGAATEVIAAEGKIVTAGGIDTHIHWICPQQAEEAL
+1ubpc      ILDYTGIYKADIGVKDGYIVGIGKGGNPDIMDGVTPNMIVGTATEVIAAEGKIVTAGGIDTHVHFINPDQVDVAL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2kauc      VSGVTTMVGGGTGPAAGTHATTCTPGPWYISRMLQAADSLPVNIGLLGKGNVSQPDALREQVAAGVIGLKIHEDW
+1ubpc      ANGITTLFGGGTGPAEGSKATTVTPGPWNIEKMLKSTEGLPINVGILGKGHGSSIAPIMEQIDAGAAGL-IHEDW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2kauc      GATPAAIDCALTVADEMDIQVALHSDTLNESGFVEDTLAAIGGRTIHTFHTEGAGGGHAPDIITACAHPNILPSS
+1ubpc      GATPASIDRSLTVADEADVQVAIHSDTLNEAGFLEDTLRAINGRVIHSFHVEGAGGGHAPDIMAMAGHPNVLPSS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2kauc      TNPTLPYTLNTIDEHLDMLMVCHHLDPDIAEDVAFAESRIRRETIAAEDVLHDLGAFSLTSSDSQAMGRVGEVIL
+1ubpc      TNPTRPFTVNTIDEHLDMLMVCHHLKQNIPEDVAFADSRIRPETIAAEDILHDLGIISMMSTDALAMGRAGEMVL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2kauc      RTWQVAHRMKVQRGALAEETGDNDNFRVKRYIAKYTINPALTHGIAHEVGSIEVGKLADLVVWSPAFFGVKPATV
+1ubpc      RTWQTADKMKKQRGPLAEEKNGSDNFRLKRYVSKYTINPAIAQGIAHEVGSIEEGKFADLVLWEPKFFGVKADRV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2kauc      IKGGMIAIAPMGDINASIPTPQPVHYRPMFGALGSARHHCRLTFLSQAAAANGVAERLNLRSAIAVVKGCRTVQK
+1ubpc      IKGGIIAYAQIGDPSASIPTPQPVMGRRMYGTVGDLIHDTNITFMSKSSIQQGVPAKLGLKRRIGTVKNCRNIGK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+2kauc      ADMVHNSLQPNITVDAQTYEVRVDGELITSEPADVLPMAQRYFLF*
+1ubpc      KDMKWNDVTTDIDINPETYEVKVDGEVLTCEPVKELPMAQRYFLF*
+           ====|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2kauc      100.0  64.3
+  2-1ubpc       64.3 100.0
+
+***************************************************************************

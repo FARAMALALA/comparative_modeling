@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1gfla      structureX:1gfl:   1 :A: 230 :A:green fluorescent protein:Aequorea victoria: 1.9: 21.4
+[  2] 1ggxa      structureX:1ggx:   7 :A: 225 :A:red fluorescent protein (fp583 or dsred(clontech)):Discosoma sp.: 1.90: 19.2
+
+
+1gfla      ASKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTG-KLPVPWPTLVTTFYGVQCFSRYP
+1ggxa      ------VIKEFMRFKVRMEGTVNGHEFEIEGEGEGRPYEGHNTVKLKVTKGGPLPFAWDILSPQF--SKVYVKHP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gfla      DHMKRHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNV
+1ggxa      ADI--PDYKKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGCFIYKVKFIGVNFPSDGPVMQKKTM-GWEASTE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1gfla      YIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVT
+1ggxa      RLYPRD--GVLKGEIHKALKLKDGGHYLVEFKSIYMAKK--PVQLPGYYYVDSKLDITSH-NEDYTIVEQYERTE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1gfla      AAGIT--*
+1ggxa      GRHHLFL*
+           ====|==
+               0230 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1gfla      100.0  23.1
+  2-1ggxa       23.1 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1ct9a      structureX:1ct9: 193 :A: 516 :A:asparagine synthetase B [glutamine-hydrolyzing]:Escherichia coli: 2.00: 19.7
+[  2] 1jgta      structureX:1jgt: 209 :A: 508 :A:beta-lactam synthetase:Streptomyces clavuligerus: 1.95: 19.5
+
+
+1ct9a      RDWFDYDAVKDNV--TDKNELRQALEDSVKSHLMSDVPYGVLLSGGLDSSIISAITKKYA--LHSFAVGLPGSPD
+1jgta      ---TPGLSRRILPEGEAVAAVRAALEKAVAQRVTPGDTPLVVLSGGIDSSGVAACAHRAAGELDTVSMGTDTSNE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ct9a      LKAAQEVANHLGTVHHEIHFTVQEGLDAIRDVIYHIETYDVTTIRASTPMYLMSRKIKAMGIKMVLSGEGSDEVF
+1jgta      FREARAVVDHLRTRHREITIPTTELLAQLPYAVWASESVDPDIIEYLLPLTALYRAL-DGPERRILTGYGADIPL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ct9a      GGYLYFHKAPNAKELHEETVRKLLALHMYDCARANKAMSAWGVEARVPFLDKKFLDVAMRINPQDKMCK-MEKHI
+1jgta      GGMHR---EDRLPALDTVLAHDMATFDGL-NEMSPVLSTLAGHWTTHPYWDREVLDLLVSLEAGLKRRHGRDKWV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ct9a      LRECFEAYLPASVAWRQKEQFSDGVGYSWIDTLKEVAAQQ-VSDQQLETARFRFPYNTPTSKEAYLYREIFEELF
+1jgta      LRAAMADALPAETVNRPKL-----------SSFSRLLLDHGVAE-------DRVH-----EAKRQVVRELFDLTV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ct9a      P---------LPSAAECVPG--*
+1jgta      GGGRHPSEVDTDDVVRSVADRT*
+           =========|=========|==
+                    0310      0320 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ct9a      100.0  20.6
+  2-1jgta       20.6 100.0
+
+***************************************************************************

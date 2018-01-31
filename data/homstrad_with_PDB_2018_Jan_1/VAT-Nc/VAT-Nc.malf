@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1cz5a      structureX:1cz5:  96 :A: 185 :A:VAT-N the N-terminal domain of VAT:Thermoplasma acidophilum: -1: -1
+[  2] 1e32a      structureX:1e32: 112 :A: 197 :A:transitional endoplasmic reticulum ATPase:Mus musculus: 2.9: 22.4
+
+
+1cz5a      KKVTLAPIIRKDQRLKFGEGIEE-YVQRALI--RRPMLEQDNISVP-GLTLAGQ-TGLLFKVVKTLPSKVPVEIG
+1e32a      KRIHVLPI--DDTVEGITGNLFEVYLKPYFLEAYRPIRKGDIFLVRGG------MRAVEFKVVETDPSP-YCIVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cz5a      EETKIEIREEPAS-----EVLEEGG*
+1e32a      PDTVIHCEGEPIKREDEEES-----*
+           ====|=========|=========|
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cz5a      100.0  26.7
+  2-1e32a       26.7 100.0
+
+***************************************************************************

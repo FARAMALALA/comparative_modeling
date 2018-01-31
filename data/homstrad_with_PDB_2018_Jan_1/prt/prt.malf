@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1hmpa      structureX:1hmp:   4 :A: 217 :A:hypoxanthine-guanine phosphoribosyltransferase:Homo sapiens: 2.5: 18.6
+[  2] 1hgxa      structureX:1hgx:   7 :A: 179 :A:hypoxanthine-guanine-xanthine phosphoribosyltransferase:Tritrichomonas foetus: 1.9: 17.5
+[  3] 1nula      structureX:1nul:   3 :A: 152 :A:xanthine-guanine phosphoribosyltransferase:Escherichia coli: 1.8: 19.2
+
+
+1hmpa      SPGVVISDDEPGYDLDLFCIPNHYAEDLERVFIPHGLIMDRTERLARDVMKEMGGHHIVALCVLKGGYKFFADLL
+1hgxa      ------------------------MDDLERVLYNQDDIQKRIRELAAELTEFYEDKNPVMICVLTGAVFFYTDLL
+1nula      ----------------------------EKYIVTWDMLQIHARKLASRLMP--SEQWKGIIAVSRGGLVPGALLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hmpa      DYIKALNRNSDRSIPMTVDFIRLKSYCNDQSTGDIKVIGGDDLSTLTGKNVLIVEDIIDTGKTMQTLLSLVRQYN
+1hgxa      KHLD---------FQLEPDYIICSS-----LTISK-----DLKTNIEGRHVLVVEDIIDTGLTMYQLLNNLQMRK
+1nula      RELGIR----------HVDTVCISS-----LKVLK-----RAEGDGEG--FIVIDDLVDTGGTAVAIREMYP---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hmpa      PKMVKVASLLVKRTPRSV-GYKPDFVGFEIPD-KFVVGYALDYNEYFRDLNHVCVISETGKAKYKA---------
+1hgxa      PASLKVCTLCDKDIGKKAYDVPIDYCGFVVEN-RYIIGYGFDFHNKYRNLPVIGILKE-----------------
+1nula      --KAHFVTIFAK--PAGRP--LVDDYVVDIPQDTWIEQPWDMG-----------------------VVFVPPISG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hmpa      -*
+1hgxa      -*
+1nula      R*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hmpa      100.0  31.7  16.2
+  2-1hgxa       31.7 100.0  20.4
+  3-1nula       16.2  20.4 100.0
+
+***************************************************************************

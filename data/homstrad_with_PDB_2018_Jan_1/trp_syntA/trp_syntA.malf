@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1qopa      structureX:1qop:   1 :A: 267 :A:tryptophan synthase alpha chain:Salmonella typhimurium: 1.4: 15
+[  2] 1geqa      structureX:1geq:   1 :A: 248 :A:tryptophan synthase alpha-subunit:Pyrococcus furiosus: 2.00: 19.8
+
+
+1qopa      MERYENLFAQLNDRREGAFVPFVTLGDPGIEQSLKIIDTLIDAGADALELGVPFSDPLADGPTIQNANLRAFAAG
+1geqa      ------MFK------DGSLIPYLTAGDPDKQSTLNFLLALDEY-AGAIELGIPFSDPIADGKTIQESHYRALKNG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qopa      VTPAQCFEMLAIIREKHPTIPIGLLMYANLVFNNGIDAFYARCEQVGVDSVLVADVPVEESAPFRQAALRHNIAP
+1geqa      FKLREAFWIVKEFRRHS-STPIVLMTYYNPIYRAGVRNFLAEAKASGVDGILVVDLPVFHAKEFTEIAREEGIKT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qopa      IFICPPNADDDLLRQVASYGRGYTYLLSRSGVTGAENRGPLHHLIEKLKEYHAAPALQGFGISSPEQVSAAVRAG
+1geqa      VFLAAPNTPDERLKVIDDMTTGFVYLVSLY-----EIPKTAYDLLRRAKRICRNKVAVGFGVSKREHVVSLLKEG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qopa      AAGAISGSAIVKIIEKNLASPKQMLAELRSFVSAMKAASR*
+1geqa      ANGVVVGSALVKIIGEK---GREATEFLKKKVEELLGI--*
+           ====|=========|=========|=========|=====
+               0230      0240      0250      0260  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qopa      100.0  32.8
+  2-1geqa       32.8 100.0
+
+***************************************************************************

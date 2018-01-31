@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 2cbp       structureX:2cbp:   1 : :  96 : :basic blue protein:Cucumis sativus: 1.8: 14.1
+[  2] 1f56a      structureX:1f56:   1 :A:  91 :A:spinach plantacyanin:Spinacia oleracea: 2.05: 16.2
+[  3] 1jer       structureX:1jer:   0 : : 109 : :cucumber peeling cupredoxin:Cucumis sativus: 1.6: -1
+
+
+2cbp       ---AVYVVGGSGGWTF-----NTESWPKGKRFRAGDILLFNYNPSMHNVVVV-NQGGFSTCNTPAGAKVY--TSG
+1f56a      ---AVYNIG----WSF-----NV-NGARGKSFRAGDVLVFKYIKGQHNVVAV-NGRGYASCSAPRGARTY--SSG
+1jer       MQSTVHIVGDNTGWSVPSSPNFYSQWAAGKTFRVGDSLQFNFPANAHNVHEMETKQSFDACNF-VNSDNDVERTS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2cbp       RDQIKL-PKGQSYFICNFPGHCQSGMKIAVNAL---*
+1f56a      QDRIKL-TRGQNYFICSFPGHCGGGMKIAINAK---*
+1jer       PVIERLDELGMHYFVCTVGTHCSNGQKLSINVVAAN*
+           ====|=========|=========|=========|=
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2cbp       100.0  58.2  32.3
+  2-1f56a       58.2 100.0  30.8
+  3-1jer        32.3  30.8 100.0
+
+***************************************************************************

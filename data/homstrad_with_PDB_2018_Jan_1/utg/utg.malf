@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1utg       structureX:1utg:   1 ::  70 ::uteroglobin:Oryctolagus cuniculus: 1.60:19.00
+[  2] 1ccd       structureX:1ccd:  -2 : :  75 : :Clara cell 17kDa protein:Rattus rattus: 3.00:22.50
+
+
+1utg       --GICPRFAHVIENLLLGTPSSYETSLKEFEPDDTMKDAGMQMKKVLDSLPQTTRENIMKLTEKIVKSPLCM---
+1ccd       SSDICPGFLQVLEALLLGSESNYEAALKPFNPASDLQNAGTQLKRLVDTLPQETRINIVKLTEKILTSPLCEQDL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1utg       --*
+1ccd       RV*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1utg       100.0  55.7
+  2-1ccd        55.7 100.0
+
+***************************************************************************

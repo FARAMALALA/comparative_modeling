@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1llwa      structureX:1llw:1240 :A:1507 :A:ferredoxin-dependent glutamate synthase 2:Synechocystis sp.: 2.70: 23.6
+[  2] 1ea0a      structureX:1ea0:1203 :A:1472 :A:glutamate synthase, alpha subunit:Azospirillum brasilense: 3.00: 25.6
+
+
+1llwa      -VHSNGPVLDDDILADPDIQEAINHQTTATKTYRLVNTDRTVGTRLSGAIAKKYGNNGFEG-NITLNFQGAAGQS
+1ea0a      GRNEVPDTLDARIVAD-ARPLFEEG-EKMQLAYNARNTQRAIGTRLSSMVTRKFGMFGLQPGHITIRLRGTAGQS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1llwa      FGAFNLDGMTLHLQGEANDYVGKGMNGGEIVIVPHPQASFAPEDNVIIGNTCLYGATGGNLYANGRAGERFAVRN
+1ea0a      LGAFAVQGIKLEVMGDANDYVGKGLSGGTIVVRPTTSSPLETNKNTIIGNTVLYGATAGKLFAAGQAGERFAVRN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1llwa      SVGKAVIEGAGDHCCEYMTGGVIVVLGPVGRNVGAGMTGGLAYFLDEVGDLPEKINPEIITLQRITASKGEEQLK
+1ea0a      SGATVVVEGCGSNGCEYMTGGTAVILGRVGDNFAAGMTGGMAYVYDLDDSLPLYINDESVIFQRIEVGHYESQLK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1llwa      SLITAHVEHTGSPKGKAILANWSDYLGKFWQAVPPSEK-DS-PEANN*
+1ea0a      HLIEEHVTETQSRFAAEILNDWAREVTKFWQVVPKEMLNRLEVPVHL*
+           ====|=========|=========|=========|=========|==
+               0230      0240      0250      0260      0270 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1llwa      100.0  45.1
+  2-1ea0a       45.1 100.0
+
+***************************************************************************

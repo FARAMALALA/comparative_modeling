@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1j93a      structureX:1j93:  10 :A: 352 :A:uroporphyrinogen decarboxylase:Nicotiana tabacum: 2.30: 20.9
+[  2] 1uroa      structureX:1uro:  10 :A: 366 :A:uroporphyrinogen decarboxylase:Homo sapiens: 1.80: 18.4
+
+
+1j93a      -----TQPLLLDAVRGKEVERPPVWLMRQAGRYMKSYQLLCEKYPLFRDRSENVDLVVEISLQPWKVFRPDGVIL
+1uroa      GFPELKNDTFLRAAWGEETDYTPVWCMRQAGRYLPEFRETRAAQDFFST-CRSPEACCELTLQPLRRFPLDAAII
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1j93a      FSDILTPLSGMNIPFDIIKGKGPVIFDPLRTAADVEKVREF-IPEKSVPYVGEALTILRKEVNNQAAVLGFVGAP
+1uroa      FSDILVVPQALGMEVTMVPGKGPSFPEPLREEQDLERLRDPEVVASELGYVFQAITLTRQRLAGRVPLIGFAGAP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1j93a      FTLASYVVEGGSSKNFTKIKRLAFAEPKVLHALLQKFATSMAKYIRYQADSGAQAVQIFDSWATELSPVDFEEFS
+1uroa      WTLMTYMVEGGGSSTMAQAKRWLYQRPQASHQLLRILTDALVPYLVGQVVAGAQALQLFESHAGHLGPQLFNKFA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1j93a      LPYLKQIVDSVKLTHP-----NLPLILYASGSGGLLERLPLTGVDVVSLDWTVDMADGRRRLGPNVAIQGNVDPG
+1uroa      LPYIRDVAKQVKARLREAGLAPVPMIIFAKDGHFALEELAQAGYEVVGLDWTVAPKKARECVGKTVTLQGNLDPC
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1j93a      VLFGSKEFITNRINDTVKKAGKGKHILNLGHGIKVGTPEENFAHFFEIAKGLRY----*
+1uroa      ALYASEEEIGQLVKQMLDDFGPHRYIANLGHGLYPDMDPEHVGAFVDAVHKHSRLLRQ*
+           =========|=========|=========|=========|=========|========
+                    0310      0320      0330      0340      0350     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1j93a      100.0  33.5
+  2-1uroa       33.5 100.0
+
+***************************************************************************

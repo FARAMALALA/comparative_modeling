@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1jsg       structureX:1jsg:   4 : : 114 : :p14-TCL1 protein:Homo sapiens: 2.5: 19.2
+[  2] 1a1x       structureX:1a1x:   3 : : 108 : :p13-MTCP-1 protein:Homo sapiens: 2.0: 21.1
+
+
+1jsg       CPTLGEAVTDHPDRLWAWEKFVYLDEKQHAWLPLTIEIKDRLQLRVLLRREDVVLGRPMTPTQIGPSLLPIMWQL
+1a1x       ---AGEDVGAPPDHLWVHQEGIYRDEYQRTWVA-VVEEET-SFLRARVQQIQVPLGDAARPSHLLTSQLPLMWQL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jsg       YPDGRYRSSDSSFWRLVYHIKIDGVEDMLLELLPDD*
+1a1x       YPEERYMDNNSRLWQIQHHLMVRGVQELLLKLLPDD*
+           ====|=========|=========|=========|=
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jsg       100.0  39.6
+  2-1a1x        39.6 100.0
+
+***************************************************************************

@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1hkca1     structureX:1hkc: 466 :A: 914 :A:hexokinase type I:Homo sapiens: 2.8: 17.4
+[  2] 1hkca2     structureX:1hkc:  16 :A: 465 :A:hexokinase type I:Homo sapiens: 2.8: 17.4
+[  3] 1bdg       structureX:1bdg:  13 : : 460 : :hexokinase:Schistosoma mansoni: 2.6: 17.3
+
+
+1hkca1     -----QHRQIEETLAHFHLTKDMLLEVKKRMRAEMELGLRKQTHNNAVVKMLPSFVRRTPDGTENGDFLALDLGG
+1hkca2     ---DDQVKKIDKYLYAMRLSDETLIDIMTRFRKEMKNGLSRDFNPTATVKMLPTFVRSIPDGSEKGDFIALDLGG
+1bdg       FSDQQLFEKVVEILKPFDLSVVDYEEICDRMGESMRLGLQKSTNEKSSIKMFPSYVTKTPNGTETGNFLALDLGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hkca1     TNFRVLLVKIRSGKKRTVEMHNKIYAIPIEIMQGTGEELFDHIVSCISDFLDYMGIKGPRMPLGFTFSFPCQQTS
+1hkca2     SSFRILRVQVNHEKNQNVHMESEVYDTPENIVHGSGSQLFDHVAECLGDFMEKRKIKDKKLPVGFTFSFPCQQSK
+1bdg       TNYRVLSVTLEGG--KSPRIQERTYCIPAEKMSGSGTELFKYIAETLADFLENNGMKDKKFDLGFTFSFPCVQKG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hkca1     LDAGILITWTKGFKATDCVGHDVVTLLRDAIKRREEFDLDVVAVVNDTVGTMMTCAYEEPTCEVGLIVGTGSNAC
+1hkca2     IDEAILITWTKRFKASGVEGADVVKLLNKAIKKRGDYDANIVAVVNDTVGTMMTCGYDDQHCEVGLIIGTGTNAC
+1bdg       LTHATLVRWTKGFSADGVEGHNVAELLQTELDKRE-LNVKCVAVVNDTVGTLASCALEDPKCAVGLIVGTGTNVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hkca1     YMEEMKNVEMV-EGDQGQMCINMEWGAFGDNGCLDDIRTHYDRLVNEYSLNAGKQRYEKMISGMYLGEIVRNILI
+1hkca2     YMEELRHIDLV-EGDEGRMCINTEWGAFGDDGSLEDIRTEFDREIDRGSLNPGKQLFEKMVSGMYLGELVRLILV
+1bdg       YIEDSSKVELMDGVKEPEVVINTEWGAFGEKGELDCWRTQFDKSMDIDSLHPGKQLYEKMVSGMYLGELVRHIIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1hkca1     DFTKKGFLFRGQISETLKTRGIFETKFLSQIES-DRLALLQVRAILQQ-LGL-NSTCDDSILVKTVCGVVSRRAA
+1hkca2     KMAKEGLLFEGRITPELLTRGKFNTSDVSAIEK-NKEGLHNAKEILTR-LGV-EPSDDDCVSVQHVCTIVSFRSA
+1bdg       YLVEQKILFRGDLPERLKVRNSLLTRYLTDVERDPAHLLYNTHYMLTDDLHVPVVEPIDNRIVRYACEMVVKRAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1hkca1     QLCGAGMAAVVDKIRENRGLDRLNVTVGVDGTLYKLHPHFSRIMHQTVKELS-PKCNVSFLLSEDGSGKGAALIT
+1hkca2     NLVAATLGAILNRLRDNKGTPRLRTTVGVDGSLYKTHPQYSRRFHKTLRRLV-PDSDVRFLLSESGSGKGAAMVT
+1bdg       YLAGAGIACILRRINRS------EVTVGVDGSLYKFHPKFCERMTDMVDKLKPKNTRFCLRLSEDGSGKGAAAIA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1hkca1     AVGVRLRTE*
+1hkca2     AVAYRLA-E*
+1bdg       ASC------*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hkca1     100.0  52.3  44.4
+  2-1hkca2      52.3 100.0  41.4
+  3-1bdg        44.4  41.4 100.0
+
+***************************************************************************

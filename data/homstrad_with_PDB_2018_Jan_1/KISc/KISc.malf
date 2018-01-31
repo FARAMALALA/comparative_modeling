@@ -1,0 +1,62 @@
+      Code       Title
+
+[  1] 1bg2       structureX:1bg2:   3 : : 325 : :kinesin heavy chain (ubiquitous kinesin heavy chain):Homo sapiens: 1.8: 21.59
+[  2] 2kina      structureX:2kin:   2 :A: 351 :B:neuronal kinesin heavy chain:Rattus norvegicus: 1.9: 19.4
+[  3] 3kar       structureX:3kar: 385 : : 722 : :kinesin-like protein kar3 (nuclear fusion protein):Saccharomyces cerevisiae: 2.3: 17.5
+[  4] 2ncda      structureX:2ncd: 303 :A: 670 :A:claret segregational protein:Drosophila melanogaster: 2.50: 22.6
+
+
+1bg2       ------------------------------------------DLAECNIKVMCRFRPLNESEVNRGDKYIAKFQG
+2kina      -----------------------------------------ADPAECSIKVMCRFRPLNEAEILRGDKFIPKFKG
+3kar       ----------------------------------------------GNIRVYCRIRPALKNLENS-DTSLINVNE
+2ncda      LRQRTEELLRCNEQQAAELETCKEQLFQSNMERKELHNTVMDLR--GNIRVFCRIRPPLESEEN-RMCCTWTYHD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bg2       ------EDTVVIA-----------SKPYAFDRVFQSSTSQEQVYNDCAKKIVKDVLEGYNGTIFAYGQTSSGKTH
+2kina      ------EETVVIG----------QGKPYVFDRVLPPNTTQEQVYNACAKQIVKDVLEGYNGTIFAYGQTSSGKTH
+3kar       FDDNSGVQSMEVTKI----QNTAQVHEFKFDKIFDQQDTNVDVFKE-VGQLVQSSLDGYNVCIFAYGQTGSGKTF
+2ncda      ------ESTVELQSIDAQAKSKMGQQIFSFDQVFHPLSSQSDIFEM-VSPLIQSALDGYNICIFAYGQTGSGKTY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bg2       TMEGKLHDPEGMGIIPRIVQDIFNYIYSMDE-NLEFHIKVSYFEIYLDKIRDLLDVSKTNLSVHED-KN-RVPYV
+2kina      TMEGKLHDPQLMGIIPRIAHDIFDHIYSMDE-NLEFHIKVSYFEIYLDKIRDLLDVSKTNLAVHED-KN-RVPYV
+3kar       TMLNP-----GDGIIPSTISHIFNWINKLKTKGWDYKVNCEFIEIYNENIVDLLRSLK--HEIRHDQET-KTTTI
+2ncda      TMDGV---PESVGVIPRTVDLLFDSIRGYRNLGWEYEIKATFLEIYNEVLYDLLSNEQKDMEIRMAKNNKNDIYV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bg2       KGCTERFVCSPDEVMDTIDEGKSNRHVAVTNMNEHSSRSHSIFLINVKQENTQTEQKLSGKLYLVDLAGSEKVSK
+2kina      KGCTERFVSSPEEVMDVIDEGKANRHVAVTNMNEHSSRSHSIFLINIKQENVETEKKLSGKLYLVDLAGSEKVA-
+3kar       TNVTSCKLESEEMVEIILKKANKLRSTASTASNEHSSRSHSIFIIHLSGSNAKTGAHSYGTLNLVDLAGSERINV
+2ncda      SNITEETVLDPNHLRHLMHTAKMNRATASTAGNERSSRSHAVTKLELIGRHAEKQEISVGSINLVDLAGSESP--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bg2       TGAEGAVLDEAKNINKSLSALGNVISALAE-GST--YVPYRDSKMTRILQDSLGGNCRTTIVICCSPSSYNESET
+2kina      -------------KNINKSLSALGNVISALAEGTKTHVPYRDSKMTRILQDSLDGNCRTTIVICCSPSVFNEAET
+3kar       SD----RLRETQNINKSLSCLGDVIHALGQPDSTKRHIPFRNSKLTYLLQYSLTGDSKTLMFVNISPSSSHINET
+2ncda      ------------NINRSLSELTNVILALLQ-KQD--HIPYRNSKLTHLLMPSLGGNSKTLMFINVSPFQDCFQES
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bg2       KSTLLFGQRAKTI------------------------*
+2kina      KSTLMFGQRAKTIKNTVSVNLELTAEEWKKKYEKEKE*
+3kar       LNSLRFASKVNS-------------------------*
+2ncda      VKSLRFAASVNSC------------------------*
+           ====|=========|=========|=========|==
+               0380      0390      0400      0410 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1bg2       100.0  78.0  35.6  35.6
+  2-2kina       78.0 100.0  31.3  29.9
+  3-3kar        35.6  31.3 100.0  43.3
+  4-2ncda       35.6  29.9  43.3 100.0
+
+***************************************************************************

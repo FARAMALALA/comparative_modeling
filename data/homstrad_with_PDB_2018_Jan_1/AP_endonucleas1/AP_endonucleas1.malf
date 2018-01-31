@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1ako       structureX:1ako:   1 : : 268 : :exodeoxyribonuclease III:Escherichia coli: 1.70: 16.9
+[  2] 1bix       structureX:1bix:  44 : : 318 : :DNA endonuclease HAP1:Homo sapiens: 2.20: 18.4
+
+
+1ako       ------------------MKFVSFNINGLRARPH-QLEAIVEKHQPDVIGLQETKVHDDMFPLEEVAKL--GYNV
+1bix       LYEDPPDQKTSPSGKPATLKICSWNVDGLRAWIKKKGLDWVKEEAPDILCLQETKCSENKLP-AELQELPGLSHQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ako       FYHGQ---KGHYGVALLTKETPIAVRRGFPGDDEEAQ-RRIIMAEIPSLLGNVTVINGYFPQGESRDHPIKFPAK
+1bix       YWSAPSDKEGYSGVGLLSRQCPLKVSYGI-GDEEHDQEGRVIVAEFD----SFVLVTAYVPNAG-RGLV-RLEYR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ako       AQFYQNLQNYLETELKRDNPVLIMGDMNISPTDLDIGIGEENRKRWLRTGKCSFLPEEREWMDRLMS-WGLVDTF
+1bix       QRWDEAFRKFLKGLA-SRKPLVLCGDLNVAHEEIDLR----NPKGNK--KNAGFTPQERQGFGELLQAVPLADSF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ako       RHANPQTADRFSWFDYRSKGFDDNRGLRIDLLLASQPLAECCVETGIDYEIRSMEKPSDHAPVWATFRR*
+1bix       RHLYPNTPYAYTFWTYMMNARSKNVGWRLDYFLLSHSLLPALCDSKIRSKAL----GSDHCPITLYLAL*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ako       100.0  26.1
+  2-1bix        26.1 100.0
+
+***************************************************************************

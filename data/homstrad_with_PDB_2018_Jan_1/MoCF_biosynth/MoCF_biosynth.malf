@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1jlja      structureX:1jlj:  13 :A: 181 :A:gephyrin:Homo sapiens: 1.6: 14.7
+[  2] 1eava      structureX:1eav:   3 :A: 161 :A:molybdopterin biosynthesis cnx1 protein:Arabidopsis thaliana: 2.6: 22.3
+[  3] 1di6a      structureX:1di6:   2 :A: 191 :A:molybdopterin biosynthesis mog protein:Escherichia coli: 1.45: 18.7
+[  4] 1g8la      structureX:1g8l: 176 :A: 325 :A:molybdopterin biosynthesis protein moeA:Escherichia coli: 1.95: 22.8
+
+
+1jlja      H-QIRVGVLTVSDS--CFRN-----LAEDRSGINLKDLVQD--PSLLGGTISAYKIVPDEIEEIKETLIDWCDEK
+1eava      GPEYKVAILTVSDT--VSAG-----AGPDRSGPRAVSVVDSSSEKLGGAKVVATAVVPDEVERIKDILQKWSDVD
+1di6a      -ATLRIGLVSISDR--D------------KGIPALEEWLTSALT---TPFELETRLIPDEQAIIEQTLCELVDEM
+1g8la      -RKVRVALFSTGDELQLPGQPLGDGQIYDTNRLAVHLMLEQL-----GCEVINLGIIRDDPHALRAAFIEADS--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jlja      ELNLILTTGGTGFAPRDVTPEATKEVIEREA--PGMALAMLMGSLNVTPLGMLSRPVCGIRGKTLIINLPGSKKG
+1eava      E-DLILTLGGTGFTPRDVTPEATKKVIERET--PGLLFV--QESLKITPFA-LSRSAAGIRGSTLIIN-PGNPNA
+1di6a      SCHLVLTTGGTGPARRDVTPDATLAVADREM--PGFGEQMRQISLHFVPTAILSRQVGVIRKQALILNLPGQPKS
+1g8la      QADVVISSGGVSVGEADYTKTILEELGEIAFWKL-------AIK-----PGK--PFAFGKLSNSWFCGLPGNPVS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jlja      SQECFQ------------FILPALPHAIDLLRDAIVKVKEVHD----------*
+1eava      VAEC-E------------ALLPALKHALKQ-----------------------*
+1di6a      IKETLEGVKDAEGNVVVHGIFASVPYCIQLLEGPYVETAPEVVAAFRPKSARR*
+1g8la      ATLTFY-----------QLVQPLLAKLSGNTA--------------------S*
+           =========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1jlja      100.0  50.3  34.3  14.7
+  2-1eava       50.3 100.0  31.4  14.0
+  3-1di6a       34.3  31.4 100.0  14.0
+  4-1g8la       14.7  14.0  14.0 100.0
+
+***************************************************************************

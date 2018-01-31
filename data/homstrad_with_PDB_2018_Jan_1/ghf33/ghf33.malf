@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 2sli       structureX:2sli: 277 : : 759 : :intramolecular trans-sialidase, C-terminal domain:Macrobdella decora: 1.8: 18.5
+[  2] 1eur       structureX:1eur:  47 : : 407 : :sialidase, N-terminal domain:Micromonospora viridifaciens: 1.82: 17.3
+[  3] 3sil       structureX:3sil:   4 : : 382 : :sialidase:Salmonella typhimurium: 1.05: -1
+[  4] 1kit       structureX:1kit: 217 : : 781 : :sialidase:Vibrio cholerae: 2.3: 17
+
+
+2sli       ------GENIFYAG----------------DVTESNYFRIPSLLTLST--GTVISAADARYGGTHDSK--SKINI
+1eur       GEPLYTEQDLAVNGRE-----------------GFPNYRIPALTVTPD--GDLLASYDGRPTGIDAP---GPNSI
+3sil       -----EKSVVFKAEGEHFTDQKGNTIVGSGSGGTTKYFRIPAMCTTSK--GTIVVFADARHNTASDQ---SFIDT
+1kit       --------VIFRG-----------------------PDRIPSIVASSVTPGVVTAFAEKRVGGGDPGALSNTNDI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2sli       AFAKSTDGGNTWSEPTLPLK-FDDYIAKNIDWPRDSVGKNVQIQGSASYIDPVLLEDK--LTKRIFLFADLMP-A
+1eur       LQRRSTDGGRTWGEQQVVSA-GQTTA------------------PIKGFSDPSYLVDR--ETGTIFNFHVYSQ--
+3sil       AAARSTDGGKTW-NKKIAIYNDRVNS------------------KLSRVMDPTCIVANIQGRETILVMVGKWNNN
+1kit       ITRTSRDGGITWDTELNLTEQINVS-------------------DEFDFSDPRPIYDP--SSNTVLVSYARWP-T
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2sli       GIGSS--NASVGSGFKEVNGKKYLKLRWHKDAGRAYDYTIREKGVIYNDATNQPTEFRVDGEYNLYQHDTNLTCK
+1eur       RQGFA--GSRP----------------------------------------------------------------
+3sil       DKTWG--AYRD----------------------------------------------------------------
+1kit       DAAQNGDRIKP----------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2sli       QYDYNFSGNNLIESKTDVDVNMNIFYKNSVFKAFPTNYLAMRYSDDEGASWSDLDI-VSSFKP--EVSKFLVVGP
+1eur       ----------------------GTDPA-----DPNVLHANVATSTDGGLTWSHRT--ITADITPDPGWRSRFAAS
+3sil       ----------------------KAPDT--------DWDLVLYKSTDDGVTFSKVETNIHDIVTKNGTISAMLGGV
+1kit       ---------------------------------WMPNGIFYSVYDVASGNWQAPI---------------VNPGP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2sli       GIGKQISTGE-----NAGRLLVPLYSKS------SAELGFMYSDDHGDNWTYVEADNLT----------GGATAE
+1eur       GEGIQLRYGP-----HAGRLIQQYTIINA---AGAFQAVSVYSDDHGRTWRAGEAVG-------------VGMDE
+3sil       GSGLQLN---------DGKLVFPVQMVRTKNITTVLNTSFIYSTD-GITWSLPS------------GYCEGFGSE
+1kit       GHGITLTRQQNISGSQNGRLIYPAIVLDR----FFLNVMSIYSDDGGSNWQTGSTLPIPFRWKSSSILETLEPSE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2sli       AQIVEMPDGSLKTYLRTG---------SNCIAEVTSIDGGETWSDRVPLQ---GISTTSYGTQLSVINYS--QPI
+1eur       NKTVELSDGRVLLNSRDSAR-------SGYRKVAVSTDGGHSYGPVTID-----RDLPDPTNNASIIRAFPDAPA
+3sil       NNIIEF-NASLVNNIRNS----------GLRRSFETKDFGKTWTEFPPMDKKV--DNRNHGVQGSTITIPSG---
+1kit       ADMVELQNGDLLLTARLDFNQIVNGVNYSPRQQFLSKDGGITWSLLEANNANVFSNISTGTVDASITRFEQS---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2sli       D-----GKPAIILSSPNAT----NGRKNGKIWIGLVNDTGNTGIDKYSVEWKYSYAVDT---PQMGYSYSCLAEL
+1eur       GSARAK---VLLFSNAASQ----TSRSQGTIRMSCDDGQ----------TWPVSKVFQPGS-----MSYSTLTAL
+3sil       ------NKLVAAHSSAQNK-NNDYTRSDISLYAHNLYSG----------EVKLIDDFYPKVGNASGAGYSCLSYR
+1kit       ---DGS--HFLLFTNPQGNPAGTNGRQNLGLWFSFDEGV----------TWKGPIQLVNGA-----SAYSDIYQL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+2sli       PD---GQVGLLYEKYDSWSRNELHLKDILKFEKYS-ISELTGQA----*
+1eur       P---DGTYGLLYEP-G----------TGIRYANFN-LAWLGG--ICAP*
+3sil       KNVDKETLYVVYEA-N----------GSIEFQDL--SRHLPVIKSYN-*
+1kit       D---SENAIVIVETDN----------SNMRILRMPITLLKQKLTLSQN*
+           ====|=========|=========|=========|=========|===
+               0530      0540      0550      0560      0570 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-2sli       100.0  23.0  20.8  18.8
+  2-1eur        23.0 100.0  19.7  20.8
+  3-3sil        20.8  19.7 100.0  18.5
+  4-1kit        18.8  20.8  18.5 100.0
+
+***************************************************************************

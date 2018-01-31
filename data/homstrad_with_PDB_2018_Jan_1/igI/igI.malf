@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1vcaa      structureX:1vca:   1 :A:  95 :A:human vascular cell adhesion molecule-1:Homo sapiens: 1.80:20.20
+[  2] 1tit       structureX:1tit:   1 : :  89 : :titin IG repeat 27:Homo sapiens:-1.00:-1.00
+[  3] 1tlk       structureX:1tlk:  33 : : 135 : :telokin:Meleagris gallopavo: 2.80:18.40
+[  4] 1nct       structureX:1nct:  -6 : :  91 : :titin N-terminally extended module M5:Homo sapiens:-1.00:-1.00
+[  5] 1wit       structureX:1wit:   1 : :  93 : :twitchin IG 18':Caenorhabditis elegans:-1.00:-1.00
+[  6] 2ncm       structureX:2ncm:   1 : :  99 : :neural cell adhesion molecule:Mus musculus:-1.00:-1.00
+[  7] 1zxq       structureX:1zxq:   1 : :  93 : :intercellular adhesion molecule-2:Homo sapiens: 2.20:22.60
+[  8] 1itbb2     structureX:1itb: 104 :B: 205 :B:type 1 interleukin-1 receptor:Homo sapiens: 2.50:22.90
+[  9] 1itbb3     structureX:1itb: 206 :B: 315 :B:type 1 interleukin-1 receptor:Homo sapiens: 2.50:22.90
+
+
+1vcaa      ---------FKIETT--PESRYLAQIGDSVSLTCSTTG-CE-----SPFFSWRTQIDSPLN-----GKVTNE---
+1tit       --------LIEVEK---PLYGVEVFVGETAHFEIELSE--P-----DVHGQWKLKGQPLTAS--PDCEIIEDG--
+1tlk       VAEEKPHVKPYFTK---TILDMDVVEGSAARFDCKVEG-YP-----DPEVMWFKDDNPVKES--RHFQIDYDE--
+1nct       ---SKTTLAARILT---KPRSMTVYEGESARFSCDTDG-EP-----VPTVTWLRKGQVLSTS--ARHQVTTTK--
+1wit       -------LKPKILT---ASRKIKIKAGFTHNLEVDFIG-AP-----DPTATWTVGDSGAALA--PELLVDAKS--
+2ncm       -----RVLQVDIVP---S--QGEISVGESKFFLCQVAGDAK-----DKDISWFSPNGEKLSPNQQRISVVWND--
+1zxq       -------KVFEVHVR--PK-KLAVEPKGSLEVNCSTTC-NQ-----PEVGGLETS----L-----NKILLDEQ--
+1itbb2     ------------CYNAQAIFKQKLPVAGDGGLVCPYMEFFKNENNELPKLQWYKDCKPLLLDN-IHFSGV-----
+1itbb3     ------PTRPVIVSP--ANETMEVDLGSQIQLICNVTG-QL-----SDIAYWKWNG-SVIDEDDPVLGEDYYSVE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1vcaa      --------GTTSTLTMNPVSFGNE-HSYLCTATCE----SRKLEKGIQVEIYSF--------PKDP*
+1tit       ---------KKHILILHNCQLGMT-GEVSF--QAA----NAKSAANLKVKEL--------------*
+1tlk       --------EGNCSLTISEVCGDDD-AKYTCKAVNS----LGEATCTAELLVETM------------*
+1nct       ---------YKSTFEISSVQASDE-GNYSVVVENS----EGKQEAEFTLTIQK-------------*
+1wit       ---------STTSIFFPSAKRADS-GNYKLKVKNE----LGEDEAIFEVIVQ--------------*
+2ncm       --------DDSSTLTIYNANIDDA-GIYKCVVTAE---DGTQSEATVNVKIFQ-------------*
+1zxq       --------AQWKHYLVSNISH--D-TVLQCHFTCS----GKQESMNSNVSVYQP--PRQVIL----*
+1itbb2     --------KD--RLIVMNVAEKHR-GNYTCHASYTYLGKQYPITRVIEFITLEENK----------*
+1itbb3     NPANKRRSTLITVLNISEIESRFYKHPFTCFAKNT----HGIDAAYIQLIYPVT------------*
+           ====|=========|=========|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9]
+
+  1-1vcaa      100.0   9.0  11.6  20.0  15.1  21.1  17.2  11.6  15.8
+  2-1tit         9.0 100.0  14.6  20.2  11.2  16.9   9.0  12.4  11.2
+  3-1tlk        11.6  14.6 100.0  25.5  21.5  16.2   7.5  16.7  21.4
+  4-1nct        20.0  20.2  25.5 100.0  28.0  22.4   6.5   8.2  14.3
+  5-1wit        15.1  11.2  21.5  28.0 100.0  20.4   3.2  12.9  20.4
+  6-2ncm        21.1  16.9  16.2  22.4  20.4 100.0  11.8  14.1  12.1
+  7-1zxq        17.2   9.0   7.5   6.5   3.2  11.8 100.0   8.6   6.5
+  8-1itbb2      11.6  12.4  16.7   8.2  12.9  14.1   8.6 100.0  10.8
+  9-1itbb3      15.8  11.2  21.4  14.3  20.4  12.1   6.5  10.8 100.0
+
+***************************************************************************

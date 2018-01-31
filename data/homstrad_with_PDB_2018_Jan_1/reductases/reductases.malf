@@ -1,0 +1,76 @@
+      Code       Title
+
+[  1] 2cnd       structureX:2cnd:  11 : : 270 : :nitrate reductase:Zea mays: 2.5: 24.2
+[  2] 1ndh       structureX:1ndh:   3 : : 272 : :cytochrome b5 reductase:Pig liver microsomes: 2.1: 22.3
+[  3] 1que       structureX:1que:   1 : : 303 : :ferredoxin-NADP reductase:Anabaena sp.: 1.80: 17.2
+[  4] 1qfza      structureX:1qfz:   1 :A: 308 :A:ferredoxin-NADP reductase:Pisum sativum: 1.70: 20.1
+[  5] 1fdr       structureX:1fdr:   2 : : 248 : :ferredoxin-NADP reductase:Escherichia coli: 1.7: 18.4
+[  6] 1a8p       structureX:1a8p:   2 : : 258 : :ferredoxin reductase:Azotobacter vinelandii: 2.0: 20.6
+[  7] 1qfja      structureX:1qfj:   1 :A: 232 :A:NAD(P)H-flavin reductase:Escherichia coli: 2.2: 23.9
+
+
+2cnd       -----------------------------------GRIHCRLVAKKELSR-----DVRLFRFSLPSPDQVLGLPI
+1ndh       --------------------------PAITLENPDIKYPLRLIDKEVVNH-----DTRRFRFALPSPEHILGLPV
+1que       -----------------TQAKAKHADVPVNLYRPNAPFIGKVISNEPLVKEGGIGIVQHIKFDLT--GGNLKYIE
+1qfza      QVTTEAPAKVVKHSKKQDE------NIVVNKFKPKEPYVGRCLLNTKITGDDAPGETWHMVFSTE---GEVPYRE
+1fdr       ----------------------------------ADWVTGKVTKVQNWTD-----ALFSLTVHA-P---VLPFTA
+1a8p       ----------------------------------SNLNVERVLSVHHWND-----TLFSFKTTRNP---SLRFEN
+1qfja      -----------------------------------TTLSCKVTSVEAITD-----TVYRVRIVPDA---AFSFRA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2cnd       GKHIFVCATIE----GKLCMRAYTPTSMVDE---IGH-FDLLVKVYFKNEHPKF--PNGGLMTQYLDSLPVGSYI
+1ndh       GQHIYLSARID----GNLVIRPYTPVSSDDD---KGFVDLVIKVYFKDT-HPKF--PAGGKMSQYLESMKIGDTI
+1que       GQSIGIIPPGVDKNGKPEKLRLYSIASTRHGDDVDDKTISLCVRQL-EYKHPESGETVYGVCSTYLTHIEPGSEV
+1qfza      GQSIGIVPDGIDKNGKPHKLRLYSIASSAIGDFGDSKTVSLCVKRL-VYTND-AGEVVKGVCSNFLCDLKPGSEV
+1fdr       GQFTKLGLEI-------RVQRAYSYVNSPDN----PD-LEFYLVTVP-----------DGKLSPRLAALKPGDEV
+1a8p       GQFVMIGLEVD----GRPLMRAYSIASPNYE----EH-LEFFSIKVQ-----------NGPLTSRLQHLKEGDEL
+1qfja      GQYLMVVMDE-------RDKRPFSMASTPDE---KGF-IELHIGYAK-------------AVMDRILK---DHQI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2cnd       DVK-GPLGHVEYTG-RGSFVIN----GKQR-NAR-RLAMICGGSGITPMYQIIQAVLRDQP-------EDHTEMH
+1ndh       EFR-GPNGLLVYQG-KGKFAIRPDKKSSPVIKTVKSVGMIAGGTGITPMLQVIRAIMKD-P-------DDHTVCH
+1que       KIT-GPVGKEMLLPD----------------DPEANVIMLATGTGIAPMRTYLWRMFKDAERAANPEYQFKGFSW
+1qfza      KIT-GPVGKEMLMPK----------------DPNATVIMLGTGTGIAPFRSFLWKMFF--EK--HEDYQFNGLAW
+1fdr       QVVSEAAGFFV---LDEVPH-------------CETLWMLATGTAIGPYLSILRLGKDL---------DRFKNLV
+1a8p       MVSRKPTGTLV---TSDLLP-------------GKHLYMLSTGTGLAPFMSLIQDPEVY---------ERFEKVV
+1qfja      VVD-IPHGEAW---LRD-DE-------------ERPMILIAGGTGFSYARSILLTALAR---------NPNRDIT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2cnd       LVYANRTEDDILLRDELDRWAAEYP-------DRLKVWYVIDQVKRPEEGWKYSVGFVTEAVLR-----EHVPE-
+1ndh       LLFANQTEKDILLRPELEELRNEHS-------ARFKLWYTVDRAPE---AWDYSQGFVNEEMIR-----DHLPP-
+1que       LVFGVPTTPNILYKEELEEIQQKYP-------DNFRLTYAISREQKNPQ---GGRMYIQDRVAEHADQLWQLIKN
+1qfza      LFLGVPTSSSLLYKEEFEKMKEKAP-------ENFRLDFAVSREQVNDK---GEKMYIQTRMAQYAEELWELLKK
+1fdr       LVHAARYAADLSYLPLMQELEKRYE-------GKLRIQTVVSRE--T--AAGSLTGRIPALIESGELESTIGLP-
+1a8p       LIHGVRQVNELAYQQFITEHLPQSEYFGEAVKEKLIYYPTVTRE--S--FH--NQGRLTDLMRSGKLFEDIGLPP
+1qfja      IYWGGREEQHLYDLCELEALSL--------KHPGLQVVPVVEQP--EAGWR-GRTGTVLTAVLQ--DHG------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2cnd       -GGDDTLALACGPPPMIQFAISPNLEK-M---KYD---------MANSFVVF------*
+1ndh       -PEEEPLVLMCGPPPMIQYACLPNLER-V---GHP---------K-ERCFAF------*
+1que       ---QKTHTYICGLRGMEEG-IDAALSAAAAKEGVTWSDYQKDLKKAGRWHVET-Y---*
+1qfza      ---DNTFVYMCGLKGMEKG-IDDIMVSLAAKDGIDWIEYKRTLKKAEQWNVEV-S---*
+1fdr       MNKETSHVMLCGNPQMVRD-TQQLLKETR---QMTKH-LRR---RPGHMTAEHYW---*
+1a8p       INPQDDRAMICGSPSMLDE-SCEVLDG-F---GLKISPRMG---EPGDYLIERAFVEK*
+1qfja      -TLAEHDIYIAGRFEMAKI-ARDLFCSER---NAR----------EDRLFG-DAFAFI*
+           =========|=========|=========|=========|=========|========
+                    0310      0320      0330      0340      0350     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7]
+
+  1-2cnd       100.0  43.8  19.2  14.6  13.9  15.6  16.4
+  2-1ndh        43.8 100.0  20.4  17.0  20.1  16.7  15.9
+  3-1que        19.2  20.4 100.0  51.2  18.0  17.9  15.9
+  4-1qfza       14.6  17.0  51.2 100.0  18.9  17.9  15.9
+  5-1fdr        13.9  20.1  18.0  18.9 100.0  32.4  17.3
+  6-1a8p        15.6  16.7  17.9  17.9  32.4 100.0  15.9
+  7-1qfja       16.4  15.9  15.9  15.9  17.3  15.9 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1f3vb      structureX:1f3v: 350 :B: 501 :B:TRAF domain of TRAF2 (complexed with the N-terminal domain of TRADD):Homo sapiens: 2.00: 22.9
+[  2] 1flka      structureX:1flk: 350 :A: 504 :A:TNF receptor associated factor 3:Homo sapiens: 2.80: 22.4
+
+
+1f3vb      YDGVFIWKISDFPRKRQEAVAGRIPAIFSPAFYTSRYGYK-CLRIYLNGDGTGRGTHLSLFFVV-KGPNDALLRW
+1flka      YNGVLIWKIRDYKRRKQEAVMGKTLSLYSQPFYTGYFGYKMCARVYLNGDGMGKGTHLSLFFVIMRGEYDALLPW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f3vb      PFNQKVTL-LLDQN-NREHVIDAFRPDVTSSSFQRPVND-NIASGCPLFCPVSKEAKNSYVRDDAIFIKAIVDLT
+1flka      PFKQKVTLMLMDQGSSRRHLGDAFKPDPNSSSFKKPTGEMNIASGCPVFVAQTVLENGTYIKDDTIFIKVIVDTS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f3vb      GL---*
+1flka      DLPDP*
+           =====
+                
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f3vb      100.0  58.5
+  2-1flka       58.5 100.0
+
+***************************************************************************

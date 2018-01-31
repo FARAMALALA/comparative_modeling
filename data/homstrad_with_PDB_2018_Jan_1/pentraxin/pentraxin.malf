@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1b09a      structureX:1b09:   1 :A: 206 :A:C-reactive protein:Homo sapiens: 2.50: 19.60
+[  2] 1saca      structureX:1sac:   1 :A: 204 :A:serum amyloid P component:Homo sapiens: 2.00: 17.90
+
+
+1b09a      QTDMSRKAFVFPKESDTSYVSLKAPLTKPLKAFTVCLHFYTELSSTRGYSIFSYATKRQDNEILIFWSKDIGYSF
+1saca      HTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLS--RAYSLFSYNTQGRDNELLVYKERVGEYSL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b09a      TVGGSEILFEVPEVTVAPVHICTSWESASGIVEFWVDGKPRVRKSLKKGYTVGAEASIILGQEQDSFGGNFEGSQ
+1saca      YIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1b09a      SLVGDIGNVNMWDFVLSPDEINTIYLGGPFSPNVLNWRALKYEVQGEVFTKPQLWP*
+1saca      SFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV*
+           =========|=========|=========|=========|=========|======
+                    0160      0170      0180      0190      0200   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1b09a      100.0  51.5
+  2-1saca       51.5 100.0
+
+***************************************************************************

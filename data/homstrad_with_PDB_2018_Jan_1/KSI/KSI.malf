@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1opy       structureX:1opy:   2 : : 127 : :steroid delta-isomerase:Pseudomonas putida: 1.90: 19.9
+[  2] 8cho       structureX:8cho:   1 : : 125 : :steroid delta-isomerase:Comamonas testosteroni: 2.3: 20.5
+
+
+1opy       NLPTAQEVQGLMARYIELVDVGDIEAIVQMYADDATVEDPFGQPPIHGREQIAAFYRQGL--KVRACLTGPVRAS
+8cho       M-NTPEHMTAVVQRYVAALNAGDLDGIVALFADDATVEDPVGSEPRSGTAAIREFYANSLKLPLAVELTQEVRAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1opy       HNGCGAMPFRVEMVWNGQPCALDVIDVMRFDEHGRIQTMQAYWSEVNLSV--*
+8cho       -ANEAAFAFIVSFEYQGRKTVVAPIDHFRFNGAGKVVSMRALFGEKNIHAGA*
+           ====|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1opy       100.0  33.3
+  2-8cho        33.3 100.0
+
+***************************************************************************

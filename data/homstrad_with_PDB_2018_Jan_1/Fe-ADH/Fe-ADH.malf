@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1jq5a      structureX:1jq5:   2 :A: 367 :A:Glycerol Dehydrogenase:Bacillus Stearothermophilus: -1: -1
+[  2] 1kq3a      structureX:1kq3:   0 :A: 363 :A:Glycerol Dehydrogenase (TM0423):Thermotoga Maritima: -1: -1
+
+
+1jq5a      AAERVFISPAKYVQGKNVITKIANYLEGIGNKTVVIADEIVWK-IAGHTIVNELKKGNIAAEEVVFSGEASRNEV
+1kq3a      HMITTTIFPGRYVQGAGAINILEEELSRFGERAFVVIDDFVDKNVLGENFFSSFT--KVRVNKQIFGGECSDEEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jq5a      ERIANIARKAEAAIVIGVGGGKTLDTAKAVADELDAYIVIVPTAASTDAPTSALSVIYSDDGVFESYRFYKKNPD
+1kq3a      ERLSGLVEE-ETDVVVGIGGGKTLDTAKAVAYKLKKPVVIVPTIASTDAPCSALSVIYTPNGEFKRYLFLPRNPD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jq5a      LVLVDTKIIANAPPRLLASGIADALATWVEARSVIKSGGKTMAGGIPTIAAEAIAEKCEQTLFKYGKLAYESVKA
+1kq3a      VVLVDTEIVAKAPARFLVAGMGDALATWFEAESCKQKYAPNMTGRLGSMTAYALARLCYETLLEYGVLAKRSVEE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jq5a      KVVTPALEAVVEANTLLSGLGFESGGLAAAHAIHNGFTALEGEIHHLTHGEKVAFGTLVQLALEEHSQQEIERYI
+1kq3a      KSVTPALEKIVEANTLLSGLGFESGGLAAAHAIHNGLTVLE-NTHKYLHGEKVAIGVLASLFLTDKPRKMIEEVY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jq5a      ELYLCLDLPVTLEDIKLKDASREDILKVAKAATAEGETIHNA-FNVTADDVADAIFAADQYAKAYKEK*
+1kq3a      SFCEEVGLPTTLAEIGLDGVSDEDLMKVAEKACDKNETIHNEPQPVTSKDVFFALKAADRYGRMRKNL*
+           =========|=========|=========|=========|=========|=========|========
+                    0310      0320      0330      0340      0350      0360     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jq5a      100.0  48.1
+  2-1kq3a       48.1 100.0
+
+***************************************************************************

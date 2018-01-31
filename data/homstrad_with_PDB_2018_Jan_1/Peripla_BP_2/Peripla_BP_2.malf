@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1efdn      structureX:1efd:  32 :N: 293 :N:ferrichrome-binding periplasmic protein:Escherichia coli: 1.90: 21.8
+[  2] 1n2za      structureX:1n2z:  22 :A: 266 :A:vitamin B12 transport protein btuF:Escherichia coli: 2.00: 18.9
+
+
+1efdn      GIDPNRIVALEWLPVELLLALGIVPYGVADTINYRLWVSEPPLPDSVIDVGLRTEPNLELLTEMKPSFMVWSAGY
+1n2za      --AAPRVITLSPANTELAFAAGITPVGVSS--YSD----YPPQAQKIEQVSTWQGMNLERIVALKPDLVIAWRGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1efdn      GP--SPEMLARIAPGRGFNFSDGKQPLAMARKSLTEMADLLNLQSAAETHLAQYEDFIRSMKPRFVKRGARPLLL
+1n2za      NAERQVDQLASLGIKVMWVDAT---SIEQIANALRQLAPWSPQPDKAEQAAQSLLDQYAQLKAQYADKPKKRVFL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1efdn      TTLIDPRHMLVFGPNSLFQEILDEYGIPNAWQGETNFWGSTAVSIDRLAAYKDVDVLCFDH-DNSKDMDALMATP
+1n2za      QFGI--NPPFTSGKESIQNQVLEVCGGENIFKDSRV--PWPQVSREQVLARSPQAIVITGGPDQIPKIKQYWG--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1efdn      LWQAMPFVRAGRFQRVPAVWFYGATLSAMHFVRVLDNAIG---*
+1n2za      --EQL----KIPVIPLTSDWFERASPRIILAAQQLCNALSQVD*
+           ====|=========|=========|=========|========
+               0230      0240      0250      0260     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1efdn      100.0  18.0
+  2-1n2za       18.0 100.0
+
+***************************************************************************

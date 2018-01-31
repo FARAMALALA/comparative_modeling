@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1cf1a      structureX:1cf1:  10 :A: 393 :A:S-arrestin:Bos taurus: 2.80: 23.3
+[  2] 1g4ma      structureX:1g4m:   5 :A: 393 :A:beta-arrestin 1:Bos taurus: 1.90: 23.5
+
+
+1cf1a      -HVIFKKISRDKSVTIYLGKRDYIDHVERVEPVDGVVLVDPELVKGKRVYVSLTCAFRYGQEDIDVMGLSFRRDL
+1g4ma      GTRVFKKASPNGKLTVYLGKRDFVDHIDLVEPVDGVVLVDPEYLKERRVYVTLTCAFRYGREDLDVLGLTFRKDL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1cf1a      YFSQVQVFPPVGASG-ATTRLQESLIKKLGANTYPFLLTFPDYLPCSVMLQPAPQDVGKSCGVDFEIKAFATHST
+1g4ma      FVANVQSFPPAPEDKKPLTRLQERLIKKLGEHAYPFTFEIPPNLPCSVTLQPGPEDTGKACGVDYEVKAFCAE--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1cf1a      DVEEDKIPKKSSVRLLIRKVQHAPRDMGPQPRAEASWQFFMS-DKPLRLAVSLSKEIYYHGEPIPVTVAVTNSTE
+1g4ma      NLEE-KIHKRNSVRLVIRKVQYAPERPGP-QPTAETTRQFLMSDKPLHLEASLDKEIYYHGEPISVNVHVTNNTN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1cf1a      KTVKKIKVLVEQVTNVVLYSSDYYIKTVAAEEAQEKVPPNSSLTKTLTLVPLLANNRERRGIALDGKIKHEDTNL
+1g4ma      KTVKKIKISVRQYADICLFNTAQYKCPVAMEEADDTVAPSSTFCKVYTLTPFLANNREKRGLALDGKLKHEDTNL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1cf1a      ASSTIIKEGIDKTVMGILVSYQIKVKLTVSGLLGELTSSEVATEVPFRLMHPQPED-NFVFEEFARQNLKDAGEY
+1g4ma      ASSTLLREGANREILGIIVSYKVKVKLVVSRG------SDVAVELPFTLMHPKPKDDDIVFEDFAR---------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1cf1a      KE*
+1g4ma      --*
+           ==
+             
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1cf1a      100.0  58.7
+  2-1g4ma       58.7 100.0
+
+***************************************************************************

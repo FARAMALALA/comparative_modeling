@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1ih7a      structureX:1ih7: 360 :A: 903 :A:DNA polymerase:Bacteriophage rb69: 2.21: 21.5
+[  2] 1qhta      structureX:1qht: 348 :A: 750 :A:DNA polymerase:Thermococcus sp.: 2.10: 24.5
+
+
+1ih7a      SPIKTWDAIIFNSLKEQNKVIPQGRSHPVQ-----PYPGAFVKEPIPNRYKYVMSFDLTSLYPSIIRQVNISPET
+1qhta      STGNLVEWFLLRKAYKRNELAPNKPDERELARRRGGYAGGYVKEPERGLWDNIVYLDFRSLYPSIIITHNVSPDT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ih7a      IAGTFKVAPLHDYINAVAERPSDVYSCSP-NGMMYYKDRDGVVPTEITKVFNQRKEHKGYMLAAQRNGEIIKEAL
+1qhta      LNRE----------------GCKEYDVAPEVGHKFCKDFPGFIPSLLGDLLEERQKIKRKMKATV----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ih7a      HNPNLSVDEPLDVDYRFDFSDEIKEKIKKLSAKSLNEMLFRAQRTEVAGMTAQINRKLLINSLYGALGNVWFRYY
+1qhta      -----------------------------------------DPLEKKLLDYRQRAIKILANSFYGYYGYAKARWY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ih7a      DLRNATAITTFGQMALQWIERKVNEYLNEVCGTEGEAFVLYGDTDSIYVSADKIIDKVGESKFRDTNHWVDFLDK
+1qhta      CKECAESVTAWGREYIEMVIRELEEKF-------GF-KVLYADTDGLHATIP--------G------ADAETVKK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ih7a      FARERMEPAIDRGFREMCEYMNNKQHLMFMDREAIAGPPLGSKGIGGFWTGKKRYALNVWDMEGTRYAEPKLKIM
+1qhta      KAKE-FLKYINL----------------ELEYEGFYV--------RGFFVTKKKYAVIDE--------EGKITTR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ih7a      GLETQKSSTPKAVQKALKECIRRMLQE-GEESLQEYFKEFEKEFRQLNYISIASVSSANNIAKYDVGGFPGPKCP
+1qhta      GLEIVRRDWSEIAKETQARVLEAILKHGDVEEAVRIVKEVTL---------VIHEQIA-----------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ih7a      FHIRGILTYNRAIP----QVVEGEKVYVLPLREGNPFGDKCIAWPSGTEITDLIKDDVLHWMDYTVLLEKTFIKP
+1qhta      --TGPHVAVAKRLAARGVKIRPGTVISYIVL-----KGDRAIPA-------DEF----------EYYIENQVLPA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1ih7a      LEGFTSAAKLDYEKKASLFDMFDF*
+1qhta      VERILKAFGY--------------*
+           ====|=========|=========
+               0530      0540      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ih7a      100.0  23.1
+  2-1qhta       23.1 100.0
+
+***************************************************************************

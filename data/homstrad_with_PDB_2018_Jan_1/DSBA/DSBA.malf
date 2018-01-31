@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1fvka      structureX:1fvk:   1 :A: 188 :A:thiol-disulfide interchange protein DSBA:Escherichia coli: 1.7: 19.8
+[  2] 1bed       structureX:1bed:   1 : : 181 : :thiol-disulfide interchange protein:Vibrio cholerae: 2.1: 20.5
+
+
+1fvka      AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHCYQFEEVLHISDNVKKKLPEGVKMTKYHVNFMGGDLGKDLTQA
+1bed       AQFKEGEHYQVLKTPASSSPVVSEFFSFYCPHCNTFE---PIIAQLKQQLPEGAKFQKNHVSFMGGNMGQAMSKA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fvka      WAVAMALGVEDKVTVPLFEGVQKTQT-IRSASDIRDVFINAGIKGEEYDAAWNSFVVKSLVAQQEKAAADVQLRG
+1bed       YATMIALEVEDKMVPVMFNRIHTLRKPPKDEQELRQIFLDEGIDAAKFDAAYNGFAVDSMVRRFDKQFQDSGLTG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fvka      VPAMFVNGKYQLNPQGMDTSNMDVFVQQYADTVKYLSEK-*
+1bed       VPAVVVNNRYLVQGQSVK------SLDEYFDLVNYLLTLK*
+           =========|=========|=========|=========|
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fvka      100.0  39.2
+  2-1bed        39.2 100.0
+
+***************************************************************************

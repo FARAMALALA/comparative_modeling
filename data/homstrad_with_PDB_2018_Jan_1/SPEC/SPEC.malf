@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2spca      structureX:2spc:   0 :A: 106 :A:spectrin alpha chain [domain swapped for 73-106]:Drosophila melanogaster: 1.80: 20.3
+[  2] 1aj3       structureX:1aj3:  10 : : 107 : :spectrin alpha chain:Gallus gallus: -1: -1
+
+
+2spca      QNLDLQLYMRDCELAESWMSAREAFLNADDDANAGGN--VEALIKKHEDFDKAINGHEQKIAALQTVADQLIAQN
+1aj3       -----HQFFRDMDDEESWIKEKKLLVSSEDY--GRDLTGVQNLRKKHKRLEAELAAHEPAIQGVLDTGKKLSDDN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2spca      -HYASNLVDEKRKQVLERWRHLKEGLIEKRSRLGD*
+1aj3       -TIGKEEIQQRLAQFVDHWKELKQLAAARGQ----*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2spca      100.0  20.4
+  2-1aj3        20.4 100.0
+
+***************************************************************************

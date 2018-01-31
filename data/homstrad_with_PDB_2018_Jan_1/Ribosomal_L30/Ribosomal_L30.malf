@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bxya      structureX:1bxy:   1 :A:  60 :A:50S ribosomal protein L30:Thermus aquaticus: 1.90: 20.3
+[  2] 1jj2v      structureX:1jj2:   1 :V: 154 :V:50S ribosomal protein L30p:Haloarcula marismortui: 2.40: 18.9
+
+
+1bxya      MPRLKVKLVKSPIGYPKDQKAALKALGLRRLQQERVLEDTPAIRGNVEKVAHLVRVEVVE---------------
+1jj2v      --MHALVQLRGEVNMHTDIQDTLEMLNIHHVNHCTLVPETDAYRGMVAKVNDFVAFGEPSQETLETVLATRAEPL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bxya      ---------------------------------------------------------------------------
+1jj2v      EGDADVDDEWVAEHTDYDDISGLAFALLSEETTLREQGLSPTLRLHPPRGGHDGVKHPVKEGGQLGKHDTEGIDD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bxya      ------*
+1jj2v      LLEAMR*
+           ======
+                 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bxya      100.0  18.3
+  2-1jj2v       18.3 100.0
+
+***************************************************************************

@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 2hpaa      structureX:2hpa:1001 :A:1342 :A:prostatic acid phosphatase:Homo sapiens: 2.90: 21.1
+[  2] 1rpt       structureX:1rpt:   1 : : 342 : :prostatic acid phosphatase:Rattus norvegicus: 3.0: 21.5
+[  3] 1ihp       structureX:1ihp:   7 : : 444 : :3-phytase A:Aspergillus niger: 2.5: 15.5
+
+
+2hpaa      -----------------------------------------KELKFVTLVFRHGDRSPID-TFPTDPIKESSWP-
+1rpt       -----------------------------------------KELKFVTLVFRHGDRGPIE-TFPNDPIKESSWP-
+1ihp       SCDTVDQGYQCFSETSHLWGQYAPFFSLANESVISPEVPAGCRVTFAQVLSRHGARYPTDSKGKKYSALIEEIQQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2hpaa      ------------------QGFGQLTQLGMEQHYELGEYIRKRYRKFLNESYKHEQVYIRSTDVDRTLMSAMTNLA
+1rpt       ------------------QGFGQLTKWGMGQHYELGSYIRRRYGRFLNNSYKHDQVYIRSTDVDRTLMSAMTNLA
+1ihp       NATTFDGKYAFLKTYNYSLGADDLTPFGEQELVNSGIKFYQRYESLTRNIV----PFIRSSGSSRVIASGKKFIE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2hpaa      ALFPPE---GVSIWNPILLWQPIPVHTVPL-SEDQLLYLPFRNCPRFQELESETLKSEEFQKRLHPYK-DFIATL
+1rpt       ALFPPE---GNSIWNPRLLWQPIPVHTVSL-SEDRLLYLPFRDCPRFQELKSETLKSEEFLKRLQPYK-SFIDTL
+1ihp       GFQSTKLKDPRAQP---GQSSPKIDVVISEASSSNNTLDP-GTCTVFED-SELAD--TVEANFTATFVPSIRQRL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2hpaa      GKLS-GLHGQDLFGIWSKVYDPLYCESVHNFTLPSWA---TEDTMTKLRELSELSLLSLYGIHKQKEKSRLQGGV
+1rpt       PSLS-GFEDQDLFEIWSRLYDPLYCESVHNFTLPTWA---TEDAMTKLKELSELSLLSLYGIHKQKEKSRLQGGV
+1ihp       ENDLSGVTL-TDTEVTY-LMDMCSFDTISTTKLSPFCDLFTHDEWINYDYLQSLKKYYGHGAGN--PLGPTQGVG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2hpaa      LVNEILNHMKRATQIP-------------------SYKKLIMYSAHDTTVSGLQMALDVYNG-------------
+1rpt       LVNEILKNMKLATQPQ-------------------KARKLIMYSAHDTTVSGLQMALDVYNG-------------
+1ihp       YANELIARLTHS---PVHDDTSSNHTLDSSPATFPLNSTLYADFSHDNGIISILFALGLYNGTKPLSTTTVENIT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2hpaa      -----LL---PPYASCHLTELYFEK--GEYFVEMYYRNETQHEPYPLMLPGCS----PSCPLERFAELVGPVIPQ
+1rpt       -----LL---PPYASCHIMELYQDN--GGHFVEMYYRNETQNEPYPLTLPGCT----HSCPLEKFAELLDPVIPQ
+1ihp       QTDGFSSAWTVPFASRLYVEMMQCQAEQEPLVRVLVND------RVVPLHGCPVDALGRCTRDSFVRGLSFARSG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2hpaa      DWSTECMT*
+1rpt       DWATECMG*
+1ihp       GDWAECFA*
+           ========
+                   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2hpaa      100.0  83.3  17.3
+  2-1rpt        83.3 100.0  18.4
+  3-1ihp        17.3  18.4 100.0
+
+***************************************************************************

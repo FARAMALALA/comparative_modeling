@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1h6ka      structureX:1h6k:  27 :A: 246 :A:80 kDa nuclear cap binding protein:Homo sapiens: 2.0: 20.317
+[  2] 1hu3a      structureX:1hu3:   1 :A: 986 :A:eIF4GII, middle domain:Homo sapiens: 2.37: 24.9
+
+
+1h6ka      ------TEDHLESLICKVGEKSACSLESNLEGLAGVLEADLPNYKSKILRLLCTVARLLPEKLTIYTTLVGLLNA
+1hu3a      SDPENIKTQELFRKVRSILNK-LTPQFNQL-KQVSGLTVDTEERLKGVIDLVFEKAIDEPSFSVAYAN-CRCLVT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h6ka      RN-YNFGGEFVEAMIRQLKESLKAN--NYNEAVYLVRFLSDLVNCHVIAAPSMVAMFENFVSVTQEEDVPQVRRD
+1hu3a      LKVPNFRKLLLNRCQKEFEKDKAAKDKARRRSIGNIKFIGELFKLKLT--EAIHDCVVKLLKNH---------DE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1h6ka      WYVYAFLSSLPWVGKELYEKKDAEMDRIFANTESYLKRRQKTHVPMLQVWTADKPHPQEEYLDCLWAQIQKLKKD
+1hu3a      ESLECLCRLLTTIGKDLDFEKAKPRDQYFN-QEKIVKE------------------RKTSSRIRFLQDVIDLRLC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1h6ka      RWQE*
+1hu3a      NWVS*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h6ka      100.0  13.3
+  2-1hu3a       13.3 100.0
+
+***************************************************************************

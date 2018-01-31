@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1efca      structureX:1efc: 205 :A: 296 :A:elongation factor Tu (EF-Tu):Escherichia coli: 2.05: 20.3
+[  2] 1eft       structureX:1eft: 213 : : 312 : :elongation factor Tu (EF-Tu):Thermus aquaticus: 2.5: 20
+[  3] 1d2ea      structureX:1d2e: 251 :A: 348 :A:elongation factor Tu, mitochondrial:Bos taurus: 1.94: 23.7
+[  4] 1dar       structureX:1dar: 283 : : 400 : :elongation factor G (EF-G):Thermus aquaticus: 2.4: 22
+
+
+1efca      ---------------------AIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVGEEVEIVGIK-ETQKSTCTG
+1eft       P------------------VRDVDKPFLMPVEDVFTITGRGTVATGRIERGKVKVGDEVEIVGLAPETRKTVVTG
+1d2ea      -------------------TRDLEKPFLLPVESVYSIPGRGTVVTGTLERGILKKGDECEFLGH-SKNIRTVVTG
+1dar       PLDIPPIKGTTPEGEVVEIHPDPNGPLAALAFKIMADPYVGRLTFIRVYSGTLTSGSYVYNTTK---GRKERVAR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1efca      VEMF----RKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPG-------*
+1eft       VEMH----RKTLQEGIAGDNVGLLLRGVSREEVERGQVLAKPGSITP---*
+1d2ea      IEMF----HKSLDRAEAGDNLGALVRGLKREDLRRGLVMAKPGSIQP---*
+1dar       LLRMHANHREEVEELKAGDLGAVVGLK----ETITGDTLVGEDAPRVILE*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1efca      100.0  71.7  56.5  17.4
+  2-1eft        71.7 100.0  57.1  19.0
+  3-1d2ea       56.5  57.1 100.0  12.2
+  4-1dar        17.4  19.0  12.2 100.0
+
+***************************************************************************

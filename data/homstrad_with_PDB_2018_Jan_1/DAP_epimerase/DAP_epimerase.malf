@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1bwza1     structureX:1bwza1: 260 :A: 115 :A:Diaminopimelate Epimerase [domain swapped for 260-274] :Hemophilus INFLUENZAE:2.72:19.0
+[  2] 1bwza2     structure:1bwza2:117:A:259:A:Diaminopimelate Epimerase [domain swapped for 117-130]:Hemophilus INFLUENZAE:2.72:19.0
+
+
+1bwza1     MTGEATHI------------YDGFIT----LMQFSKMHGLGNDFVVVDGVTQNVFFTPETIRRLANRHCGIGFDQ
+1bwza2     NMGEPIWEPAKIPFTANKFEKNYILRTDIQTVLCGAVSM-GNPHCVVQVDDIQTANVEQLGPLLESHERFPERVN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bwza1     LLIVEAPYDPELDFHYRIFNADGSEVSQCGNGARCFARFVTLKGLTNKKDISVSTQKGNMVLTVKDMNQIR*
+1bwza2     AGFMQIIN--KEHIKLRVYERGAGETQACGSGACAAVAVGIMQGLLNN-NVQVDLPGGSLMIEWNGVGHPL*
+           ====|=========|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130      0140   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bwza1     100.0  13.8
+  2-1bwza2      13.8 100.0
+
+***************************************************************************

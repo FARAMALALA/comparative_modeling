@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1a8d       structureX:1a8d:   1 : : 452 : :tetanus toxin:Clostridium tetani: 1.57: -1
+[  2] 3btaa      structureX:3bta: 872 :A:1295 :A:botulinum neurotoxin type A:Clostridium botulinum: 3.2: 22
+
+
+1a8d       MKNLDCWVDNEEDIDVILKKSTILNLDINNDIISDISGFNSSVITYPDAQLVPGINGKAIHLVNNESSEVIVHKA
+3btaa      -----------------IINTSILNLRYESNHLIDLSRYASKINIGSKVNFDP-IDKNQIQLFNLESSKIEVILK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a8d       MDIEYNDMFNNFTVSFWLRVPKVSASHLEQYGTNEYSIISSMKKHSLSIGSGWSVSLKGNNLIWTLKDSAGEVRQ
+3btaa      NAIVYNSMYENFSTSFWIRIPKYFNS---ISLNNEYTIINCMEN-----NSGWKVSLNYGEIIWTLQDTQEIKQR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a8d       ITFRDLPDKFNAYLANKWVFITITNDRLSSANLYINGVLMGSAEITGLGAIREDNNITLKLDRCNNNNQYVSIDK
+3btaa      VVFKYSQMINISDYINRWIFVTITNNRLNNSKIYINGRLIDQKPISNLGNIHASNNIMFKLDGCRDTHRYIWIKY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a8d       FRIFCKALNPKEIEKLYTSYLSITFLRDFWGNPLRYDTEYYLIPVASSSKDVQLKNIT--DYMYLT-NAPSYTNG
+3btaa      FNLFDKELNEKEIKDLYDNQSNSGILKDFWGDYLQYDKPYYMLNLYDPNKYVDVNNVGIRGYMYLKGPRGSVMTT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1a8d       KLNIYYRRLYNGLKFIIKRYTPNNEIDSFVKSGDFIKLYVSYNNNEHIVGYPKDGNAFNNLDRILRVGY-----N
+3btaa      -NIYLNSSLYRGTKFIIKKYASGN-KDNIVRNNDRVYINVVVKNKEYRLATNASQA---GVEKILSALEIPDVG-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1a8d       APGIPLYKKMEAVKLRDL-KTYSVQLKLYDDKNASLGLVGTHNGQIGNDPNRDILIASNWYFNHLKD--KILGCD
+3btaa      ----NLSQVVVMKSKNDQGITNKCKMNLQDNNGNDIGFIGFHQFN-----NIAKLVASNWYNRQIERSSRTLGCS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1a8d       WYFVPTDEGWTND--*
+3btaa      WEFIPVDDGWGERPL*
+           =========|=====
+                    0460  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a8d       100.0  34.0
+  2-3btaa       34.0 100.0
+
+***************************************************************************

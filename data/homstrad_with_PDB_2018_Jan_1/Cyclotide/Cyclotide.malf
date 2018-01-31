@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1df6a      structureN:1df6:   1 :A:  30 :A:Cycloviolacin O1:Viola odorata: -1: -1
+[  2] 1bh4       structureN:1bh4:   1 : :  30 : :Circulin A:Chassalia parviflora: -1: -1
+[  3] 1k48a      structureN:1k48:   8 :A:  36 :A:Kalata B1:Oldenlandia affinis: -1: -1
+
+
+1df6a      --------SCVYIPCTVTALLGCSCSNRVCYN-GIPCAE*
+1bh4       -----CGESCVWIPCISAAL-GCSCKNKVCYRNGIP---*
+1k48a      NGLPVCGETCVGGTCNTP---GCTCSWPVCTR-------*
+           =========|=========|=========|=========
+                    0010      0020      0030      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1df6a      100.0  63.3  31.0
+  2-1bh4        63.3 100.0  41.4
+  3-1k48a       31.0  41.4 100.0
+
+***************************************************************************

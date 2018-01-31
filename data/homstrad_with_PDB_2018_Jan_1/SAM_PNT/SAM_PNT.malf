@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1lkya      structureX:1lky:  15 :A:  91 :A:Transcription factor ETV6, pointed domain:Homo Sapiens: 2.30: 23.2
+[  2] 1bqv       structureN:1bqv:   1 : : 110 : :Ets-1, pointed domain and map kinase phosphorylation site:Mus musculus: -1: -1
+
+
+1lkya      -----------------------------SIRLPAHLRLQPIYWSRDDVAQWLKWAENEFSLRPIDSNTFEMNGK
+1bqv       MECADVPLLTPSSKEMMSQALKATFSGFTKEQQRLGIPKDPRQWTETHVRDWVMWAVNEFSLKGVDFQKFCMSGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lkya      ALLLLTKEDFRYRSP-HSGDRLYELLQHILKQ---*
+1bqv       ALCALGKECFLELAPDFVGDILWEHLEILQKEDVK*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lkya      100.0  36.4
+  2-1bqv        36.4 100.0
+
+***************************************************************************

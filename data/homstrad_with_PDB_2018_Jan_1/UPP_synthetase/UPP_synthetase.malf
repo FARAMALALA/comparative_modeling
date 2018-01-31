@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jp3a      structureX:1jp3:  13 :A: 240 :A:Undecaprenyl pyrophosphate synthase:Escherichia coli: 1.80: 19.4
+[  2] 1f75a      structureX:1f75:  14 :A: 242 :A:Undecaprenyl pyrophosphate synthase:Micrococcus luteus B-P 26: 2.2: 19.0
+
+
+1jp3a      --LPAHGCRHVAII-DGNGRWAKKQGKIRAFGHKAGAKSVRRAVSFAANNGIEALTLYAFS---ELFVWALDSEV
+1f75a      NINAAQIPKHIAIIMDGNGRWAKQKKMPRIKGHYEGMQTVRKITRYASDLGVKYLTLYAFNYLMKLPGDFLNTFL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jp3a      KSLHRHNVRLRIIGDTSRFNSRLQERIRKSEALTAGNTGLTLNIAANYGGRWDIVQGVRQLAEKVQQGNLQPDQI
+1f75a      PELIEKNVKVETIGFIDDLPDHTKKAVLEAKEKTKHNTGLTLVFALNYGGRKEIISAVQLIAERYKSGEISLDEI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jp3a      DEE-LNQHVC-HELAPVDLVIRTGGEHRISNFLLWQIAYAELYFTDVLWPDFDEQDFEGALNAFANRE*
+1f75a      SETHFNEYLFTANMPDPELLIRTSGEERLSNFLIWQCSYSEFVFIDEFWPDFNEESLAQCISIYQNR-*
+           =========|=========|=========|=========|=========|=========|========
+                    0160      0170      0180      0190      0200      0210     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jp3a      100.0  38.1
+  2-1f75a       38.1 100.0
+
+***************************************************************************

@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1hc1       structureX:1hc1:   5 : : 653 : :haemocyanin:Panularus interruptus: 3.20:20.10
+[  2] 1lla       structureX:1lla:   2 : : 628 : :haemocyanin:Limulus polyphemus: 2.20:17.40
+
+
+1hc1       TGNAQKQQDINHLLDKIYEPTKYPDLKDIAENFNPLGDTSIYNDHGAAVETLMKELNDHRLLEQRHWYSLFNTRQ
+1lla       --LHDKQIRICHLFEQLSSAT--------------------------HSDRLKNVGKL----QPGAIFSCFHPDH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hc1       RKEALMLFAVLNQCKEWYCFRSNAAYFRERMNEGEFVYALYVSVIHSKLGDGIVLPPLYQITPHMFTNSEVIDKA
+1lla       LEEARHLYEVFWEAGDFNDFIEIAKEARTFVNEGLFAFAAEVAVLHRDDCKGLYVPPVQEIFPDKFIPSAAINEA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hc1       YSAKMTQKPGTFNVSF---KNREQRVAYFGEDIGMNIHHVTWHMDFPFWWED-SYGYHLDRKGELFFWVHHQLTA
+1lla       FKK---ESPILVDV-TGNILDPEYRLAYYREDVGINAHHWHWHLVYPSTWNPKYFGKKKDRKGELFYYMHQQMCA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hc1       RFDFERLSNWLDPVDELHWDRIIREGFAPLTSYKYG-GEFPVRPDNIHFEDVDGVAHVHDLEITESRIHEAIDHG
+1lla       RYDCERLSNGMHRMLPFNNFDEPLAGYAPHLTHVASGKYYSPRPDGLKLRDLGD-IEISEMVRMRERILDSIHLG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1hc1       YITDSDGHTIDIRQPKGIELLGDIIESSKYSSNVQYYGSLHNTAHVMLGRQGDPHGKFNLPPGVMEHFETATRDP
+1lla       YVISEDGSHKTLDELHGTDILGALVESSYESVNHEYYGNLHNWGHVTMARIHDPDGRFHEEPGVMSDTSTSLRDP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1hc1       SFFRLHKYMDNIFKKHTDSFPPYTHDNLEFSGMVVNGVAIDG----ELITFFDEFQYSLINAVDSGENIEDVEIN
+1lla       IFYNWHRFIDNIFHEYKNTLKPYDHDVLNFPDIQVQDVTLHARVDNVVHTFMREQELELKHGINPG---NARSIK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1hc1       ARVHRLNHNEFTYKITMSNNNDGERLATFRIFLCPIEDNNGITLTLDEARWFCIELDKFFQKVPSGPETIERSSK
+1lla       ARYYHLDHEPFSYAVNVQNNSASDKHATVRIFLAPKYDELGNEIKADELRRTAIELDKFKTDLHPGKNTVVRHSL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1hc1       DSSVTVPDMPSFQSLKEQADNAVNGG-LDLSAYERSCGIPDRMLLPKSKPEGMEFNLYVAVTDGDKDTEGH----
+1lla       DSSVTLSHQPTFEDLLHGVGL----------SEYCSCGWPSHLLVPKGNIKGMEYHLFVMLTDWDKDKV--SVAC
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1hc1       ---HAQCGVHGEAYPDNRPLGYPLERRIPDE--RVIDGVSNIKHVVVKIVHHL*
+1lla       VDAVSYCGARDHKYPDKKPMGFPFDRPIHTEHISDFL-TNNMFIKDIKIKFHE*
+           =========|=========|=========|=========|=========|===
+                    0610      0620      0630      0640      0650 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hc1       100.0  33.3
+  2-1lla        33.3 100.0
+
+***************************************************************************

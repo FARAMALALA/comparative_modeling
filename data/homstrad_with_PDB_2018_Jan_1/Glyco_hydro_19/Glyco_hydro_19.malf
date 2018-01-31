@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 2baa       structureX:2baa:   1 : : 243 : :26 kda endochitinase 2:Hordeum vulgare: 1.8: -1
+[  2] 1dxja      structureX:1dxj:   2 :A: 243 :A:chitinase:Canavalia ensiformis: 1.8: 18.2
+
+
+2baa       SVSSIVSRAQFDRMLLHRNDGACQAKGFYTYDAFVAAAAAFPGFGTTGSADAQKREVAAFLAQTSHETTGGWATA
+1dxja      DVGSVIDASLFDQLLKHRNDPACEGKGFYSYNAFVTAARSFGGFGTTGDTNTRKREVAAFLAQTSHETTGGAAGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2baa       PDGAFAWGYCFKQERGASSDYCTPSAQWPCAPGKRYYGRGPIQLSHNYNYGPAGRAIGVDLLANPDLVATDATVG
+1dxja      PDGPYAWGYCFVTERDKSNKYCDP--GTPCPAGKSYYGRGPIQLTHNYNYAQAGRALGVDLINNPDLVARDAVIS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2baa       FKTAIWFWMTAQPPKPSSHAVIAGQWSPSGADRAAGRVPGFGVITNIINGGIECGHGQDSRVADRIGFYKRYCDI
+1dxja      FKTAIWFWMTPQGNKPSCHDVITNRWTPSAADVAANRTPGFGVITNIINGGIECGRGPSPASGDRIGFYKRYCDV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2baa       LGVGYGNNLDCYSQRPFA-*
+1dxja      LHLSYGPNLNCRDQRPFGG*
+           ====|=========|====
+               0230      0240 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2baa       100.0  66.1
+  2-1dxja       66.1 100.0
+
+***************************************************************************

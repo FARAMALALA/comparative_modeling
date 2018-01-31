@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1lfaa      structureX:1lfa: 128 :A: 310 :A:CD11A I-domain:Homo sapiens: 1.80:19.00
+[  2] 1ido       structureX:1ido: 132 : : 315 : :CR3 I-domain:Homo sapiens: 1.70:20.2
+[  3] 1atza      structureX:1atz: 925 :A:1108 :A:von Willebrand factor A3 domain:Homo sapiens:1.80:17.4
+[  4] 1auq       structureX:1auq: 498 : : 705 : :von Willebrand factor A1 domain:Homo sapiens: 2.3: 18.6
+[  5] 1aoxa      structureX:1aox: 139 :A: 339 :A:platelet membrane glycoprotein IA (integrin alpha-2) I domain:Homo sapiens: 2.1: 21.9
+
+
+1lfaa      -------------GNVDLVFLFDGSMSLQPDEFQKILDFMKDVMKKLSNT--SYQFAAVQFSTSYKTEFDFSDYV
+1ido       --------------DSDIAFLIDGSGSIIPHDFRRMKEFVSTVMEQLKKS--KTLFSLMQYSEEFRIHFTFKEFQ
+1atza      -------------QPLDVILLLDGSSSFPASYFDEMKSFAKAFISKANIGPRLTQVSVLQYGSITTIDVPWNVVP
+1auq       DISEPPLHDFYCSRLLDLVFLLDGSSRLSEAEFEVLKAFVVDMMERLRISQKWVRVAVVEYHDGSHAYIGLKDRK
+1aoxa      ----------SCPSLIDVVVVCDESNSIY--PWDAVKNFLEKFVQGLDIGPTKTQVGLIQYANNPRVVFNLNTYK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lfaa      KRKDPDALLKHVKHMLL-LTNTFGAINYVATEVFREELGARPDATKVLIIITDGEAT-DS--G---NIDAAK--D
+1ido       NNPNPRSLVKPITQLLG-RTHTATGIRKVVRELFNITNGARKNAFKILVVITDGEKF-GDPLGYEDVIPEADREG
+1atza      EKAHLLSLVDVMQREGG-PSQIGDALGFAVRYLTSEMHGARPGASKAVVILVTDVSV-D---SVDAAADAARSNR
+1auq       RPSELRRIASQVKYAGSQVASTSEVLKYTLFQIFS--KIDRPEASRIALLLMASQEPQRMSRNFVRYVQGLKKKK
+1aoxa      TKEEMIVATSQTSQYGGDLTNTFGAIQYARKYAYSAASGGRRSATKVMVVVTDGESH-DGS-MLKAVIDQCNHDN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lfaa      IIRYIIGIGKHFQ-----TKESQETLHKFASKPASEFVKILDTFEKLKDLFT----ELQKKIYVIE---*
+1ido       VIRYVIGVGDAFR-----SEKSRQELNTIASKPPRDHVFQVNNFEALKTIQN----QLREK--------*
+1atza      VTVFPIGIGD---------RYDAAQLRILAGPAGDSNVVKLQRIEDLPTMVTL-GNSFLHKL-------*
+1auq       VIVIPVGIGP---------HANLKQIRLIEKQAPENKAFVLSSVDELEQQRDEIVSYLCDLAPEAPPPT*
+1aoxa      ILRFGIAVLGYLNRNALDTKNLIKEIKAIASIPTERYFFNVSDEAALLEKAG----TLGEQIFSIEGGT*
+           =========|=========|=========|=========|=========|=========|=========
+                    0160      0170      0180      0190      0200      0210      
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1lfaa      100.0  33.9  20.8  18.6  25.1
+  2-1ido        33.9 100.0  22.3  16.8  25.0
+  3-1atza       20.8  22.3 100.0  19.0  20.7
+  4-1auq        18.6  16.8  19.0 100.0  16.4
+  5-1aoxa       25.1  25.0  20.7  16.4 100.0
+
+***************************************************************************

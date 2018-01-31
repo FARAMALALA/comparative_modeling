@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1a4ia      structureX:1a4i:   2 :A: 296 :A:methylenetetrahydrofolate dehydrogenase-cyclohydrolase:Homo sapiens: 1.50: 19.9
+[  2] 1b0aa      structureX:1b0a:   2 :A: 288 :A:methylenetetrahydrofolate dehydrogenase-cyclohydrolase:Escherichia coli: 2.56: 21.8
+
+
+1a4ia      APAEILNGKEISAQIRARLKNQVTQLKEQVPGFTPRLAILQVGNRDDSNLYINVKLKAAEEIGIKATHIKLPRTT
+1b0aa      -AAKIIDGKTIAQQVRSEVAQKVQARIAAG-LRAPGLAVVLVGSNPASQIYVASKRKACEEVGFVSRSYDLPETT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a4ia      TESEVMKYITSLNEDSTVHGFLVQLPLDSENSINTEEVINAIAPEKDVDGLTSINAGRLARGDLNDCFIPCTPKG
+1b0aa      SEAELLELIDTLNADNTIDGILVQLPLPA--GIDNVKVLERIHPDKDVDGFHPYNVGRLCQRAP--RLRPCTPRG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a4ia      CLELIKETGVPIAGRHAVVVGRSKIVGAPMHDLLLWNNATVTTCHSKTAHLDEEVNKGDILVVATGQPEMVKGEW
+1b0aa      IVTLLERYNIDTFGLNAVVIGASNIVGRPMSMELLLAGCTTTVTHRFTKNLRHHVENADLLIVAVGKPGFIPGDW
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a4ia      IKPGAIVIDCGINY----KVVGDVAYDEAKERASFITPVPGGVGPMTVAMLMQSTVESAKRFLE----*
+1b0aa      IKEGAIVIDVGINRLENGKVVGDVVFEDAAKRASYITPVPGGVGPMTVATLIENTLQACVEYHDPQDE*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a4ia      100.0  42.8
+  2-1b0aa       42.8 100.0
+
+***************************************************************************

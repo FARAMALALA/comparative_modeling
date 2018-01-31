@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1i50j      structureX:1i50:   1 :J:  65 :J:DNA-directed RNA polymerases II 8.3 kDa polypeptide:Saccharomyces cerevisiae: 2.80: 22.9
+[  2] 1ef4a      structureX:1ef4:   1 :A:  55 :A:DNA-directed RNA polymerase subunit N:Methanobacterium thermoautotrophicum: -1: -1
+
+
+1i50j      MIVPVRCFSCGKVVGDKWESYLNLLQEDELDEGTALSRLGLKRYCCRRMIL-THVDLIEKFLRYNP*
+1ef4a      MI-PVRCLSCGKPVSAYFNEYQRRVAD-GEDPKDVLDDLGLKRYCCRRMLISHVETW---------*
+           =========|=========|=========|=========|=========|=========|======
+                    0010      0020      0030      0040      0050      0060   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1i50j      100.0  45.5
+  2-1ef4a       45.5 100.0
+
+***************************************************************************

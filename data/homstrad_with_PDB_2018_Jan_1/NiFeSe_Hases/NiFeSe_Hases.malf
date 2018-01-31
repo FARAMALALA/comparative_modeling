@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 2frvb      structureX:2frv:   7 :B: 536 :B:periplasmic [nife] hydrogenase large subunit:Desulfovibrio gigas: 2.54: 20.1
+[  2] 1h2al      structureX:1h2a:  19 :L: 552 :L:periplasmic [nife] hydrogenase large subunit:Desulfovibrio vulgaris: 1.8: 22.9
+[  3] 1frfl      structureX:1frf:   7 :L: 549 :L:ni-fe hydrogenase:Desulfovibrio fructosovorans: 2.7: 22
+
+
+2frvb      -------NKIVVDPITRIEGHLRIEVEVEGGKIKNAWSMSTLFRGLEMILKGRDPRDAQHFTQRACGVCTYVHAL
+1h2al      S---SYSGPIVVDPVTRIEGHLRIEVEVENGKVKNAYSSSTLFRGLEIILKGRDPRDAQHFTQRTCGVCTYTHAL
+1frfl      TPQSTFTGPIVVDPITRIEGHLRIMVEVENGKVKDAWSSSQLFRGLEIILKGRDPRDAQHFTQRACGVCTYVHAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2frvb      ASVRAVDNCVGVKIPENATLMRNLTMGAQYMHDHLVHFYHLHALDWVNVANALNADPAKAARLANDLSPKK--TT
+1h2al      ASTRCVDNAVGVHIPKNATYIRNLVLGAQYLHDHIVHFYHLHALDFVDVTAALKADPAKAAKVASSISPRK--TT
+1frfl      ASSRCVDDAVKVSIPANARMMRNLVMASQYLHDHLVHFYHLHALDWVDVTAALKADPNKAAKLAASIDTARTGNS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2frvb      TESLKAVQAKVKALVESGQLGIFTNAYFLGGHPAYVLPAEVDLIATAHYLEALRVQVKAARAMAIFGAKNPHTQF
+1h2al      AADLKAVQDKLKTFVETGQLGPFTNAYFLGGHPAYYLDPETNLIATAHYLEALRLQVKAARAMAVFGAKNPHTQF
+1frfl      EKALKAVQDKLKAFVESGQLGIFTNAYFLGGHKAYYLPPEVNLIATAHYLEALHMQVKAASAMAILGGKNPHTQF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2frvb      TVVGGCTNYDSLRPERIAEFRKLYKEVREFIEQVYITDLLAVAGFYKNWAGIGKTSNFLTCGEFPTDEYD----L
+1h2al      TVVGGVTCYDALTPQRIAEFEALWKETKAFVDEVYIPDLLVVAAAYKDWTQYGGTDNFITFGEFPKDEYD----L
+1frfl      TVVGGCSNYQGLTKDPLANYLALSKEVCQFVNECYIPDLLAVAGFYKDWGGIGGTSNYLAFGEFATDDSSPEKHL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2frvb      NSRYTPQGVIWGNDLSKVDDFNPDLIEEHVKYSWYE-GAGAHHPYKGVTKPKWTEFHGEDRYSWMKAPRYKGEAF
+1h2al      NSRFFKPGVVFKRDFKNIKPFDKMQIEEHVRHSWYE-GAEARHPWKGQTQPKYTDLHGDDRYSWMKAPRYMGEPM
+1frfl      ATSQFPSGVITGRDLGKVDNVDLGAIYEDVKYSWYAPGGDGKHPYDGVTDPKYTKLDDKDHYSWMKAPRYKGKAM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2frvb      EVGPLASVLVAYAKKHEPTVKAVDLVLKTLGVGPEALFSTLGRTAARGIQCLTAAQEVEVWLDKLEANVKAGKDD
+1h2al      ETGPLAQVLIAYSQGHPKVKAVTDAVLAKLGVGPEALFSTLGRTAARGIETAVIAEYVGVMLQEYKDNIAKGDNV
+1frfl      EVGPLARTFIAYAKGQPDFKKVVDMVLGKLSVPATALHSTLGRTAARGIETAIVCANMEKWIKEMADSGAK-DNT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2frvb      LYTDWQYPTESQGVGFVNAPRGMLSHWIVQRGGKIENFQLVVPSTWNLGPRCAEGKLSAVEQALIGTPIADPKRP
+1h2al      ICAPWEMPKQAEGVGFVNAPRGGLSHWIRIEDGKIGNFQLVVPSTWTLGPRCDKNNVSPVEASLIGTPVADAKRP
+1frfl      LCAKWEMPEESKGVGLADAPRGSLSHWIRIKGKKIDNFQLVVPSTWNLGPRGPQGDKSPVEEALIGTPIADPKRP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+2frvb      VEILRTVHSYDPCIACGVH*
+1h2al      VEILRTVHSFDPCIACGVH*
+1frfl      VEILRTVHAFDPCIACGVH*
+           ====|=========|====
+               0530      0540 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2frvb      100.0  67.7  65.5
+  2-1h2al       67.7 100.0  65.9
+  3-1frfl       65.5  65.9 100.0
+
+***************************************************************************

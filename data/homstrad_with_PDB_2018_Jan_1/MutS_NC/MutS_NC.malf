@@ -1,0 +1,71 @@
+      Code       Title
+
+[  1] 1ewqa      structureX:1ewq:   2 :A: 765 :A:DNA mismatch repair protein MutS:Thermus aquaticus: 2.2: 22.7
+[  2] 1e3ma      structureX:1e3m:   2 :A: 800 :A:DNA mismatch repair protein MutS:Escherichia coli: 2.2: 22.814
+
+
+1ewqa      EGLKGEGPG---PLPPLLQQYVELRDQYPDYLLLFQVGDFYECFGEDAERLARALGLVLTHKTSK-DFTTPAGIP
+1e3ma      -----SAIENFDAHTP--QQYLRLKAQHPEILLFYR-GDFYELFYDDAKRASQLLDISLTKRGASAGEPIPAGIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ewqa      LRAFEAYAERLLK-GFRLAVADQVEPAEEAEGLVRREVTQLLTPGTLLQESLLPR-EANYLAAIATG-DGWGLAF
+1e3ma      YHAVENYLAKLVNQGESVAICEQIGDPATSKGPVERKVVRIVTPGTISDEALLQERQDNLLAAIWQDSKGFGYAT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ewqa      LDVSTGEFKGTVLKSKSALYDELFRHRPAEVLLAPELLENGAFLDEFRKRFPVLSEAP---FEP--EG-------
+1e3ma      LDISSGRFRLSEPADRET-AAELQRTNPAELLYAEDFAE------SLIEGRRGLRRRPLWEFEIDTARQQLNLQF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ewqa      ----------EGPLALRRARGALLAYAQRTQGGALSLQPFRFYDPGAFRLPEATLRALEVFEPLRG--QDTLFSV
+1e3ma      GTRDLVGFGVENAPRGLCAAGCLLQYAKDTQRTTLPHIRSITEREQDSIIDAATRRNLEITQNLAGGAENTLASV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ewqa      LDETRTAPGRRLLQSWLRHPLLDRGPLEARLDRVEGFVREGALREGVRRLLYRLADLERLATRLELGRASPKDLG
+1e3ma      LDCTVT-PGSR-LKRWL-HPVRDTRVLLERQQTIGALQD---FTAGLQPVLRQVGDLERILARLALRTARPRDLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ewqa      ALRRSLQILPELRALLGE--------EVGLPDLSPLKEELEAALVEDPPLKVSEGGLIREGYDPDLDALRAAHRE
+1e3ma      R-RHAFQQLPELRAQLETVDSAPVQALREKGEFAELRDLLERAIIDTPPVLVRDGGVIASGYNEELDEWRALADG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ewqa      GVAYFLELEERERERTGIPTLKVGYNAVFGYYLEVTRPYYERVPKEYRPVQTLKDRQRYTLPE-KEKEREVYRLE
+1e3ma      ATDYLERLEVRERERTGLDTLKVGFNAVHGYYIQISRGQSHLAPINYR-RQTLKNAERYIIPELKEYEDKVLTSK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1ewqa      ALIRRREEEVFLEVRERAKRQAEALREAARILAELDVYAALAEVAVRYGYVRPRFGD--RLQIRAGRHPVVERRT
+1e3ma      GKALALEKQLYEELFDLLLPHLEALQQSASALAELDVLVNLAERAYTLNYTCPTFIDKPGIRITEGRHPVVEQVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1ewqa      --EFVPNDLEAH--ELVLITGPNAGKSTFLRQTALIALLAQVGSFVPAEEAHLPLFDGIYTRIGAGKSTFVEEEV
+1e3ma      NEPFIANPLNLSPQRRLIITGPNGGKSTY-RQTALIAL-AYIGSYVPAQKVEIGPIDRIFTRVG-----FVETET
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1ewqa      ALILKEATENSLVLLDEVGRGTSSLDGVAIATAVAEALHE-RRAYTLFATHYFELTAL-GLPRLKNLHVAAREEA
+1e3ma      ANILHNATEYSLVL-DEIGRGTSTYDGLSLAWACAENLANKIKALTLFATHYFELTQLPEKEGVANVHLDALEHG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1ewqa      GGLVFYHQVLPGPASKSYGVEVAA-AGLPKEVVARARALLQAAAR--*
+1e3ma      DTIAF-HSVQDGAASKSYGLAVAALAGVPKEVIKRARQKLRELESIS*
+           =========|=========|=========|=========|=======
+                    0760      0770      0780      0790    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ewqa      100.0  41.3
+  2-1e3ma       41.3 100.0
+
+***************************************************************************

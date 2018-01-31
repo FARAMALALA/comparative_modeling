@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1m0wa      structureX:1m0w: 216 :A: 322 :A:glutathione synthetase:Saccharomyces cerevisiae: 1.80: 17.2
+[  2] 2hgsa      structureX:2hgs: 202 :A: 303 :A:glutathione synthetase:Homo sapiens: 2.10: 21.8
+
+
+1m0wa      SDPIVAFIVQRNERNVFDQKVLELNLLEKFGTKSVRLTFDDVNDKLFIDDKTGKLFIRDTEQEIAVVYYRTGYTT
+2hgsa      PNALVLLIAQEKERNIFDQRAIENELLA-RNIHVIRRTFEDISEKGSLDQ-DRRLFVD--GQEIAVVYFRDGYMP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1m0wa      TDYTSEKDWEARLFLEKSFAIKAPDLLTQLSG*
+2hgsa      RQY-SLQNWEARLLLERSHAAKCPDIATQLAG*
+           ====|=========|=========|=======
+               0080      0090      0100    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1m0wa      100.0  47.1
+  2-2hgsa       47.1 100.0
+
+***************************************************************************

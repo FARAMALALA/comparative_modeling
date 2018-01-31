@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1jg8a      structureX:1jg8:   5 :A: 347 :A:threonine aldolase (low-specificity):Thermatoga maritima: 1.80: 20.7
+[  2] 1b9ia      structureX:1b9i:   5 :A: 388 :A:3-amino-5-hydroxybenzoic acid (ahba) synthase:Amycolatopsis mediterranei: 2.00: 22.2
+
+
+1jg8a      MIDLRSDTVTKPTEEMRKAMAQA-EVGDDVYGEDPTINELERLAAETFGKEAALFVPSGTMGNQVSIMAH-TQRG
+1b9ia      KAP-EFPAWPQYDDAERNGLVRALEQGQWWRMGGDEVNSFEREFAAHHGAAHALAVTNGTHALELALQVMGVGPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jg8a      DEVILEADSHIFWYEVGAMAVLSGVMPHPVPGK--NGAMDPDDVRKAIRPRNIHFPRTSLIAIENTHNRSGGRVV
+1b9ia      TEVIVPAFTFI--SSSQAAQR-LGAVTVPVDVDAATYNLDPEAVAAAVTP------RTKVIMPVH----MAGLMA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jg8a      PLENIKEICTIAKEHGINVHIDGARIFNA--SIASGVPVKEYAGYADSVMFCLS--GLCAP-VGSVVVGD---RD
+1b9ia      DMDALAKISADT---GVPLLQDAAHAHGARWQ---GKRVGEL---DSIATFSFQNGKLMTAGEGGAVVFPDGETE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jg8a      FIERARKARKML-------------GGGMRQAGVLAAAGIIALTKMVDRLKEDHENARFLALKLKEI-GYSVN--
+1b9ia      KYETAFLRHSCGRPRDDRRYFHKIAGSNMRLNEFSASVLRAQLARLDEQIAVRDERWTLLSRLLGAIDGVVPQGG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jg8a      PEDVK---TNMVILRTDNLKV-NAHGFIEALRNSGVLANAVS---------------------------------
+1b9ia      DVRADRNSHYMAMFRIPGLTEERRNALVDRLVEAGLPAFAAFRAIYRTDAFWELGAPDESVDAIARRCPNTDAIS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1jg8a      DTEIRLVTHK-DVSRNDIEEALNIFEKLFRKFS*
+1b9ia      SDCVWLHHRVLLAGEPELHATAEIIADAVGRA-*
+           ====|=========|=========|========
+               0380      0390      0400     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jg8a      100.0  19.6
+  2-1b9ia       19.6 100.0
+
+***************************************************************************

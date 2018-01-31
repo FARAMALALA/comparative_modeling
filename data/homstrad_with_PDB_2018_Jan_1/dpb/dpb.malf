@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1jeta      structureX:1jet:   1 :A: 517 :A:periplasmic oligopeptide-binding protein:Salmonella typhimurium: 1.2: 22.9
+[  2] 1dpe       structureX:1dpe:   1 : : 507 : :periplasmic dipeptide transport protein:Escherichia coli: 2.0: 16.9
+
+
+1jeta      ADVPAGVQLADKQTLVRNNGSEVQSLDPHKIEGVPESNV-SRDLFEGLLISDVE-GHPSPGVAEKWENK-DFKVW
+1dpe       ------------KTLVYCSEGSPEGFNPQLFISGTTYDASSVPLYNRLVEFKIGTTEVIPGLAEKWEVSEDGKTY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jeta      TFHLRENAKWSD------GTPVTAHDFVYSWQRLADPNTASPYASYLQYGHIANIDDIIAGKKPATDL-GVKALD
+1dpe       TFHLRKGVKWHDNKEFKPTRELNADDVVFSFDRQKNAQ-----NPYHKVSGGSYEYFEGMG--LPELISEVKKVD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jeta      DHTFEVTLSEPVPYFYKLLVHPSVSPVPKSAVEKF-----GDKWTQPANIVTNGAYKLKNWVVNERIVLERNPQY
+1dpe       DNTVQFVLTRPEAPFLADLAMDFASILSKEYADAMMKAGTPEKLDL--NPIGTGPFQLQQYQKDSRIRYKAFDGY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jeta      WDNAKTVINQVTYLPISSEVTDVNRYRSGEIDMTYNNMPIELFQKLKKEIPNE--VRVDPYLCTYYYEINNQKAP
+1dpe       WG-TKPQIDTLVFSITPDASVRYAKLQKNECQVMP-YPNPADIARMKQD--KSINLMEMPGLNVGYLSYNVQKKP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jeta      FNDVRVRTALKLALDRDIIVNKVKNQGDLPAYSYTPPYTDGA--KLVEPEWFKWSQQKRNEEAKKLLAEAGFTAD
+1dpe       LDDVKVRQALTYAVNKDAIIKAVYQGAGVSAKNLIPPTMWGYNDDVQDYT-------YDPEKAKALLKEAGLEKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1jeta      KPLTFDLLYNTSDLHK---KLAIAVASIWKKNLGVNVNLENQEWKTFLDTRHQGTFDVARAGWCADYNEPTSFLN
+1dpe       FSIDLWAMPVQRPYNPNARRMAEMIQADWAK-VGVQAKIVTYEWGEYLKRAKDGEHQTVMMGWTGDNGDPDNFFA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1jeta      TM-LSDSS---NNTAHYKSPAFDKLIADTLKVADDTQRSELYAKAEQQLDKDSAIVPVYYYVNARLVKPWVGGYT
+1dpe       TEFSCAASEQGSNYSKWCYKPFEDLIQPARATDDHNKRVELYKQAQVVMHDQAPALIIAHSTVFEPVRKEVKGYV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1jeta      GKDPLDNIYVKNLYIIKH*
+1dpe       V-DPLGKHHFENVSIE--*
+           ====|=========|===
+               0530      0540 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jeta      100.0  23.3
+  2-1dpe        23.3 100.0
+
+***************************************************************************

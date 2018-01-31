@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 1mroa      structureX:1mro:   2 :A: 549 :A:methyl-coenzyme M reductase I alpha subunit:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  2] 1e6va      structureX:1e6v:   8 :A: 552 :A:methyl-coenzyme M reductase I alpha subunit:Methanopyrus kandleri: 2.7: 23.9
+[  3] 1e6ya      structureX:1e6y:1002 :A:1569 :A:methyl-coenzyme M reductase alpha subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1mroa      ---ADKLFINALKKKFE----------ESPEEKKTTFYTLGGWKQSERKTEFVNAGKEVAAKRGIPQYNPDI--G
+1e6va      ------LFMKALKEKFE----------ESPEEKYTKFYIFGGWKQSERKKEFKEWADKIVEERGVPHYNPDI--G
+1e6ya      AADIFSKFKKDMEVKFAQEFGSNKQTGGDITDKTAKFLRL-GPEQDPRKVEMIKAGKEIAEKRGIAFYNPMMHSG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mroa      TPLGQRVLMPYQVSTTDTYVEGDDLHFVNNAAMQQMWDDIRRTVIVGLNHAHAVIEKRLGKEVTPETITHYLETV
+1e6va      VPLGQRKLMSYQVSGTDVFVEGDDLTFVNNAAMQQMWDDIRRTVIVGMDTAHRVLERRLGKEVTPETINEYMETL
+1e6ya      APLGQRAITPYTISGTDIVCEPDDLHYVNNAAMQQMWDDIRRTCIVGLDMAHETLEKRLGKEVTPETINHYLEVL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mroa      NHAMPGAAVVQEHMVETHPALVADSYVKVFTGNDEIADEIDPAFVIDINKQFPEDQAETLKAEVGDGIWQVVRIP
+1e6va      NHALPGGAVVQEHMVEIHPGLTWDCYAKIITGDLELADEIDDKFLIDIEKLFPEEQAEQLIKAIGNRTYQVCRMP
+1e6ya      NHAMPGAAVVQEMMVETHPALVDDCYVKVFTGDDALADEIDKQFLIDINKEFSEEQAAQIKASIGKTSWQAIHIP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mroa      TIVSRTCDGATTSRWSAMQIGMSMISAYKQAAGEAATGDFAYAAK-AEVIHMGTYLPVR-ARGENEPGGVPFGYL
+1e6va      TIVGHVCDGATMYRWAAMQIAMSFICAYKIAAGEAAVSDFAFASKHAEVINMGEMLPARRARGENEPGGVPFGVL
+1e6ya      TIVSRTTDGAQTSRWAAMQIGMSFISAYAMCAGEAAVADLSFAAK-AALVSMGEMLPAR-ARGPNEPGGLSFGHL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mroa      ADICQSSRVNYEDPVRVSLDVVATGAMLYDQIWLGSYMSGGVGFTQYATAAYTDNILDDFTYFGKEYVEDKY-GL
+1e6va      ADCVQTMRKYPDDPAKVALEVIAAGAMLYDQIWLGSYMSGGVGFTQYATAVYPDNILDDYVYYGLEYVEDKY-GI
+1e6ya      SDIVQTSRVS-EDPAKIALEVVGAGCMLYDQIWLGSYMSGGVGFTQYATAAYTDDILDNNTYYDVDYINDKYNGA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mroa      C------EAPNNMDTVLDVATEVTFYGLEQYEEYPALLEDQFGGS-RAAVVAAAAGCSTAFATGNAQTGLSGWYL
+1e6va      A------EAEPSMDVVKDVATEVTLYGLEQYERYPAAMETHFGGSQRAAVCAAAAGCSTAFATGHAQAGLNGWYL
+1e6ya      ATVGKDNKVKASLEVVKDIATESTLYGIETYEKFPTALEDHFGGSQRATVLAAAAGVACSLATGNANAGLSGWYL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1mroa      SMYLHKEQHSRLGFY-YDLQDQ-GASNVFSIRGDEGLPLELRGPNYPNYAMNVGHQGEYAGISQAPHAARGDAFV
+1e6va      SQILHKEGQGRLGFYGYALQDQCGAANSLSVRSDEGLPLELRGPNYPNYAMNVGHLGEYAGIVQAAHAARGDAFC
+1e6ya      SMYLHKEAWGRLGFF-FDLQDQ-GATNVLSYQGDEGLPDELRGPNYPNYAMNVGHQGGYAGIAQAAHSGRGDAFT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1mroa      FNPLVKIAFADDNLVFDFTNVRGEFAKGALREFEPAGERALITPA*
+1e6va      VHPVIKVAFADENLVFDFTEPRKEFAKGALREFEPAGERDLIVPA*
+1e6ya      VNPLLKVCFADDLLPFNFAEPRREFGRGAIREFVPAGERSLVIPA*
+           ====|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mroa      100.0  72.0  65.2
+  2-1e6va       72.0 100.0  63.1
+  3-1e6ya       65.2  63.1 100.0
+
+***************************************************************************

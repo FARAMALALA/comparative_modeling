@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1jaga      structureX:1jag:  37 :A: 277 :A:deoxyguanosine kinase:Homo sapiens: 2.80: 26.5
+[  2] 1j90a      structureX:1j90:  18 :A: 212 :A:deoxyribonucleoside kinase:Drosophila melanogaster: 2.56: 23.8
+
+
+1jaga      G-PRRLSIEGNIAVGKSTFVKLLTKTYPEWHVATEPVATWQNIQLGNLLDMMYREPARWSYTFQTFSFLSRLKVQ
+1j90a      TQPFTVLIEGNIGSGKTTYLNHFEKYKNDICLLTEPVEKWRNVNGVNLLELMYKDPKKWAMPFQSYVTLTMLQSH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jaga      LEPFPEKLLQARKPVQIFERSVYSDRYIFAKNLFENGSLSDIEWHIYQDWHSFLLWEFASRITLHGFIYLQASPQ
+1j90a      TAPT-NK------KLKIMERSIFSARYCFVENMRRNGSLEQGMYNTLEEWYKFIEESI--HVQADLIIYLRTSPE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jaga      VCLKRLYQRAREEEKGIELAYLEQLHGQHEAWLIHKTTKLHFEALMNIPVLVLDVNDDFSEEVTKQEDLMREVNT
+1j90a      VAYERIRQRARSEESCVPLKYLQELHELHEDWLIHQRRP------QSCKVLVLDADLNLE---------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jaga      FVKNL*
+1j90a      -----*
+           ====|
+               0230 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jaga      100.0  37.4
+  2-1j90a       37.4 100.0
+
+***************************************************************************

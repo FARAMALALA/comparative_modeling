@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1li1a      structureX:1li1:   2 :A: 229 :A:Collagen alpha 1 (IV), noncollagenous domain 1:Homo sapiens: 1.90: 18.2
+[  2] 1li1c      structureX:1li1:   5 :C: 229 :C:Collagen alpha 2 (IV), noncollagenous domain 1:Homo sapiens: 1.90: 18.2
+
+
+1li1a      VDHGFLVTRHSQTIDDPQCPSGTKILYHGYSLLYVQGNERAHGQDLGTAGSCLRKFSTMPFLFCNINNVCNFASR
+1li1c      ---GYLLVKHSQTDQEPMCPVGMNKLWSGYSLLYFEGQEKAHNQDLGLAGSCLARFSTMPFLYCNPGDVCYYASR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1li1a      NDYSYWLSTPEPMPMSMAPITGENIRPFISRCAVCEAPAMVMAVHSQTIQIPPCPSGWSSLWIGYSFVMHTSAGA
+1li1c      NDKSYWLSTTAPLPM--MPVAEDEIKPYISRCSVCEAPAIAIAVHSQDVSIPHCPAGWRSLWIGYSFLMHTAAGD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1li1a      EGSGQALASPGSCLEEFRSAPFIECHG-RGTCNYYANAYSFWLATIERSEMFKKPTPSTLKAGELRTHVSRCQVC
+1li1c      EGGGQSLVSPGSCLEDFRATPFIECNGGRGTCHYYANKYSFWLTTIPEQSFQGSPSADTLKAGLIRTHISRCQVC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1li1a      MRRT*
+1li1c      MKNL*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1li1a      100.0  63.8
+  2-1li1c       63.8 100.0
+
+***************************************************************************

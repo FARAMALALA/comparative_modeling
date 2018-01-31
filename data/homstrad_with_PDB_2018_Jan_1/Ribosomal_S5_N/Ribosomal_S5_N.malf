@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fjge      structureX:1fjg:   5 :E:  72 :E:30s ribosomal protein S5:Thermus aquaticus: 3.00: 22.1
+[  2] 1pkp       structureX:1pkp:   4 : :  77 : :30s ribosomal protein S5:Bacillus stearothermophilus: 2.8: 22
+
+
+1fjge      ------DFEEKMILIRRTARMQAG-----GRRFRFGALVVVGDRQGRVGLGFGKAPEVPLAVQKAGYYARRNMVE
+1pkp       INPNKLELEERVVAVNRVA-----KVVKGGRRLRFSALVVVGDKNGHVGFGTGKAQEVPEAIRKAIEDAKKNLIE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fjge      VPLQ*
+1pkp       VPIV*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fjge      100.0  50.0
+  2-1pkp        50.0 100.0
+
+***************************************************************************

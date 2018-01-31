@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1fngb      structureX:1fng:   6N:B: 188 :B:hemoglobin beta-2 chain:Mus musculus: 1.90: 22.1
+[  2] 1fv1b      structureX:1fv1:   1 :B: 190 :B:Major histocompatibility complex beta chain:Homo sapiens: 1.90: 23.3
+[  3] 1iakb      structureX:1iak:   5 :B: 190 :B:H-2 class II histocompatibility antigen, A-k beta chain:Mus musculus: 1.90: 21.4
+[  4] 1hdmb      structureX:1hdm:   3 :B: 185 :B:class II histocompatibility antigen, M beta chain:Homo sapiens: 2.50: 19.7
+
+
+1fngb      KKVITAFNEGLKGGGGSLVGGGSGGGGSRPWFLEYCKSECHFYNGTQRVRLLVRYFYNLEENLRFDSDVGEFRAV
+1fv1b      -------------------------GDTRPRFLQQDKYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAV
+1iakb      -------------------------G----SFVHQFQPFCYFTNGTQRIRLVIRYIYNREEYVRFDSDVGEYRAV
+1hdmb      -------------------------------FVAHVESTCLLDDAGTPKDFTYCISFNKDLLTCWDPEENKMAPC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fngb      TELGRPDAENWNSQPEFLEQKRAEVDTVCRHNYE-IFDNFLVPRRVEPTVTVYPTKTQPLEHHNLLVCSVSDFYP
+1fv1b      TELGRPDAEYWNSQKDFLEDRRAAVDTYCRHNYG-VGESFTVQRRVEPKVTVYPARTQTLQHHNLLVCSVNGFYP
+1iakb      TELGRPDAEYWNKQ--YLERTRAELDTVCRHNYEKTETPTSLRRLEQPSVVISLSRTEALNHHNTLVCSVTDFYP
+1hdmb      NSLANVLSQHLNQKDTLMQRL-NGLQ-NCATHTQ-PFWGSLTNRTRPPSVQVAKTTPFNTREPVMLACYVWGFYP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fngb      GNIEVRWFRNGKEEKTGIVSTGLVRNGDWTFQTLVMLETVPQSGEVYTCQVEHPSLTDPVTVEW---*
+1fv1b      GSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPRSGEVYTCQVEHPSVTSPLTVEWRA-*
+1iakb      AKIKVRWFRNGQEETVGVSSTQLIRNGDWTFQVLVMLEMTPRRGEVYTCHVEHPSLTSPITVEWRA-*
+1hdmb      AEVTITWRKNGKLVMHSSAHKTAQPNGDWTYQTLSHLALTPSYGDTYTCVVEHIGAPEPILRDWTPG*
+           =========|=========|=========|=========|=========|=========|=======
+                    0160      0170      0180      0190      0200      0210    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1fngb      100.0  73.7  63.2  24.0
+  2-1fv1b       73.7 100.0  64.3  21.9
+  3-1iakb       63.2  64.3 100.0  24.0
+  4-1hdmb       24.0  21.9  24.0 100.0
+
+***************************************************************************

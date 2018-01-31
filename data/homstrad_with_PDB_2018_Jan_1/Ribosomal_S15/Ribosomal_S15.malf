@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1a32       structureX:1a32:   2 : :  86 : :30s ribosomal protein s15 (bs18):Bacillus stearothermophilus: 2.1: 21.2
+[  2] 1ab3       structureX:1ab3:   1 : :  88 : :30s ribosomal protein s15:Thermus aquaticus: -1: -1
+
+
+1a32       -LTQERKREIIEQFKVHENDTGSPEVQIAILTEQINNLNEHLRVHKKDHHSRRGLLKMVGKRRRLLAYLRNKDVA
+1ab3       PITKEEKQKVIQEFARFPGDTGSTEVQVALLTLRINRLSEHLKVHKKDHHSHRGLLMMVGQRRRLLRYLQREDPE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a32       RYREIVEKLGL--*
+1ab3       RYRALIEKLGIRG*
+           ====|========
+               0080     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a32       100.0  60.0
+  2-1ab3        60.0 100.0
+
+***************************************************************************

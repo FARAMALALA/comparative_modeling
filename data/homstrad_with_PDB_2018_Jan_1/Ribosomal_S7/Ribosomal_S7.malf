@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1rss       structureX:1rss:  12 : : 156 : :30s ribosomal protein S7:Thermus aquaticus: 1.9: 22.9
+[  2] 1hus       structureX:1hus:   9 : : 147 : :30s ribosomal protein S7:Bacillus stearothermophilus: 2.5: 21.6
+
+
+1rss       --LQPDLVYGDVLVTAFINKIMRDGKKNLAARIFYDACKIIQEKTGQEPLKVFKQAVENVKPRMEVRSRRVGGAN
+1hus       RDVLPDPIYNSKLVTRLINKII-DGKKSKAQKILYTAFDIIRERTGKDP-EVFEQALKNV-PVLEVRARRVGGAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rss       YQVPMEVSPRRQQSLALRWLVQAANQRPERRAAVRIAHELMDAAEGKGGAVKKKEDVERMAEAHYRW*
+1hus       YQVPVEVRPDRRVSLGLRWLVQYARLRNEK-TEERLANEI-DAANNTGAAVKKREDTHKAEAN----*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1rss       100.0  54.9
+  2-1hus        54.9 100.0
+
+***************************************************************************

@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1hoca      structureX:1hoc:   1 :A: 178 :A:histocompatibility antigen H-2DB:Mus musculus: 2.40:19.80
+[  2] 2vaba      structureX:2vab:   1 :A: 178 :A:histocompatibility antigen H-2KB:Mus musculus: 2.50:15.90
+[  3] 3hlaa      structureX:3hla:   1 :A: 178 :A:histocompatibility antigen AW2.1:Homo sapiens: 2.60:16.90
+[  4] 2hlaa      structureX:2hla:   1 :A: 178 :A:histocompatibility antigen AW68.1:Homo sapiens: 2.60:17.30
+[  5] 1hsaa      structureX:1hsa:   1 :A: 178 :A:histocompatibility antigen HLA-B*2705:Homo sapiens: 2.10:20.30
+
+
+1hoca      GPHSMRYFETAVSRPGLEEPRYISVGYVDNKEFVRFDSDAENPRYEPRAPWMEQEGPEYWERETQKAKGQEQWFR
+2vaba      GPHSLRYFVTAVSRPGLGEPRYMEVGYVDDTEFVRFDSDAENPRYEPRARWMEQEGPEYWERETQKAKGNEQSFR
+3hlaa      GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAHSQTHR
+2hlaa      GSHSMRYFYTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDRNTRNVKAQSQTDR
+1hsaa      GSHSMRYFHTSVSRPGRGEPRFITVGYVDDTLFVRFDSDAASPREEPRAPWIEQEGPEYWDRETQICKAKAQTDR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hoca      VSLRNLLGYYNQSAGGSHTLQQMSGCDLGSDWRLLRGYLQFAYEGRDYIALNEDLKTWTAADMAAQITRRKWEQS
+2vaba      VDLRTLLGYYNQSKGGSHTIQVISGCEVGSDGRLLRGYQQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQA
+3hlaa      VDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAA
+2hlaa      VDLGTLRGYYNQSEAGSHTIQMMYGCDVGSDGRFLRGYRQDAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAA
+1hsaa      EDLRTLLRYYNQSEAGSHTLQNMYGCDVGPDGRLLRGYHQDAYDGKDYIALNEDLSSWTAADTAAQITQRKWEAA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hoca      GAAEHYKAYLEGECVEWLHRYLKNGNAT*
+2vaba      GEAERLRAYLEGTCVEWLRRYLKNGNAT*
+3hlaa      HVAEQLRAYLEGTCVEWLRRYLENGKET*
+2hlaa      HVAEQWRAYLEGTCVEWLRRYLENGKET*
+1hsaa      RVAEQLRAYLEGECVEWLRRYLENGKET*
+           =========|=========|========
+                    0160      0170     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1hoca      100.0  81.5  68.0  67.4  70.8
+  2-2vaba       81.5 100.0  72.5  71.9  72.5
+  3-3hlaa       68.0  72.5 100.0  93.3  83.1
+  4-2hlaa       67.4  71.9  93.3 100.0  83.7
+  5-1hsaa       70.8  72.5  83.1  83.7 100.0
+
+***************************************************************************

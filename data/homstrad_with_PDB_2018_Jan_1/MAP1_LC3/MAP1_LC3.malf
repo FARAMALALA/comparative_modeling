@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1eo6a      structureX:1eo6:   1 :A: 116 :A:golgi-associated ATPase enhancer of 16 kD, gate-16:Bos taurus: 1.80: 22.9
+[  2] 1gnua      structureX:1gnu:   1 :A: 117 :A:mm46:Homo sapiens: 1.75: 20.134
+
+
+1eo6a      MKWMFKEDHSLEHRCVESAKIRAKYPDRVPVIVEKVSGSQIVDIDKRKYLVPSDITVAQFMWIIRKRIQLPSEKA
+1gnua      MKFVYKEEHPFEKRRSEGEKIRKKYPDRVPVIVEKAPKARIGDLDKKKYLVPSDLTVGQFYFLIRKRIHLRAEDA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1eo6a      IFLFVDKTVPQSSLTMGQLYEKEKDEDGFLYVAYSGENTFG-*
+1gnua      LFFFVNNVIPPTSATMGQLYQEHHEEDFFLYIAYSDESVYGL*
+           ====|=========|=========|=========|=======
+               0080      0090      0100      0110    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1eo6a      100.0  57.8
+  2-1gnua       57.8 100.0
+
+***************************************************************************

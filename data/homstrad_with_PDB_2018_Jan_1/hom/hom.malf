@@ -1,0 +1,50 @@
+      Code       Title
+
+[  1] 1ftz       structureX:1ftz:  -1 : :  68 : :fushi tarazu homeodomain:Drosophila melanogaster:-1:-1
+[  2] 1hom       structureN:1hom:   0 : :  67 : :antennapedia homeodomain:Drosophila melanogaster:-1.00:-1.00
+[  3] 2hdda      structureX:2hdd:   5 :A:  59 :A:segmentation polarity protein engrailed:Drosophila melanogaster: 1.9: 20.5
+[  4] 1ftt       structureX:1ftt:   0 : :  67 : :thyroid transcription factor 1 homeodomain:Rattus norvegicus:-1:-1
+[  5] 1nk3p      structureX:1nk3: 108 :P: 170 :P:vnd-nk-2 homeodomain:Drosophila melanogaster:-1: -1
+[  6] 1akha      structureX:1akh:  77 :A: 125 :A:mating-type protein A-1:Saccharomyces cerevisiae: 2.5: 20.1
+[  7] 1b8ib      structureX:1b8i: 205 :B: 259 :B:homeobox protein extradenticle:Drosophila melanogaster: 2.40: 22.4
+[  8] 1lfb       structureX:1lfb:  13 : :  89 : :transcription factor LFB homeodomain:Rattus rattus: 2.80:21.20
+
+
+1ftz       MDSKRTRQTYTRYQTLELEKEFHFN---RYITRRRRIDIANALS---------------------LSERQIKIWF
+1hom       M-RKRGRQTYTRYQTLELEKEFHFN---RYLTRRRRIEIAHALC---------------------LTERQIKIWF
+2hdda      ------RTAFSSEQLARLKREFNEN---RYLTERRRQQLSSELG---------------------LNEAQIKIWF
+1ftt       MRRKR-RVLFSQAQVYELERRFKQQ---KYLSAPEREHLASMIH---------------------LTPTQVKIWF
+1nk3p      KKRKR-RVLFTKAQTYELERRFRQQ---RYLSAPEREHLASLIR---------------------LTPTQVKIWF
+1akha      ---------ISPQARAFLEEVFRRK---QSLNSKEKEEVAKKCG---------------------ITPLQVRVWF
+1b8ib      ------RRNFSKQASEILNEYFYSHLSNPYPSEEAKEELARKCG---------------------ITVSQVSNWF
+1lfb       ------RFKWGPASQQILFQAYERQ---KNPSKEERETLVEECNRAECIQRGVSPSQAQGLGSNLVTEVRVYNWF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ftz       QNRRMKSKKDR----TLDSSPEH*
+1hom       QNRRMKWKKENKTKGEPG-----*
+2hdda      KNKRAKIKKS-------------*
+1ftt       QNHRYKMKRQAKDKAAQQ-----*
+1nk3p      QNHRYKTKRAQNE----------*
+1akha      INKRMRS----------------*
+1b8ib      GNKRIRYKKN-------------*
+1lfb       ANRRKEEAFRH------------*
+           ====|=========|========
+               0080      0090     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1ftz       100.0  75.0  47.3  33.8  39.7  22.4  20.7  12.9
+  2-1hom        75.0 100.0  49.1  41.2  44.4  26.5  24.1  14.7
+  3-2hdda       47.3  49.1 100.0  40.0  40.0  24.5  30.9  18.2
+  4-1ftt        33.8  41.2  40.0 100.0  77.8  32.7  31.0  23.5
+  5-1nk3p       39.7  44.4  40.0  77.8 100.0  32.7  31.0  23.8
+  6-1akha       22.4  26.5  24.5  32.7  32.7 100.0  46.9  24.5
+  7-1b8ib       20.7  24.1  30.9  31.0  31.0  46.9 100.0  27.6
+  8-1lfb        12.9  14.7  18.2  23.5  23.8  24.5  27.6 100.0
+
+***************************************************************************

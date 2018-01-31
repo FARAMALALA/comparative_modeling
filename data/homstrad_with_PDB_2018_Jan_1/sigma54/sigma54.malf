@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fipa      structureX:1fip:  26 :A:  98 :A:factor-for-inversion stimulation (FIS) protein:Escherichia coli: 1.9: 19.9
+[  2] 1ntca      structureX:1ntc: 379 :A: 469 :A:nitrogen regulation protein:Salmonella typhimurium: -1: -1
+
+
+1fipa      ----------------------PLRDSVKQALKNYFAQLNGQDVNDLYELVLAEVEQALLDMVMQYTRGNQTRAA
+1ntca      MDLPGELFEASTPDSPSHLPPDSWATLLAQWADRALRS----GHQNLLSEAQPELERTLLTTALRHTQGHKQEAA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fipa      LMMGINRGTLRKKLKKYGMN*
+1ntca      RLLGWGAATLTAKLKELGME*
+           ====|=========|=====
+               0080      0090  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fipa      100.0  24.7
+  2-1ntca       24.7 100.0
+
+***************************************************************************

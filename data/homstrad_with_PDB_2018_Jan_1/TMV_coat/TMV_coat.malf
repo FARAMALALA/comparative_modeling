@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1vtmp      structureX:1vtm:   1 :P: 158 :P:coat protein:Tobacco mosaic virus, strain U2: 3.5: 9.6
+[  2] 2tmvp      structureX:2tmv:   1 :P: 154 :P:coat protein:Tobacco mosaic virus, Vulgare strain: 2.9: -1
+[  3] 1rmva      structureX:1rmv:   1 :A: 156 :A:coat protein:Ribgrass mosaic virus: 2.9: 9.5
+[  4] 1cgme      structureX:1cgm:   1 :E: 160 :E:coat protein:Cucumber green mottle mosaic virus: 3.4: 9.3
+
+
+1vtmp      PYTINSPSQFVYLSSAYADPVELINLCTNALGNQFQTQQARTTVQQQFADAWKPSPVMTVRFPASDFYVYRYNST
+2tmvp      SYSITTPSQFVFLSSAWADPIELINLCTNALGNQFQTQQARTVVQRQFSEVWKPSPQVTVRFPDSDFKVYRYNAV
+1rmva      SYNITNSNQYQYFAAVWAEPTPMLNQCVSALSQSYQTQAGRDTVRQQFANLLSTIVAPNQRFPDTGFRVYVNSAV
+1cgme      AYNPITPSKLIAFSASYVPVRTLLNFLVASQGTAFQTQAGRDSFRESLSALPSSVVDINSRFPDAGFYAFLNGPV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1vtmp      LDPLITALLNSFDTRNRIIEVNNQPAPNTTEIVNATQRVDDATVAIRASINNLANELVRGTGMFNQAGFETASGL
+2tmvp      LDPLVTALLGAFDTRNRIIEVENQANPTTAETLDATRRVDDATVAIRSAINNLIVELIRGTGSYNRSSFESSSGL
+1rmva      IKPLYEALMKSFDTRNRIIETEEESRPSASEVANATQRVDDATVAIRSQIQLLLNELSNGHGYMNRAEFE--AIL
+1cgme      LRPIFVSLLSSTDTRNRVIEVVDPSNPTTAESLNAVKRTDDASTAARAEIDNLIESISKGFDVYDRASFEAAFSV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1vtmp      VWTTTPA--T*
+2tmvp      VWTS------*
+1rmva      PWTTAPA--T*
+1cgme      VWSEATTSKA*
+           =========|
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1vtmp      100.0  72.1  47.4  33.5
+  2-2tmvp       72.1 100.0  45.5  37.7
+  3-1rmva       47.4  45.5 100.0  37.2
+  4-1cgme       33.5  37.7  37.2 100.0
+
+***************************************************************************

@@ -1,0 +1,71 @@
+      Code       Title
+
+[  1] 1ehaa      structureX:1eha:   1 :A: 557 :A:Glycosyltrehalose trehalohydrolase:Sulfolobus solfataricus KM1: 3.00: -1
+[  2] 1bf2       structureX:1bf2:   1 : : 750 : :Isoamylase:Pseudomonas amyloderamosa: 2.0: 16.1
+
+
+1ehaa      -----TFAYKIDG--NEVIFTLWAPYQKSVKLKVLE-------KGLYEMERDEKGYFTITLN-------NVKVRD
+1bf2       AINSMSLGASYDAQQANITFRVYSSQATRIVLYLYSAGYGVQESATYTLSPAGSGVWAVTVPVSSIKAAGITGAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ehaa      RYKYVL--DD----------------------------ASEIPDPASRYQPE-----------------------
+1bf2       YYGYRAWGPNWPYASNWGKGSQAGFVSDVDANGDRFNPNKLLLDPYAQEVSQDPLNPSNQNGNVFASGASYRTTD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ehaa      --GVHGPSQIIQESK-EFNNETFLKKEDLIIYEIHVGTFTP---------EGTFEGVIRKLDYLKDLGITAIEIM
+1bf2       SGIYAPKGVVLVPSTQSTGTKPTRAQKDDVIYEVHVRGFTEQDTSIPAQYRGTYYGAGLKASYLASLGVTAVEFL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ehaa      PIAQFPG------------KRDWGYDGVYLYAVQNSYG-------GPEGFRKLVDEAHKKGLGVILDVVYNHVGP
+1bf2       PVQETQNDANDVVPNSDANQNYWGYMTENYFSPDRRYAYNKAAGGPTAEFQAMVQAFHNAGIKVYMDVVYNHTAE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ehaa      ------------EGNYMVKLG--PYFSQ----KY--KTP-WGLTFNFDDAESDEVRKFILENVEYWIKEYNVDGF
+1bf2       GGTWTSSDPTTATIYSWRGLDNATYYELTSGNQYFYDNTGIGANFNTYN---TVAQNLIVDSLAYWANTMGVDGF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ehaa      RLDAVHAIIDTSP-----------------------KHILEEIADVVHKY------NRIVIAESDLNDPRVVNPK
+1bf2       RFDLASVLGNSCLNGAYTASAPNCPNGGYNFDAADSNVAINRILREFTVRPAAGGSGLDLFAEPWAIGGNSYQLG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ehaa      EKVGYNIDAQWVDDFHHSIHAYLTGERQGYYTDFGNLDDIVKSYKDVFVYDGKYSNFRRKTHGEPVGELDGCNFV
+1bf2       --GFPQGWSEWNGLFRDSLRQAQNELG----SMTIYVTQDANDFSGSSNLF----QSS---------GRSPWNSI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1ehaa      VYIQNHDQ---VGNRG----KGERIIKLVD-------------------------RESYKIAAALYLLSPYIPMI
+1bf2       NFIDVHDGMTLKDVYSCNGANNSQAWPYGPSDGGTSTNYSWDQGMSAGTGAAVDQRRAARTGMAFEMLSAGTPLM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1ehaa      FMGEEYGEENPFYFFSDFSDSKLIQGVREGRKKENGQDTDPQDESTFNASKLSWKID---EEIFSFYKILIKMRK
+1bf2       QGGDEYLRTLQ------------------------CNNNAYNL--DSSANWLTYSWTTDQSNFYTFAQRLIAFRK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1ehaa      ELSIACD--RR----VNVVNGE--------------NWLIIKGR--------EYFSLYVF--SKSSIEVKY----
+1bf2       AHPALRPSSWYSGSQLTWYQPSGAVADSNYWNNTSNYAIAYAINGPSLGDSNSIYVAYNGWSSSVTFTLPAPPSG
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720      0730      0740      0750 
+
+1ehaa      -SGTLLLSSNN------------SFPQHIEEG-KYEFD-KGFALYK--*
+1bf2       TQWYRVTDTCDWNDGASTFVAPGSETLIGGAGTTYGQCGQSLLLLISK*
+           =========|=========|=========|=========|========
+                    0760      0770      0780      0790     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ehaa      100.0  16.5
+  2-1bf2        16.5 100.0
+
+***************************************************************************

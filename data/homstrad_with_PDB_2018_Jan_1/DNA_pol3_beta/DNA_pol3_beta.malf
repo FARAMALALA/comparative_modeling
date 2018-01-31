@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 2pola2     structureX:2pol: 123 :A: 244 :A:DNA polymerase III, beta chain :Escherichia coli: 2.5: 18.4
+[  2] 2pola1     structureX:2pol:   1 :A: 122 :A:DNA polymerase III, beta chain :Escherichia coli: 2.5: 18.4
+[  3] 2pola3     structureX:2pol: 245 :A: 366 :A:DNA polymerase III, beta chain :Escherichia coli: 2.5: 18.4
+
+
+2pola2     ------QSEVEFTLPQATMKRLIEATQFSMAHQDVRYYLNGMLFETEGEELRTVATDGH-RLAVCSMPIGQSLPS
+2pola1     ---------MKFTVEREHLLKPLQQVSGPLGGRPTLPILGNLLLQVADGTLSLTGTDLE-MEMVARVALVQPHEP
+2pola3     RRVLPKNPDKHLEAGCDLLKQAFARAAILSNE-----KFRGVRLYVSENQLKITANNPEQEEAEEILDVTYSGAE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2pola2     HSVIVPRKGVIELMRMLDGGDNPLRVQIGS--NNIRAHVG---DFIFTSKLVDG-RFPDY---*
+2pola1     GATTVPARKFFDICRGLP-EGAEIAVQLEG--ERMLVRSG---RSRFSLSTLPAADFPNLDDW*
+2pola3     MEIGFNVSYVLDVLNALKCE--NVRMMLTDSVSSVQIEDAASQSAAYVVMPMRL---------*
+           ====|=========|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120      0130     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2pola2     100.0  15.6   7.4
+  2-2pola1      15.6 100.0   9.0
+  3-2pola3       7.4   9.0 100.0
+
+***************************************************************************

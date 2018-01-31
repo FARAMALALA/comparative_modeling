@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1jj2k      structureX:1jj2:   1 :K: 150 :K:50s ribosomal protein L15P:Haloarcula marismortui: 2.40: 18.9
+[  2] 1jj2n      structureX:1jj2:   1 :N: 115 :N:50s ribosomal protein L18E:Haloarcula marismortui: 2.40: 18.9
+
+
+1jj2k      TSKKKRQRGSRTHGGGSHKNRRGAGHRGGRGDAGRDKHEFHNHEPLGKS--------------------------
+1jj2n      ------------------------------------------------SKTNPRLSSLIADLKSAARSSGGAVWG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jj2k      --------GFKRPQKVQEEAATIDVREIDENVTLLAADDVAEFRVDVRDVVEEAD--DADYVKVLGAGQVRHELT
+1jj2n      DVAERLEK----PRRT---HAEVNLGRIERYAQE--------------------DETVVVPGKVLGSGVLQKDVT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jj2k      LIADDFSEGAREKVEGAGGSVELTDLGEERQ----------*
+1jj2n      VAAVDFSGTAETKIDQV-GEAVSLEQAIENNPEGSHVRVIR*
+           =========|=========|=========|=========|=
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jj2k      100.0  16.5
+  2-1jj2n       16.5 100.0
+
+***************************************************************************

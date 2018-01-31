@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1umua      structureX:1umu:  32 :A: 136 :A:UmuD' protein:Escherichia coli: 2.5: 20.7
+[  2] 1f39a      structureX:1f39: 136 :A: 236 :A:repressor protein CI:Bacteriophage lambda: 1.90: 22.8
+
+
+1umua      DYVEQRIDLNQLLIQHPSATYFVKASGDSI------DGGISDGDLLIVDSAITASHGDIVIAAVDG-EFTVKKLQ
+1f39a      ---------------ASASAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFCIARLGGDEFTFKKLI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1umua      LRP-TVQLIP-NSAYSPITISSEDTLDVFGVVIHVVK------*
+1f39a      RDSGQVFLQPLNPQYPMIPCNE--SCSVVGKVIASQWPEETFG*
+           ====|=========|=========|=========|========
+               0080      0090      0100      0110     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1umua      100.0  27.7
+  2-1f39a       27.7 100.0
+
+***************************************************************************

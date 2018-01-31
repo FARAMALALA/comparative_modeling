@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ef1a      structureX:1ef1: 199 :A: 297 :A:moesin:Homo sapiens: 1.90: 22.7
+[  2] 1gg3a      structureX:1gg3: 188 :A: 279 :A:protein 4.1R membrane binding domain:Homo sapiens: 2.80: 22.6
+
+
+1ef1a      EYGVNYFSIKNKKGSELWLGVDALGLNIYEQNDRLTPKIGFPWSEIRNISFNDKKFVIKPIDK----KAPDFVFY
+1gg3a      --GVDLHKAKDLEGVDIILGVCSSGLLVYKD---KLRINRFPWPKVLKISYKRSSFFIKIRPGEQEQYESTIGFK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ef1a      APRLRINKRILALC-GNHELYRRRKP*
+1gg3a      LPSYRAAKKLWKVCVEHHTFFR----*
+           ====|=========|=========|=
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ef1a      100.0  27.2
+  2-1gg3a       27.2 100.0
+
+***************************************************************************

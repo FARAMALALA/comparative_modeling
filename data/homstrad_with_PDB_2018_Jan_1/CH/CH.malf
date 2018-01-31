@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1aa2       structureX:1aa2:   2 : : 109 : :spectrin beta chain, brain, CH domain:Homo sapiens: 2.0: -1
+[  2] 1bhda      structureX:1bhd: 147 :A: 254 :A:utrophin (dystrophin-related protein 1), 2nd CH domain:Homo sapiens: 2.0: 18.5
+[  3] 1aoa1      structureX:1aoa: 121 : : 251 : :t-plastin:Homo sapiens: 2.4: 18.6
+[  4] 1aoa2      structureX:1aoa: 260 : : 375 : :t-plastin:Homo sapiens: 2.4: 18.6
+
+
+1aa2       -------KSAKDALLLWCQMKTAGYPNV----NIH----NFTTSWRDGMAFNALIHKHRP----DLIDFDKLKKS
+1bhda      ----LQQTNSEKILLSWVRQTTRPYSQV----NVL----NFTTSWTDGLAFNAVLHRHKP----DLFSWDKVVKM
+1aoa1      -----YSEEEKYAFVNWINKALENDPDCRHVIPMNPNTDDLFKAVGDGIVLCKMINLSVP----DTIDERAINKK
+1aoa2      TLEELMKLSPEELLLRWANFHLENSGWQ----KIN----NFSADIKDSKAYFHLLNQIAPKGQKEGEPRIDINMS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1aa2       -----NAHYNLQNAFNLAEQHLGLTK-LLDPEDISVDHPDEKSIITYVVTYYHYFSKM----------*
+1bhda      -----SPIERLEHAFSKAQTYLGIEK-LLDPEDVAVRLPDKKSIIMYLTSLFEVL-------------*
+1aoa1      KLTPFIIQENLNLALNSASAI-GCHVVNIGAEDLR--AGKPHLVLGLLWQIIKIGLFADIELSRNEAL*
+1aoa2      GFNETDDLKRAESMLQQADKL-GCRQ-FVTPADVV--SGNPKLNLAFVANLFN---------------*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1aa2       100.0  44.4  18.5  16.7
+  2-1bhda       44.4 100.0  13.0  19.4
+  3-1aoa1       18.5  13.0 100.0  17.2
+  4-1aoa2       16.7  19.4  17.2 100.0
+
+***************************************************************************

@@ -1,0 +1,38 @@
+      Code       Title
+
+[  1] 1acf       structureX:1acf:  1 : : 125 : :profilin I:Acanthamoeba castellanii: 2.00:17.90
+[  2] 2acg       structureX:2acg:  1 : : 125 : :profilin II:Acanthamoeba castellanii: 2.50:18.20
+[  3] 1ypra      structureX:1ypr:   1 :A: 125 :A:profilin:Saccharomyces cerevisiae:2.30:16.8
+[  4] 1a0k       structureX:1a0k:   2 : : 131 : :profilin I:Arabidopsis thaliana:2.20:17.2
+[  5] 1awia      structureX:1awi:   2 :A: 139 :A:profilin I:Homo sapiens: 2.2: 20.4
+
+
+1acf       SWQTYVDTNLVGT--G-AVTQAAILGL-DG-NTWATSAG--F-AVTPAQGTTLAGAFNNADAIRAGGFDLAGVHY
+2acg       SWQTYVDTNLVGT--G-AVTQAAIIGH-DG-NTWATSAG--F-AVSPANGAALANAFKDATAIRSNGFELAGTRY
+1ypra      SWQAYTD-NLIGT--G-KVDKAVIYSR-AGDAVWATSGG--L-SLQPNEIGEIVQGFDNPAGLQSNGLHIQGQKF
+1a0k       SWQSYVDDHLMCDVEGNHLTAAAILGQ-DG-SVWAQSAK--FPQLKPQEIDGIKKDFEEPGFLAPTGLFLGGEKY
+1awia      GWNAYID-NLMAD--G-TCQDAAIVGYKDSPSVWAAVPGKTFVNITPAEVGVLVG--KDRSSFYVNGLTLGGQKC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1acf       VTLRAD-D----RSIYGKK----G--SSGVITVKTSKAILVGVYNEKIQPGTAANVVEKLADYLIGQGF*
+2acg       VTIRAD-D----RSVYGKK----G--SAGVITVKTSKAILIGVYNEKIQPGTAANVVEKLADYLIGQGF*
+1ypra      MLLRAD-D----RSIYGRH----D--AEGVVCVRTKQTVIIAHYPPTVQAGEATKIVEQLADYLIGVQY*
+1a0k       MVIQGEQG----AVIRGKK----G--PGGVTIKKTNQALVFGFYDEPMTGGQCNLVVERLGDYLIESEL*
+1awia      SVIRDSLLQDGEFSMDLRTKSTGGAPTFNVTVTKTDKTLVLLMGKEGVHGGLINKKCYEMASHLRRSQY*
+           ====|=========|=========|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1acf       100.0  84.8  40.8  39.2  27.2
+  2-2acg        84.8 100.0  40.8  38.4  28.8
+  3-1ypra       40.8  40.8 100.0  33.6  28.8
+  4-1a0k        39.2  38.4  33.6 100.0  30.8
+  5-1awia       27.2  28.8  28.8  30.8 100.0
+
+***************************************************************************

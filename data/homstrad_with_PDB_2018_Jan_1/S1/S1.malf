@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1sro       structureX:1sro:   1 : :  76 : :polyribonucleotide nucleotidyltransferase:Escherichia coli: -1: -1
+[  2] 1ah9       structureX:1ah9:   1 : :  71 : :translation initiation factor IF-1:Escherichia coli: -1: -1
+
+
+1sro       AEIEVGRVYTGKVTRIVDF-GAFVAIGGGKEGLVHISQIADKRVEKVTDYLQMGQEVPVKVLEVDRQGRIRLSIK
+1ah9       A-KEDNIEMQGTVLETLPNTMFRVELENGHVVTAHIS--GKMRKNYI--RILTGDKVTVELTP---YDLSKGRIV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1sro       EA--*
+1ah9       FRSR*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1sro       100.0  19.7
+  2-1ah9        19.7 100.0
+
+***************************************************************************

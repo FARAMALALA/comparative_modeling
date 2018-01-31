@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fltv      structureX:1flt:  13 :V: 107 :V:vascular endothelial growth factor (VEGF):Homo sapiens: 1.7: 19.8
+[  2] 1pdga      structureX:1pdg:   9 :A: 104 :A:platelet-derived growth factor, B chain (PDGF B-chain):Homo sapiens: 3.0: 20.9
+
+
+1fltv      EVVKFMDVYQR--SYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKP
+1pdga      EPA--------MIAECKTRTEVFEIS-------RFLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIEI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fltv      H---QGQHIGEMSFLQHNKCECRPK--*
+1pdga      VRKKPIFKKATVTLEDHLACKCETVAA*
+           ====|=========|=========|==
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fltv      100.0  23.0
+  2-1pdga       23.0 100.0
+
+***************************************************************************

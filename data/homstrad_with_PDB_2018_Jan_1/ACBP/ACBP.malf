@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2abd       structureX:2abd:   1 : :  86 : :Acyl-CoA binding protein:Bos taurus: -1: -1
+[  2] 1hbka      structureX:1hbk:   0 :A:  88 :A:Acyl-CoA binding protein:Plasmodium falciparum: 2.0: 19.8
+
+
+2abd       S-QAEFDKAAEEVKHLK--TKPADEEMLFIYSHYKQATVGDINTERPGMLDFKGKAKWDAWNELKGTSKEDAMKA
+1hbka      HMAQVFEECVSFINGLPRTINLPNELKLDLYKYYKQSTIGNCNIKEPSAHKYIDRKKYEAWKSVENLNREDAQKR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2abd       YIDKVEELKKKYGI*
+1hbka      YVDIVSEIFPYWQD*
+           ====|=========
+               0080      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2abd       100.0  26.7
+  2-1hbka       26.7 100.0
+
+***************************************************************************

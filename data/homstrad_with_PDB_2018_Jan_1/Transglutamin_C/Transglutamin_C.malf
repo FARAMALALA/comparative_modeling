@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1f13a1     structureX:1f13: 516 :A: 627 :A:coagulation factor xiii a chain:Homo sapiens: 2.1: 18.3
+[  2] 1f13a2     structureX:1f13: 628 :A: 728 :A:coagulation factor xiii a chain:Homo sapiens: 2.1: 18.3
+
+
+1f13a1     SNVDMDFEVEN-AVLGKDFKLSITFRNNSHNRY-TITAYLSANITFYTGVPKAEFKKETFDV-TLEPLSFKKEAV
+1f13a2     TIPEIIIKVRGTQVVGSDMTVTVEFTNPLKETLRNVWVHLDGP---------GVTRPMKKMFREIRPNSTVQWEE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f13a1     LIQAGEYMGQLLEQASLHFFVTARINETRDVLAKQKSTVL---*
+1f13a2     VCRPW----VS---GHRKLIASMSSDSLR-HVYGELDVQIQRR*
+           ====|=========|=========|=========|========
+               0080      0090      0100      0110     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f13a1     100.0   9.9
+  2-1f13a2       9.9 100.0
+
+***************************************************************************

@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1mroc      structureX:1mro:   2 :C: 248 :C:methyl-coenzyme M reductase I gamma subunit:Methanobacterium thermoautotrophicum (strain marburg - dsm 2133): 1.16: 19.7
+[  2] 1e6vc      structureX:1e6v:   7 :C: 254 :C:methyl-coenzyme M reductase gamma subunit:Methanopyrus kandleri: 2.7: 23.9
+[  3] 1e6yc      structureX:1e6y:3002 :C:3248 :C:methyl-coenzyme M reductase gamma subunit:Methanosarcina barkeri: 1.6: 16
+
+
+1mroc      ---AQYYPGTTKVAQNRRNFCNPEYELEKLREISDEDVVKILGHRAPGEEYPSVHPPLEEMDEPEDAIREMVEPI
+1e6vc      ----FYYPGETDVAENRRKYMNPNYELKKLREIPDEDIVRLMGHREPGEEYPSVHPPLEEMEEPECPIRELVEPT
+1e6yc      AYERQYYPGATSVAANRRKHMSG--KLEKLREISDEDLTAVLGHRAPGSDYPSTHPPLAEMGEPA-STRENVAAT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mroc      DGAKAGDRVRYIQFTDSMYFAPAQPYVRSRAYLCRYRGADAGTLSGRQIIETRERDLEKISKELLETEFFDPARS
+1e6vc      EGAKAGDRIRYIQFTDSVYFAPIHPYIRARMYMWRYRGVDTGSLSGRQIIEVRERDLEKIAKELLETEIFDPARS
+1e6yc      PGAAAGDRVRYIQFADSMYNAPATPYFRSYFAAINFRGVDPGTLSGRQIVEARERDMEQCAKVQMETEITDHALA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mroc      GVRGKSVHGHSLRLDEDGMMFDMLRRQIYNKDTGRVEMVKNQIGDELDEPVDLGEPLDEETLMEKTTIYRVDGEA
+1e6vc      GVRGATVHGHALRLDENGLMLHALRRYRLNEETGEVEYVKDQVGIELDEPIPVGAPADEDDLKERTTIYRIDGTP
+1e6yc      GVRGATVHGHSVRLQEDGVMFDMLDRRRLEN--GTIIMDKDQVAIPLDRKVDLGKPMSSEEAAKRTTIYRVDNVA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mroc      YRDDVEAVEIMQRIHVLRSQGGFNL--*
+1e6vc      YREDEELLQVVQRIHELRTLAGYRPEE*
+1e6yc      FRDDAEVVEWVHRIFDQRTKFGFQPK-*
+           ====|=========|=========|==
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1mroc      100.0  67.2  56.9
+  2-1e6vc       67.2 100.0  53.3
+  3-1e6yc       56.9  53.3 100.0
+
+***************************************************************************

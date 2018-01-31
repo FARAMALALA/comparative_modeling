@@ -1,0 +1,119 @@
+      Code       Title
+
+[  1] 1awj       structureX:1awj:   3 : :  79 : :tyrosine-protein kinase itk-tsk:Mus musculus: -1: -1
+[  2] 1shg       structureX:1shg:   6 : :  62 : :alpha spectrin SH3 domain:Gallus gallus:1.80:19.5
+[  3] 1shfa      structureX:1shf:  84 :A: 142 :A:FYN SH3 domain:Homo sapiens:1.90:18.0
+[  4] 2src       structureX:2src:  84 : : 145 : :proto-oncogene tyrosine-protein kinase src:Homo sapiens: 1.5: 22.6
+[  5] 1qcfa      structureX:1qcf:  80 :A: 145 :A:tyrosine-protein kinase hck:Homo sapiens: 2.00: 21.5
+[  6] 1lcka      structureX:1lck:  63 :A: 116 :A:proto-oncogene tyrosine-protein kinase lck:Homo sapiens: 2.5: 19
+[  7] 1qlya      structureX:1qly:   1 :A:  58 :A:tyrosine-protein kinase btk:Homo sapiens: -1: -1
+[  8] 1bbza      structureX:1bbz:   1 :A:  58 :A:proto-oncogene tyrosine-protein kinase abl:Homo sapiens: 1.65: 20.5
+[  9] 1gria1     structureX:1gri:   1 :A:  56 :A:growth factor receptor-bound protein 2 (grb2 adapter protein):Homo sapiens: 3.1: 21.3
+[ 10] 1gbra      structureN:1gbr:  -8 :A:  65 :A:growth factor receptor-bound protein 2 (grb2) SH3 domain:Mus musculus:-1.00:-1.00
+[ 11] 1cska      structureX:1csk:  11 :A:  67 :A:tyrosine-protein kinase csk:Homo sapiens: 2.5: -1
+[ 12] 1ckaa      structureX:1cka: 134 :A: 190 :A:c-crk SH3 domain:Mus musculus:1.50:17.40
+[ 13] 1sema      structureX:1sem: 155 :A: 212 :A:sex muscle abnormal protein 5:Caenorhabditis elegans: 2.0: 18.9
+[ 14] 1gria2     structureX:1gri: 157 :A: 217 :A:growth factor receptor-bound protein 2 (grb2 adapter protein):Homo sapiens: 3.1: 21.3
+[ 15] 1ycsb      structureX:1ycs: 457 :B: 519 :B:p53-binding protein 2 (53bp2):Homo sapiens: 2.2: 20.5
+[ 16] 2hsp       structureN:2hsp:   1 : :  71 : :phospholipase C-gamma SH3 domain:Homo sapiens:-1.00:-1.00
+[ 17] 1ark       structureX:1ark:   1 : :  60 : :nebulin SH3 domain:Homo sapiens: -1: -1
+[ 18] 1aoja      structureX:1aoj:   6 :A:  65 :B:epidermal growth factor receptor kinase substrate eps8:Mus musculus: 2.5: 19.3
+[ 19] 1pht       structureX:1pht:   3 : :  85 : :phosphatidylinositol 3-kinase regulatory alpha subunit (PI3-kinase p85-alpha subunit):Homo sapiens: 2.0:22.3
+[ 20] 1bb9       structureX:1bb9:  12 : :  94 : :amphiphysin-2 SH3 domain:Rattus norvegicus: 2.2: 18.6
+
+
+1awj       KKPLPPTPEDNRRSFQEPEE--TLVIALYDYQTNDPQELALRCDEEYYLLDSSE-----------------IH-W
+1shg       -------------------K--ELVLALYDYQEKSPREVTMKKGDILTLLNST-----------------NKD-W
+1shfa      -------------------V--TLFVALYDYEARTEDDLSFHKGEKFQILNSSE-----------------GD-W
+2src       ----------------------TTFVALYDYESRTETDLSFKKGERLQIVNNTE-----------------GD-W
+1qcfa      ----------------SGIR--IIVVALYDYEAIHHEDLSFQKGDQMVVLEES------------------GE-W
+1lcka      -------------------D--NLVIALHSYEPSHDGDLGFEKGEQLRILEQS------------------GE-W
+1qlya      -------------------L--KKVVALYDYMPMNANDLQLRKGDEYFILEESN-----------------LP-W
+1bbza      ----------------------NLFVALYDFVASGDNTLSITKGEKLRVLGYNH----------------NGE-W
+1gria1     ----------------------MEAIAKYDFKATADDELSFKRGDILKV----------------------QN-W
+1gbra      -----------GSRRASVGS--MEAIAKYDFKATADDELSFKRGDILKVLNEEC----------------DQN-W
+1cska      -------------------G--TECIAKYNFHGTAEQDLPFCKGDVLTIVAVTK----------------DPN-W
+1ckaa      -------------------A--EYVRALFDFNGNDEEDLPFKKGDILRIRDKP-----------------EEQ-W
+1sema      ------------------ET--KFVQALFDFNPQESGELAFKRGDVITLINKDD-----------------PN-W
+1gria2     ------------------QP--TYVQALFDFDPQEDGELGFRRGDFIHVMDNSD-----------------PN-W
+1ycsb      ---------------IMNKG---VIYALWDYEPQNDDELPMKEGDCMTIIHRED--------------EDEIE-W
+2hsp       --------------GSPTFK--CAVKALFDYKAQREDELTFIKSAIIQNVEKQE-----------------GG-W
+1ark       -------------------TAGKIFRAMYDYMAADADEVSFKDGDAIINVQAID-----------------EG-W
+1aoja      -------------------K--KYAKSKYDFVARNSSELSVMKDDVLEILD------------------DRRQ-W
+1pht       -------------------AEGYQYRALYDYKKEREEDIDLHLGDILTVN--KGSLVALGFSDGQEARPEEIG-W
+1bb9       ----------TTGRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNPEEQDE------------G-W
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1awj       WRVQDK-NG--------HE-GYAPSSYLVEKS--------*
+1shg       WKVEVN--D--------RQ-GFVPAAYVKKLD--------*
+1shfa      WEARSLTTG--------ET-GYIPSNYVAPVD--------*
+2src       WLAHSLSTG--------QT-GYIPSNYVAPSDSIQA----*
+1qcfa      WKARSLATR--------KE-GYIPSNYVARVDSLET----*
+1lcka      WKAQSLTTG--------QE-GFIPFNFV------------*
+1qlya      WRARDK-NG--------QE-GYIPSNYVTEAE--------*
+1bbza      CEAQTK--N--------GQ-GWVPSNYITPVNS-------*
+1gria1     YKAELN--G--------KD-GFIPKNYIEMK---------*
+1gbra      YKAELN--G--------KD-GFIPKNYIEMKPHPEFIVTD*
+1cska      YKAKNK-VG--------RE-GIIPANYVQK----------*
+1ckaa      WNAEDS-EG--------KR-GMIPVPYVEK----------*
+1sema      WEGQLN--N--------RR-GIFPSNYVCPYN--------*
+1gria2     WKGACH--G--------QT-GMFPRNYVTPVN-----RNV*
+1ycsb      WWARLN--D--------KE-GYVPRNLLGLYP--------*
+2hsp       WRGDYG--G--------KKQLWFPSNYVEEMVNPEGIHRD*
+1ark       MYGTVQRTG--------RT-GMLPANYVEAI---------*
+1aoja      WKVRNA-SG--------DS-GFVPNNILDIMRTPE-----*
+1pht       LNGYNETTG--------ER-GDFPGTYVEYIGRKKISPP-*
+1bb9       LMGVKESDWNQHKELEKCR-GVFPENFTERVQ--------*
+           ====|=========|=========|=========|=====
+               0080      0090      0100      0110  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17] [ 18] [ 19] [ 20]
+
+  1-1awj       100.0  33.3  35.6  27.4  26.2  31.5  46.6  25.9  24.0  17.6
+                22.8  26.8  27.6  26.2  22.2  22.5  18.3  23.3  15.6  15.6
+  2-1shg        33.3 100.0  33.3  33.3  31.6  29.6  28.1  28.1  34.0  33.3
+                29.8  33.9  33.3  24.6  29.8  26.3  29.8  28.1  26.3  19.3
+  3-1shfa       35.6  33.3 100.0  74.6  59.3  51.9  44.8  44.8  34.0  32.2
+                33.3  33.9  29.3  32.2  28.8  35.6  32.2  27.1  30.5  20.3
+  4-2src        27.4  33.3  74.6 100.0  50.0  48.1  41.4  37.9  34.0  29.0
+                38.6  37.5  29.3  31.1  25.8  32.3  31.7  23.3  25.8  17.7
+  5-1qcfa       26.2  31.6  59.3  50.0 100.0  55.6  50.0  39.7  38.0  35.4
+                31.6  35.7  27.6  31.1  31.7  30.8  28.3  26.7  24.6  23.1
+  6-1lcka       31.5  29.6  51.9  48.1  55.6 100.0  44.4  38.9  32.0  31.5
+                35.2  35.2  27.8  37.0  31.5  27.8  20.4  24.1  24.1  20.4
+  7-1qlya       46.6  28.1  44.8  41.4  50.0  44.4 100.0  32.8  28.0  27.6
+                33.3  35.7  29.3  34.5  32.8  31.0  27.6  27.6  25.9  25.9
+  8-1bbza       25.9  28.1  44.8  37.9  39.7  38.9  32.8 100.0  36.0  32.8
+                24.6  25.0  29.3  29.3  22.4  22.4  20.7  25.9  19.0  19.0
+  9-1gria1      24.0  34.0  34.0  34.0  38.0  32.0  28.0  36.0 100.0 100.0
+                48.0  40.0  36.0  38.0  34.0  32.0  36.0  36.0  30.0  32.0
+ 10-1gbra       17.6  33.3  32.2  29.0  35.4  31.5  27.6  32.8 100.0 100.0
+                43.9  35.7  32.8  31.1  30.2  28.2  30.0  35.0  20.3  23.0
+ 11-1cska       22.8  29.8  33.3  38.6  31.6  35.2  33.3  24.6  48.0  43.9
+               100.0  39.3  31.6  29.8  24.6  21.1  26.3  28.1  26.3  19.3
+ 12-1ckaa       26.8  33.9  33.9  37.5  35.7  35.2  35.7  25.0  40.0  35.7
+                39.3 100.0  35.7  35.7  28.6  33.9  30.4  26.8  39.3  23.2
+ 13-1sema       27.6  33.3  29.3  29.3  27.6  27.8  29.3  29.3  36.0  32.8
+                31.6  35.7 100.0  55.2  36.2  34.5  32.8  22.4  24.1  31.0
+ 14-1gria2      26.2  24.6  32.2  31.1  31.1  37.0  34.5  29.3  38.0  31.1
+                29.8  35.7  55.2 100.0  27.9  31.1  30.0  23.3  23.0  26.2
+ 15-1ycsb       22.2  29.8  28.8  25.8  31.7  31.5  32.8  22.4  34.0  30.2
+                24.6  28.6  36.2  27.9 100.0  20.6  21.7  25.0  19.0  23.8
+ 16-2hsp        22.5  26.3  35.6  32.3  30.8  27.8  31.0  22.4  32.0  28.2
+                21.1  33.9  34.5  31.1  20.6 100.0  31.7  25.0  23.9  22.5
+ 17-1ark        18.3  29.8  32.2  31.7  28.3  20.4  27.6  20.7  36.0  30.0
+                26.3  30.4  32.8  30.0  21.7  31.7 100.0  20.0  31.7  28.3
+ 18-1aoja       23.3  28.1  27.1  23.3  26.7  24.1  27.6  25.9  36.0  35.0
+                28.1  26.8  22.4  23.3  25.0  25.0  20.0 100.0  15.0  16.7
+ 19-1pht        15.6  26.3  30.5  25.8  24.6  24.1  25.9  19.0  30.0  20.3
+                26.3  39.3  24.1  23.0  19.0  23.9  31.7  15.0 100.0  20.5
+ 20-1bb9        15.6  19.3  20.3  17.7  23.1  20.4  25.9  19.0  32.0  23.0
+                19.3  23.2  31.0  26.2  23.8  22.5  28.3  16.7  20.5 100.0
+
+***************************************************************************

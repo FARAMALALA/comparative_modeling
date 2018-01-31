@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1mxb       structureX:1mxb:   1 : : 383 : :S-adenosylmethionine synthetase:Escherichia coli: 2.8: 19.4
+[  2] 1qm4a      structureX:1qm4:  17 :A: 396 :A:S-adenosylmethionine synthetase alpha and beta forms:Rattus norvegicus: 2.66: 23
+
+
+1mxb       AKHLFTSESVSEGHPDKIADQISDAVLDAILEQDPKARVACETYVKTGMVLVGGEITTSAWVDIEEITRNTVREI
+1qm4a      GAFMFTSESVGEGHPDKICDQISDAVLDAHLKQDPNAKVACETVCKTGMVLLCGEITSMAMIDYQRVVRDTIKHI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1mxb       GYVHSDMGFDANSCAVLSAIGKQSPDRADPLEQGAGDQGLMFGYATNETDVLMPAPITYAHRLVQRQAEVRKNGT
+1qm4a      GYDDSAKGFDFKTCNVLVALEQQSP-----EDVGAGDQGLMFGYATDETEECMPLTIVLAHKLNTRMADLRRSGV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1mxb       LPWLRPDAKSQVTFQYDD----GKIVGIDAVVLSTQHSEEIDQKSLQEAVMEEIIKPILPAEWLTSATKFFINPT
+1qm4a      LPWLRPDSKTQVTVQYVQDNGAVIPVRVHTIVISVQHNEDITLEAMREALKEQVIKAVVPAKYLDEDTIYHLQPS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1mxb       GRFVIGGPMGDCGLTGRKIIVDTYGGMARHGGGAFSGKDPSKVDRSAAYAARYVAKNIVAAGLADRCEIQVSYAI
+1qm4a      GRFVIGGPQGDAGVTGRKIIVDTYGGWGAHGGGAFSGKDYTKVDRSAAYAARWVAKSLVKAGLCRRVLVQVSYAI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1mxb       GVAEPTSIMVETFGTEKVPSEQLTLLVREFFDLRPYGLIQMLDLLHPIYKETAAYGHFGREHFPWEKTDKAQLLR
+1qm4a      GVAEPLSISIFTYGTSKKTERELLEVVNKNFDLRPGVIVRDLDLKKPIYQKTACYGHFGRSEFPWEVPKKLVF--
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1mxb       DAAGLK*
+1qm4a      ------*
+           ====|=
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1mxb       100.0  57.3
+  2-1qm4a       57.3 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1qpxa      structureX:1qpx:   1 :A: 215 :A:chaperone protein PapD:Escherichia coli: 2.40: 18.9
+[  2] 1bf8       structureX:1bf8:   1 : : 205 : :chaperone protein FimC:Escherichia coli: -1: -1
+
+
+1qpxa      AVSLDRTRAVFDGSEKSMTLDISNDNKQLPYLAQAWIENENQEKIITGPVIATPPVQRLDPGAKSMVRLSTTPDI
+1bf8       GVALGATRVIYPAGQKQEQLAVTNNDENSTYLIQSWVENADGVKD--GRFIVTPPLFAMKGKKENTLRILDAT-N
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qpxa      SKLPQDRESLFYFNLREIPP------------IALCTKIKLFYRPAAIKTRPNEVWQDQLILNKVSGGYRIENPT
+1bf8       NQLPQDRESLFWMNVKAIPSMDKSKLTENTLQLAIISRIKLYYRPAKLALPP-DQAAEKLRFRRSANSLTLINPT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qpxa      PYYVTVIGLGGSEKQAEEGEFETVMLSPRSEQTVKSAN--YNTPYLSYINDYGGR-PVLSFICNGSRCSVK*
+1bf8       PYYLTVTELNAGT-----RVLENALVPPMGESTVKLPSDAGSNITYRTINDYGALTPKMTGVME-------*
+           =========|=========|=========|=========|=========|=========|=========|=
+                    0160      0170      0180      0190      0200      0210      0220 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qpxa      100.0  30.7
+  2-1bf8        30.7 100.0
+
+***************************************************************************

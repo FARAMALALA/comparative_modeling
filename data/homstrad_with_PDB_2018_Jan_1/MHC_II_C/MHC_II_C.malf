@@ -1,0 +1,50 @@
+      Code       Title
+
+[  1] 1fnga      structureX:1fng:  83 :A: 182 :A:H-2 class II histocompatibility antigen, E-k alpha chain:Mus musculus: 1.90: 22.1
+[  2] 1fv1a      structureX:1fv1:  82 :A: 181 :A:HLA class II histocompatibility antigen, Dr alpha chain:Homo sapiens: 1.90: 23.3
+[  3] 1iaka      structureX:1iak:  82 :A: 181 :A:H-2 class II histocompatibility antigen, A-k alpha chain:Mus musculus: 1.90: 21.4
+[  4] 1hdmb      structureX:1hdm:  88 :B: 185 :B:class II histocompatibility antigen, M beta chain:Homo sapiens: 2.50: 19.7
+[  5] 1fngb      structureX:1fng:  94 :B: 188 :B:hemoglobin beta-2 chain (b2) (minor):Mus musculus: 1.90: 22.1
+[  6] 1fv1b      structureX:1fv1:  93 :B: 190 :B:Major histocompatibility complex beta chain:Homo sapiens: 1.90: 23.3
+[  7] 1iakb      structureX:1iak:  93 :B: 190 :B:H-2 class II histocompatibility antigen, A-k beta chain:Mus musculus: 1.90: 21.4
+[  8] 1hdma      structureX:1hdm:  94 :A: 196 :A:class II histocompatibility antigen, M alpha chain:Homo sapiens: 2.50: 19.7
+
+
+1fnga      -ANVAPEVTVLSRSPVNLGEPNILICFIDKFSPPVVNVTWLRNGRPVTEGVSETVFLPRDDHLFRKFHYLTFLPS
+1fv1a      ITNVPPEVTVLTNSPVELREPNVLICFIDKFTPPVVNVTWLRNGKPVTTGVSETVFLPREDHLFRKFHYLPFLPS
+1iaka      ATNEAPQATVFPKSPVLLGQPNTLICFVDNIFPPVINITWLRNSKSVTDGVYETSFFVNRDYSFHKLSYLTFIPS
+1hdmb      --TRPPSVQVAKTTPFNTREPVMLACYVWGFYPAEVTITWRKNGKLVMHSSAHKTAQPNGDWTYQTLSHLALTPS
+1fngb      --RVEPTVTVYPTKTQPLEHHNLLVCSVSDFYPGNIEVRWFRNGKEEKTGIVSTGLVRNGDWTFQTLVMLETVPQ
+1fv1b      -RRVEPKVTVYPARTQTLQHHNLLVCSVNGFYPGSIEVRWFRNSQEEKAGVVSTGLIQNGDWTFQTLVMLETVPR
+1iakb      -RLEQPSVVISLSRTEALNHHNTLVCSVTDFYPAKIKVRWFRNGQEETVGVSSTQLIRNGDWTFQVLVMLEMTPR
+1hdma      -SRGFPIAEVFTLKPLEFGKPNTLVCFVSNLFPPMLTVNWHDHSVPVE-GFGPTFVSAVDGLSFQAFSYLNFTPE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fnga      TDDFYDCEVDHWGLEEPLRKHWEFEE----*
+1fv1a      TEDVYDCRVEHWGLDEPLLKHWEFD-----*
+1iaka      DDDIYDCKVEHWGLEEPVLKHWEPE-----*
+1hdmb      YGDTYTCVVEHIGAPEPILRDWTPG-----*
+1fngb      SGEVYTCQVEHPSLTDPVTVEW--------*
+1fv1b      SGEVYTCQVEHPSVTSPLTVEWRA------*
+1iakb      RGEVYTCHVEHPSLTSPITVEWRA------*
+1hdma      PSDIFSCIVTHEPDRYTAIAYWVPRNALPS*
+           ====|=========|=========|=====
+               0080      0090      0100  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8]
+
+  1-1fnga      100.0  80.0  60.0  31.6  30.5  29.6  29.6  29.0
+  2-1fv1a       80.0 100.0  58.0  35.7  34.7  31.6  31.6  29.0
+  3-1iaka       60.0  58.0 100.0  33.7  33.7  31.6  31.6  36.0
+  4-1hdmb       31.6  35.7  33.7 100.0  34.7  31.6  33.7  22.4
+  5-1fngb       30.5  34.7  33.7  34.7 100.0  81.1  65.3  24.2
+  6-1fv1b       29.6  31.6  31.6  31.6  81.1 100.0  68.4  22.4
+  7-1iakb       29.6  31.6  31.6  33.7  65.3  68.4 100.0  21.4
+  8-1hdma       29.0  29.0  36.0  22.4  24.2  22.4  21.4 100.0
+
+***************************************************************************

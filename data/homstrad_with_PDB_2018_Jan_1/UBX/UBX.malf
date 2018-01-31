@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1h8ca      structureX:1h8c:   1 :A:  82 :A:fas-associated factor 1:Homo sapiens: -1: -1
+[  2] 1i42a      structureX:1i42: 282 :A: 370 :A:P47:Rattus norvegicus: -1: -1
+
+
+1h8ca      N---------AEPVSKLRIRTPSGEFLERRFLASNKLQIVFDFVASK--GFPWDEYKLLSTFPRRDVTQLDPNKS
+1i42a      KASSSILINEAEPTTNIQIRLADGGRLVQKFNHSHRISDIRLFIVDARPAMAATSFVLMTTFPNKEL--ADENQT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1h8ca      LLEVKLF-PQETLFLEAKE*
+1i42a      LKEANLLNAVIVQRLT---*
+           ====|=========|====
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h8ca      100.0  24.4
+  2-1i42a       24.4 100.0
+
+***************************************************************************

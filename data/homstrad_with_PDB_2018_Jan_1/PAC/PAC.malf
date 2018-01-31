@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1g28a      structureX:1g28: 929 :A:1032 :A:Phy3 protein, flavin-binding domain, Lov3:Adiantum capillus-veneris: 2.73: 24.7
+[  2] 1byw       structureX:1byw:  26 :A: 135 :A:ERG, N-terminal domain:Homo sapiens: 2.60: 25.2
+
+
+1g28a      -KSFVITDPRLPDNPIIFASDRFLELTEYTREEVLGNNC--RFLQGRGTDRKAVQLIRDAVKEQRDVTVQVLNYT
+1byw       SRKFIIANARVENCAVIYCNDGFCELCGYSRAEVMQRPCTCDFLHGPCTQRRAAAQIAQALLGAEERKVEIAFYR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1g28a      KGGRAFWNLFHLQVMRDENGDVQYFIGVQQEM---*
+1byw       KDGSCFLCLVDVVPVKNEDGAVIMFILNFEVVMEK*
+           ====|=========|=========|=========|
+               0080      0090      0100      0110 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1g28a      100.0  30.8
+  2-1byw        30.8 100.0
+
+***************************************************************************

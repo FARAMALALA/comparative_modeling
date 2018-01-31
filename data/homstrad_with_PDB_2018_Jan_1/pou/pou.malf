@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1octc      structureX:1oct:   5 :C:  75 :C:octamer-binding transcription factor 1 (otf-1):Homo sapiens: 3.0: 23.7
+[  2] 1au7a      structureX:1au7:   5 :A:  75 :A:pituitary-specific positive transcription factor 1 (pit-1):Mus musculus: 2.3: 23
+
+
+1octc      DLEELEQFAKTFKQRRIKLGFTQGDVGLAMGKLYGNDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAE*
+1au7a      GMRALEQFANEFKVRRIKLGYTQTNVGEALAAVHGSEFSQTTICRFENLQLSFKNACKLKAILSKWLEEAE*
+           =========|=========|=========|=========|=========|=========|=========|=
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1octc      100.0  62.0
+  2-1au7a       62.0 100.0
+
+***************************************************************************

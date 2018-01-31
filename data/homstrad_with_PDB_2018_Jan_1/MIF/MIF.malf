@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1gifa      structureX:1gif:   1 :A: 115 :A:macrophage migration inhibitory factor (mif) (glycosylation-inhibitingfactor) (gif):Homo sapiens: 1.9: 16.8
+[  2] 1mfia      structureX:1mfi:   1 :A: 114 :A:macrophage migration inhibitory factor:Mus musculus: 1.80: 17.8
+[  3] 1dpta      structureX:1dpt:   1 :A: 117 :A:d-dopachrome tautomerase (phenylpyruvate tautomerase ii):Homo sapiens: 1.54: 16.4
+
+
+1gifa      MPMFIVNTNVPRASVPDGFLSELTQQLAQATGKPPQYIAVHVVPDQLMAFGGSSEPCALCSLHSIGKIG-GAQNR
+1mfia      -PMFIVNTNVPRASVPEGFLSELTQQLAQATGKPAQYIAVHVVPDQLMTFSGTNDPCALCSLHSIGKIG-GAQNR
+1dpta      -PFLELDTNLPANRVPAGLEKRLCAAAASILGKPADRVNVTVRPGLAMALSGSTEPCAQLSISSIGVVGTAEDNR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gifa      SYSKLLCGLLAERLRISPDRVYINYYDMNAANVGWNNSTFA--*
+1mfia      NYSKLLCGLLSDRLHISPDRVYINYYDMNAANVGWNGSTFA--*
+1dpta      SHSAHFFEFLTKELALGQDRILIRFFPLESWQIGKIGTVMTFL*
+           ====|=========|=========|=========|========
+               0080      0090      0100      0110     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1gifa      100.0  89.5  33.0
+  2-1mfia       89.5 100.0  32.5
+  3-1dpta       33.0  32.5 100.0
+
+***************************************************************************

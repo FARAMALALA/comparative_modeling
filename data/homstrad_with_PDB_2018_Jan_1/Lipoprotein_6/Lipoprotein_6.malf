@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1f1ma      structureX:1f1m:  40 :A: 201 :A:outer surface protein C:Borrelia burgdorferi: 1.80: 20.1
+[  2] 1g5za      structureX:1g5z:  40 :A: 203 :A:lyme disease antigen outer surface protein C:Borrelia burgdorferi: 2.51: 19.6
+
+
+1f1ma      PNLTEISKKITESNAVVLAVKEVETLLTSIDELA-KAIGKKIKSDVSLDNEADHNGSLMSGAYLISTLITKKISA
+1g5za      PNLTEISKKITESNAVVLAVKEVETLLASIDELATKAIGKKIGN-NGLEANQSKNTSLLSGAYAISDLIAEKLNV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f1ma      IKDSGELKAEIEKAKKCSEEFTAKLKGEHTDLGKEGVTDDNAKKAILKTNNDKTKGADELEKLFESVKNLSKAAK
+1g5za      LKN-EELKEKIDTAKQCSTEFTNKLKSEHAVLGLDNLTDDNAQRAILKKHANKDKGAAELEKLFKAVENLSKAAQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f1ma      EMLTNSVKELTSP---*
+1g5za      DTLKNAVKELTSPIVA*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f1ma      100.0  66.0
+  2-1g5za       66.0 100.0
+
+***************************************************************************

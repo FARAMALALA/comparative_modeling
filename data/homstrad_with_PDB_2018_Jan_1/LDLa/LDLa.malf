@@ -1,0 +1,27 @@
+      Code       Title
+
+[  1] 1cr8a      structureX:1cr8:   3 :A:  44 :A:low-density lipoprotein receptor repeat 8:Homo sapiens: -1: -1
+[  2] 1ajj       structureX:1ajj:   4 : :  40 : :low-density lipoprotein receptor repeat 5:Homo sapiens: 1.7: 20.9
+[  3] 1ldl       structureX:1ldl:   1 : :  46 : :low-density lipoprotein receptor repeat 1:Homo sapiens: -1: -1
+[  4] 1ldr       structureX:1ldr:   1 : :  41 : :low-density lipoprotein receptor repeat 2:Homo sapiens: -1: -1
+
+
+1cr8a      --PGGCHTDEFQCRL-DGLCIPLRWRCDGDTDCMDSSDEKS--CEGV-*
+1ajj       ----PCSAFEFHCLS--GECIHSSWRCDGGPDCKDKSDEEN--CA---*
+1ldl       AVGDRCERNEFQCQ--DGKCISYKWVCDGSAECQDGSDESQETCLSVT*
+1ldr       -LSVTCKSGDFSCGGRVNRCIPQFWRCDGQVDCDNGSDEQG--C----*
+           =========|=========|=========|=========|========
+                    0010      0020      0030      0040     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1cr8a      100.0  51.4  47.6  41.5
+  2-1ajj        51.4 100.0  45.9  43.2
+  3-1ldl        47.6  45.9 100.0  36.6
+  4-1ldr        41.5  43.2  36.6 100.0
+
+***************************************************************************

@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 1chc       structureX:1chc:   1 : :  59 : :immediate early protein:Equine herpesvirus type 1: -1: -1
+[  2] 1bor       structureX:1bor:   1 : :  56 : :transcription factor pml-1:Homo sapiens: -1: -1
+[  3] 1rmd       structureX:1rmd:  17 : :  77 : :v(D)J recombination activating protein 1:Mus musculus: 2.10: 20.9
+
+
+1chc       MATVA--ERCPICLEDPSNYSMALPCLHAFCYVCITRWIRQNP-TCPLCKVPVE--SVVHTIES*
+1bor       EE-EFQFLRCQQCQAEAKCPKLL-PCLHTLCSGCLEAS----GMQCPICQAPW--PLGADTPAL*
+1rmd       PAHFVKSISCQICEHILADPVET-SCKHLFCRICILRCLKVMGSYCPSCRYPCFPTDLESPV--*
+           =========|=========|=========|=========|=========|=========|====
+                    0010      0020      0030      0040      0050      0060 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1chc       100.0  25.0  25.4
+  2-1bor        25.0 100.0  23.2
+  3-1rmd        25.4  23.2 100.0
+
+***************************************************************************

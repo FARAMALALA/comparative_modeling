@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1f7ua      structureX:1f7u: 484 :A: 607 :A:arginyl-tRNA synthetase, cytoplasmic:Saccharomyces cerevisiae: 2.2: 19
+[  2] 1iq0a      structureX:1iq0: 468 :A: 592 :A:arginyl-tRNA synthetase:Thermus thermophilus: 2.30: 21.5
+
+
+1f7ua      DTGPYLQYAHSRLRSVERNASGITQEKWINADFSLLKEPAAKLLIRLLGQYPDVLRNAIKTHEPTTVVTYLFKLT
+1iq0a      DTGPYVQYAHARAHSILRKAGEWG-----APDLSQA-TPYERALALDLLDFEEAVLEAAEERTPHVLAQYLLDLA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f7ua      HQVSSCYD-------VLWVAGQTEELATARLALYGAARQVLYNGMRLLGLTPVERM*
+1iq0a      ASWNAYYNARENGQPATPVLTAPEGLRELRLSLVQSLQRTLATGLDLLGIPAPEVM*
+           ====|=========|=========|=========|=========|=========|=
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f7ua      100.0  29.8
+  2-1iq0a       29.8 100.0
+
+***************************************************************************

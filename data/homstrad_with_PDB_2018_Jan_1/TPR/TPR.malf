@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1a17       structureX:1a17:  19 : : 177 : :serine-threonine protein phosphatase 5:Homo sapiens: 2.45: 20.1
+[  2] 1elwa      structureX:1elw:   2 :A: 118 :A:stress-induced-phosphoprotein 1:Homo sapiens: 1.6: 18
+[  3] 1elra      structureX:1elr: 222 :A: 349 :A:stress-induced-phosphoprotein 1:Homo sapiens: 1.90: 18.1
+[  4] 1e96b      structureX:1e96:   2 :B: 186 :B:neutrophil cytosol factor 2:Homo sapiens: 2.4: 24.4
+[  5] 1fcha      structureX:1fch: 280 :A: 480 :A:peroxisomal targeting signal 1 receptor:Homo sapiens: 2.2: 19.4
+[  6] 1ihga      structureX:1ihg: 220 :A: 364 :A:40 kDa peptidyl-prolyl cis-trans isomerase:Bos taurus: 1.80: -1
+
+
+1a17       ---------PPADGALKRAEELKTQANDYFKAKDYENAIKFYSQAIELNPSNAIYYGNRSLAYLRTECYGYALGD
+1elwa      ----------------EQVNELKEKGNKALSVGNIDDALQCYSEAIKLDPHNHVLYSNRSAAYAKKGDYQKAYED
+1elra      ---------------GKQALKEKELGNDAYKKKDFDTALKHYDKAKELDPTNMTYITNQAAVYFEKGDYNKCREL
+1e96b      --------------SLVEAISLWNEGVLAADKKDWKGALDAFSAVQ---DPHSRICFNIGCMYTILKNMTEAEKA
+1fcha      SATYDKGYQFEEENPLRDHPQPFEEGLRRLQEGDLPNAVLLFEAAVQQDPKHMEAWQYLGTTQAENEQELLAISA
+1ihga      -------------------------------------------------LLISEDLKNIGNTFFKSQNWEMAIKK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a17       ATRAIELDK----------------KYIKGYYRRAASNMALGKFRAALRDYETVVKVKP----------------
+1elwa      GCKTVDLKP----------------DWGKGYSRKAAALEFLNRFEEAKRTYEEGLKHEA----------------
+1elra      CEKAIEVGRENR---------EDYRQIAKAYARIGNSYFKEEKYKDAIHFYNKSLAEHR----------------
+1e96b      FTRSINRDK----------------HLAVAYFQRGMLYYQTEKYDLAIKDLKEALIQLRG----NQLIDYKILGL
+1fcha      LRRCLELKP----------------DNQTALMALAVSFTNESLQRQACEILRDWLRYTPAYAHLVTRILGSLLSD
+1ihga      YTKVLRYVEGSRAAAEDADGAKLQPVALSCVLNIGACKLKMSDWQGAVDSCLEALEIDP----------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1a17       -------------------HDKDAKMKYQECNKIVKQKAFERAIAGDEHKRSVVDSLDIESMTIEDEY-------
+1elwa      -------------------NNPQLKEGLQNMEAR-----------------------------------------
+1elra      --------------------TPDVLKKCQQAEKILKEQ-------------------------------------
+1e96b      Q---------------FKLFACEVLYNIAFMYAKKEEWKKAEEQLALATSMKSEPRHSKIDKAMECVWKQKLYEP
+1fcha      SLFLEVKELFLAAVRLDPTSIDPDVQCGLGVLFNLSGE--YDKAVDCFTAALSV---------------------
+1ihga      -------------------SNTKALYRRAQGWQGLKEYDQALADLKKAQEIAP--EDKAIQAELLKVKQKIKAQK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1a17       -----------S*
+1elwa      ------------*
+1elra      ------------*
+1e96b      VVIPVGKLFRPN*
+1fcha      ------------*
+1ihga      DKEKAA------*
+           ====|=======
+               0230    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1a17       100.0  31.6  28.1  13.2  10.7   6.2
+  2-1elwa       31.6 100.0  29.1  12.8  14.5   7.7
+  3-1elra       28.1  29.1 100.0  20.3  12.5  10.9
+  4-1e96b       13.2  12.8  20.3 100.0  10.8  15.2
+  5-1fcha       10.7  14.5  12.5  10.8 100.0   8.3
+  6-1ihga        6.2   7.7  10.9  15.2   8.3 100.0
+
+***************************************************************************

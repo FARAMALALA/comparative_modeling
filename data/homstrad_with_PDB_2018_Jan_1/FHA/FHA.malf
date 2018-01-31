@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1qu5a      structureX:1qu5: 549 :A: 730 :A:protein kinase Spk1:Saccharomyces cerevisiae: -1: -1
+[  2] 1g6ga      structureX:1g6g:  29 :A: 155 :A:N-terminal FHA domain, Rad53p, in complex with a phosphothreonine peptide:Saccharomyces cerevisiae: 1.6: 20.9
+
+
+1qu5a      EAETREQKLLHSNNTENVKSSKKKGNGRFLTLKPLPDSIIQESLEIQ-----------QGVNPFFIGRSEDCNCK
+1g6ga      ------------------------GENIVCRVICTT--GQIPIRDLSADISQVLKEKRSIKKVWTFGRNPACDYH
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qu5a      IE-DNRLSRVHCFIFKKRHAVGKSMYESPAQGLDDIWYCHTGTNVSYLNNNRMIQGTKFLLQDGDEIKIIWDKNN
+1g6ga      LGNISRLSNKHFQILLGE--------------DGNLLLNDISTNGTWLNGQKVEKNSNQLLSQGDEITVGVGVES
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qu5a      KFVIGFKVEIN--DTTGLFNEGLGMLQEQRVVLKQTAEEKDLVKKL*
+1g6ga      D-ILSLVIFINDKFKQCL----------------------------*
+           =========|=========|=========|=========|======
+                    0160      0170      0180      0190   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qu5a      100.0  17.3
+  2-1g6ga       17.3 100.0
+
+***************************************************************************

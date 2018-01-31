@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1evia      structureX:1evi:   1 :A: 340 :A:D-amino acid oxidase:Sus scrofa: 2.50: 23.2
+[  2] 1c0pa      structureX:1c0p: 999 :A:1361 :A:D-amino acid oxidase:Rhodosporidium toruloides: 1.20: -1
+
+
+1evia      ------MRVVVIGAGVIGLSTALCIHERYHSVLQPLDVKVYADRFTP-----FTTTDVAAGLWQPYTSEPSNPQE
+1c0pa      LMMHSQKRVVVLGSGVIGLSSALILARKG------YSVHILARDLPEDVSSQTFASPWAGANWTPFMTLTDGPRQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1evia      ANWNQQTFNYLLSHIGSPNAANMGLTPVS-GYNLFREAVPD--PYWKDMVLGFRKLTPRELDMFPDYRYGWFNTS
+1c0pa      AKWEESTFKKWVELVP-----TGHAMWLKGTRRFAQNEDGLLGHWYKDITPNYRPLPSSEC--PPGA-IGVTYDT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1evia      LILEGRKYLQWLTERLTERGVKFFLRKVESFEEVARGGADVIINCTGVWAGV--LQPDPLLQPGRGQIIKVDAPW
+1c0pa      LSVHAPKYCQYLARELQKLGATFERRTVTSLEQAFD-GADLVVNATGLGAKSIAGIDDQAAEPIRGQTVLVKSP-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1evia      LKNFIITHDLERGIYNSPYIIPGLQ-AVTLGGTFQVGNWNEINNIQDHNTIWEGCCRLEPTLK------DAKIVG
+1c0pa      CKRCTMDSSDPA---SPAYIIPRPGGEVICGGTYGVGDWDLSVNPETVQRILKHCLRLDPTISSDGTIEGIEVLR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1evia      EYTGFRPVRP-QVRLEREQLRFG-------------------SSNTEVIHNYGHGGYGLTIHWGCALEVAKLFGK
+1c0pa      HNVGLRPARRGGPRVEAERIVLPLDRTKSPLSLGRGSARAAKEKEVTLVHAYGFSSAGYQQSWGAAEDVAQLVDE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1evia      VLEERNLL*
+1c0pa      AFQRYHG-*
+           ====|===
+               0380 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1evia      100.0  27.1
+  2-1c0pa       27.1 100.0
+
+***************************************************************************

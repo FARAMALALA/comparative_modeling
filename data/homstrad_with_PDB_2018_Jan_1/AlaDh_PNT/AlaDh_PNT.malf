@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1f8ga      structureX:1f8g:   2 :A: 384 :A:nicotinamide nucleotide transhydrogenase complexed with NAD+:Rhodospirillum rubrum: 2.00: 21
+[  2] 1pjca      structureX:1pjc:   1 :A: 361 :A:L-alanine dehydrogenase complexed with NAD:Phormidium lapideum: 2.00: 20
+
+
+1f8ga      -KIAIPKERRPGEDRVAISPEVVKKLVGLGFEVIVEQGAGVGASITDDALTAAGATIASTAAQALSQADVVWKVQ
+1pjca      MEIGVPKEIKNQEFRVGLSPSSVRTLVEAGHTVFIETQAGIGAGFADQDYVQAGAQVVPSAKDAWS-REMVVKVK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1f8ga      RPTAEEGTDEVALIKEGAVL-CHLGALTNRPVVEALTKRKITAYA-ELPRISRAQSDILSSQSNLAGYRAVIDGA
+1pjca      EPLP----AEYDLMQKDQLLFTYLHLAAARELTEQLMRVGLTAIAYETVELPNRSLPLLTPMSIIAGRLSVQFGA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1f8ga      YEFA-------RAFPT---AAGTVPPARVLVFGVGVAGLQAIATAKRLGAVV-ATDVRAATKEQVESL---GGKF
+1pjca      RFLERQQGGRGVLLGGVPG----VKPGKVVILGGGVVGTEAAKMAVGLGAQVQIFDINVERLSYLETLFGSRVEL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1f8ga      ITVDDEATAETAGGYAKEGEEFRKKQAEAVLKELVKTDIAITTALIPGKPAPVLITEE-VTK-KPGSVIIDLAVE
+1pjca      LYSN----------------------SAEIETAVAEADLLIGAVLVPGRRAPILVPASLVEQMRTGSVIVDVAVD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1f8ga      AGGNCPLSEPG----KIVVKHGVKIVGHTNVPSRVAADASPLFAKNLLNFLTPH-VDKDTKTLVKLE-DETVSGT
+1pjca      QGGCVETLHPTSHTQPTYEVFGVVHYGVPNMPGAVPWTATQALNNSTLPYVVKLANQGL----KALETDDALAKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1f8ga      CVTRDGAIVHPALTG----QGA*
+1pjca      LNVQAHRLVHPAVQ-QVFPDLA*
+           ====|=========|=======
+               0380      0390    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1f8ga      100.0  27.4
+  2-1pjca       27.4 100.0
+
+***************************************************************************

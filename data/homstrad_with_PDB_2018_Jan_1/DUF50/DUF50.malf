@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1ipia      structureX:1ipi:   1 :A: 114 :A:holliday junction resolvase hjc:Pyrococcus furiosus: 2.16: 21.4
+[  2] 1hh1a      structureX:1hh1:   9 :A: 140 :A:holliday-junction resolvase:Sulfolobus solfataricus: 2.15: 22
+
+
+1ipia      MYRKGAQAERELIKLLEKHGFAVVRSAGSKKVDLVAGNGKKYLCIEVKVTKK--DHLYVGKRDMGRLIEFSRRFG
+1hh1a      -----SAVERNIVSRLRDKGFAVVRAPA-PIPDIIALKNGVIILIEMKSRKDIEGKIYVRREQAEGIIEFARKSG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ipia      GIPVLAVKFLNVGWRFIEVSPKIE----KFVFTPS-SGVSLEVLLG-----------*
+1hh1a      GSLFLGVKKP-GVLKFIPFEKLRRTETGNYVADSEIEGLDLEDLVRLVEAKISRTLD*
+           ====|=========|=========|=========|=========|=========|==
+               0080      0090      0100      0110      0120      0130 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ipia      100.0  28.9
+  2-1hh1a       28.9 100.0
+
+***************************************************************************

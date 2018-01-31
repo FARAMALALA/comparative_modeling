@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1a7ge      structureX:1a7g: 291 :E: 372 :E:regulatory protein E2:Human papillomavirus type 31: 2.40: 21.1
+[  2] 1by9       structureX:1by9: 283 : : 362 : :regulatory protein E2:Human papillomavirus type 16: 2.20: 19.5
+[  3] 2bopa      structureX:2bop: 326 :A: 410 :A:regulatory protein E2:Bovine papillomavirus type 1: 1.70: 20.07
+
+
+1a7ge      ATTPIIHLKGDANILKCLRYRLSK-YKQLYEQVSSTWHWTCT--DGKHKNAIVTLTYISTSQRDDFLNTVVIPNT
+1by9       -TTPIVHLKGDANTLKCLRYRFKK-HCTLYTAVSSTWHW----------TAIVTLTYDSEWQRDQFLSQVKIPKT
+2bopa      --SCFALISGTANQVKCYRFRVKKNHRHRYENCTTTWFTVADNGAERQGQAQILITFGSPSQRQDFLKHVPLPPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a7ge      VSVSTGYMTI--*
+1by9       ITVSTGFMS---*
+2bopa      MNISGFTASLDF*
+           ====|=======
+               0080    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1a7ge      100.0  69.4  29.3
+  2-1by9        69.4 100.0  33.3
+  3-2bopa       29.3  33.3 100.0
+
+***************************************************************************

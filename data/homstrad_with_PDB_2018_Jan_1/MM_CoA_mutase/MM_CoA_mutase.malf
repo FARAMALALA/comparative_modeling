@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1be1       structureX:1be1:   1 : : 137 : :glutamate mutase (B12-binding subunit):Clostridium tetanomorphum: -1: -1
+[  2] 1b1a       structureX:1b1a:   1 : : 137 : :glutamate mutase (B12-binding subunit):Clostridium cochlearium: -1: -1
+[  3] 7reqa      structureX:7req: 561 :A: 728 :A:methylmalonyl-CoA mutase alpha-subunit:Propionibacterium freudenreichii shermanii: 2.2: 18.3
+[  4] 1bmta      structureX:1bmt: 741 :A: 896 :A:methionine synthase, C-terminal domain:Escherichia coli: 3.0: 17
+
+
+1be1       ----------------------------------MEKKTIVLGVIGSDCHAVGNKILDHSFTNAGFNVVNIGVLS
+1b1a       ----------------------------------MEKKTIVLGVIGSDCHAVGNKILDHAFTNAGFNVVNIGVLS
+7reqa      AQIRTISGVYSKEVKNTPEVEEARELVEEFEQAEGRRPRILLAKMGQDGHDRGQKVIATAYADLGFDVDVGPLFQ
+1bmta      ------------------------------EQG-KTNGKMVIATVKGDVHDIGKNIVGVVLQCNNYEIVDLGVMV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1be1       SQEDFINAAIETKADLICVSSLYGQGEIDCKGLREKCDEAGLKGIKLFVGGNIVVGKQNWPDVEQRFKAMGFDRV
+1b1a       PQEVFIKAAIETKADAILLSSLYGQGEIDCKGLRQKCDEAGLEGILLYVGGNIVVGKQHWPDVEKRFKDMGYDRV
+7reqa      TPEETARQAVEADVHVVGVSSLAGGHLTLVPALRKELDKLGRPDILITVGG--VIPEQDFD-ELRKD---GAVEI
+1bmta      PAEKILRTAKEVNADLIGLSGLITPSLDEMVNVAKEMERQG-FTIPLLIGGA-TTSKAHTAVKIEQNY-SGPTVY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1be1       YPPGTSPETTIADMKEVLGVE----------------------*
+1b1a       YAPGTPPEVGIADLKKDLNIE----------------------*
+7reqa      YTPGTVIPESAISLVKKLRASLDA-------------------*
+1bmta      VQ---NASRTVGVVAALLSDTQRDDFVARTRKEYETVRIQHGR*
+           =========|=========|=========|=========|===
+                    0160      0170      0180      0190 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1be1       100.0  82.5  24.8  19.0
+  2-1b1a        82.5 100.0  27.0  19.7
+  3-7reqa       24.8  27.0 100.0  14.7
+  4-1bmta       19.0  19.7  14.7 100.0
+
+***************************************************************************

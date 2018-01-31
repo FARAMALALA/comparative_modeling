@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 5pnt       structureX:5pnt:   1 : : 157 : :low molecular weight phosphotyrosine protein phosphatase:Homo sapiens: 2.2: 18.1
+[  2] 1dg9a      structureX:1dg9:   1 :A: 157 :A:low molecular weight phosphotyrosine protein phosphatase:Bos taurus: 1.90: -1
+[  3] 1d1qa      structureX:1d1q:   2 :A: 160 :A:low molecular weight protein tyrosine phosphatase:Saccharomyces cerevisiae: 1.70: 17
+
+
+5pnt       AEQATKSVLFVCLGNICRSPIAEAVFRKLVTDQNISENW-RVDSAATSGYEIGNPPDYRGQSCMKRHGIPMSHVA
+1dg9a      AEQVTKSVLFVCLGNICRSPIAEAVFRKLVTDQNISDNW-VIDSGAVSDWNVGRSPDPRAVSCLRNHGINTAHKA
+1d1qa      IEKPKISVAFIALGNFCRSPMAEAIFKHEVEKANLENRFNKIDSFGTSNYHVGESPDHRTVSICKQHGVKINHKG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+5pnt       RQITKEDFATFDYILCMDESNLRDLNRKSNQVKTCKAKIELLGSYDPQ---KQLIIEDPYYGNDSDFETVYQQCV
+1dg9a      RQVTKEDFVTFDYILCMDESNLRDLNRKSNQVKNCRAKIELLGSYDPQ---KQLIIEDPYYGNDADFETVYQQCV
+1d1qa      KQIKTKHFDEYDYIIGMDESNINNLKKIQP--EGSKAKVCLFGDWNTNDGTVQTIIEDPWYGDIQDFEYNFKQIT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+5pnt       RCCRAFLEKAH*
+1dg9a      RCCRAFLEKVR*
+1d1qa      YFSKQFLKKEL*
+           =========|=
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-5pnt       100.0  81.5  40.1
+  2-1dg9a       81.5 100.0  40.1
+  3-1d1qa       40.1  40.1 100.0
+
+***************************************************************************

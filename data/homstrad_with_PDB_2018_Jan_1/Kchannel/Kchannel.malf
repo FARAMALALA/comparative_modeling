@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 3kvt       structureX:3kvt:   9 : : 111 : :tetramerization domain from akv3.1 (shaw-subfamily) voltage-gated potassium channel:Aplysia californica: 2.0: 22.5
+[  2] 1t1da      structureX:1t1d:  66 :A: 165 :A:tetramerization domain of the shaker potassium channel:Aplysia californica: 1.51: 22.9
+
+
+3kvt       ENRVIINVGGIRHETYKATLKKIPATRLSRLTEGMLNYDPVLNEYFFDRHPGVFAQIINYYRSG-KLHYPTDVCG
+1t1da      -ERVVINVSGLRFETQLKTLNQFPDTLLGNPQKRNRYYDPLRNEYFFDRNRPSFDAILYFYQSGGRLRRPVNVPL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3kvt       PLFEEELEFWGLDSNQVEPCCWMTYTAHR*
+1t1da      DVFSEEIKFYELG-ENAFERYREDEG--F*
+           ====|=========|=========|====
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3kvt       100.0  37.0
+  2-1t1da       37.0 100.0
+
+***************************************************************************

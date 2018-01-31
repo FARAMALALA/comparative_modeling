@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 2lbp       structureX:2lbp:   1 : : 346 : :leucine binding protein:Escherichia coli: 2.40:21.30
+[  2] 2liv       structureX:2liv:   1 : : 344 : :Leu-Ile-Val binding protein:Escherichia coli: 2.40:17.90
+
+
+2lbp       DDIKVAVVGAMSGPIAQWGIMEFNGAEQAIKDINAKGGIKGDKLVGVEYDDACDPKQAVAVANKIVNDGIKYVIG
+2liv       EDIKVAVVGAMSGPVAQYGDQEFTGAEQAVADINAKGGIKGNKLQIAKYDDACDPKQAVAVANKVVNDGIKYVIG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2lbp       HLCSSSTQPASDIYEDEGILMISPGATAPELTQRGYQHIMRTAGLDSSQGPTAAKYILETVKPQRIAIIHDKQQY
+2liv       HLCSSSTQPASDIYEDEGILMITPAATAPELTARGYQLILRTTGLDSDQGPTAAKYILEKVKPQRIAIVHDKQQY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2lbp       GEGLARSVQDGLKAANANVVFFDGITAGEKDFSALIARLKKENIDFVYYGGYYPEMGQMLRQARSVGLKTQFMGP
+2liv       GEGLARAVQDGLKKGNANVVFFDGITAGEKDFSTLVARLKKENIDFVYYGGYHPEMGQILRQARAAGLKTQFMGP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2lbp       EGVGNASLSNIAGDAAEGMLVTMPKRYDQDPANQGIVDALKADKKDPSGPYVWITYAAVQSLATALERTGSDEPL
+2liv       EGVANVSLSNIAGESAEGLLVTKPKNYDQVPANKPIVDAIKAKKQDPSGAFVWTTYAALQSLQ-AGLNQS-DDPA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2lbp       ALVKDLKANGANTVIGPLNWDEKGDLKGFDFGVFQWHADGSSTKAK*
+2liv       EIAKYLKANSVDTVMGPLTWDEKGDLKGFEFGVFDWHANGTATDAK*
+           =========|=========|=========|=========|======
+                    0310      0320      0330      0340   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2lbp       100.0  79.1
+  2-2liv        79.1 100.0
+
+***************************************************************************

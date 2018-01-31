@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1lki       structureX:1lki:   9 : : 180 : :leukemia inhibitory factor:Mus musculus: 2.0: 18.6
+[  2] 1evsa      structureX:1evs:   4 :A: 187 :A:oncostatin M:Homo sapiens: 2.2: 20.5
+
+
+1lki       NATCAIRHPCHG---NLMNQIKNQLAQLNGSANALFISYYTAQGEPFPNNVEKLCAPNMTDFPSF--HGNGTEKT
+1evsa      -------GSCSKEYRVLLGQLQKQTDLMQ-DTSRLLDPYIRIQGLDVPKLRE-HCRERPGAFPSEETLRGLGRRG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1lki       KLVELYRMVAYLSASLTNITRDQKVLNP-----TAVSLQVKLNATIDVMRGLLSNVLCRLCNKYRVGHVDVPPVP
+1evsa      FLQTLNATLGCVLHRLADLEQRLPKAQDLERSGLNIEDLEKLQMARPNILGLRNNIYCMAQLLDN----------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1lki       DHSDKEAFQRKKLGCQLLGTYKQVISVVVQAF---*
+1evsa      ---ASDAFQRKLEGCRFLHGYHRFMHSVGRVFSKW*
+           =========|=========|=========|=====
+                    0160      0170      0180  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1lki       100.0  20.9
+  2-1evsa       20.9 100.0
+
+***************************************************************************

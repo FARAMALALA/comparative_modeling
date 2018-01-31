@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1fs0e      structureX:1fs0:   1 :E:  86 :E:ATP synthase epsilon chain :Escherichia coli: 2.10: 21.6
+[  2] 1e79h      structureX:1e79:  15 :H: 100 :H:ATP synthase delta chain:Bos taurus: 2.4: 22.5
+
+
+1fs0e      AMTYHLDVVSAEQQMFS-GLVEKIQVTGSEGELGIYPGHAPLLTAIKPGMIRIVKQHGHEEFIYLSGGILEVQP-
+1e79h      --QMSFTFASPTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRPGLVVVHAEDGTTSKYFVSSGSVTVNAD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fs0e      GNVTVLADTAIRG*
+1e79h      SSVQLLAEEAVTL*
+           ====|========
+               0080     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fs0e      100.0  24.4
+  2-1e79h       24.4 100.0
+
+***************************************************************************

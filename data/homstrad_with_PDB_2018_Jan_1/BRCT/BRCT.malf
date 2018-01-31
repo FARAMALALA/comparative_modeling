@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1in1a      structureX:1in1: 835 :A: 922 :A:DNA ligase III:Homo sapiens: -1: -1
+[  2] 1cdza      structureX:1cdz:   1 :A:  96 :A:DNA-repair protein Xrcc1:Homo sapiens: 3.2: 22.4
+
+
+1in1a      GSADETLCQTKVLLDIFTGVRLYLPPSTP--DFSRLRRYFVAFDGDLVQEFDMTSATHVLG----------SRDK
+1cdza      -----------ELPDFFQGKHFFLYGEFPGDERRKLIRYVTAFNGELED-YMSDRVQFVITAQEWDPSFEEALMD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1in1a      NPAAQQVSPEWIWACIRKRRLVAPC--------*
+1cdza      NPSLAFVRPRWIYSCNEKQKLLPHQLYGVVPQA*
+           ====|=========|=========|========
+               0080      0090      0100     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1in1a      100.0  26.1
+  2-1cdza       26.1 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bcfa      structureX:1bcf:   1 :A: 157 :A:bacterioferritin:Escherichia coli: 2.9: 20.8
+[  2] 1jgca      structureX:1jgc:   1 :A: 160 :A:bacterioferritin:Rhodobacter capsulatus: 0.20: -1
+
+
+1bcfa      MKGDTKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLG
+1jgca      MKGDAKVIEFLNAALRSELTAISQYWVHFRLQEDWGLAKMAKKSREESIEEMGHADKIIARILFLEGHPNLQKLD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bcfa      KLNIGEDVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMMIEILRDEEGHIDWLETELDLIQKMGLQNYL
+1jgca      PLRIGEGPRETLECDLAGEHDALKLYREARDYCAEVGDIVSKNIFESLITDEEGHVDFLETQISLYDRLGPQGFA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bcfa      QAQIR---EE*
+1jgca      LLNAAPMDAA*
+           =========|
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bcfa      100.0  47.1
+  2-1jgca       47.1 100.0
+
+***************************************************************************

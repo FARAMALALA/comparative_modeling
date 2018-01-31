@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1rbla      structureX:1rbl:   9 :A: 147 :A:ribulose 1,5 bisphosphate carboxylase-oxygenase:Synechococcus, Strain Pcc 6301: 2.2: 20.0
+[  2] 1gk8a      structureX:1gk8:   7 :A: 147 :A:ribulose-1,5 bisphosphate carboxylase-oxygenase:Chlamydomonas reinhardtii: 1.4: 14.9
+[  3] 1bxna      structureX:1bxn:  22 :A: 150 :A:ribulose bisphosphate carboxylase large chain:Alcaligenes eutrophus: 2.7: 26.6
+[  4] 1bwva      structureX:1bwv:   7 :A: 147 :A:ribulose bisphosphate carboxylase:Galdieria partita: 2.40: 16.3
+[  5] 1geha      structureX:1geh:  12 :A: 135 :A:Ribulose-1,5-bisphosphate carboxylase-oxygenase:Thermococcus kodakaraensis: 2.80: 22.4
+[  6] 5ruba      structureX:5rub:   2 :A: 135 :A:ribulose-1,5-bisphosphate carboxylase-oxygenase:Rhodospirillum rubrum: 1.7: -1
+
+
+1rbla      S--AAGYKAGVKDYKLT-YYTPDYTPKD-----TDLLAAFRFSPQPGVPADEAGAAIAAESSTGTWTTV-WTDLL
+1gk8a      TKAGAGFKAGVKDYRLT-YYTPDYVVRD-----TDILAAFRMTPQPGVPPEECGAAVAAESSTGTWTTV-WTDGL
+1bxna      -------------YKMG-YWDGDYVPKD-----TDLLALFRITPQDGVDPVEAAAAVAGESSTATWTVV-WTDRL
+1bwva      RIKNSRYESGVIPYAKMGYWNPDYQVKD-----TDVLALFRVTPQPGVDPIEAAAAVAGESSTATWTVV-WTDLL
+1geha      ------------------YVDKGYEPSK----KRDIIAVFRVTPAEGYTIEQAAGAVAAESSTGTWTTLYPWYEQ
+5ruba      ------------DQSSR-YVNLALKEEDLIAGGEHVLCAYIMKPKAGYGYVATAAHFAAESSTGTR---------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rbla      TDMDRYKGKCYHIEPVAGEENSYFAFIAYPLDLFE------EGSVTNILTSIVGNVFGFKAIRSLRLEDIRFPVA
+1gk8a      TSLDRYKGRCYDIEPVPGEDNQYIAYVAY-IDLFE------EGSVTNMFTSIVGNVFGFKALRALRLEDLRIPPA
+1bxna      TACDMYRAKAYRVDPVPNNPEQFFCYVAYDLSLFE------EGSIANLTASIIGNVFSFKPIKAARLEDMRFPVA
+1bwva      TAADLYRAKAYKVDQVPNNPEQYFAYIAYELDLFE------EGSIANLTASIIGNVFGFKAVKALRLEDMRLPLA
+1geha      ERWADLSAKAYDFHDMG--DGSWIVRIAYPFHAFE------EANLPGLLASIAGNIFGMKRVKGLRLEDLYFPEK
+5ruba      ----GVDALVYEVDEA-----RELTKIAYPVALFDRNITDGKAMIASFLTLTMGNNQGMGDVEYAKMHDFYVPEA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1rbla      LVKT*
+1gk8a      YVKT*
+1bxna      YVKT*
+1bwva      YLKT*
+1geha      LIRE*
+5ruba      YRAL*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-1rbla      100.0  74.8  58.6  57.6  38.7  25.2
+  2-1gk8a       74.8 100.0  57.8  57.9  37.9  24.4
+  3-1bxna       58.6  57.8 100.0  78.1  37.9  25.2
+  4-1bwva       57.6  57.9  78.1 100.0  39.5  27.6
+  5-1geha       38.7  37.9  37.9  39.5 100.0  26.0
+  6-5ruba       25.2  24.4  25.2  27.6  26.0 100.0
+
+***************************************************************************

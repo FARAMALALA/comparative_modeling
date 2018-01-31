@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ygs       structureX:1ygs: 319 : : 543 : :Smad4 tumor suppressor C-terminal domain:Homo sapiens: 2.1: 21.9
+[  2] 1deva      structureX:1dev: 263 :A: 456 :A:Smad2 Mh2 domain bound to the Smad- binding domain of sara:Homo sapiens: 2.2: 21.8
+
+
+1ygs       -------APEYWCSIAYFEMDVQVGETFKVPSSCPIVTVDGYVDPSGGDRFCLGQLSNVHRTEAIERARLHIGKG
+1deva      LQPVTYSEPAFWCSIAYYELNQRVGETFHAS--QPSLTVDGFTDPSNSERFCLGLLSNVNRNATVEMTRRHIGRG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ygs       VQLECKGEGDVWVRCLSDHAVFVQSYYLDREAGRAPGDAVHKIYPSAYIKVFDLRQCHRQMQQQAATAQ-AVDDL
+1deva      VRLYYIG-GEVFAECLSDSAIFVQSPNCNQRYGWHP-ATVCKIPPGCNLKIFNNQEFAALLAQSVNQGFEAVYQL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ygs       RRLCILRMSFVKGWGPDYPRQSIKETPCWIEIHLHRALQLLDEVLHTM*
+1deva      TRMCTIRMSFVKGWGAEYRRQTVTSTPCWIELHLNGPLQWLDKVLTQM*
+           =========|=========|=========|=========|========
+                    0160      0170      0180      0190     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ygs       100.0  48.4
+  2-1deva       48.4 100.0
+
+***************************************************************************

@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2eiaa      structureX:2eia:  17 :A: 146 :A:capsid protein p26:Equine infectious anemia virus: 2.7: 23.6
+[  2] 1ak4c      structureX:1ak4: 401 :C: 545 :C:capsid protein:Human immunodeficiency virus-1: 2.36: 23.8
+
+
+2eiaa      ----------------PRGYTTWVNTIQTNGLLNEASQNLFGILSVDCTSEEMNAFLDVVPGQAGQKQILLDAID
+1ak4c      PIVQNLQGQMVHQAISPRTLNAWVKVVEEKAF-SPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETIN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2eiaa      KIADDWDNRHPLPNAPLVAPPQGPIPMTARFIRGLGVPRERQMEP----AFDQFRQTYRQWIIEAMSEGIKVMIG
+1ak4c      EEAAEWDRLHPVHAGP--IAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRMY--
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2eiaa      100.0  22.3
+  2-1ak4c       22.3 100.0
+
+***************************************************************************

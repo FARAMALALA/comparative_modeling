@@ -1,0 +1,54 @@
+      Code       Title
+
+[  1] 1crka      structureX:1crk:   1 :A: 380 :A:mitochondrial creatine kinase:Gallus gallus: 3.00: 21.7
+[  2] 2crk       structureX:2crk:   8 : : 381 : :muscle creatine kinase:Oryctolagus cuniculus: 2.35: 19.5
+[  3] 1bg0       structureX:1bg0:   2 : : 357 : :arginine kinase:Limulus polyphemus: 1.86: 19.6
+
+
+1crka      TV-HEKRKLFPPSADYPDLRKHNNCMAECLTPAIYAKLRDKLTPNGYSLDQCIQTGVDNPGHPFIKTVGMVAGDE
+2crk       ---NKYKLNYKSEEEYPDLSKHNNHMAKVLTPDLYKKLRDKETPSGFTLDDVIQTGVDNPGHPFIMTVGCVAGDE
+1bg0       VDQATLDKLEAGFKKLQEASDCKSLLKKHLTKDVFDSIKNKKTGMGATLLDVIQSGVENL----DSGVGIYAPDA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1crka      ESYEVFAEIFDPVIKARHNGYDPRTMKHHTDLDASKITHG-QFDE--RYVLSSRVRTGRSIRGLSLPPACSRAER
+2crk       ESYTVFKDLFDPIIQDRHGGFKP-TDKHKTDLNHENLKGGDDLDP--HYVLSSRVRTGRSIKGYTLPPHCSRGER
+1bg0       ESYRTFGPLFDPIIDDYHGGFKL-TDKHPPK-QWGDINTLVGLDPAGQFIISTRVRCGRSLQGYPFNPCLTAEQY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1crka      REVENVVVTALAGLKGDLSGKYYSLTNMSERDQQQLIDDHFLFDKPVSPLLTCAGMARDWPDARGIWHNNDKTFL
+2crk       RAVEKLSVEALNSLTGEFKGKYYPLKSMTEQEQQQLIDDHFLFDKPVSPLLLASGMARDWPDARGIWHNDNKSFL
+1bg0       KEMEEKVSSTLSSMEDELKGTYYPLTGMSKATQQQLIDDHFLFKE-GDRFLQTANACRYWPTGRGIFHNDAKTFL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1crka      VWINEEDHTRVISMEKGGNMKRVFERFCRGLKEVERLIKERGWEFMWNERLGYVLTCPSNLGTGLRAGVHVKLPR
+2crk       VWVNEEDHLRVISMEKGGNMKEVFRRFCVGLQKIEEIFKKAGHPFMWNEHLGYVLTCPSNLGTGLRGGVHVKLAH
+1bg0       VWVNEEDHLRIISMQKGGDLKTVYKRLVTAVDNIESKL-----PFSHDDRFGFLTFCPTNLGTTMRASVHIQLPK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1crka      LSKDP-RFPKILENLRLQKRGTGGVDTAAVADVYDISNLDRMGRSEVELVQIVIDGVNYLVDCEKKLEKGQDIKV
+2crk       LSKHP-KFEEILTRLRLQKRG---------TSVFDISNADRLGSSEVEQVQLVVDGVKLMVEMEKKLEKGQSIDD
+1bg0       LAKDRKVLEDIASKFNLQVRGTRGEHTESEGGVYDISNKRRLGLTEYQAVREMQDGILEMIKMEKAAA-------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1crka      PPPLPQFGRK*
+2crk       MIPAQK----*
+1bg0       ----------*
+           ====|=====
+               0380  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1crka      100.0  65.5  38.2
+  2-2crk        65.5 100.0  41.3
+  3-1bg0        38.2  41.3 100.0
+
+***************************************************************************

@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1a9xa1     structureX:1a9x:   1 :A: 127 :A:carbamoyl phosphate synthetase:Escherichia coli: 1.8: -1
+[  2] 1a9xa2     structureX:1a9x: 556 :A: 676 :A:carbamoyl phosphate synthetase:Escherichia coli: 1.8: -1
+[  3] 1dv1a      structureX:1dv1:   2 :A: 114 :A:biotin carboxylase:Escherichia coli: 1.90: 18
+[  4] 1gsoa      structureX:1gso:   2 :A: 103 :A:phosphoribosylamine--glycine ligase:Escherichia coli: 1.6: 20.9
+
+
+1a9xa1     MPKRTDIKSILILGAGPIVIGQACEFDYSGAQACKALREE-GYRVINVNSNP--ATIMTDPEMADATYIE-----
+1a9xa2     ---STDREKIMVLGGGPNRIGQGIEFDYCCVHASLALRED-GYETIMVNCNP--ETVSTDYDTSDRLYFE-----
+1dv1a      ------LDKIVIANRG-----------EIALRILRACKEL-GIKTVAVHSSADRDLKHV-LLAD-ETVCIGPAPS
+1gsoa      --------KVLVIGNG-----------GREHALAWKAAQSPLVETVFVAPGN---AGTA-LEPALQNVAIG----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a9xa1     ---PIHWEVVRKIIEKERPDAVLPTMGGQTALN--CALELERQGVLEEFGVTMIGATADAIDKAE---*
+1a9xa2     ---PVTLEDVLEIVRIEKPKGVIVQYGGQTPLK--LARALEAA------GVPVIGTSPDAIDRAEDRE*
+1dv1a      VKSYLNIPAIISAAEITGAVAIHPGY-GFLSENANFAEQVERS------GFIFIGPKAETIRLMG---*
+1gsoa      ---VTDIPALLDFAQNEKIDLTIVGP-EAPLVK-GVVDTFRAA------GLKIFGPTAGAAQLEG---*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0080      0090      0100      0110      0120      0130      0140 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1a9xa1     100.0  47.1  19.5  12.7
+  2-1a9xa2      47.1 100.0  15.0  17.6
+  3-1dv1a       19.5  15.0 100.0  19.6
+  4-1gsoa       12.7  17.6  19.6 100.0
+
+***************************************************************************

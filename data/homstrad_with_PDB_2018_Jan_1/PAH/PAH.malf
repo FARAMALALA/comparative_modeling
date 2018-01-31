@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1e91a      structureX:1e91:   1 :A:  85 :A:paired amphipathic helix protein sin3b:Mus musculus: -1: -1
+[  2] 1g1eb      structureX:1g1e: 295 :B: 383 :B:human mad1 transrepression domain sid in complex with mammalian sin3a pah2 domain:Synthetic construct: -1: -1
+
+
+1e91a      ---ESDSVEFNNAISYVNKIKTRFLDHPEIYRSFLEILHTYQKEQLHTK---GRPFRGMSEEEVFTEVANLFRGQ
+1g1eb      SLQNNQPVEFNHAINYVNKIKNRFQGQPDIYKAFLEILHTYQKEQRNAKEAGGNYTPALTEQEVYAQVARLFKNQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1e91a      EDLLSEFGQFLPEAKR*
+1g1eb      EDLLSEFGQFLPDA--*
+           ====|=========|=
+               0080      0090 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1e91a      100.0  61.2
+  2-1g1eb       61.2 100.0
+
+***************************************************************************

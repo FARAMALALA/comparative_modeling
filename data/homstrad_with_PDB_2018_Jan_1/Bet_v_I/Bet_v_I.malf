@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bv1       structureX:1bv1:   1 : : 159 : :Major pollen allergen Bet v 1:Betula verrucosa: 2.0: 19.8
+[  2] 1e09a      structureN:1e09:   1 :A: 159 :A:Pru av 1:Prunus avium: -1: -1
+
+
+1bv1       GVFNYETETTSVIPAARLFKAFILDGDNLFPKVAPQAISSVENIEGNGGPGTIKKISFPEGLPFKYVKDRVDEVD
+1e09a      GVFTYESEFTSEIPPPRLFKAFVLDADNLVPKIAPQAIKHSEILEGDGGPGTIKKITFGEGSQYGYVKHKIDSID
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bv1       HTNFKYNYSVIEGGPIGDTLEKISNEIKIVATPDGGSILKISNKYHTKGDHEVKAEQVKASKEMGETLLRAVESY
+1e09a      KENYSYSYTLIEGDALGDTLEKISYETKLVASPSGGSIIKSTSHYHTKGNVEIKEEHVKAGKEKASNLFKLIETY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bv1       LLAHSDAYN*
+1e09a      LKGHPDAYN*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bv1       100.0  59.1
+  2-1e09a       59.1 100.0
+
+***************************************************************************

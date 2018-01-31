@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1p3ha      structureX:1p3h:   1 :A:  99 :N:10 kda chaperonin:Mycobacterium tuberculosis:2.80:25.9
+[  2] 1aono      structureX:1aon:   1 :O:  97 :O:10 kDa chaperonin:Escherichia coli: 3.0: 24.8
+
+
+1p3ha      AKVNIKPLEDKILVQANEAETTTA--SGLVIPDTAKEKPQEGTVVAVGPGRWDEDGEKRIPLDVAEGDTVIYSKY
+1aono      --MNIRPLHDRVIVKRKEVETKSAGGIVLTGS--AAAKSTRGEVLAVGNGRILEN-GEVKPLDVKVGDIVIFNDG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1p3ha      -GGTEIKYNGEEYLILSARDVLAVVSK*
+1aono      YGVKSEKIDNEEVLIMSESDILAIVEA*
+           ====|=========|=========|==
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1p3ha      100.0  41.2
+  2-1aono       41.2 100.0
+
+***************************************************************************

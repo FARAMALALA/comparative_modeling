@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1epua      structureX:1epu:   2 :A: 591 :A:neuronal Sec1:Loligo pealei: 2.40: 24
+[  2] 1dn1a      structureX:1dn1:   4 :A: 592 :A:syntaxin binding protein 1:Rattus norvegicus: 2.60: 23.9
+
+
+1epua      -ALKTAVHEKI-NDVVLAVKKNAEWKVLIVDQLSR--VSACCK-HEI-SEGITLVEDINRRREPLPLLEAVYLIT
+1dn1a      IGLKAVVGEKIMHDVIKKVKKKGEWKVLVVDQLSMRMLSSCCKMTDIMTEGITIVEDINKRREPLPSLEAVYLIT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1epua      PTEESVKCL-ADFQNPDNPQYRGAHIFFTEACPEELFKELCKSTTARFIKTLKEINIAFLPYESQIFSLDSPDTF
+1dn1a      PSEKSVHSLISDFKDPPTAKYRAAHVFFTDSCPDALFNELVKSRAAKVIKTLTEINIAFLPYESQVYSLDSADSF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1epua      QVYYNPSRAQGGIPNKERCAEQIATLCATLGEYPSVRYRSDFDENASFAQLVQQKLDAYRADDPT-GEGPQKDRS
+1dn1a      QSFYSPHKAQMKNPILERLAEQIATLCATLKEYPAVRYRGEYKDNALLAQLIQDKLDAYKADDPTMGEGPDKARS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1epua      QLLILDRGFDPISPLLHELTFQA-AYDLLPIENDVYKY-----------EVLLDEKDDLWVE-RHQHIAVVSQNV
+1dn1a      QLLILDRGFDPSSPVLHELTFQAMSYDLLPIENDVYKYETSGIGEARVKEVLLDEDDDLWIALRHKHIAEVSQEV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1epua      TKKLKQFADEKRGIKDLSQL--KKPQYQKELSKYSTHLHLAEDC-KQYQQHVDKLCKVEQDLA-GTDADGEKIRD
+1dn1a      TRSLKDFSSSKRMMRDLSQMLKKMPQYQKELSKYSTHLHLAEDCMKHYQGTVDKLCRVEQDLAMGTDAEGEKIKD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1epua      H-RNIVPILLDQKISAYDKIRIILLYIIHKGGISEENLAKLVQHAHIPAEEKWIIND-QNLGVPIIQDGGRRKIP
+1dn1a      PMRAIVPILLDANVSTYDKIRIILLYIFLKNGITEENLNKLIQHAQIPPEDSEIITNMAHLGVPIVTDSTLRRRS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1epua      QPYHTHNRKERQADHTYQ-SRWTPY-KDI-EAAVEDKLDTRHYPFLNGGGKSGPRLIIFVVGGISYSE-RSAYEV
+1dn1a      KP----ERKERISEQTYQLSRWTPIIKDIMEDTIEDKLDTKHYPYISTR-RSGPRLIIFILGGVSLNEMRCAYEV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1epua      TQTAKNNWEVILGSTHILTPEGLLRDLRKISNP----*
+1dn1a      TQANG-KWEVLIGSTHILTPQKLLDTLKKLNKTDEEI*
+           ====|=========|=========|=========|==
+               0530      0540      0550      0560 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1epua      100.0  67.4
+  2-1dn1a       67.4 100.0
+
+***************************************************************************

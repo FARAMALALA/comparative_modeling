@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1xbl       structureX:1xbl:   2 : :  76 : :DnaJ protein J-domain:Escherichia coli: -1: -1
+[  2] 1hdj       structureX:1hdj:   0 : :  76 : :DnaJ protein homolog 1 (hdj-1) (heat shock protein 40) (hsp40) J-domain:Homo sapiens: -1: -1
+
+
+1xbl       AKQDYYEILGVSKTAEEREIRKAYKRLAMKYHPD--RNQGDKEAEAKFKEIKEAYEVLTDSQKRAAYDQYGHAAF
+1hdj       MGKDYYQTLGLARGASDEEIKRAYRRQALRYHPDKNKEP---GAEEKFKEIAEAYDVLSDPRKREIFDRYGEEGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1xbl       EQ---*
+1hdj       KGSGC*
+           ====|
+               0080 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1xbl       100.0  45.3
+  2-1hdj        45.3 100.0
+
+***************************************************************************

@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1afwa      structureX:1afw:  25 :A: 417 :A:3-ketoacyl-COA thiolase:Saccharomyces cerevisiae: 1.8: 20.3
+[  2] 1kas       structureX:1kas:   2 : : 412 : :beta-ketoacyl-acp synthase II (KAS II):Escherichia coli: 2.4: 23.4
+
+
+1afwa      KNSLLEKRPEDVVIVAANRSAI-GKGFKGAFK-------------------------------------------
+1kas       --------KRRVVVTGLGMLSPVGNTVESTWKALLAGQSGISLIDHFDTSAYATKFAGLVKDFNCEDIISRKEQR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1afwa      -DVNTDYLLYNFLNEFIGRFP-EPLRADLNLIEEVACGNVLN------------------------VGAG--ATE
+1kas       KMDAFIQYGIVAGVQAMQDSGLEITEENATRI-GAAIGSGIGGLGLIEENHTSLMNGGPRKISPFFVPSTIVNMV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1afwa      HRAACLASGIPYSTPFVALNRQCSSGLTAVNDIANKIKVGQIDIGLALGVESMTNNYKNVNPLGMISSEELQKNR
+1kas       AGHLTIMYGL--RGPSISIATACTSGVHNIGHAARIIAYGDADVMVAGGAEKAS-TPLGVGGFGA----------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1afwa      EAKKCLIPMGITNENVAANFKISRKDQDEFAANSYQKAYKAKNEGLFEDEILPIKLPDGSICQSDEGPRPNVTAE
+1kas       ------------------------------ARALSTRND------NPQAASRPWDK-------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1afwa      SLSSIRPAFIGTTTAGNASQVSDGVAGVLLARRSVANQLNLPVLGRYIDFQTVGVP-----PEIMGVGPAYAIPK
+1kas       -----------ERD---GFVLGDGAGMLVLEEYEHAKKRGAKIYAELVGFGMSSDAYHMTSPPENGAGAALAMAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1afwa      VLEATGLQVQDIDIFEINEAF----AAQALYCIHKL-GIDLNKVNPRGGAIALGHPLGCTGARQVATILRELK--
+1kas       ALRDAGIEASQIGYVNAHGTSTPAGDKAEAQAVKTIFGEAASRVLVSSTKSMTGHLLGAAGAVESIYSILALRDQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1afwa      ----------------------------KDQIGVVSMCIGTGMGAAAIFIKE*
+1kas       AVPPTINLDNPDEGCDLDFVPHEARQVSGMEYTLCNSFGFGGTNGSLIFKKI*
+           =========|=========|=========|=========|=========|==
+                    0460      0470      0480      0490      0500 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1afwa      100.0  13.1
+  2-1kas        13.1 100.0
+
+***************************************************************************

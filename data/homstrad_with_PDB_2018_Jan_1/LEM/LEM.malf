@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1h9fa      structureX:1h9f:   1 :A:  57 :A:thymopoietin gamma:Homo sapiens: -1: -1
+[  2] 1jeia      structureX:1jei:   1 :A:  53 :A:emerin:Homo sapiens: -1: -1
+
+
+1h9fa      RQEDKDDLDVTELTNEDLLDQLVKYGVNPGPIVGTTRKLYEKKLLKLREQ--------GTESRSS*
+1jeia      -------DNYADLSDTELTTLLRRYNIPHGPVVGSTRRLYEKKIFEYETQRRRLSPPS-----SS*
+           =========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1h9fa      100.0  34.0
+  2-1jeia       34.0 100.0
+
+***************************************************************************

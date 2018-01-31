@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1a7w       structureX:1a7w:   1 : :  68 : :DNA binding protein hmf-2 (archaeal histone B):Methanothermus fervidus: 1.55: 19.8
+[  2] 1b67a      structureX:1b67:   2 :A:  69 :A:histone hmfa:Methanothermus fervidus: 1.48: -1
+
+
+1a7w       MELPIAPIGRIIKDAGAERVSDDARITLAKILEEMGRDIASEAIKLARHAGRKTIKAEDIELAVRRFK*
+1b67a      GELPIAPIGRIIKNAGAERVSDDARIALAKVLEEMGEEIASEAVKLAKHAGRKTIKAEDIELARKMFK*
+           =========|=========|=========|=========|=========|=========|========
+                    0010      0020      0030      0040      0050      0060     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a7w       100.0  83.8
+  2-1b67a       83.8 100.0
+
+***************************************************************************

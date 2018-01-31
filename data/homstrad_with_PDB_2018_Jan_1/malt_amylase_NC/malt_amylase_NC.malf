@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1bvza      structureX:1bvz:   1 :A: 585 :A:Alpha amylase II:Thermoactinomyces vulgaris R-47: 2.60: 19.6
+[  2] 1smaa      structureX:1sma:   1 :A: 588 :A:Maltogenic amylase:Thermus sp.: 2.80: 20.9
+
+
+1bvza      MLLEAIFHEAKGSYAYPISETQLRVRLRAKKGDVVRCEVLYADRYASP--EEELAHALAGKAGSDERFDYFEALL
+1smaa      MRKEAIHHRSTDNFAYAYDSETLHLRLQTKKNDVDHVELLFGDPYEWHDGAWQFQTMPMRKTGSDGLFDYWLAEV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bvza      ECSTKRVKYVFLLTGPQGEAVYFGETGFSAERS---KAGVFQYAYIHRSEVFTTPEWAKEAVIYQIFPERFANGD
+1smaa      KPPYRRLRYGFVLRA-GGEKLVYTEKGFYHEAPSDDTAYYFCFPFLHRVDLFQAPDWVKDTVWYQIFPERFANGN
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bvza      PSNDPPGTEQWAKDARPRHDSFYGGDLKGVIDRLPYLEELGVTALYFTPIFASPSHHKYDTADYLAIDPQFGDLP
+1smaa      P-AISPKGARPWGSEDPTPTSFFGGDLQGIIDHLDYLADLGITGIYLTPIFRAPSNHKYDTADYFEIDPHFGDKE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bvza      TFRRLVDEAHRRGIKIILDAVFNHAGDQFFAFRDVLQKGEQSRYKDWFFIEDFPVSKTSRTNYETFAVQVPAMPK
+1smaa      TLKTLVKRCHEKGIRVMLDAVFNHCGYEFAPFQDVLKNGAASRYKDWFHIREFPLQTEPRPNYDTFAF-VPHMPK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bvza      LRTENPEVKEYLFDVARFWME-QGIDGWRLDVANEVDHAFWREFRRLVKSLNPDALIVGEIWHDASGWLMGDQFD
+1smaa      LNTAHPEVKRYLLDVATYWIREFDIDGWRLDVANEIDHQFWREFRQAVKALKPDVYILGEIWHDAMPWLRGDQFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bvza      SVMNYLFRESVIRFFATGEIHAERFDAELTRARMLYPEQAAQGLWNLLDSHDTERFLTSCGGNEAKFRLAVLFQM
+1smaa      AVMNYPLADAALRFFAKEDMSASEFADRLMHVLHSYPKQVNEAAFNLLGSHDTPRLLTVCGGDVRKVKLLFLFQL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1bvza      TYLGTPLIYYGDEIGMAGATDPDCRRPMIWEEKEQNRGLFEFYKELIRLRHRLASLTRGNVRSWHADKQANLYAF
+1smaa      TFTGSPCIYYGDEIGMTGGNDPECRKCMVWDPEKQNKELYEHVKQLIALRKQYRALRRGDVAFLTADDEVNHLVY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1bvza      VRTVQDQHVGVVLNNRGEKQTVLLQVPESGGKTWLDCLTGEEVHGKQGQLKLTLRPYQGMILWNGR-*
+1smaa      AKTDGNETVMIIINRSNEAAEIPMPIDA-RGKWLVNLLTGERFAAEAETLCVSLPPYGFVLYAVESW*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0530      0540      0550      0560      0570      0580      0590 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bvza      100.0  45.8
+  2-1smaa       45.8 100.0
+
+***************************************************************************

@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 2cyha      structureX:2cyh:   2 :A: 165 :A:cyclophilin A:Homo sapiens:1.64:18.5
+[  2] 1cyna      structureX:1cyn:   7 :A: 184 :A:cyclophilin B:Homo sapiens:1.85:16.0
+[  3] 2rmca      structureX:2rmc:  31 :A: 212 :A:cyclophilin C:Mus musculus:1.64:19.7
+[  4] 1clh       structureN:1clh:   1 : : 166 : :cyclophilin:Escherichia coli:-1.00:-1.00
+[  5] 1lopa      structureX:1lop:   1 :A: 164 :A:cyclophilin A:Escherichia coli:1.80:17.6
+[  6] 1a58       structureX:1a58:   1 : : 177 : :cyclophilin:Brugia malayi: 1.95: 19.9
+
+
+2cyha      -----VNPTVFFDIAVDGEPLGRVSFELFADKVPKTAENFRALSTGEKG--------FGYKGSCFHRIIPGFMCQ
+1cyna      --GPKVTVKVYFDLRIGDEDVGRVIFGLFGKTVPKTVDNFVALATGEKG--------FGYKNSKFHRVIKDFMIQ
+2rmca      KRGPSVTDKVFFDVRIGDKDVGRIVIGLFGNVVPKTVENFVALATGEKG--------YGYKGSIFHRVIKDFMIQ
+1clh       ---AKGDPHVLLTTS-----AGNIELELDKQKAPVSVQNFVDYVNS-----------GFYNNTTFHRVIPGFMIQ
+1lopa      --------MVTFHTN-----HGDIVIKTFDDKAPETVKNFLDYCRE-----------GFYNNTIFHRVINGFMIQ
+1a58       -MSKKDRRRVFLDVTIDGNLAGRIVMELYNDIAPRTCNNFLMLCTGMAGTGKISGKPLHYKGSTFHRVIKNFMIQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2cyha      GGDFTRHNGTGGKSIYGEKFEDENFILKHTGPGILSMANA-GPNTNGSQFFICTAKTEWLDG--------KHVVF
+1cyna      GGDFTRGDGTGGKSIYGERFPDENFKLKHYGPGWVSMANA-GKDTNGSQFFITTVKTAWLDG--------KHVVF
+2rmca      GGDFTARDGTGGMSIYGETFPDENFKLKHYGIGWVSMANA-GPDTNGSQFFITLTKPTWLDG--------KHVVF
+1clh       GGGFT-EQMQQKKPN--PPIKNEADNGLRNTRGTIAMARTADKDSATSQFFINVADNAFLDHGQ---RDFGYAVF
+1lopa      GGGFE-PGMKQKATK--EPIKNEANNGLKNTRGTLAMARTQAPHSATAQFFINVVDNDFLNFSGESLQGWGYCVF
+1a58       GGDFTKGDGTGGESIYGGMFDDEEFVMKHDEPFVVSMANK-GPNTNGSQFFITTTPAPHLNN--------IHVVF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2cyha      GKVKEGMNIVEAMERF-GSR----NGKTSKKITIADCGQLE------------*
+1cyna      GKVLEGMEVVRKVESTKTDS----RDKPLKDVIIADCGKIEVEKPFAIAKE--*
+2rmca      GKVLDGMTVVHSIELQATDG----HDRPLTDCTIVNSGKIDVKTPFVVEVPDW*
+1clh       GKVVKGMDVADKISQVPTHDVGPYQNVPSKPVVILSAKVLP------------*
+1lopa      AEVVDGMDEVDKIKGVATGRSGMHQDVPKEDVIIESVTVSE------------*
+1a58       GKVVSGQEVVTKIEYLKTNS----KNRPLADVVILNCGELV------------*
+           =========|=========|=========|=========|=========|===
+                    0160      0170      0180      0190      0200 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6]
+
+  1-2cyha      100.0  64.0  57.3  28.7  26.2  48.8
+  2-1cyna       64.0 100.0  72.5  31.9  29.9  50.8
+  3-2rmca       57.3  72.5 100.0  28.3  31.1  50.8
+  4-1clh        28.7  31.9  28.3 100.0  54.3  32.5
+  5-1lopa       26.2  29.9  31.1  54.3 100.0  29.3
+  6-1a58        48.8  50.8  50.8  32.5  29.3 100.0
+
+***************************************************************************

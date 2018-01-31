@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 1ef1a      structureX:1ef1:   4 :A: 297 :A:moesin:Homo sapiens: 1.90: 22.7
+[  2] 1gc7a      structureX:1gc7:   1 :A: 297 :A:radixin:Mus musculus: 2.80: 21.5
+[  3] 1gg3a      structureX:1gg3:   1 :A: 279 :A:protein 4.1R membrane binding domain:Homo sapiens: 2.80: 22.6
+
+
+1ef1a      ---TISVRVTT-D-AELEFAIQPNTTG-KQLFDQVVKTIGLREVWF-FGLQYQDTKGFSTWLKLNKKVTAQDVRK
+1gc7a      MPKPINVRVTTMD-AELEFAIQPNTTG-KQLFDQVVKTVGLREVWF-FGLQYVDSKGYSTWLKLNKKVTQQDVKK
+1gg3a      ----MHCKVSLLDDTVYECVVEKHAKGQDLLKRVCEHLNLLEEDYFGLAIWDN--ATSKTWLDSAKEIKKQVRG-
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ef1a      ESPLLFKFRAKFYPEDVSEELIQDITQRLFFLQVKEGILNDDIYCPPETAVLLASYAVQSKYGDFNKEVHKSGYL
+1gc7a      ENPLQFKFRAKFFPEDVSEELIQEITQRLFFLQVKEAILNDEIYCPPETAVLLASYAVQAKYGDYNKEIHKPGYL
+1gg3a      -VPWNFTFNVKFYPPDPAQ-LTEDITRYYLCLQLRQDIVAGRLPCSFATLALLGSYTIQSELGDYDPELHGVDYV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ef1a      AGDKLLPQRVLEQHKLNKDQWEERIQVWHEEHRG-LREDAVLEYLKIAQDLE-YGVNYFSIKNKKGSELWLGVDA
+1gc7a      ANDRLLPQRVLEQHKLTKEQWEERIQNWHEEHRGMLREDSMMEYLKIAQDLEMYGVNYFEIKNKKGTELWLGVDA
+1gg3a      SDFKLAPNQT--------KELEEKVMELHKSYRSMTPAQADLEFLENAKKLSMYGVDLHKAKDLEGVDIILGVCS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ef1a      LGLNIYEQNDRLTPKIGFPWSEIRNISFNDKKFVIKPIDK----KAPDFVFYAPRLRINKRILALC-GNHELY-R
+1gc7a      LGLNIYEHDDKLTPKIGFPWSEIRNISFNDKKFVIKPIDK----KAPDFVFYAPRLRINKRILALCMGNHELYMR
+1gg3a      SGLLVYKD---KLRINRFPWPKVLKISYKRSSFFIKIRPGEQEQYESTIGFKLPSYRAAKKLWKVCVEHHTFFR-
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ef1a      RRKP*
+1gc7a      RRKP*
+1gg3a      ----*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1ef1a      100.0  89.3  28.3
+  2-1gc7a       89.3 100.0  27.2
+  3-1gg3a       28.3  27.2 100.0
+
+***************************************************************************

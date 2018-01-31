@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1igra1     structureX:1igr:   1 :A: 149 :A:insulin-like growth factor I receptor:Homo sapiens: 2.60: 23.7
+[  2] 1igra2     structureX:1igr: 300 :A: 478 :A:insulin-like growth factor I receptor:Homo sapiens: 2.60: 23.7
+
+
+1igra1     EICG---PGIDIRNDYQQLKRLENCTVIEGYLHILLISKA--EDYRSYRFPKLTVITEYLLLFRVAGLESLGDLF
+1igra2     KVCEEEKKTKTID-SVTSAQMLQGCTIFKGNLLINIRRGNNIASELENFMGLIEVVTGYVKIRHSHALVSLS-FL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1igra1     PNLTVIRGWKLFY-NYALVIFEMTNLKDIGLY--NLRNITRGAIRIEKNADLCYLSTVDWSLILDAVSNNYIVGN
+1igra2     KNLRLILGEEQLEGNYSFYVLDNQNLQQLWDWDHRNLTIKAGKMYFAFNPKLCVSEIYRMEEVTGTKGRQS-KGD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1igra1     KPPKECG------------------*
+1igra2     INTRNNGERASCEKEQKLISEEDLN*
+           =========|=========|=====
+                    0160      0170  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1igra1     100.0  19.5
+  2-1igra2      19.5 100.0
+
+***************************************************************************

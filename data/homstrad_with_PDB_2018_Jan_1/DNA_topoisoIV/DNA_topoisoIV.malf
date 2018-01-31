@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1bjt       structureX:1bjt: 675 : :1178 : :DNA topoisomerase II, C-terminal fragment:Saccharomyces cerevisiae: 2.5: 22.7
+[  2] 1ab4       structureX:1ab4:  30 : : 522 : :DNA gyrase subunit A:Escherichia coli: 2.8: 22.6
+
+
+1bjt       FINKELILFSLADNIRSIPNVLDGFKPGQRKVLYGCFKKNLK---SELKVAQLAPYVSECTAYHHGEQSLAQTII
+1ab4       -------------VGRALPDVRDGLKPVHRRVLYAMNVLGNDWNKAYKKSARVVGDVIGKYHPH-GDSAVYDTIV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bjt       GLAQNFVGSNNIYLLLPNGAFGTRATGGKDAAAARYIYTELNKLTRKIFHPADDPLYKYIQE-DEKTVEPEWYLP
+1ab4       RMAQP--FSLRYMLVDGQGNFGSIDG--DSAAAMRYTEIRLAKIAHELMADLEKETVDFVDNYDGTEKIPDVMPT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bjt       ILPMILVNGAEGIGTGWSTYIPPFNPLEIIKNIRHLMNDEELE-------QMHPWFRGWTGTIEEIE----P---
+1ab4       KIPNLLVNGSSGIAVGMATNIPPHNLTEVINGCLAYIDDEDISIEGLMEHIPGPDFPTAA-IINGR-RGIEEAYR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bjt       ---LRYRMYGRIEQIGDNVLEITELPARTWTSTIKEYLLLGLSGNDKIKPWIKDMEEQHD-DNIKFIITLSPEEM
+1ab4       TGRGKVYIRARAEVEV-ETIIVHEIPYQVNKARLIEKIAELVKE--KRVEGISALRDESDKDGMRIVIEG----E
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bjt       AKTRKIGFYERFKLISPISLMNMVAFDPHGKIKKYNSVNEILSEFYYVRLEYYQKRKDHMSERLQWEVEKYSFQV
+1ab4       VVLN--NLYSQTQLQVSFGI-NMVALH-HGQPKIM-NLKDIIAAFVRHRREVVTRRTIFELRKARDRAHILEALA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1bjt       KFIKMIIEKELTVTNKP-RNAIIQELENLGFPRFNK-----------EGKPYYG-------SPEELYGTYEYLLG
+1ab4       VALANIDPIIELIRHAPTPAEAKTALVA-NPWQLGNVAAMLEDAARPEWLEPEFGVRDGLYYLTEQ--QAQAILD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1bjt       MRIWSLTKERYQKLLKQKQEKETELENLLKLSAKDIWNTDLKAFEVGYQEFLQRDAEARG----*
+1ab4       LRLQKLTGLEHEKLLDEYKELLDQIAELLR--ILGSADRLMEVIREELELVREQFGDKRRTEIT*
+           =========|=========|=========|=========|=========|=========|====
+                    0460      0470      0480      0490      0500      0510 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bjt       100.0  20.0
+  2-1ab4        20.0 100.0
+
+***************************************************************************

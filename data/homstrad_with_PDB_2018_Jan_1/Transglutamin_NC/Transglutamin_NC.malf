@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 1evua      structureX:1evu:   2 :A: 727 :A:coagulation factor XIII A chain:Homo sapiens: 2.01: 20.8
+[  2] 1g0da      structureX:1g0d:   6 :A: 684 :A:protein-glutamine gamma-glutamyltransferase:Pagrus major: 2.50: 20
+
+
+1evua      ETSRTAFGGRRAVPPNNSNAAEDDLPTVEEFLNVTSVHLFKERWDTNKVDHHTDKYENNKLIVRRGQSFYVQIDF
+1g0da      -------------------------------GLIVDVNGRSH---ENNLAHRTREIDRERLIVRRGQPFSITLQC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1evua      SRPYDPRRDLFRVEYVIGRYPQENKGTYIPVPIVSELQSGKWGAKIVMREDRSVRLSIQSSPKCIVGKFRMYVAV
+1g0da      SDSLPP-KHHLELVLHLGKR----DEVVIKVQKEH-GARDKWWFNQ-QGAQDEILLTLHSPANAVIGHYRLAVLV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1evua      WTPYG--VLRTSRNPETDTYILFNPWCEDDAVYLDNEKEREEYVLNDIGVIFYGEVNDIKTRSWSYGQFEDGILD
+1g0da      MSPDGHIVERADKI---SFHMLFNPWCRDDMVYLPDESKLQEYVMNEDGVIYMGTWDYIRSIPWNYGQFEDYVMD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1evua      TCLYVMDRAQ-------MDLSGRGNPIKVSRVGSAMVNAKDDEGVLVGSWDNIYAYGVPPSAWTGSVDILLEYRS
+1g0da      ICFEVLDNSPAALKNSEMDIEHRSDPVYVGRTITAMVNSNGDRGVLTGRWEEPYTDGVAPYRWTGSVPILQQWSK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1evua      SE-NPVRYGQCWVFAGVFNTFLRCLGIPARIVTNYFSAHDNDANLQMDIFLEEDGNVNSKLTKD-SVWNYHCWNE
+1g0da      AGVRPVKYGQCWVFAAVACTVLRCLGIPTRPITNFASAHDVDGNLSVDFLLNERLESLDSRQRSDSSWNFHCWVE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1evua      AWMTRPDLPVGFGGWQAVDSTPQENSDGMYRCGPASVQAIKHGHVCFQFDAPFVFAEVNSDLIYITAKKDGTHVV
+1g0da      SWMSREDLPEGNDGWQVLDPTPQELSDGEFCCGPCPVAAIKEGNLGVKYDAPFVFAEVNADTIYWIVQKDGQRRK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1evua      ENVDATHIGKLIVTKQIGGDGMMDITDTYKFQEGQEEERLALETALMYGAKKPLNTSNVDMDFEVENAVLGKDFK
+1g0da      ITEDHASVGKNISTKSVYGNHREDVTLHYKYPEGSQKEREVYKKA---GRRVT----RLQLSIKHAQPVFGTDFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1evua      LSITFRNNSHNRYTITAYLSANITFYTGVPKAEFKKETFDVTLEPLSFKKEAVLIQAGEYMGQLLEQASLHFFVT
+1g0da      VIVEVKNEGGRDAHAQLTMLAMAVTYNSLRRGECQRKTISVTVPAHKAHKEVMRLHYDDYVRCVSEHHLIRVKAL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1evua      ARINETRDVLAKQKSTVLTIPEIIIKVRGTQVVGSDMTVTVQFTNPLKETLRNVWVHLDGPGVTRPMKKMFR-EI
+1g0da      LDAP---GPIMTVANIPLSTPELLVQVPGKAVVWEPLTAYVSFTNPLPVPLKGGVFTLEGAGLLSATQIHVNGAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0610      0620      0630      0640      0650      0660      0670  
+
+1evua      RPNSTVQWEEVCRPWVSGHRKLIASMSSDSLRHVYGELDVQIQR-*
+1g0da      APSGKVSVKLSFSPMRTGVRKLLVDFDSDRLKDVKGVTTVVVHKK*
+           ====|=========|=========|=========|=========|
+               0680      0690      0700      0710      0720 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1evua      100.0  34.8
+  2-1g0da       34.8 100.0
+
+***************************************************************************

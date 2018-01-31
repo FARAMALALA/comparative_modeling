@@ -1,0 +1,272 @@
+      Code       Title
+
+[  1] 1bbr       structureX:1bbr:  16 :H: 247 :E:thrombin:Bos taurus: 2.30:16.7
+[  2] 1ppb       structureX:1ppb:  16 :H: 247 :H:thrombin:Homo sapiens: 1.92:15.6
+[  3] 1hcga      structureX:1hcg:  16 :A: 251 :A:factor Xa:Homo sapiens: 2.20:16.8
+[  4] 1kigh      structureX:1kig:  16 :H: 251 :H:coagulation factor X:Bos taurus: 3.00: 18.7
+[  5] 1fxya      structureX:1fxy:  16 :A: 246 :A:coagulation factor X:Homo sapiens: 2.15: 18.0
+[  6] 2ptn       structureX:2ptn:  16 : : 245 : :trypsin:Bos taurus: 1.50:19.3
+[  7] 1mcta      structureX:1mct:  16 :A: 245 :A:trypsin:Sus scrofa: 1.60:16.7
+[  8] 1trma      structureX:1trm:  16 :A: 245 :A:trypsin:Rattus rattus: 2.30:16.0
+[  9] 1a0ja      structureX:1a0j:  16 :A: 245 :A:trypsin III:Salmo salar: 1.70: 17.3
+[ 10] 2tbs       structureX:2tbs:  16 : : 245 : :trypsin:Salmo salar: 1.80:16.4
+[ 11] 1ab9       structureX:1ab9:  16 :B: 245 :C:gamma-chymotrypsin:Bos taurus: 1.60:19.1
+[ 12] 1ton       structureX:1ton:  16 : : 246 : :tonin:Rattus rattus: 1.80:19.6
+[ 13] 2pka       structureX:2pka:  16 :A: 246 :B:kallikrein A:Sus scrofa: 2.00:22.0
+[ 14] 1npma      structureX:1npm:  16 :A: 243 :A:neuropsin:Mus musculus: 2.10: 18.6
+[ 15] 1azza      structureX:1azz:  16 :A: 246 :A:brachyurin (collagenolytic protease):Uca pugilator: 2.30: 18.9
+[ 16] 3est       structureX:3est:  16 : : 245 : :pancreatic elastase:Sus scrofa: 1.60:16.9
+[ 17] 1a0la      structureX:1a0l:  16 :A: 245 :A:beta-tryptase:Homo sapiens: 3.00: 19.7
+[ 18] 1lmwb      structureX:1lmw:  16 :B: 245 :B:urokinase-type plasminogen activator:Homo sapiens: 2.50:22.4
+[ 19] 1a5ia      structureX:1a5i:   1A:A: 244 :A:salivary plasminogen activator alpha 1:Desmodus rotundus: 2.90: 19.8
+[ 20] 1a5ha      structureX:1a5h:  16 :A: 244 :A:tissue plasminogen activator:Homo sapiens: 2.90: 17.8
+[ 21] 1fuja      structureX:1fuj:  16 :A: 243 :A:myeloblastin (PR3):Homo sapiens: 2.20:-1
+[ 22] 1hnee      structureX:1hne:  16 :E: 243 :E:neutrophil elastase:Homo sapiens: 1.80:16.4
+[ 23] 1a7s       structureX:1a7s:   1 : : 225 : :azurocidin:Homo sapiens: 1.12: -1
+[ 24] 3rp2a      structureX:3rp2:  16 :A: 243 :A:mast cell protease II:Rattus rattus: 1.90:19.1
+[ 25] 1klt       structureX:1klt:  16 : : 245 : :chymase (mast cell protease I):Homo sapiens: 1.90: 18.3
+[ 26] 1dfpa      structureX:1dfp:  16 :A: 243 :A:complement factor D:Homo sapiens: 2.40: 14.8
+[ 27] 1sgt       structureX:1sgt:  16 : : 245 : :trypsin:Streptomyces griseus: 1.70:16.1
+
+
+1bbr       -------------IVEGQDAEVGLSPWQVMLFRK----SPQELLCGASLISDRWVLTAAHCL--LYPPWDKNFTV
+1ppb       -------------IVEGSDAEIGMSPWQVMLFRK----SPQELLCGASLISDRWVLTAAHCL--LYPPWDKNFTE
+1hcga      -------------IVGGQECKDGECPWQALLINE-----ENEGFCGGTILSEFYILTAAHCLYQAK---------
+1kigh      -------------IVGGRDCAEGECPWQALLVNE-----ENEGFCGGTILNEFYVLTAAHCLHQAK---------
+1fxya      -------------IVGGYNCKDGEVPWQALLINE-----ENEGFCGGTILSEFYILTAAHCLYQAK---------
+2ptn       -------------IVGGYTCGANTVPYQVSLNSG-------YHFCGGSLINSQWVVSAAHCY--KS---------
+1mcta      -------------IVGGYTCAANSIPYQVSLNSG-------SHFCGGSLINSQWVVSAAHCY--KS---------
+1trma      -------------IVGGYTCQENSVPYQVSLNSG-------YHFCGGSLINDQWVVSAAHCY--KS---------
+1a0ja      -------------IVGGYECRKNSASYQASLQSG-------YHFCGGSLISSTWVVSAAHCY--KS---------
+2tbs       -------------IVGGYECKAYSQAHQVSLNSG-------YHFCGGSLVNENWVVSAAHCY--KS---------
+1ab9       -------------IVNGEEAVPGSWPWQVSLQDK-----TGFHFCGGSLINENWVVTAAHCG-VTT---------
+1ton       -------------IVGGYKCEKNSQPWQVAVINE--------YLCGGVLIDPSWVITAAHCY--SN---------
+2pka       -------------IIGGRECEKNSHPWQVAIYHY------SSFQCGGVLVNPKWVLTAAHCK--ND---------
+1npma      -------------ILEGRECIPHSQPWQAALFQG------ERLICGGVLVGDRWVLTAAHCK--KQ---------
+1azza      -------------IVGGVEAVPNSWPHQAALFID-D-----MYFCGGSLISPEWILTAAHCMD--------GAG-
+3est       -------------VVGGTEAQRNSWPSQISLQYRS--GSSWAHTCGGTLIRQNWVMTAAHCV-DR------EL--
+1a0la      -------------IVGGQEAPRSKWPWQVSLRVHG---PYWMHFCGGSLIHPQWVLTAAHCVGPD------VKDL
+1lmwb      -------------IIGGEFTTIENQPWFAAIYRRHRGGS-VTYVCGGSLMSPCWVISATHCFI-------DYPKK
+1a5ia      TCGLRKYKEPQLHSTGGLFTDITSHPWQAAIFAQNRRSSGERFLCGGILISSCWVLTAAHCFQ-------ESYLP
+1a5ha      -------------IKGGLFADIASHPWQAAIFAKHRRSPGERFLCGGILISSCWILSAAHCFQ-------ERFPP
+1fuja      -------------IVGGHEAQPHSRPYMASLQMR-GNP--GSHFCGGTLIHPSFVLTAAHCLR--------DIPQ
+1hnee      -------------IVGGRRARPHAWPFMVSLQLR------GGHFCGATLIAPNFVMSAAHCVA--------NVNV
+1a7s       -------------IVGGRKARPRQFPFLASIQNQ------GRHFCGGALIHARFVMTAASCF------------P
+3rp2a      -------------IIGGVESIPHSRPYMAHLDIVTEKG--LRVICGGFLISRQFVLTAAHCKG--------R---
+1klt       -------------IIGGTESKPHSRPYMAYLEIVTSNG--PSKFCGGFLIRRNFVLTAAHCAG--------R---
+1dfpa      -------------ILGGREAEAHARPYMASVQLN------GAHLCGGVLVAEQWVLSAAHCLEDAA--------D
+1sgt       -------------VVGGTRAAQGEFPFMVRLS----------MGCGGALYAQDIVLTAAHCVS-------GSGNN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bbr       DD-LLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNWK---ENL-DRDIALLKLK----RPIELSDYIHPVCLPD
+1ppb       ND-LLVRIGKHSRTRYERNIEKISMLEKIYIHPRYNWR---ENL-DRDIALMKLK----KPVAFSDYIHPVCLPD
+1hcga      -R-FKVRVGDRNTEQEE-GGEAVHEVEVVIKHNRFTK----ETY-DFDIAVLRLK----TPITFRMNVAPACLPE
+1kigh      -R-FTVRVGDRNTEQEE-GNEMAHEVEMTVKHSRFVK----ETY-DFDIAVLRLK----TPIRFRRNVAPACLPE
+1fxya      -R-FKVRVGDRNTEQEE-GGEAVHEVEVVIKHNRFTK----ETY-DFDIAVLRLK----TPITFRMNVAPASLPT
+2ptn       -G-IQVRLGEDNINVVE-GNEQFISASKSIVHPSYNS----NTL-NNDIMLIKLK----SAASLNSRVASISLPT
+1mcta      -R-IQVRLGEHNIDVLE-GNEQFINAAKIITHPNFNG----NTL-DNDIMLIKLS----SPATLNSRVATVSLPR
+1trma      -R-IQVRLGEHNINVLE-GNEQFVNAAKIIKHPNFDR----KTL-NNDIMLIKLS----SPVKLNARVATVALPS
+1a0ja      -R-IQVRLGEHNIAVNE-GTEQFIDSVKVIMHPSYNS----RNL-DNDIMLIKLS----KPASLNSYVSTVALPS
+2tbs       -R-VEVRLGEHNIKVTE-GSEQFISSSRVIRHPNYSS----YNI-DNDIMLIKLS----KPATLNTYVQPVALPT
+1ab9       -S-DVVVAGEFDQGSSS-EKIQKLKIAKVFKNSKYNS----LTI-NNDITLLKLS----TAASFSQTVSAVCLPS
+1ton       -N-YQVLLGRNNLFKDE-PFAQRRLVRQSFRHPDYIPL-PVHDH-SNDLMLLHLS----EPADITGGVKVIDLPT
+2pka       -N-YEVWLGRHNLFENE-NTAQFFGVTADFPHPGFNLSADGKDY-SHDLMLLRLQ----SPAKITDAVKVLELPT
+1npma      -K-YSVRLGDHSLQS---QPEQEIQVAQSIQHPCYNNSNP-EDH-SHDIMLIRLQ----NSANLGDKVKPVQLAN
+1azza      -F-VDVVLGAHNIREDEA-TQVTIQSTDFTVHENYNS----FVI-SNDIAVIRLP----VPVTLTAAIATVGLPS
+3est       -T-FRVVVGEHNLNQNN-GTEQYVGVQKIVVHPYWNTDD--VAA-GYDIALLRLA----QSVTLNSYVQLGVLPR
+1a0la      AA-LRVQLREQHLYY----QDQLLPVSRIIVHPQFYT----AQI-GADIALLELE----EPVKVSSHVHTVTLPP
+1lmwb      ED-YIVYLGRSRLNSNT-QGEMKFEVENLILHKDYSAD---TLAHHNDIALLKIRSKEGRCAQPSRTIQTICLPS
+1a5ia      DQ-LKVVLGRTYRVKPG-EEEQTFKVKKYIVHKEFD-D---DTY-NNDIALLQLKSDSPQCAQESDSVRAICLPE
+1a5ha      HH-LTVILGRTYRVVPG-EEEQKFEVEKYIVHKEFD-D---DTY-DNDIALLQLKSDSSRCAQESSVVRTVCLPP
+1fuja      RL-VNVVLGAHNVRTQEP-TQQHFSVAQVFLN-NYDA----ENK-LNDILLIQLS----SPANLSASVATVQLPQ
+1hnee      RA-VRVVLGAHNLSRREP-TRQVFAVQRIFED-GYDP----VNL-LNDIVILQLN----GSATINANVQVAQLPA
+1a7s       GV-STVVLGAYDLRRRERQSRQTFSISSMSEN-GYDP----QQN-LNDLMLLQLD----REANLTSSVTILPLPL
+3rp2a      --EITVILGAHDVRKRES-TQQKIKVEKQIIHESYNS----VPN-LHDIMLLKLE----KKVELTPAVNVVPLPS
+1klt       --SITVTLGAHNITEEED-TWQKLEVIKQFRHPKYNT----STL-HHDIMLLKLK----EKASLTLAVGTLPFPS
+1dfpa      GK-VQVLLGAHSLSQPEP-SKRLYDVLRAVPHPDSQP----DTI-DHDLLLLQLS----EKATLGPAVRPLPWQR
+1sgt       TS-ITATGGVVDLQSG---AAVKVRSTKVLQAPGYN-------GTGKDWALIKLA----QPIN----QPTLKIAT
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bbr       KQTAAKLLHAGFKGRVTGWGNRRETWTT-SVAEVQP--SVLQVVNLPLVERPVCKA-STR---------IRITDN
+1ppb       RETAASLLQAGYKGRVTGWGNLKETWTA-NVGKGQP--SVLQVVNLPIVERPVCKD-STR---------IRITDN
+1hcga      RDWAESTLMTQKTGIVSGFGRTH------------S--TRLKMLEVPYVDRNSCKL-SSS---------FIITQN
+1kigh      KDWAEATLMTQKTGIVSGFGRTHEK------G-RLS--STLKMLEVPYVDRSTCKL-SSS---------FTITPN
+1fxya      -----APPATGTKCLISGWGNTASS------GADYP--DELQCLDAPVLSQAKCEA-SYP---------GKITSN
+2ptn       -----SCASAGTQCLISGWGNTKSS------GTSYP--DVLKCLKAPILSDSSCKS-AYP---------GQITSN
+1mcta      -----SCAAAGTECLISGWGNTKSS------GSSYP--SLLQCLKAPVLSNSSCKS-SYP---------GQITGN
+1trma      -----SCAPAGTQCLISGWGNTLSS------GVNEP--DLLQCLDAPLLPQADCEA-SYP---------GKITDN
+1a0ja      -----SCASSGTRCLVSGWGNLSGS------SSNYP--DTLRCLDLPILSSSSCNS-AYP---------GQITSN
+2tbs       -----SCAPAGTMCTVSGWGNTMSS-------TADS--DKLQCLNIPILSYSDCND-SYP---------GMITNA
+1ab9       AS---DDFAAGTTCVTTGWGLTRY---------NTP--DRLQQASLPLLSNTNCK--KYW--------GTKIKDA
+1ton       -----KEPKVGSTCLASGWGSTNPS------EMVVS--HDLQCVNIHLLSNEKCIE-TYK---------DNVTDV
+2pka       -----QEPELGSTCEASGWGSIEPGPD----DFEFP--DEIQCVQLTLLQNTFCAD-AHP---------DKVTES
+1npma      -----LCPKVGQKCIISGWGTVTSP------QENFP--NTLNCAEVKIYSQNKCER-AYP---------GKITEG
+1azza      -----TDVGVGTVVTPTGWGLPSD------SALGIS--DVLRQVDVPIMSNADCDA-VY----------GIVTDG
+3est       AG---TILANNSPCYITGWGLTRTN-------GQLA--QTLQQAYLPTVDYAICSSSSYW--------GSTVKNS
+1a0la      AS---ETFPPGMPCWVTGWGDVDND-------ERLPPPFPLKQVKVPIMENHICDA-KYHLGAYTGDDVRIVRDD
+1lmwb      MY---NDPQFGTSCEITGFGKENSTDY------LYP--EQLKMTVVKLISHRECQQPHYY--------GSEVTTK
+1a5ia      AN---LQLPDWTECELSGYGKHKSSSP------FYS--EQLKEGHVRLYPSSRCAPKFL--------FNKTVTNN
+1a5ha      AD---LQLPDWTECELSGYGKHEALSP------FYS--ERLKEAHVRLYPSSRCTSQHL--------LNRTVTDN
+1fuja      QD---QPVPHGTQCLAMGWGRVGA------HD-PPA--QVLQELNVTVVT-FFCR------------------PH
+1hnee      QG---RRLGNGVQCLAMGWGLLGR------NR-GIA--SVLQELNVTVVT-SLCR------------------RS
+1a7s       QN---ATVEAGTRCQVAGWGSQRS-------GGRLS--RFPRFVNVTVTPEDQCR------------------PN
+3rp2a      PS---DFIHPGAMCWAAGWGKTGV------RD-PTS--YTLREVELRIMDEKACV-----------DYRYYEYKF
+1klt       QF---NFVPPGRMCRVAGWGRTGV------LK-PGS--DTLQEVKLRLMDPQACS-----------HFRDFDHNL
+1dfpa      VD---RDVAPGTLCDVAGWGIVNH------AG-RRP--DSLQHVLLPVLDRATCNRRTHH--------DGAITER
+1sgt       TT---AYNQ--GTFTVAGWGANRE-------GGSQQ--RYLLKANVPFVSDAACRS-AY--------GNELVANE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1bbr       MFCAGYKPGEG---KRGDACEGDSGGPFVMKSPYNNRWYQMGIVSWGE--GCDRDGKYGFYTHVFRLKKWIQKVI
+1ppb       MFCAGYKPDEG---KRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGE--GCDRDGKYGFYTHVFRLKKWIQKVI
+1hcga      MFCAGYDT------KQEDACQGDSGGPHVTRFK--DTYFVTGIVSWGE--GCARKGKYGIYTKVTAFLKWIDRSM
+1kigh      MFCAGYDT------QPEDACQGDSGGPHVTRFK--DTYFVTGIVSWGE--GCARKGKFGVYTKVSNFLKWIDKIM
+1fxya      MFCVGFLE------GGKDSCQGDSGGPVVCN------GQLQGVVSWGD--GCAQKNKPGVYTKVYNYVKWIKNTI
+2ptn       MFCAGYLE------GGKDSCQGDSGGPVVCS------GKLQGIVSWGS--GCAQKNKPGVYTKVCNYVSWIKQTI
+1mcta      MICVGFLQ------GGKDSCQGDSGGPVVCN------GQLQGIVSWGY--GCAQKNKPGVYTKVCNYVNWIQQTI
+1trma      MVCVGFLE------GGKDSCQGDSGGPVVCN------GELQGIVSWGY--GCALPDNPGVYTKVCNYVDWIQDTI
+1a0ja      MFCAGFME------GGKDSCQGDSGGPVVCN------GQLQGVVSWGY--GCAQRNKPGVYTKVCNYRSWISSTM
+2tbs       MFCAGYLE------GGKDSCQGDSGGPVVCN------GELQGVVSWGY--GCAEPGNPGVYAKVCIFSDWLTSTM
+1ab9       MICAGAS--------GVSSCMGDSGGPLVCKKN--GAWTLVGIVSWGSS--TCSTSTPGVYARVTALVNWVQQTL
+1ton       MLCAGEME------GGKDTCAGDSGGPLICD------GVLQGITSGGAT-PCAKPKTPAIYAKLIKFTSWIKKVM
+2pka       MLCAGYLP------GGKDTCMGDSGGPLICN------GMWQGITSWGHT-PCGSANKPSIYTKLIFYLDWIDDTI
+1npma      MVCAGSSN-------GADTCQGDSGGPLVCD------GMLQGITSWGSD-PCGKPEKPGVYTKICRYTTWIKKTM
+1azza      NICIDST-------GGKGTCNGDSGGPLNYN------GLTYGITSFGAAAGCEAG-YPDAFTRVTYFLDWIQTQT
+3est       MVCAGGD-------GVRSGCQGDSGGPLHCLVN--GQYAVHGVTSFVSRLGCNVTRKPTVFTRVSAYISWINNVI
+1a0la      MLCAGNT--------RRDSCQGDSGGPLVCKVN--GTWLQAGVVSWGE--GCAQPNRPGIYTRVTYYLDWIHHYV
+1lmwb      MLCAADP------QWKTDSCQGDSGGPLVCSLQ--GRMTLTGIVSWGR--GCALKDKPGVYTRVSHFLPWIRSHT
+1a5ia      MLCAGDTRSGEIYPNVHDACQGDSGGPLVCMND--NHMTLLGIISWGV--GCGEKDVPGVYTKVTNYLGWIRDNM
+1a5ha      MLCAGDTRSGGPQANLHDACQGDSGGPLVCLND--GRMTLVGIISWGL--GCGQKDVPGVYTKVTNYLDWIRDNM
+1fuja      NICTFVP------RRKAGICFGDSGGPLICD------GIIQGIDSFVI-WGCATRLFPDFFTRVALYVDWIRSTL
+1hnee      NVCTLVR------GRQAGVCFGDSGSPLVCN------GLIHGIASFVR-GGCASGLYPDAFAPVAQFVNWIDSII
+1a7s       NVCTGVL------TRRGGICNGDGGTPLVCE------GLAHGVASFSL-GPCGR--GPDFFTRVALFRDWIDGVL
+3rp2a      QVCVGSP------TTLRAAFMGDSGGPLLCA------GVAHGIVSYGHP--DAK--PPAIFTRVSTYVPWINAVI
+1klt       QLCVGNP------RKTKSAFKGDSGGPLLCA------GVAQGIVSYGRS--DAK--PPAVFTRISHYRPWINQIL
+1dfpa      LMCAESN--------RRDSCKGDSGGPLVCG------GVLEGVVTSG-SRVCGNRKKPGIYTRVASYAAWIDSVL
+1sgt       EICAGYPD-----TGGVDTCQGDSGGPMFRKDN-ADEWIQVGIVSWGY--GCARPGYPGVYTEVSTFASAIASAA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1bbr       DRLGS----*
+1ppb       DQFGE----*
+1hcga      KTRGLPKAK*
+1kigh      KARAGAAGS*
+1fxya      AANS-----*
+2ptn       ASN------*
+1mcta      AAN------*
+1trma      AAN------*
+1a0ja      SSN------*
+2tbs       ASY------*
+1ab9       AAN------*
+1ton       KENP-----*
+2pka       TENP-----*
+1npma      D--------*
+1azza      GITP-----*
+3est       ASN------*
+1a0la      PKK------*
+1lmwb      KEE------*
+1a5ia      HL-------*
+1a5ha      RP-------*
+1fuja      R--------*
+1hnee      Q--------*
+1a7s       N-NPGPGPA*
+3rp2a      N--------*
+1klt       QAN------*
+1dfpa      A--------*
+1sgt       RTL------*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17] [ 18] [ 19] [ 20]
+               [ 21] [ 22] [ 23] [ 24] [ 25] [ 26] [ 27]
+
+  1-1bbr       100.0  87.3  40.3  39.8  36.8  37.7  39.0  38.6  37.7  36.5
+                36.1  30.4  30.2  36.3  31.4  30.0  35.2  29.0  29.3  31.7
+                28.5  28.9  27.1  29.0  28.8  30.7  32.3
+  2-1ppb        87.3 100.0  40.7  39.8  36.8  39.0  39.9  38.6  39.0  37.8
+                35.2  28.6  30.2  35.9  31.4  29.2  34.4  29.0  29.0  31.3
+                28.1  28.9  25.8  29.0  27.4  30.3  31.8
+  3-1hcga       40.3  40.7 100.0  82.2  66.2  37.2  37.7  35.4  36.8  38.3
+                30.0  29.5  28.9  32.7  29.6  30.1  32.6  30.5  34.3  36.0
+                28.1  26.6  23.1  26.3  27.4  28.9  28.7
+  4-1kigh       39.8  39.8  82.2 100.0  61.0  39.0  40.4  38.1  36.3  37.4
+                30.0  29.5  29.3  33.6  27.0  31.2  30.7  30.7  34.0  35.3
+                28.1  27.5  26.7  26.3  29.2  30.3  31.4
+  5-1fxya       36.8  36.8  66.2  61.0 100.0  55.6  58.3  57.4  52.5  49.5
+                36.1  37.0  37.7  41.3  33.2  34.6  33.8  33.3  35.1  36.0
+                32.1  28.9  25.8  27.7  30.5  34.6  28.3
+  6-2ptn        37.7  39.0  37.2  39.0  55.6 100.0  81.2  74.0  73.5  66.2
+                43.9  42.2  40.8  45.3  35.4  38.6  39.5  37.2  39.5  39.5
+                35.3  32.6  30.3  33.2  35.9  35.4  32.3
+  7-1mcta       39.0  39.9  37.7  40.4  58.3  81.2 100.0  80.7  72.6  65.8
+                45.3  40.8  42.2  43.9  37.7  39.5  39.9  35.0  38.1  40.4
+                38.9  34.9  29.4  33.2  37.2  38.1  31.4
+  8-1trma       38.6  38.6  35.4  38.1  57.4  74.0  80.7 100.0  68.2  67.1
+                44.8  41.3  42.6  44.8  39.5  39.0  40.8  35.0  38.1  39.5
+                39.8  33.9  29.9  33.6  36.8  35.4  30.0
+  9-1a0ja       37.7  39.0  36.8  36.3  52.5  73.5  72.6  68.2 100.0  69.4
+                42.2  41.3  40.8  45.7  39.9  39.5  39.0  35.9  36.8  39.9
+                38.0  33.0  30.8  35.9  37.7  38.6  31.8
+ 10-2tbs        36.5  37.8  38.3  37.4  49.5  66.2  65.8  67.1  69.4 100.0
+                42.3  42.8  39.2  43.7  38.7  36.0  38.3  33.8  33.8  34.2
+                36.2  33.9  29.9  30.2  33.8  38.3  32.0
+ 11-1ab9        36.1  35.2  30.0  30.0  36.1  43.9  45.3  44.8  42.2  42.3
+               100.0  33.5  33.0  35.0  34.5  39.2  40.1  33.9  33.0  34.8
+                34.4  31.2  29.4  32.1  35.0  32.6  30.9
+ 12-1ton        30.4  28.6  29.5  29.5  37.0  42.2  40.8  41.3  41.3  42.8
+                33.5 100.0  54.6  44.4  35.0  30.4  33.0  34.4  33.5  32.2
+                32.6  31.2  30.8  31.2  34.1  33.9  27.4
+ 13-2pka        30.2  30.2  28.9  29.3  37.7  40.8  42.2  42.6  40.8  39.2
+                33.0  54.6 100.0  46.6  35.0  32.3  33.6  31.9  35.3  34.9
+                33.9  31.2  31.2  33.5  35.8  35.5  26.9
+ 14-1npma       36.3  35.9  32.7  33.6  41.3  45.3  43.9  44.8  45.7  43.7
+                35.0  44.4  46.6 100.0  34.5  32.7  34.1  35.0  37.2  36.8
+                33.9  27.1  28.1  35.0  31.8  36.8  29.1
+ 15-1azza       31.4  31.4  29.6  27.0  33.2  35.4  37.7  39.5  39.9  38.7
+                34.5  35.0  35.0  34.5 100.0  34.1  38.5  30.5  29.6  31.4
+                40.3  36.2  32.6  36.2  33.2  29.2  28.7
+ 16-3est        30.0  29.2  30.1  31.2  34.6  38.6  39.5  39.0  39.5  36.0
+                39.2  30.4  32.3  32.7  34.1 100.0  39.2  29.6  30.8  30.4
+                33.9  39.0  29.9  33.5  34.5  32.5  32.3
+ 17-1a0la       35.2  34.4  32.6  30.7  33.8  39.5  39.9  40.8  39.0  38.3
+                40.1  33.0  33.6  34.1  38.5  39.2 100.0  32.0  33.2  37.3
+                33.0  30.7  31.2  33.5  32.3  35.5  30.9
+ 18-1lmwb       29.0  29.0  30.5  30.7  33.3  37.2  35.0  35.0  35.9  33.8
+                33.9  34.4  31.9  35.0  30.5  29.6  32.0 100.0  42.7  44.8
+                29.9  27.1  25.3  28.6  30.1  28.9  27.4
+ 19-1a5ia       29.3  29.0  34.3  34.0  35.1  39.5  38.1  38.1  36.8  33.8
+                33.0  33.5  35.3  37.2  29.6  30.8  33.2  42.7 100.0  78.2
+                30.8  26.6  30.8  29.9  30.1  28.5  25.1
+ 20-1a5ha       31.7  31.3  36.0  35.3  36.0  39.5  40.4  39.5  39.9  34.2
+                34.8  32.2  34.9  36.8  31.4  30.4  37.3  44.8  78.2 100.0
+                33.0  27.1  30.3  31.7  31.0  30.3  26.5
+ 21-1fuja       28.5  28.1  28.1  28.1  32.1  35.3  38.9  39.8  38.0  36.2
+                34.4  32.6  33.9  33.9  40.3  33.9  33.0  29.9  30.8  33.0
+               100.0  55.0  44.3  38.5  40.7  36.7  27.1
+ 22-1hnee       28.9  28.9  26.6  27.5  28.9  32.6  34.9  33.9  33.0  33.9
+                31.2  31.2  31.2  27.1  36.2  39.0  30.7  27.1  26.6  27.1
+                55.0 100.0  44.5  32.6  32.6  33.9  25.2
+ 23-1a7s        27.1  25.8  23.1  26.7  25.8  30.3  29.4  29.9  30.8  29.9
+                29.4  30.8  31.2  28.1  32.6  29.9  31.2  25.3  30.8  30.3
+                44.3  44.5 100.0  34.8  32.1  35.3  26.7
+ 24-3rp2a       29.0  29.0  26.3  26.3  27.7  33.2  33.2  33.6  35.9  30.2
+                32.1  31.2  33.5  35.0  36.2  33.5  33.5  28.6  29.9  31.7
+                38.5  32.6  34.8 100.0  60.3  34.4  25.6
+ 25-1klt        28.8  27.4  27.4  29.2  30.5  35.9  37.2  36.8  37.7  33.8
+                35.0  34.1  35.8  31.8  33.2  34.5  32.3  30.1  30.1  31.0
+                40.7  32.6  32.1  60.3 100.0  36.3  27.4
+ 26-1dfpa       30.7  30.3  28.9  30.3  34.6  35.4  38.1  35.4  38.6  38.3
+                32.6  33.9  35.5  36.8  29.2  32.5  35.5  28.9  28.5  30.3
+                36.7  33.9  35.3  34.4  36.3 100.0  24.7
+ 27-1sgt        32.3  31.8  28.7  31.4  28.3  32.3  31.4  30.0  31.8  32.0
+                30.9  27.4  26.9  29.1  28.7  32.3  30.9  27.4  25.1  26.5
+                27.1  25.2  26.7  25.6  27.4  24.7 100.0
+
+***************************************************************************

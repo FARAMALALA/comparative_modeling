@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1jqka      structureX:1jqk:  28 :A: 637 :A:carbon monoxide dehydrogenase:Rhodospirillum rubrum: 2.80: 25.7
+[  2] 1jjya      structureX:1jjy:   4 :A: 636 :A:Ni-containing carbon monoxide dehydrogenase:Carboxydothermus hydrogenoformans: 1.63: 16.1
+
+
+1jqka      ----------------------ETAWHRYEKQQPQCGFGSAGLCCRICLKGPCRIDPFGEGPKYGVCGADRDTIV
+1jjya      QNLKSTDRAVQQMLDKAKREGIQTVWDRYEAMKPQCGFGETGLCCRHCLQGPCRINPFGDEPKVGICGATAEVIV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jqka      ARHLVRMIAAGTAAHSEHGRHIALAMQHISQGELHDYSIRDEAKLYAIAKTLGVATEGRGLLAIVGDLAAITLGD
+1jjya      ARGLDRSIAAGAAGHSGHAKHLAHTLKKAVQGKAASYMIKDRTKLHSIAKRLGIPTEGQKDEDIALEVAKAALAD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1jqka      FQNQDYDKPCAWLAASLTPRRVKRLGDLGLLPHNIDASVAQTMSRTHVGCDADPTNLILGGLRVAMADLDGSMLA
+1jjya      FHEK--DTPVLWVTTVLPPSRVKVLSAHGLIPAGIDHEIAEIMHRTSMGCDADAQNLLLGGLRCSLADLAGCYMG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1jqka      TELSDALFGTPQPVVSAANLGVMKRGAVNIAVNGHNPMLSDIICDVAADLRDEAIAAGAAEGINIIGICCTGHEV
+1jjya      TDLADILFGTPAPVVTESNLGVLKADAVNVAVHGHNPVLSDIIVSVSKEMENEARAAGA-TGINVVGICCTGNEV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1jqka      MMRHGVPLATNYLSQELPILTGALEAMVVDVQCIMPSLPRIAECFHTQIITTDKHNKISGATHVPFDEHKAVETA
+1jjya      LMRHGIPACTHSVSQEMAMITGALDAMILDYQCIQPSVATIAECTGTTVITTMEMSKITGATHVNFAEEAAVENA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1jqka      KTIIRMAIAAFGRRDPNRVAIPAFKQKSIVGFSAEAVVAALAKVNADDPLKPLVDNVVNGNIQGIVLFVGCNTTK
+1jjya      KQILRLAIDTFKRRKGKPVEIPNIKTKVVAGFSTEAIINALSKLNANDPLKPLIDNVVNGNIRGVCLFAGCNNVK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1jqka      VQQDSAYVDLAKSLAKRNVLVLATGCAAGAFAKAGLMTSEATTQYAGEGLKGVLSAIGTAAGLGGPLPLVMHMGS
+1jjya      VPQDQNFTTIARKLLKQNVLVVATGCGAGALMRHGFMDPANVDELCGDGLKAVLTAIGEANGLGGPLPPVLHMGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1jqka      CVDNSRAVALATALANKLGVDLSDLPLVASAPECMSEKALAIGSWAVTIGLPTHVGSVPPVIGSQIVTKLVTETA
+1jjya      CVDNSRSVALVAALANRLGVDMDRLPVVASAAQAMHEKAVAIGTWAVTIGLPTHIGVFPPITGSLPVTQILTSSV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1jqka      KDLVGGYFIVDTDPKSAGDKLYAAIQERRAGL----*
+1jjya      KDITGGYFIVELDPQVAADKLLAAINERRAGLGLPR*
+           =========|=========|=========|======
+                    0610      0620      0630   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1jqka      100.0  57.0
+  2-1jjya       57.0 100.0
+
+***************************************************************************

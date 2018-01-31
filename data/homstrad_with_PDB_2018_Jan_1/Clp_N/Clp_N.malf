@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1k6ka      structureX:1k6k:   1 :A: 142 :A:ATP-dependent clp protease ATP-binding subunit clpA:Escherichia coli: 1.80: 21.4
+[  2] 1khya      structureX:1khy:   4 :A: 142 :A:clpB protein:Escherichia coli: 1.95: 22.2
+
+
+1k6ka      -MLNQELELSLNMAFARAREHRHEFMTVEHLLLALLSN--PSAREALEACSVDLVALRQELEAFIEQTTPVLPAS
+1khya      DRLTNKFQLALADAQSLALGHDNQFIEPLHL-SALLNQEGGSVSPLLTSAGINAGQLRTDINQALN-RLPQV---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1k6ka      EEERDTQPTLSFQRVLQRAVFHVQSSGRNEVTGANVLVAIFSEQESQAAYLLRKHEVSRLDVVNFISHGT*
+1khya      ------QPSQDLVRVLNLCDKLAQKRGDNFISSELFVLAALESR-GTLADILKAAGATTANITQAIEQ--*
+           ====|=========|=========|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120      0130      0140  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1k6ka      100.0  22.1
+  2-1khya       22.1 100.0
+
+***************************************************************************

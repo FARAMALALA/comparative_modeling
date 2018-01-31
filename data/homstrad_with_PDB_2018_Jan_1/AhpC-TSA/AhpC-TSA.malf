@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1qq2a      structureX:1qq2:   3 :A: 175 :A:peroxiredoxin 1:Rattus norvegicus: 2.60: 21.6
+[  2] 1qmva      structureX:1qmv:   3 :A: 198 :A:peroxiredoxin 2:Homo sapiens: 1.7: 19.2
+[  3] 1prxa      structureX:1prx:   5 :A: 224 :A:antioxidant protein 2:Homo sapiens: 2.0: 19.1
+
+
+1qq2a      SGNAKIGHPAPSFKATAVMPDGQFKDISLSD-YKGKYVVFFFYPLDFTFVCPTEIIAFSDRAEEFKKLNCQVIGA
+1qmva      SGNARIGKPAPDFKATAVV-DGAFKEVKLSD-YKGKYVVLFFYPLDFTF-VPTEIIAFSNRAEDFRKLGCEVLGV
+1prxa      ---LLLGDVAPNFEANTTV-----GRIRFHDFLGDSWGILFSHPRDFTP-VTTELGRAAKLAPEFAKRNVKLIAL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qq2a      SVDSHFSHLAWINTPKKQ----GGLGPMNIPLVSDPKRTIAQDYGVLKA----DEGIS--FRGLFIIDDKGILRQ
+1qmva      SVDSQFTHLAWINTPRKE----GGLGPLNIPLLADVTRRLSEDYGVLKT----DEGIA--YRGLFIIDGKGVLRQ
+1prxa      SIDSVEDHLAWSKDINAYNSEEPTE-KLPFPIIDDRNRELAILLGMLDPAEKDEKGMPVTARVVFVFGPDKKLKL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qq2a      ITINDLPVGRSVDEILRLVQAFQFTDKHGEVCPA-----------------------------------------
+1qmva      ITVNDLPVGRSVDEALRLVQAFQYTDEHGEVCPAGWKPGSDTIKP---NVDDSKEYFSKHN--------------
+1prxa      SILYPATTGRNFDEILRVVISLQLTAEKRVATPVDWKDGDSVMVLPTIPEEEAKKLFPKGVFTKELPSGKKYLRY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qq2a      ----*
+1qmva      ----*
+1prxa      TPQP*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1qq2a      100.0  76.3  27.7
+  2-1qmva       76.3 100.0  27.7
+  3-1prxa       27.7  27.7 100.0
+
+***************************************************************************

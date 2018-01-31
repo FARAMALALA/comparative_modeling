@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1rb9       structureX:1rb9:   1 : :  52 : :rubredoxin:Desulfovibrio vulgaris: 0.92: -1
+[  2] 1rdg       structureX:1rdg:   1 : :  52 : :rubredoxin:Desulfovibrio gigas: 1.40:13.60
+[  3] 4rxn       structureX:4rxn:   1 : :  54 : :rubredoxin:Clostridium pasteurianum: 1.20:12.80
+[  4] 1zrp       structureN:1zrp:   1 : :  53 : :rubredoxin:Pyrococcus furiosus:-1.00:-1.00
+[  5] 6rxn       structureX:6rxn:   1 : :  52 : :rubredoxin:Desulfovibrio desulfuricans: 1.50: 9.30
+
+
+1rb9       MKKYVCTVCGYEYDPAEGDPDNGVKPGTSFDDLPADWVCPVCGAPKSEFEAA--*
+1rdg       MDIYVCTVCGYEYDPAKGDPDSGIKPGTKFEDLPDDWACPVCGASKDAFEKQ--*
+4rxn       MKKYTCTVCGYIYDPEDGDPDDGVNPGTDFKDIPDDWVCPLCGVGKDEFEEVEE*
+1zrp       -AKWVCKICGYIYDEDAGDPDNGISPGTKFEELPDDWVCPICGAPKSEFEKLED*
+6rxn       MQKYVCNVCGYEYDPAEH-------DNVPFDQLPDDWCCPVCGVSKDQFSPA--*
+           =========|=========|=========|=========|=========|====
+                    0010      0020      0030      0040      0050 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1rb9       100.0  73.1  69.2  65.4  64.4
+  2-1rdg        73.1 100.0  63.5  63.5  62.2
+  3-4rxn        69.2  63.5 100.0  58.5  53.3
+  4-1zrp        65.4  63.5  58.5 100.0  44.4
+  5-6rxn        64.4  62.2  53.3  44.4 100.0
+
+***************************************************************************

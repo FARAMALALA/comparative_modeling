@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1a6f       structureX:1a6f:   2 : : 114 : :ribonuclease P protein component:Bacillus subtilis: 2.6: 20.5
+[  2] 1d6ta      structureX:1d6t:   1 :A: 117 :A:RNase P protein component:Staphylococcus aureus: -1: -1
+
+
+1a6f       AHLKKRNRLKKNEDFQKVFKHGTSVANRQFVLYTLDQPENDELRVGLSVSKKIGNAVMRNRIKRLIRQAFLEEKE
+1d6ta      MLLEKAYRIKKNADFQRIYKKGHSVANRQFVVYTCNNKEIDHFRLGISVSKKLGNAVLRNKIKRAIRENFKVHKS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1a6f       RLKEKDYIIIARKPASQLTYEETKKSLQHLFRKSSLYK----*
+1d6ta      HILAKDIIVIARQPAKDMTTLQIQNSLEHVLKIAKVFNKKIK*
+           ====|=========|=========|=========|=======
+               0080      0090      0100      0110    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1a6f       100.0  48.7
+  2-1d6ta       48.7 100.0
+
+***************************************************************************

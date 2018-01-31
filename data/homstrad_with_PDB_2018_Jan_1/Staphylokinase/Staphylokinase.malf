@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 2sak       structureX:2sak:  16 : : 136 : :staphylokinase:Staphylococcus aureus: 1.8: 18.1
+[  2] 1qqra      structureX:1qqr: 151 :A: 288 :A:streptokinase C:Streptococcus equisimilis: 2.30: 19.7
+
+
+2sak       SYFEPTGPYLMVNVTGVDSKGNELLS---PHYVEFP-IKPGTTLTKEKIEYYVEWALDATAYKEFRVVELDPSAK
+1qqra      IQNQAKSVDVEYTVQFTPLNPDDDFRPGLKLTKLLKTLAIGDTITSQELLAQAQSILNK-NHPGYTIYERD-SSI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2sak       IEVTYYDKNKKKEETKSFPIT-EKGFVVPDLSEHI-----------KNPGFNLITKVVIEKK---------*
+1qqra      VTHDND------IFRTILPMDQEFTYRVKNREQAYRINKKSGLNEEINNTDLISEKYYVLKKGEKPYDPFD*
+           ====|=========|=========|=========|=========|=========|=========|======
+               0080      0090      0100      0110      0120      0130      0140   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2sak       100.0  12.4
+  2-1qqra       12.4 100.0
+
+***************************************************************************

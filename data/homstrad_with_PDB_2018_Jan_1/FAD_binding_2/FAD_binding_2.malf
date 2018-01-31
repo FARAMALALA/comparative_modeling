@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 1l0va      structureX:1l0v:   0 :A: 576 :A:l0varate reductase flavoprotein subunit:Escherichia coli:3.30:24.5
+[  2] 1chua      structureX:1chu:   2 :A: 533 :A:L-aspartate oxidase:Escherichia coli: 2.2: 22.4
+
+
+1l0va      --MQTFQADLAIVGAGGAGLRAAIAAAQANPNAKIALISKVYPMRSHTVAAEGGSAAVAQDHDSFEYHFHDTVAG
+1chua      NTLPEHSCDVLIIGSGAAGLSLALRLAD---QHQVIVLSKGPVTEFDE-------------TDSIDSHVEDTLIA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1l0va      GDWLCEQDVVDYFVHHCPTEMTQLELWGCPWSRRPDGSVNVRRFGGMKIERTWFAADKTGFHMLHTLFQTSLQFP
+1chua      GAGICDRHAVEFVASNARSCVQWLIDQGVL----------------------------------TTLVSKALNHP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1l0va      QIQRFDEHFVLDILVDD---------GHVRGLVAMNMMEGTLVQIRANAVVMATGGAGRVYRYNTNGGIVTGDGM
+1chua      NIRVLERTNAVDLIV--SDKIGLPGTRRVVGAWVWNRNKETVETCHAKAVVLATGGASKVYQYTTNPDISSGDGI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1l0va      GMALSHGVPLRDMEFVQYHPTGLPG---SGILMTEGCRGEGGILVNKNGYRYLQDYGMGPETPLGEPKNKYMELG
+1chua      AMAWRAGCRVANLEFNQFHPTALYHPQARNFLLTEALRGEGAYLKRPDGTRFMPDFDE------------RGELA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1l0va      PRDKVSQAFWHEWRKGNTISTPRGDVVYLDLRHLGEKKLHERLPFICELAKAYVGVDPVKEPIPVRPTAHYTMGG
+1chua      PRDIVARAIDHEMKRLG------ADCMFLDISHKPADFIRQHFPMIYEKLLG-LGIDLTQEPVPIVPAAHYTCGG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1l0va      IETDQNCETRIKGLFAVGECSSVGLHGANRLGSNSLAELVVFGRLAGEQATERAATAGNGNEAAIEAQAAGVEQR
+1chua      VMVDDHGRTDVEGLYAIGEVSYTGLHGANRMASNSLLECLVYGWSAAEDITRRMHDISTLPPWDESRVEN-----
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1l0va      LKDLVNQDGGENWAKIRDEMGLAMEEGCGIYRTPELMQKTIDKLAELQERFKRVRITDTSSVFNTDLLYTIELGH
+1chua      PDERV------VIQHNWHELRLFMWDYVGIVRTTKRLERALRRITMLQQEIDEYYA------HFRVSNNLLELRN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1l0va      GLNVAECMAHSAMARKESRGAHQRLDEGCTERDDVNFLKHTLAFRDADGTTRLEYSDVKITTLPPA-*
+1chua      LVQVAELIVRCAMMRKESRGLHFTLD--YPELLT--HSGPSILSP----------------------*
+           ====|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1l0va      100.0  31.8
+  2-1chua       31.8 100.0
+
+***************************************************************************

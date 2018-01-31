@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1c9fa      structureX:1c9f:   1 :A:  87 :A:CAD domain of caspase-activated DNAse:Mus musculus: -1: -1
+[  2] 1d4ba      structureX:1d4b:   1 :A: 122 :A:cide-n domain of human cide-b:Homo sapiens: -1: -1
+
+
+1c9fa      M----------------------------CAVLRQPKCVKLRALHSACKFGVAARSCQELLRKGCVRFQLPMPGS
+1d4ba      MEYLSALNPSDLLRSVSNISSEFGRRVWTSAPP-PQRPFRVCDHKRTIRKGLTAATRQELLAKALETLLLNG-VL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1c9fa      RLCLYEDGTEVTDDCFP-GLPNDAELLLLTAGETWHGYVS--------D*
+1d4ba      TLVLEEDGTAVDSEDFFQLLEDDTCLMVLQSGQSWSPTRSGVLHHHHHH*
+           ====|=========|=========|=========|=========|====
+               0080      0090      0100      0110      0120 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1c9fa      100.0  28.7
+  2-1d4ba       28.7 100.0
+
+***************************************************************************

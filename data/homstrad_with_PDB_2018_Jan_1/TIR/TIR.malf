@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1fywa      structureX:1fyw: 636 :A: 784 :A:TIR domain of TLR2:Homo sapiens: 3.00: 24.4
+[  2] 1fyva      structureX:1fyv: 625 :A: 785 :A:TIR domain of human TLR1:Homo sapiens: 2.90: 25.4
+
+
+1fywa      -------SRN-IYDAFVSYSERDAYWVEN-LVQELENFNPPFKLLHKRDFIPGKWIIDNIIDSIEKSHKTVFVLS
+1fyva      NIPLEELQRNLQFHAFISYSGHDSFWVKNELLPNLEKE--GQICLHERNFVPGKSIVENIITCIEKSYKSIFVLS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fywa      ENFVKSEW-KYELDFSHFRLFDENNDAAILILLEPIEKKAIPQRF-KLRKINTKTYLEWP-DEAQREGFWVNLRA
+1fyva      PNFVQSEWCHYELYFAHHNLFHEGSNSLILILLEPIPQYSIPSSYHKLKSLARRTYLEWPKEKSKRGLFWANLRA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1fywa      AIKS-------*
+1fyva      AINIKLTEQAK*
+           =========|=
+                    0160 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1fywa      100.0  52.8
+  2-1fyva       52.8 100.0
+
+***************************************************************************

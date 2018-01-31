@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 2occb      structureX:2occ:   1 :B: 227 :B:cytochrome c oxidase polypeptide II:Bos taurus: 2.30: 20.9
+[  2] 1ar1b      structureX:1ar1:   1 :B: 252 :B:cytochrome c oxidase polypeptide II:Paracoccus denitrificans: 2.70: 20.7
+[  3] 1cyx       structureX:1cyx: 125 : : 282 : :ubiquinol oxidase polypeptide II:Escherichia coli: 2.30: 19.6
+
+
+2occb      -----------MAYPMQLGFQDATSPIMEELLHFHDHTLMIVFLISSLVLYIISLMLT------TKLTHTSTMDA
+1ar1b      QDVLGDLPVIGKPVNGGMNFQPASSPLAHDQQWLDHFVLYIITAVTIFVCLLLLICIVRFNRRANPVPAR-FTHN
+1cyx       ---------------------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2occb      QEVETIWTILPAIILILIALPSLRILYMMDEIN-NPSLTVKTMGHQWYWSYEYTDYEDLSFDSYMIPTSELKP-G
+1ar1b      TPIEVIWTLVPVLILVAIGAFSLPILFRSQEMPNDPDLVIKAIGHQWYWSYEYPND-GVAFDALMLEKEALADAG
+1cyx       -----------------------------------KPITIEVVSMDWKWFFIYPEQ-GIATV-------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2occb      EL---RLLEVDNRVVLPMEMTIRMLVSSEDVLHSWAVPSLGLKTDAIPGRLNQTTLMSSRPGLYYGQCSEICGSN
+1ar1b      YSEDEYLLATDNPVVVPVGKKVLVQVTATDVIHAWTIPAFAVKQDAVPGRIAQLWFSVDQEGVYFGQCSELCGIN
+1cyx       -----------NEIAFPANTPVYFKVTSNSVMHSFFIPRLGSQIYAMAGMQTRLHLIANEPGTYDGICAEICGPG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2occb      HSFMPIVLELVP-LKYFEKWSASML-------------------------------------------*
+1ar1b      HAYMPIVVKAV-SQEKYEAWLAGAKEEFAA--------------------------------------*
+1cyx       HSGMKFKAIATPDRAAFDQWVAKAKQSPNTMSDMAAFEKLAAPSEYNQVEYFSNVKPDLFADVINKFM*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0230      0240      0250      0260      0270      0280      0290 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2occb      100.0  34.4  20.9
+  2-1ar1b       34.4 100.0  20.9
+  3-1cyx        20.9  20.9 100.0
+
+***************************************************************************

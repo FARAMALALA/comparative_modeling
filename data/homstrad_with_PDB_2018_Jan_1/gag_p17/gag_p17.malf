@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1hiwa      structureX:1hiw:   7 :A: 121 :A:gag polyprotein core protein p17:Human immunodeficiency virus type 1: 2.3: 25.9
+[  2] 1ed1a      structureX:1ed1:   6 :A: 119 :A:simian immunodeficiency virus matrix antigen:Simian immunodeficiency virus: 2.10: 18
+
+
+1hiwa      -VLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERFAVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYN
+1ed1a      SVLSGKKADELEKIRLRPGGKKKYMLKHVVWAANELDRFGLAESLLENKEGCQKILSVLAPLVPTGSENLKSLYN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hiwa      TIAVLYCVHQRIDVKDTKEALDKIEEEQN--KSKKKAQQAAAD-------*
+1ed1a      TVCVIWCIHAEEKVKHTEEAKQIVQRHLVVET-----------GTAETMP*
+           ====|=========|=========|=========|=========|=====
+               0080      0090      0100      0110      0120  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hiwa      100.0  48.2
+  2-1ed1a       48.2 100.0
+
+***************************************************************************

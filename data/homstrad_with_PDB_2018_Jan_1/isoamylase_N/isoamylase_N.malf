@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1ehaa      structureX:1eha:   1 :A:  90 :A:glycosyltrehalose trehalohydrolase:Sulfolobus solfataricus km1: 3.00: -1
+[  2] 1bf2       structureX:1bf2:   1 : : 162 : :pseudomonas isoamylase:Pseudomonas amyloderamosa: 2.0: 16.1
+
+
+1ehaa      -----TFAYKIDG--NEVIFTLWAPYQKSVKLKVLE-------KGLYEMERDEKGYFTITLN-------NVKVRD
+1bf2       AINSMSLGASYDAQQANITFRVYSSQATRIVLYLYSAGYGVQESATYTLSPAGSGVWAVTVPVSSIKAAGITGAV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ehaa      RYKYVLD--D----------------------------ASEIPDPASRYQPEG----------------------
+1bf2       YYGYRAWGPNWPYASNWGKGSQAGFVSDVDANGDRFNPNKLLLDPYAQEVSQDPLNPSNQNGNVFASGASYRTTD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ehaa      ---VHGPSQIIQESKE*
+1bf2       SGIYAPKGVVLV----*
+           =========|======
+                    0160   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ehaa      100.0  11.1
+  2-1bf2        11.1 100.0
+
+***************************************************************************

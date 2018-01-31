@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1gc7a      structureX:1gc7:  88 :A: 198 :A:radixin:Mus musculus: 2.80: 21.5
+[  2] 1ef1a      structureX:1ef1:  88 :A: 198 :A:moesin:Homo sapiens: 1.90: 22.7
+[  3] 1gg3a      structureX:1gg3:  82 :A: 187 :A:protein 4.1R membrane binding domain:Homo sapiens: 2.80: 22.6
+
+
+1gc7a      -DVSEELIQEITQRLFFLQVKEAILNDEIYCPPETAVLLASYAVQAKYGDYNKEIHKPGYLANDRLLPQRVLEQH
+1ef1a      -DVSEELIQDITQRLFFLQVKEGILNDDIYCPPETAVLLASYAVQSKYGDFNKEVHKSGYLAGDKLLPQRVLEQH
+1gg3a      PDPAQ-LTEDITRYYLCLQLRQDIVAGRLPCSFATLALLGSYTIQSELGDYDPELHGVDYVSDFKLAPNQT----
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1gc7a      KLTKEQWEERIQNWHEEHRGMLREDSMMEYLKIAQDL---*
+1ef1a      KLNKDQWEERIQVWHEEHRG-LREDAVLEYLKIAQDL---*
+1gg3a      ----KELEEKVMELHKSYRSMTPAQADLEFLENAKKLSMY*
+           ====|=========|=========|=========|=====
+               0080      0090      0100      0110  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1gc7a      100.0  86.4  29.2
+  2-1ef1a       86.4 100.0  32.1
+  3-1gg3a       29.2  32.1 100.0
+
+***************************************************************************

@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 2erca      structureX:2erc:  10 :A: 244 :A:rrna adenine n-6-methyltransferase:Bacillus subtilis: 3.0: 23.2
+[  2] 1yub       structureX:1yub:   1 : : 245 : :rrna adenine n-6-methyltransferase:Streptococcus pneumoniae: -1: -1
+
+
+2erca      --------QNFITSKHNIDKIMTNIRLNEHDNIFEIGSGKGHFTLELVQRCNFVTAIEIDHKLCKTTENKLVD--
+1yub       MNKNIKYSQNFLTSEKVLNQIIKQLNLKETDTVYEIGTGKGHLTTKLAKISKQVTSIE----LD-SHLFNLSSEK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2erca      --HD-NFQVLNKDILQFKFPKNQSYKIFGNIPYNISTDIIRKIVFDSIADEIYLIVEYGFAKRLLNTKRSLALFL
+1yub       LKLNTRVTLIHQDILQFQFPNKQRYKIVGNIPYHLSTQIIKKVVFESRASDIYLIVEEGFYKRTLDIHRTLGLLL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2erca      MAEVDISILSMVPREYFHPKPKVNSSLIRLNRKKSRISHKDKQKYNYFVMKWVNKEYKKIFTKNQFNNSLKHAGI
+1yub       HTQVSIQQLLKLPAECFHPKPKVNSVLIKLTRHTTDVPDKYWKLYTYFVSKWVNREYRQLFTKNQFHQAMKHAKV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2erca      DDLNNISFEQFLSLFNSYKLFN--K*
+1yub       NNLSTITYEQVLSIFNSYLLFNGRK*
+           ====|=========|=========|
+               0230      0240      0250 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2erca      100.0  49.4
+  2-1yub        49.4 100.0
+
+***************************************************************************

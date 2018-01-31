@@ -1,0 +1,48 @@
+      Code       Title
+
+[  1] 3cla       structureX:3cla:   6 : : 219 : :chloramphenicol acetyltransferase iii:Escherichia coli: 1.75: 15.7
+[  2] 1e2o       structureX:1e2o: 172 : : 404 : :dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex [domain swapped for 172-197]:Escherichia coli:3.0:20.5
+[  3] 1eaf       structureX:1eaf: 395 : : 637 : :dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex [domain swapped for 395-431]:Azotobacter vinelandii: 2.3: 19.8
+[  4] 1b5sa      structureX:1b5s: 184 :A: 425 :A:dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex:Bacillus stearothermophilus: 4.4: -1
+
+
+3cla       ------------MNYTKFDVKNWVRREHFEFYRHR--L-PCGFSLTSKIDITTLKKSLDDS----------AYKF
+1e2o       -----------ARSEKRVPMT-RLRKRVAERLLEAKNS-TAMLTTFNEVNMKPIMDLRKQYGEAFEKRHGIRLGF
+1eaf       IPPIPPVDFAKYGEIEEVPMT-RLMQIGATNLHRSWLN-VPHVTQFESADITELEAFRVAQKAVAKK-AGVKLTV
+1b5sa      AAAKPATTEGEFPETRE-KMS-GIRRAIAKAMVHSKHT-APHVTLMDEADVTKLVAHRKKFKAIAAE-KGIKLTF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3cla       YPVMIYLIAQAVNQFDELRMAIKD--DELIVWDSVDPQFTVFHQETETFSALSCPYSS--DIDQFMVNYLSVMER
+1e2o       MSFYVKAVVEALKRYPEVNASID--GDDVVYHNYFDVSMAVST----GLVTPVLRDVDTLGMADIEKKIKELAVK
+1eaf       LPLLLKACAYLLKELPDFNSSLAPSGQALIRKKYVHIGFAVDTPD--GLLVPVIRNVDQKSLLQLAAEAAELAEK
+1b5sa      LPYVVKALVSALREYPVLNTSIDDETEEIIQKHYYNIGIAADTDR--GLLVPVIKHADRKPIFALAQEINELAEK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3cla       YKS-DTKLFPQGVTPENHLNISALPWVNFDSFNLNVANFTDYFAPIITMAKYQQEG--------DRLLLPLSVQV
+1e2o       G-DGKLTVEDLT---GGNFTITNGGVFGSLMSTPII--NPPQS-AILGMHAIKDRPMAVNGQVEILPMMYLALSY
+1eaf       ARSKKLGADAMQ---GACFTISSLGHIGGTAFTPIV--NAPEV-AILGVSKASMQPVWDGKAFQPRLMLPLSLSY
+1b5sa      ARDGKLTPGEMK---GASCTITNIGSAGGQWFTPVI--NHPEV-AILGIGRIAEKPIVRDGEIVAAPMLALSLSF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3cla       HHAVCDGFHVARFINRLQELCNSKLK-----*
+1e2o       DHRLIDGRESVGFLVTIKELLEDPTRLLLDV*
+1eaf       DHRVINGAAAARFTKRLGDLLADIRAILL--*
+1b5sa      DHRMIDGATAQKALNHIKRLLSDPELLLM--*
+           ====|=========|=========|======
+               0230      0240      0250   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-3cla       100.0   8.9  16.9  13.1
+  2-1e2o         8.9 100.0  30.9  35.2
+  3-1eaf        16.9  30.9 100.0  40.5
+  4-1b5sa       13.1  35.2  40.5 100.0
+
+***************************************************************************

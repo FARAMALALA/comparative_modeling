@@ -1,0 +1,30 @@
+      Code       Title
+
+[  1] 1hssa      structureX:1hss:   5 :A: 124 :A:alpha-amylase inhibitor 0.19:Triticum aestivum: 2.06: 18.7
+[  2] 1bea       structureX:1bea:   5 : : 120 : :trypsin-factor XIIA inhibitor:Zea mays: 1.95: 19.5
+[  3] 1b1u       structureX:1b1u:   3 : : 119 : :alpha-amylase-trypsin inhibitor:Eleusine coracana: 2.20: 22.2
+
+
+1hssa      --MCYPGQAFQVPALPACRPLLRLQCNGS--QVP-EAVLRDCCQQLAHISEWCRCGALYSMLDS--MYKEH----
+1bea       --SCVPGWAIPHNPLPSCRWYVTSRTCGIGPRLPWPELKRRCCRELADIPAYCRCTALSILMDGAIPPGPDAQLE
+1b1u       GTSCIPGMAIPHNPLDSCRWYVSTRTCGVGPRLATQEMKARCCRQLEAIPAYCRCEAVRILMDGVVTPS--GQHE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hssa      ----GAFPRCRREVVKLTAASITA--VCRLPIVVDASGDGAYVCKDVAAYPDA*
+1bea       GR-LEDLPGCPREVQRGFAATLVTEAECNLATIS-----GVAECPWILG----*
+1b1u       GRLLQDLPGCPRQVQRAFAPKLVTEVECNLATIH-----GGPFCLSLLG----*
+           ====|=========|=========|=========|=========|========
+               0080      0090      0100      0110      0120     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1hssa      100.0  29.7  24.3
+  2-1bea        29.7 100.0  67.2
+  3-1b1u        24.3  67.2 100.0
+
+***************************************************************************

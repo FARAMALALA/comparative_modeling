@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1qaya      structureX:1qay:   4 :A: 387 :A:HMG-CoA reductase:Pseudomonas mevalonii: 2.80: 20.4
+[  2] 1dqaa      structureX:1dqa: 462 :A: 870 :A:HMG-CoA reductase:Homo sapiens: 2.00: 16.8
+
+
+1qaya      DSRLPAFRNLSPAARLDHIGQ----LLGLS----------HDDVSLLANA------------GALPMDIANG-MI
+1dqaa      ---------LSDAEIIQLVNAKHIPAYKLETLIETHERGVSIRRQLLSKKLSEPSSLQYLPYRDYNYSLVMGACC
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1qaya      ENVIGTFELPYAVASNFQINGRDVLVPLVVEEPSIVAAASYMAKLARANGGFTTSSSAPLMHAQVQIVGI--QDP
+1dqaa      ENVIGYMPIPVGVAGPLCLDEKEFQVPMATTEGCLVASTNRGCRAIGLGGGASSRVLADGMTRGPVVRLPRACDS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1qaya      LNARLSLLR--RKDEIIELANRKDQLLNSLGGGCRDIEVHTFADTPRGPMLVAHLIVDVRDAMGANTVNTMAEAV
+1dqaa      AEVKAWLETSEGFAVIKEAFDSTSR-----FARLQKLHTSIA-----GRNLYIRFQSRSGDAMGMNMISKGTEKA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1qaya      APLMEAITG-GQVRLRILSN--------LAD----LRLARAQVRITPQQLET-AEFSGEAVIEGILDAYAFAAVD
+1dqaa      LSKLHEYFPEMQILAVSGNYCTDKKPAAINWIEGRGKSVVCEAVIPAKVVREVLKTTTEAMIEVNINKNLVGSAM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1qaya      PYRAATH--NKGIMNGIDPLIVATGNDWRAVEAGAHAYACRSGHYGSLTTWEKD--NNGHLVGTLEMP-MPVGLV
+1dqaa      A--GSIGGYNAHAANIVTAIYIACGQDAAQ-NVGSS---------NCITLMEASGPTNEDLYISCTMPSIEIGTV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1qaya      GGATKTHPLAQLSLRILGVK---------TAQALAEIAVAVGLAQNLGAMRALATEGIQRGHMALHAR*
+1dqaa      GGGTN-LLPQQACLQMLGVQGACKDNPGENARQLARIVCGTVMAGELSLMAALAAGHLVKSHMIHN--*
+           ====|=========|=========|=========|=========|=========|=========|===
+               0380      0390      0400      0410      0420      0430      0440 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1qaya      100.0  19.8
+  2-1dqaa       19.8 100.0
+
+***************************************************************************

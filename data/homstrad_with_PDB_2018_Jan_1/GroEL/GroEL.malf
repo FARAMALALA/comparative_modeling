@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1oela      structureX:1oel:   2 :A: 525 :A:60 kd chaperonin (protein cpn60) (GroEL protein):Escherichia coli: 2.8: -1
+[  2] 1a6da      structureX:1a6d:  17 :A: 519 :A:thermosome:Thermoplasma acidophilum: 2.6: 21.5
+
+
+1oela      AAKDVKFGNDAGVKMLRGVNVLADAVKVTLGPKGRNVVLDKSFGAPTITKDGVSVAREIELEDKFENMGAQMVKE
+1a6da      ----REQGKNAQRNNIEAAKAIADAVRTTLGPKGMDKMLVDSIGDIIISNDGATILKEMDVE----HPTAKMIVE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1oela      VASKANDAAGDGTTTATVLAQAIITEGLKAVAAGMNPMDLKRGIDKAVTVAVEELKALSV-GVVAGGGVALIRVA
+1a6da      VSKAQDTAVGDGTTTAVVLSGELLKQAETLLDQGVHPTVISNGYRLAVNEARKIIDEIAEKSFLWGGGAVEAELA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1oela      SKLADLRGQ-NEDQNVGIKVALRAMEAPLRQIVLNCGEEPSVVANTVKGGD----GNYGYNAATEEYGNMIDMGI
+1a6da      MRLAKYANSVGGREQLAIEAFAKALEIIPRTLAENAGIDPINTLIKLKADDEKGRISVGVDLDNNGVGDMKAKGV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1oela      LDPTKVTRSALQYAASVAGLMITTECMVTDLP*
+1a6da      VDPLRVKTHALESAVEVATMILRIDDVI----*
+           ====|=========|=========|=======
+               0230      0240      0250    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1oela      100.0  27.3
+  2-1a6da       27.3 100.0
+
+***************************************************************************

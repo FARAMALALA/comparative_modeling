@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1vrta      structureX:1vrt:   4 :A: 235 :A:HIV-1 reverse transcriptase, fingers and palm subdomains:Human immunodeficiency virus type 1: 2.2: 18.6
+[  2] 1mml       structureX:1mml:  24 : : 274 : :MMLV reverse transcriptase, fingers and palm subdomains:Moloney murine leukemia virus: 1.8: -1
+
+
+1vrta      --------------------PIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNT
+1mml       TWLSDFPQAWAETGGMGLAVRQAPLIIPLKATSTPVSIKQYPMSQEARLGIKPHIQRLLDQGILVPCQ--SPWNT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1vrta      PVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLG-IPHPAGLKK-KKSVTVLDVGDAYFSVPLDEDFRKYTAFT
+1mml       PLLPVKKPGTNDYRPVQDLREVNKRVEDIHPTVPNPYNLLSGLPPSHQWYTVLDLKDAFFCLRLHPTSQPLFAFE
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1vrta      IPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELR
+1mml       WRDP-EMGISGQLTWTRLPQGFKNSPTLFDEALHRDLADFRIQHPDLILLQYVDDLLLAATS-ELDCQQGTRALL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1vrta      QHLLRWGLTTPDKKHQK--EPPFLWMGYELH*
+1mml       QTLGNLGYRASA-KKAQICQKQVKYLGYLLK*
+           ====|=========|=========|======
+               0230      0240      0250   
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1vrta      100.0  25.9
+  2-1mml        25.9 100.0
+
+***************************************************************************

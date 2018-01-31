@@ -1,0 +1,61 @@
+      Code       Title
+
+[  1] 1l1ya      structureX:1l1y:  28 :A: 669 :A:endoglucanase SS:Clostridium thermocellum: 2.40: 18.9
+[  2] 1fce       structureX:1fce:   1 : : 629 : :endoglucanase F:Clostridium cellulolyticum: 2.0: 16.5
+
+
+1l1ya      GPTKAPTKDGTSYKDLFLELYGKIKDPKNGYFSPDEGIPYHSIETLIVEAPDYGHVTTSEAFSYYVWLEAMYGNL
+1fce       ASSPAN----KVYQDRFESMYSKIKDPANGYFSE-QGIPYHSIETLMVEAPDYGHVTTSEAMSYYMWLEAMHGRF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1l1ya      TGNWSGVETAWKVMEDWIIPDSTEQP--GMSSYNPNSPATYADEYEDPSYYPSELKFDTVRVGSDPVHNDLVSAY
+1fce       SGDFTGFDKSWSVTEQYLIPTEKDQPNTSMSRYDANKPATYAPEFQDPSKYPSPLDT-SQPVGRDPINSQLTSAY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1l1ya      G-PNMYLMHWLMDVDNWYGFGT----GTRATFINTFQRGEQESTWETIPHPSIEEFKYGGPNGFLDLFTKDR-SY
+1fce       GTSMLYGMHWILDVDNWYGFGARADGTSKPSYINTFQRGEQESTWETIPQPCWDEHKFGGQYGFLDLFTKDTGTP
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1l1ya      AKQWRYTNAPDAEGRAIQAVYWANKWAKEQGKGSAVASVVSKAAKMGDFLRNDMFDKYFMKIGAQDKTPATGYDS
+1fce       AKQFKYTNAPDADARAVQATYWADQWAKEQGK--SVSTSVGKATKMGDYLRYSFFDKYFRKIGQP-SQAGTGYDA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1l1ya      AHYLMAWYTAWGGGIGASWAWKIGCSHAHFGYQNPFQGWVSATQSDFAPKSSNGKRDWTTSYKRQLEFYQWLQSA
+1fce       AHYLLSWYYAWGGGIDSTWSWIIGSSHNHFGYQNPFAAWVLSTDANFKPKSSNGASDWAKSLDRQLEFYQWLQSA
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1l1ya      EGGIAGGATNSWNGRYEKYPAGTSTFYGMAYVPHPVYADPGSNQWFGFQAWSMQRVMEYYLETGDSSVKNLIKKW
+1fce       EGAIAGGATNSWNGRYEAVPSGTSTFYGMGYVENPVYADPGSNTWFGMQVWSMQRVAELYYKTGDARAKKLLDKW
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1l1ya      VDWVMSEIKLYDDGTFAIPSDLEWSGQPDTWTG--TYTGNPNLHVRVTSYGTDLGVAGSLANALATYAAATERWE
+1fce       AKWINGEIKFNADGTFQIPSTIDWEGQPDTWNPTQGYTGNANLHVKVVNYGTDLGCASSLANTLTYYAAKSG---
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1l1ya      GKLDTKARDMAAELVNRAWYNFYCSEGKGVVTEEARADYKRFFEQEVYVPAGWSGTMPNGDKIQPGIKFIDIRTK
+1fce       ---DETSRQNAQKLLDAMWNNYSDS--KGISTVEQRGDYHRFLDQEVFVPAGWTGKMPNGDVIKSGVKFIDIRSK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0530      0540      0550      0560      0570      0580      0590      0600 
+
+1l1ya      YRQDPYYDIVYQAYLRGEAPVLNYHRFWHEVDLAVAMGVLATYFPDMTYKVP*
+1fce       YKQDPEWQTMVAALQAGQVPTQRLHRFWAQSEFAVANGVYAILFPD------*
+           =========|=========|=========|=========|=========|==
+                    0610      0620      0630      0640      0650 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1l1ya      100.0  60.4
+  2-1fce        60.4 100.0
+
+***************************************************************************

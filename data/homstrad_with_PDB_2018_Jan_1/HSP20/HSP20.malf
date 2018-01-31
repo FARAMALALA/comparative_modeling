@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1shsa      structureX:1shs:  33 :A: 147 :A:small heat shock protein:Methanococcus jannaschii: 2.9: 21.6
+[  2] 1gmea      structureX:1gme:   2 :A: 151 :A:heat shock protein 16.9b:Triticum aestivum: 2.7: 23.1
+
+
+1shsa      ---------------------------TGIQISGK-----GFMPISIIEGDQHIKVIAWLPGVNKEDIILNAV-G
+1gmea      SIVRRSNVFDPFADLWADPFDTFRSIVPAISGGGSETAAFANARMDWKETPEAHVFKADLPGVKKEEVKVEVEDG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1shsa      DTLEIRAKRSPLMITESERIIYSEIPEEEEIYRTIKLPATVKEENASAKFENGVLSVILPKAESSIKK------G
+1gmea      NVLVVSGERTKEKEDKNDKWHRVERS-SGKFVRRFRLLEDAKVEEVKAGLENGVLTVTVPKA----EVKKPEVKA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1shsa      INIE-*
+1gmea      IQISG*
+           =====
+                
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1shsa      100.0  26.1
+  2-1gmea       26.1 100.0
+
+***************************************************************************

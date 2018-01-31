@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1ncpn      structureN:1ncp:   1 :N:  17 :N:Nucleocapsid protein P2 (N-terminal domain):HIV-1:-1.00:-1.00
+[  2] 1ncpc      structureN:1ncp:  22 :C:  39 :C:Nucleocapsid protein P2 (C-terminal domain):HIV-1:-1.00:-1.00
+
+
+1ncpn      VKCFNCGKEGHTARNCR-*
+1ncpc      KGCWKCGKEGHQMKDCTE*
+           =========|========
+                    0010     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ncpn      100.0  47.1
+  2-1ncpc       47.1 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 1hyoa      structureX:1hyo: 119 :A: 416 :A:Fumarylacetoacetate hydrolase:Mus musculus: 1.30: 18.1
+[  2] 1gtta      structureX:1gtt: 220 :A: 429 :A:4-hydroxyphenylacetate degradation bifunctional isomerasedecarboxylase:Escherichia coli: 1.7: 21.554
+
+
+1hyoa      ATIGDYTDF-YSSRQHATNVGIMFRGKENALLPNWLHLPVGYHGRASSIVVSGTPIRRPMGQMRPDNSKPPVYGA
+1gtta      HPHGTLFALGLNYADH-------------------PEEPLVFLKAPNTLTGDNQTSVRPN--------------N
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1hyoa      CRLLDMELEMAFFVGPGNRFGEPIPISKAHEHIFGMVLMNDWSARDIQQWEYVPLGP-FLGKSF--GTTISPWVV
+1gtta      IEYMHYEAELVVVIGKQAR---NVSEADAMDYVAGYTVCNDYAIRDYLE---NYYRPNLRVKSRDGLTPMLSTIV
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1hyoa      PMDALMPFVVPNPKQDPKPLPYLCHSQPYTFDINLSVSLKGEGMSQAATICRSNFKHMYWTMLQQLTHHSVNGCN
+1gtta      PKEAIP----------------------DPHNLTLRTFVN--G----ELRQQGTTADLIFSVPFLIAYLSEF-MT
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1hyoa      LRPGDLLASGTISGSDPESFGSMLELSWKGTKAIDVGQGQTRTFLLDGDEVIITGHCQGDGYRVGFGQCAGKVLP
+1gtta      LNPGDMIATGTPK---------------------------GLSDVVPGDEVVVEVE--------GVGRLVNRIVS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1hyoa      AL---*
+1gtta      EETAK*
+           =====
+                
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1hyoa      100.0  18.8
+  2-1gtta       18.8 100.0
+
+***************************************************************************

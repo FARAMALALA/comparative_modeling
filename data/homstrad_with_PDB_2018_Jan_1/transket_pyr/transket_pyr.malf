@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 1dtwb      structureX:1dtw:  17 :B: 204 :B:2-oxoisovalerate dehydrogenase beta subunit:Homo sapiens: 2.7: 22.4
+[  2] 1qs0b      structureX:1qs0:   2 :B: 205 :B:2-oxoisovalerate dehydrogenase beta subunit:Pseudomonas putida: 2.40: 21.8  
+[  3] 1trka      structureX:1trk: 338 :A: 534 :A:transketolase 1:Saccharomyces cerevisiae: 2.0: 15.7
+
+
+1dtwb      --------------QTQKMNLFQSVTSALDNSLAKDPTAVIFGEDVA-FGGVFRCTVGLRDKYGK----------
+1qs0b      --------------ATTT--TIQALRSA-DV-LERDDNVVVYGQDVGYFGGVFRCTEGLQTKYGK----------
+1trka      LPANWESKLPTYTAKDSAVATRKLSETVLEDVYNQLPELIGGSADLTP---SNLTRWK---EALDFQPPSSGSGN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1dtwb      --DRVFNTPLCEQGIVGFGIGIAVT--GATAIAEIQFADYIFPAFDQIVNEAAKYRYRSGDLFNCGSLTIRSPWG
+1qs0b      --SRVFDAPISESGIVGTAVG-GAY--GLRPVVEIQFADYFYPASDQIVSE-ARLRYRSAGEFIA-PLTLR-PCG
+1trka      YSGRYIRYGIREHAMGAIMNGISAFGANYKPYGGT-FLNFVSYAAGAVR-LSALS--------GHPVIWVATHDS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1dtwb      CVG-HGALYHSQS-PEAFFAHCPGIKVVIPRSPFQAKGLLLSCIEDK-NPCIFFEPKILYRAA------------
+1qs0b      GGI-YGGQTHSQS-PEA-FTQVCGLRTV-PSNPYDAKGLLIASIECD-DPVIFLEPKRLYNGPFDGHHDRPVTPW
+1trka      IGVGEDGPTHQPIETLAHFRSLPNIQVWRPADGNEVSAAYKNSLESKHTPSIIALSRQ--NLPQL----------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1dtwb      ----AEEVPIE*
+1qs0b      SKHPHSAVPDG*
+1trka      -----------*
+           ====|======
+               0230   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1dtwb      100.0  48.4  11.2
+  2-1qs0b       48.4 100.0  12.3
+  3-1trka       11.2  12.3 100.0
+
+***************************************************************************

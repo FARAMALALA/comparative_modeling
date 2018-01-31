@@ -1,0 +1,36 @@
+      Code       Title
+
+[  1] 1zrn       structureX:1zrn:   3 : : 222 : :2-haloalkanoic acid dehalogenase:Pseudomonas sp.: 1.83: 19.9
+[  2] 1aq6a      structureX:1aq6:   1 :A: 245 :A:2-haloalkanoic acid dehalogenase:Xanthobacter autotrophicus: 1.95: 19
+
+
+1zrn       YIKGIAFDLYGTLFDVHSVVGRCDEAFPGRGREISALWRQKQLEYTWLRSLMNRYVNFQQATEDALRFTCRHLGL
+1aq6a      MIKAVVFDAYGTLFDVQSVADATERAYPGRGEYITQVWRQKQLEYSWLRALMGRYADFWGVTREALAYTLGTLGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1zrn       DLDARTRSTLCDAYLRLAPFSEVPDSLRELKRRGLKLAILSNGSPQSIDAVVSHAGLRDGFDHLLSVDPVQVYKP
+1aq6a      EPDESFLADMAQAYNRLTPYPDAAQCLAELA--PLKRAILSNGAPDMLQALVANAGLTDSFDAVISVDAKRVFKP
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1zrn       DNRVYELAEQALGLDRSAILFVASNAWDATGARYFGFPTCWINRT-----------------------GNVFEEM
+1aq6a      HPDSYALVEEVLGVTPAEVLFVSSNGFDVGGAKNFGFSVARVARLSQEALARELVSGTIAPLTMFKALRMREETY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1zrn       GQTPDWEVTSLRAVVELF----*
+1aq6a      AEAPDFVVPALGDLPRLVRGMA*
+           ====|=========|=======
+               0230      0240    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1zrn       100.0  44.1
+  2-1aq6a       44.1 100.0
+
+***************************************************************************

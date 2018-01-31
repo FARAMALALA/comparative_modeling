@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1tih       structureX:1tih:   1 : :  53 : :trypsin inhibitor (t1):Nicotiana alata: -1: -1
+[  2] 4sgbi      structureX:4sgb:   1 :I:  51 :I:potato inhibitor:Solanum tuberosum: 2.1: -1
+
+
+1tih       DRICTNCCAGTKGCKYFSDDGTFVCEGESDPRNPKACPRNCDPRIAYGICPLA*
+4sgbi      -PICTNCCAGYKGCNYYSANGAFICEGQSDPKKPKACPLNCDPHIAYSKCPR-*
+           =========|=========|=========|=========|=========|===
+                    0010      0020      0030      0040      0050 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tih       100.0  68.6
+  2-4sgbi       68.6 100.0
+
+***************************************************************************

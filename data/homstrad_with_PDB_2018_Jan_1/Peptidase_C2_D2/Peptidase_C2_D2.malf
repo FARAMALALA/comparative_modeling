@@ -1,0 +1,26 @@
+      Code       Title
+
+[  1] 1kxra      structureX:1kxr: 221 :A: 352 :A:Calpain 1 large subunit (Thiol protease domains I and II):Rattus norvegicus: 2.07: 21.3
+[  2] 1kful      structureX:1kfu: 211 :L: 355 :L:M-Calpain (Calpain 2) large subunit:Homo sapiens: 2.50: 22.1
+
+
+1kxra      VTEWYDLQKAPSDLYQIILKALERGSLLGCSINISDIRDLEAITFKNLVRGHAYSVTDAKQVTYQGQRVNLIRMR
+1kful      IAEWYELKKPPPNLFKIIQKALQKGSLLGCSIDITSAADSEAITFQKLVKGHAYSVTGAEEVESNGSLQKLIRIR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1kxra      NPWGEVEWKGPWSDNSYEWNK-VDPYEREQLRVKMEDGEFWMSFRDFIREFTKLEICN--------------*
+1kful      NPWGEVEWTGRWNDNCPSWNTIDPEERERLTRR-HEDGEFWMSFSD-FLRHYSRLEICNLTPDTLTSDTYKK*
+           ====|=========|=========|=========|=========|=========|=========|=======
+               0080      0090      0100      0110      0120      0130      0140    
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1kxra      100.0  51.5
+  2-1kful       51.5 100.0
+
+***************************************************************************

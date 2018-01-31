@@ -1,0 +1,34 @@
+      Code       Title
+
+[  1] 1jj2e1     structureX:1jj2:   1 :E:  79 :E:50S ribosomal protein L6p:Haloarcula marismortui: 2.40: 18.9
+[  2] 1rl6a1     structureX:1rl6:   7 :A:  81 :A:50S ribosomal protein L6:Bacillus stearothermophilus: 2.00: 25.7
+[  3] 1jj2e2     structureX:1jj2:  80 :E: 172 :E:50S ribosomal protein L6p:Haloarcula marismortui: 2.40: 18.9
+[  4] 1rl6a2     structureX:1rl6:  82 :A: 170 :A:50S ribosomal protein L6:Bacillus stearothermophilus: 2.00: 25.7
+
+
+1jj2e1     PRVELEIPE---DVDAEQDHLDITVEGDN---GSVTRRLWYPDIDVSVDG-DTVVIESDEDNAKTMSTIGTFQSH
+1rl6a1     ---PIEIPA---GVTVTVNGNTVTVKGPK---GELTRTFH-PDMTITVEG-NVITVTRPSDEKHHRALHGTTRSL
+1jj2e2     WEYGMEVFYSHFPMQVNVEGDEVVIENFLGEKAPRRTTIH-GDTDVEIDG-EELTVSGP-----DIEAVGQTAAD
+1rl6a2     YEKALELVGV--GYRASKQGKKLVLSV--GYSHPVEIEPE-EGLEIEVPSQTKIIVKGA-----DKQRVGELAAN
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1jj2e1     IENMFHGVTEG-----------------*
+1rl6a1     LANMVEGVSKG-----------------*
+1jj2e2     IEQLTRINDKDVRVFQDGVYITRKP---*
+1rl6a2     IRAVRPPEP----YKGKGIRYEGELVRL*
+           ====|=========|=========|===
+               0080      0090      0100 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4]
+
+  1-1jj2e1     100.0  30.7  12.7   8.9
+  2-1rl6a1      30.7 100.0  20.0  10.7
+  3-1jj2e2      12.7  20.0 100.0  18.0
+  4-1rl6a2       8.9  10.7  18.0 100.0
+
+***************************************************************************

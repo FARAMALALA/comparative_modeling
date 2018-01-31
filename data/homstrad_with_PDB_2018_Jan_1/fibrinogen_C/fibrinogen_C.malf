@@ -1,0 +1,42 @@
+      Code       Title
+
+[  1] 3fib       structureX:3fib: 144 : : 391 : :fibrinogen gamma-a chain:Homo sapiens: 2.1: 15.4
+[  2] 1fzcb      structureX:1fzc: 200 :B: 458 :B:fibrinogen beta chain:Homo sapiens: 2.3: 22
+[  3] 1fzda      structureX:1fzd: 651 :A: 847 :A:fibrinogen alpha-alpha-e chain:Homo sapiens: 2.1: 19.5
+
+
+3fib       --QIHDITGKDCQDIANKGAKQSGLYFIKPLKANQQFLVYCEIDGSGNGWTVFQKRLDGSVDFKKNWIQYKEGFG
+1fzcb      SCNIPVVSGKECEEIIRKGGETSEMYLIQPDSSVKPYRVYCDMNTENGGWTVIQNRQDGSVDFGRKWDPYKQGFG
+1fzda      -----------------------------------------------GGWLLIQQRMDGSLNFNRTWQDYKRGFG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3fib       HLSP--------TGTTEFWLGNEKIHLISTQSAIPYALRVELEDWNGRTSTADYAMFKVGPEADKYRLTYAYFAG
+1fzcb      NVATNTDGKNYCGLPGEYWLGNDKISQLTRM--GPTELLIEMEDWKGDKVKAHYGGFTVQNEANKYQISVNKY-R
+1fzda      SLND--------EGEGEFWLGNDYLHLLTQ---RGSVLRVELEDWAGNEAYAEY-HFRVGSEAEGYALQVSSY-E
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3fib       GDAGDAFDGFDFGDDPSDKFFTSHNGMQFSTWDNDNDKFE-----GNCAEQDGSGWWMNKCHAGHLNGVYYQGGT
+1fzcb      GTAGNALMDGASQLMGENRTMTIHNGMFFSTYDRDNDGWLTSDPRKQCSKEDGGGWWYNRCHAANPNGRYYWGGQ
+1fzda      GTAGDALIEGSVEEG---AEYTSHNNMQFSTFDRDADQWE-----ENCAEVYGGGWWYNNCQAANLNGIYYPGGS
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3fib       YSKAST-PNGYDNGIIWATWKTRWYSMKKTTMKIIPFN-R*
+1fzcb      YTWDMA-KHGTDDGVVWMNWKGSWYSMRKMSMKIRPFF--*
+1fzda      YDPRNNSPYEIENGVVWVSFRGADYSLRAVRMKIRPLVTQ*
+           ====|=========|=========|=========|=====
+               0230      0240      0250      0260  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-3fib       100.0  41.5  45.2
+  2-1fzcb       41.5 100.0  46.7
+  3-1fzda       45.2  46.7 100.0
+
+***************************************************************************

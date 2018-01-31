@@ -1,0 +1,84 @@
+      Code       Title
+
+[  1] 1fv1b      structureX:1fv1:   1 :B:  92 :B:Major histocompatibility complex beta chain:Homo sapiens: 1.90: 23.3
+[  2] 1d5zb      structureX:1d5z:   1 :B:  92 :B:HLA class II histocompatibility antigen, Dr-4 beta chain:Homo sapiens: 2.00: 23.4
+[  3] 1a6ab      structureX:1a6a:   5 :B:  92 :B:HLA class II histocompatibility antigen, Dr-1 beta chain:Homo sapiens: 2.75: 24.6
+[  4] 1fngb      structureX:1fng:   6 :B:  88 :B:hemoglobin beta-2 chain:Mus musculus: 1.90: 22.1
+[  5] 1es0b      structureX:1es0:   5 :B:  93 :B:glutamate decarboxylase, 65 kDa isoform:Homo sapiens: 2.60: 21
+[  6] 1iakb      structureX:1iak:   5 :B:  92 :B:H-2 class II histocompatibility antigen, A-k beta chain:Mus musculus: 1.90: 21.4
+[  7] 2iadb      structureX:2iad:   5 :B:  93 :B:H-2 class II histocompatibility antigen, A-d beta chain:Mus musculus: 2.4: 25.3
+[  8] 1hdmb      structureX:1hdm:   3 :B:  87 :B:class II histocompatibility antigen, M beta chain:Homo sapiens: 2.50: 19.7
+[  9] 2iada      structureX:2iad:  27 :A:  82 :A:H-2 class II histocompatibility antigen, A-d alpha chain:Mus musculus: 2.4: 25.3
+[ 10] 1iaka      structureX:1iak:   1 :A:  81 :A:H-2 class II histocompatibility antigen, A-k alpha chain:Mus musculus: 1.90: 21.4
+[ 11] 1fnga      structureX:1fng:   1 :A:  82 :A:H-2 class II histocompatibility antigen, E-k alpha chain:Mus musculus: 1.90: 22.1
+[ 12] 1fv1a      structureX:1fv1:   3 :A:  81 :A:HLA class II histocompatibility antigen, Dr alpha chain:Homo sapiens: 1.90: 23.3
+[ 13] 1hdma      structureX:1hdm:  13 :A:  93 :A:class II histocompatibility antigen, M alpha chain:Homo sapiens: 2.50: 19.7
+
+
+1fv1b      GDTRPRFLQQD-KYECHFFNGTERVRFLHRDIYNQEEDLRFDSDVGEYRAVTELGRPDAEYWNSQKDFLEDRRAA
+1d5zb      GDTRPRFLEQV-KHECHFFNGTERVRFLDRYFYHQEEYVRFDSDVGEYRAVTELGRPDAEYWNSQKDLLEQKRAA
+1a6ab      ----PRFLEYS-TSECHFFNGTERVRYLDRYFHNQEENVRFDSDVGEFRAVTELGRPDAEYWNSQKDLLEQKRGR
+1fngb      -----WFLEYC-KSECHFYNGTQRVRLLVRYFYNLEENLRFDSDVGEFRAVTELGRPDAENWNSQPEFLEQKRAE
+1es0b      ----RHFVHQF-KGECYFTNGTQRIRLVTRYIYNREEYLRFDSDVGEYRAVTELGRHSAEYYNKQ--YLERTRAE
+1iakb      ----GSFVHQF-QPFCYFTNGTQRIRLVIRYIYNREEYVRFDSDVGEYRAVTELGRPDAEYWNKQ--YLERTRAE
+2iadb      ----RHFVVQF-KGECYYTNGTQRIRLVTRYIYNREEYVRYDSDVGEYRAVTELGRPDAEYWNSQPEILERTRAE
+1hdmb      ------FVAHV-ESTCLLDDAGTPKDFTYCISFNKDLLTCWDPEENKMAPCNSLANVLSQHLNQKDTLMQRL-NG
+2iada      ---------------------------------DGDELFYVDLDKKKTVWRLPEFGQLILFE------PQGGLQN
+1iaka      --IEADHVGSYGITVYQSP----GDIGQYTFEFDGDELFYVDLDKKETVWMLPEFAQLRRFE------PQGGLQN
+1fnga      --IKEEHTIIQ-AEFYLLP----DKRGEFMFDFDGDEIFHVDIEKSETIWRLEEFAKFASFE------AQGALAN
+1fv1a      ----EEHVIIQ-AEFYLNP----DQSGEFMFDFDGDEIFHVDMAKKETVWRLEEFGRFASFE------AQGALAN
+1hdma      ---LQNHTFLH-TVYCQDG----SPSVGLSEAYDEDQLFFFDFSQNTRVPRLPEFADWAQEQ------GDAILFD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1fv1b      VDTYCRHNYGVGE-SFTVQ--*
+1d5zb      VDTYCRHNYGVGE-SFTVQ--*
+1a6ab      VDNYCRHNYGVVE-SFTVQ--*
+1fngb      VDTVCRHNYEIFDN-------*
+1es0b      LDTACRHNYEETEVPTSLR--*
+1iakb      LDTVCRHNYEKTETPTSLR--*
+2iadb      VDTACRHNYEGPETSTSLR--*
+1hdmb      LQ-NCATHTQPFWGSLTNR--*
+2iada      IA-AEKHNLGILTKRSNFTPA*
+1iaka      IA-TGKHNLEILTKRSNSTP-*
+1fnga      IA-VDKANLDVMKERSNNTPD*
+1fv1a      IA-VDKANLEIMTKRSNYTP-*
+1hdma      KE-FCEWMIQQIPKLDGKIPV*
+           ====|=========|======
+               0080      0090   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13]
+
+  1-1fv1b      100.0  87.0  77.3  68.7  59.8  59.8  61.8  11.8  10.7   7.3
+                11.0   8.9   7.4
+  2-1d5zb       87.0 100.0  85.2  71.1  58.6  60.9  62.9  12.9  10.7   7.3
+                11.0   8.9   7.4
+  3-1a6ab       77.3  85.2 100.0  72.3  51.7  55.2  56.8  12.9  10.7   7.3
+                 9.8   7.6   7.4
+  4-1fngb       68.7  71.1  72.3 100.0  62.7  63.9  67.5  10.8  10.7   9.8
+                11.0  12.7   7.4
+  5-1es0b       59.8  58.6  51.7  62.7 100.0  85.1  83.9  12.9  10.7   9.8
+                 9.8  11.4   7.4
+  6-1iakb       59.8  60.9  55.2  63.9  85.1 100.0  81.6  12.9   8.9   9.8
+                12.2  13.9   7.4
+  7-2iadb       61.8  62.9  56.8  67.5  83.9  81.6 100.0  12.9  10.7   9.8
+                 9.8  11.4   6.2
+  8-1hdmb       11.8  12.9  12.9  10.8  12.9  12.9  12.9 100.0  10.7   9.8
+                11.0   7.6  11.1
+  9-2iada       10.7  10.7  10.7  10.7  10.7   8.9  10.7  10.7 100.0  82.1
+                53.6  64.3  25.0
+ 10-1iaka        7.3   7.3   7.3   9.8   9.8   9.8   9.8   9.8  82.1 100.0
+                46.3  54.4  19.8
+ 11-1fnga       11.0  11.0   9.8  11.0   9.8  12.2   9.8  11.0  53.6  46.3
+               100.0  81.0  17.3
+ 12-1fv1a        8.9   8.9   7.6  12.7  11.4  13.9  11.4   7.6  64.3  54.4
+                81.0 100.0  19.0
+ 13-1hdma        7.4   7.4   7.4   7.4   7.4   7.4   6.2  11.1  25.0  19.8
+                17.3  19.0 100.0
+
+***************************************************************************

@@ -1,0 +1,41 @@
+      Code       Title
+
+[  1] 2ceva      structureX:2cev:   2 :A: 299 :A:arginase:Bacillus caldevelox: 2.15: 19.5
+[  2] 1d3va      structureX:1d3v:   6 :A: 313 :A:arginase 1:Rattus norvegicus: 1.70: 15.7
+
+
+2ceva      KPISIIGVPMDLGQTRRGVDMGPSAMRYAGVIERLERLHYDIEDLGDIPIGKAERLHEQGDSRLRNLKAVAEANE
+1d3va      KPIEIIGAPFSKGQPRGGVEKGPAALRKAGLVEKLKETEYNVRDHGDLAFVDVPN--DSPFQIVKNPRSVGKANE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2ceva      KLAAAVDQVVQRGRFPLVLGGDHSIAIGTLAGVAKHYERLGVIWYDAHGDVNTAETSPSGNIHGMPLAASLGF--
+1d3va      QLAAVVAETQKNGTISVVLGGDHSMAIGSISGHARVHPDLCVIWVDAHTDINTPLTTSSGNLHGQPVAFLLKELK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2ceva      --GHPALTQIGGYSPKIKPEHVVLIGVRSLDEGEKKFIREKGIKIYTMHEVDRLGMTRVMEETIAYLKE-RTDGV
+1d3va      GKFPD-VPGFSWVTPCISAKDIVYIGLRDVDPGEHYIIKTLGIKYFSMTEVDKLGIGKVMEETFSYLLGRKKRPI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2ceva      HLSLDLDGLDPSDAPGVGTPVIGGLTYRESHLAMEMLAEAQIITSAEFVEVNPILDE----RNKTASVAVALMGS
+1d3va      HLSFDVDGLDPVFTPATGTPVVGGLSYREGLYITEEIYKTGLLSGLDIMEVNPTLGKTPEEVTRTVNTAVALTLS
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2ceva      LFGEKLM----*
+1d3va      CFGTKREGNHK*
+           =========|=
+                    0310 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-2ceva      100.0  42.3
+  2-1d3va       42.3 100.0
+
+***************************************************************************

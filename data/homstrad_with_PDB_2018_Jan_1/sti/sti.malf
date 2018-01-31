@@ -1,0 +1,46 @@
+      Code       Title
+
+[  1] 1tie       structureX:1tie:   1 : : 170 : :trypsin inhibitor de-3:Erythrina caffra:2.50:20.8
+[  2] 1wba       structureX:1wba:   2 : : 172 : :albumin-1 (wba-1):Psophocarpus tetragonolobus:1.80:19.0
+[  3] 1avwb      structureX:1avw: 501 :B: 677 :B:trypsin inhibitor:Glycine max: 1.75: 18.9
+[  4] 1avac      structureX:1ava:   1 :C: 181 :C:alpha-amylase-subtilisin inhibitor:Hordeum vulgare: 1.90: 20.8
+[  5] 4wbca      structureX:4wbc:   1 :A: 180 :A:chymotrypsin inhibitor 3 (wci-3):Psophocarpus tetragonolobus: 2.14: 19.9
+
+
+1tie       ----VLLDGNGEVVQNGGTYYLLPQVWAQGGGVQLAKTGEET--CPLTVVQSPNELSDGKPIRIESRL----RSA
+1wba       --DDPVYDAEGNKLVNRGKYTIVSFS--DGAGIDVVATGNENPEDPLSIVKSTR--NIMYATSISSEDKTPPQPR
+1avwb      ---DFVLDNEGNPLENGGTYYILSDIT-AFGGIRAAPTGNER--CPLTVVQSRNELDKGIGTIISSPY----RIR
+1avac      ADPPPVHDTDGHELRADANYYVLSANRAHGGGLTMAPGHGRH--CPLFVSQDPNGQHDGFPVRITPY-GVAPSDK
+4wbca      --DDDLVDAEGNLVENGGTYYLLPHIWAHGGGIETAKTGNEP--CPLTVVRSPNEVSKGEPIRISSQF----LSL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1tie       FIPDDDKVRIGFAY--APKCA--PSPWWTVVE-----GLSVKLSEDESTQF----DYPFKFEQVSD-QLHSYKLL
+1wba       NILENMRLKINFATD----PHKG--DVWSVVDFQ-PDGQQLKLAGRYPNQV----KGAFTIQKGSNT-PRTYKLL
+1avwb      FIAEGHPLSLKFDSFAVIMLCVGIPTEWSVVEDL-PEGPAVKIGENKDAM-----DGWFRLERVS--EFNNYKLV
+1avac      IIRLSTDVRISFRA--YTTC--LQSTEWHIDSELAAGRRHVITGPVKDPSPSGREN-AFRIEKYSGAEVHEYKLM
+4wbca      FIPRGSLVALGFAN--PPSCA--ASPWWTVVD-S-PQGPAVKLSQQKLPEKD---ILVFKFEKVSHSNIHVYKLL
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1tie       YCEGK--HEKC-ASIGINRD-QKGYRRLVVTED-YPLTVVLKKDE---*
+1wba       FCPV---GSPC-KNIGISTD-PEGKKRLVVSYQSDPLVVKFHRH----*
+1avwb      FCPQ----DKC-GDIGISIDHDDGTRRLVVSKN-KPLVVQFQKLD---*
+1avac      SCGD-----WC-QDLGVFRDLKGGAWFLGATE--PYHVVVFKKAPPA-*
+4wbca      YCQHDEEDVKCDQYIGIHRDR-NGNRRLVVTEE-NPLELVLLKAKSET*
+           =========|=========|=========|=========|========
+                    0160      0170      0180      0190     
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5]
+
+  1-1tie       100.0  28.3  40.4  30.7  57.8
+  2-1wba        28.3 100.0  38.0  19.9  32.2
+  3-1avwb       40.4  38.0 100.0  28.7  43.3
+  4-1avac       30.7  19.9  28.7 100.0  28.5
+  5-4wbca       57.8  32.2  43.3  28.5 100.0
+
+***************************************************************************

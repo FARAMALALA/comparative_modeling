@@ -1,0 +1,56 @@
+      Code       Title
+
+[  1] 3pmga      structureX:3pmg:   1 :A: 561 :A:Phosphoglucomutase:Oryctolagus cuniculus: 2.4: -1
+[  2] 1kfqa      structureX:1kfq:   2 :A: 572 :A:Phosphoglucomutase. open form:Paramecium tetraurelia: 2.40: 23.3
+
+
+3pmga      ----VKIVTVKTKAYPDQKPGTSGLRKRVKVFQSSTNYAENFIQSIISTVEPAQRQ-EATLVVGGDGRFYMKEAI
+1kfqa      QQVIPAPRVQVTQPYAGQKPGTSGLRKKVSEAT-QPNYLENFVQSIFNTLRKDELKPKNVLFVGGDGRYFNRQAI
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+3pmga      QLIVRIAAANGIGRLVIG---QNGILSTPAVSCIIRKI-----KAIGGIILTASHNPGGP-NGDFGIKFNISNGG
+1kfqa      FSIIRLAYANDISEVHVGQAG---LMSTPASSHYIRKVNEEVGNCIGGIILTASHNPGGKEHGDFGIKFNVRTGA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+3pmga      PAPEAITDKIFQISKTIEEYAICPDLK---VDLGVLGKQQFDLENKFK-PFTVEIVDSVEAYATMLRNIFDFNAL
+1kfqa      PAPEDFTDQIYTHTTKIKEYLTVDYEFEKHINLDQIGVYKFEGTRLEKSHFEVKVVDTVQDYTQLMQKLFDFDLL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+3pmga      KELLSGPNRLKIRIDAMHGVVGPYVKKILCEELGAPANSAVNCVPLEDFGGHHPDPNLTYAADLVETMK------
+1kfqa      KGLFSNKD-FSFRFDGMHGVAGPYAKHIFGTLLGCSKESLLNCDPSEDFGGGHPDPNLTYAHDLVELLDIHKKKD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+3pmga      SGE-HDFGAAFDGDGDRNMILGKHGFFVNPSDSVAVIAANIFSIPYFQQTGVRGFARSMPTSGALDRVANATKIA
+1kfqa      VGTVPQFGAACDGDADRNMILGRQ-FFVTPSDSLAVIAANANLIFK---NGLLGAARSMPTSGALDKVAAKNGIK
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+3pmga      LYETPTGWKFFGNLMDASKLSLCGEESFGTGSDHIREKDGLWAVLAWLSILATRK------QSVEDILKDHWHKF
+1kfqa      LFETPTGWKFFGNLMDAGLINLCGEESFGTGSNHIREKDGIWAVLAWLTILAHKNKNTDHFVTVEEIVTQYWQQF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+3pmga      GRNFFTRYDYEEVEAEGATKMMKDLEALMFDRSFVGKQFSANDKVYTVEKADNFEYHDPVDGSVSKNQGLRLIFA
+1kfqa      GRNYYSRYDYEQVDSAGANKMMEHLKTKFQ--YFEQLK--------QGNKADIYDYVDPVDQSVSKNQGVRFVFG
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+3pmga      DGSRIIFRLSGTGSAGATIRLYIDSYEKDNAKINQDPQVMLAPLISIALKVSQLQERTGRTAPTVIT*
+1kfqa      DGSRIIFRLSGTGSVGATIRIYFEQFEQ--QQIQHETATALANIIKLGLEISDIAQFTGRNEPTVIT*
+           ====|=========|=========|=========|=========|=========|=========|==
+               0530      0540      0550      0560      0570      0580      0590 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-3pmga      100.0  52.2
+  2-1kfqa       52.2 100.0
+
+***************************************************************************

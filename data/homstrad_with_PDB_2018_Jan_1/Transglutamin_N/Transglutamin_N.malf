@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1evua      structureX:1evu:  30 :A: 190 :A:coagulation factor XIII A chain:Homo sapiens: 2.01: 20.8
+[  2] 1g0da      structureX:1g0d:   6 :A: 140 :A:protein-glutamine gamma-glutamyltransferase:Pagrus major: 2.50: 20
+
+
+1evua      EEFLNVTSVHLFKERWDTNKVDHHTDKYENNKLIVRRGQSFYVQIDFSRPYDPRRDLFRVEYVIGRYPQENKGTY
+1g0da      ---GLIVDVNGRSH---ENNLAHRTREIDRERLIVRRGQPFSITLQCSDSLPP-KHHLELVLHLGKRD-E---VV
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1evua      IPVPIVSELQSGKWGAKIVMREDRSVRLSIQSSPKCIVGKFRMYVAVWTPYG--VLRTSRNPETDTYILFNPWCE
+1g0da      IKVQKE-HGARDKWWFNQ-QGAQDEILLTLHSPANAVIGHYRLAVLVMSPDGHIVERADKI---SFHMLFNPWCR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1evua      D*
+1g0da      D*
+           =
+            
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1evua      100.0  27.4
+  2-1g0da       27.4 100.0
+
+***************************************************************************

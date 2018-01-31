@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 2bnh       structureX:2bnh:   1 : : 456 : :ribonuclease inhibitor:Sus scrofa: 2.3: 20
+[  2] 1a4ya      structureX:1a4y:   1 :A: 460 :A:placental ribonuclease inhibitor:Homo sapiens: 2.0: 19.3
+[  3] 1yrga      structureX:1yrg:   2 :A: 344 :A:Ran GTPase activating protein 1 (rna1 protein):Schizosaccharomyces pombe: 2.66: 22.8
+
+
+2bnh       ----MNLDIHCEQLSDARWTELLPLLQQYEVVRLDDCGLT-----EEHCKDIGSALRANPSLTELCLRTNELGDA
+1a4ya      SLDIQSLDIQCEELSDARWAELLPLLQQCQVVRLDDCGLT-----EARCKDISSALRVNPALAELNLRSNELGDV
+1yrga      -----------------------------ARFSIEGKSLKLDAITTEDEKSVFAVLLEDDSVKEIVLSGNTIGTE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+2bnh       GVHLVLQGLQSPTCKIQKLSLQNCS--LT----EAGCGVLPSTLRSLPTLRELHLSDNPLGDAGLRLLCEGLLDP
+1a4ya      GVHCVLQGLQTPSCKIQKLSLQNCC--LT----GAGCGVLSSTLRTLPTLQELHLSDNLLGDAGLQLLCEGLLDP
+1yrga      AARWLSENIA-SKKDLEIAEFSDIFTGRVKDEIPEALRLLLQALLKCPKLHTVRLSDNAFGPTAQEPLIDFLS-K
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+2bnh       QCHLEKLQLEYCRLTAASCEPLASVLRATR---------ALKELTVSNNDIGEAGARVLGQGLADSACQLETLRL
+1a4ya      QCRLEKLQLEYCSLSAASCEPLASVLRAKP---------DFKELTVSNNDINEAGVRVLCQGLKDSPCQLEALKL
+1yrga      HTPLEHLYLHNNGLGPQAGAKIARALQELAVNKKAKNAPPLRSIICGRNRLENGSMKEWAKTFQSHR-LLHTVKM
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+2bnh       ENCGLTPANCKDLCG-IVASQASLRELDLGSNGLGDAGIAELCPGLLSPASRLKTLWLWECDITASGCRDLCRVL
+1a4ya      ESCGVTSDNCRDLCG-IVASKASLRELALGSNKLGDVGMAELCPGLLHPSSRLRTLWIWECGITAKGCGDLCRVL
+1yrga      VQNGIRPEGIEHLLLEGLAYCQELKVLDLQDNTFTHLGSSALAIALKS-WPNLRELGLNDCLLSARGAAAVVDAF
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+2bnh       QAK--ETLKELSLAGNKLGDEGARLLCESLLQPGCQLESLWVKSCSLTAA--CCQHVSLMLTQNKHLLELQLSSN
+1a4ya      RAK--ESLKELSLAGNELGDEGARLLCETLLEPGCQLESLWVKSCSFTAA--CCSHFSSVLAQNRFLLELQISNN
+1yrga      SKLENIGLQTLRLQYNEIELDAVRTLKTVIDEKMPDLLFLELNGNRFSEEDDVVDEIREVFSTRGRG-ELDELDD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+2bnh       KLGDSGIQELCQALSQPGTTLRVLCLGDCEVTNSGCSSLASLLLANRSLRELDLSNNCVGDPGVLQLLGSLEQPG
+1a4ya      RLEDAGVRELCQGLGQPGSVLRVLWLADCDVSDSSCSSLAATLLANHSLRELDLSNNCLGDAGILQLVESVRQPG
+1yrga      ME-------------------------------------------------------------------------
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+2bnh       CALEQLVLYDTYWTEEVEDRLQALEGSKPGLRVIS*
+1a4ya      CLLEQLVLYDIYWSEEMEDRLQALEKDKPSLRVIS*
+1yrga      -----------------------------------*
+           =========|=========|=========|=====
+                    0460      0470      0480  
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2bnh       100.0  77.2  17.5
+  2-1a4ya       77.2 100.0  16.9
+  3-1yrga       17.5  16.9 100.0
+
+***************************************************************************

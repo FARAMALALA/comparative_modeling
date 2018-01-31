@@ -1,0 +1,112 @@
+      Code       Title
+
+[  1] 1i4ua      structureX:1i4u:   1 :A: 181 :A:crustacyanin C1 subunit:Homarus gammarus: 1.15: 15.0
+[  2] 1bbpa      structureX:1bbp:   2 :A: 178 :A:Bilin binding protein:Pieris brassicae: 2.0: 20
+[  3] 1exsa      structureX:1exs:   1 :A: 160 :A:beta-lactoglobulin 1A:Sus scrofa: 2.39: 21.9
+[  4] 1beba      structureX:1beb:   5 :A: 160 :A:beta-lactoglobulin:Bubalus bubalis: 1.8: 18.1
+[  5] 2a2ua      structureX:2a2u:   1 :A: 158 :A:major urinary protein:Rattus norvegicus: 2.50: 24.8
+[  6] 1jv4a      structureX:1jv4:   1 :A: 157 :A:major urinary protein 2:Mus musculus: 1.75: 20.6
+[  7] 1ew3a      structureX:1ew3:  23 :A: 181 :A:Allergen Equ C 1:Equus caballus: 2.30: 19.5
+[  8] 1bj7       structureX:1bj7:   7 : : 156 : :allergen Bos D 2:Bos taurus: 1.8: 18.4
+[  9] 1e5pa      structureX:1e5p:   3 :A: 151 :A:aphrodisin:Cricetus cricetus: 1.63: 19.4
+[ 10] 1hn2a      structureX:1hn2:1001 :A:2157 :B:odorant-binding protein:Bos taurus: 1.80: 20.2
+[ 11] 1dzka      structureX:1dzk:  10 :A: 157 :A:odorant-binding protein:Sus scrofa: 1.48: 22.6
+[ 12] 1iiua      structureX:1iiu:   2 :A: 175 :A:plasma retinol-binding protein:Gallus gallus: 2.50: 21.1
+[ 13] 1aqb       structureX:1aqb:   1 : : 175 : :plasma retinol-binding protein:Sus scrofa: 1.65: 18.4
+[ 14] 1epaa      structureX:1epa:   3 :A: 162 :A:Epididymal retinoic acid-binding protein:Rattus norvegicus: 2.1: 19.6
+[ 15] 1qqsa      structureX:1qqs:   4 :A: 177 :A:neutrophil gelatinase-associated lipocalin:Homo sapiens: 2.40: 21.9
+
+
+1i4ua      DKIPDFVVPGKCASVDRNKLWAEQT-PNRNSYAGVWYQFALTNNP---------YQLIEKCVRNEYSFDG--KQF
+1bbpa      ----NVYHDGACPEVK---PVDNF---DWSNYHGKWWEVAKYPNS---------VEKYGKCGWAEYTPEG--KSV
+1exsa      -----------------VEVTPIMTELDTQKVAGTWHTVAMAVSDVSLLDAKSSPLKA---YVEGLKPTP-EGDL
+1beba      ---------------------QTMKGLDIQKVAGTWYSLAMAASDISLLDAQSAPLRV---YVEELKPTP-EGDL
+2a2ua      -----------EEASSTRG------NLDVAKLNGDWFSIVVASNKREKIE-ENGSMRV---FMQHIDVLE--NSL
+1jv4a      -----------EEASSTGR------NFNVEKINGEWHTIILASDKREKIE-DNGNFRL---FLEQIHVLE--KSL
+1ew3a      -----------VAIR----------NFDISKISGEWYSIFLASDVKEKIE-ENGSMRV---FVDVIRALD-NSSL
+1bj7       --------------------------IDPSKIPGEWRIIYAAADNKDKIV-EGGPLRN---YYRRIECINDCESL
+1e5pa      ----------------------------FAELQGKWYTIVIAADNLEKIE-EGGPLRF---YFRHIDCYKNCS-E
+1hn2a      -------------------AQEEEAEQNLSELSGPWRTVYIGSTNPEKIQ-ENGPFRT---YFRELVFDDEKGTV
+1dzka      -----------------------------FELSGKWITSYIGSSDLEKIG-ENAPFQV---FMRSIEFDDKESKV
+1iiua      -------------MDCRVSSFKVKENFDKNRYSGTWYAMAKKDPE---------GLFLQDNVVAQFTVDE-NGQM
+1aqb       ------------ERDCRVSSFRVKENFDKARFSGTWYAMAKKDPE---------GLFLQDNIVAEFSVDE-NGHM
+1epaa      -----------------------VKDFDISKFLGFWYEIAFASK----------EEKM---GAMVVELKE--NLL
+1qqsa      --------TSDLIPAPPLSKVPLQQNFQDNQFQGKWYVVGLAGNAI--LREDKDPQKM---YATIYEEKE-DASY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1i4ua      VIESTGIAY----DGNLLKRNGKLYPNPF-GEPHLSIDYE------NSFAAPLVILETDYSNYACLYSCIDYN-F
+1bbpa      KVSNYHVI-----HGKEYFIEGTAYPVGDSKIGKIYHKLTYGG---VTKENVFNVLSTDNKNYIIGYYCKYDEDK
+1exsa      EILLQKREN-----DKCAQEVLLAKKTDI--PAVFKIN------ALD--ENQLFLLDTDYDSHLLLCMENSASPE
+1beba      EILLQKWEN-----GECAQKKIIAEKTKI--PAVFKID------ALN--ENKVLVLDTDYKKYLLFCMENSAEPE
+2a2ua      GFKFRIKEN-----GECRELYLVAYKTPE--DGEYFVE------YDG--GNTFTILKTDYDRYVMFHLINFK--N
+1jv4a      VLKFHTVRD-----EECSELSMVADKTEK--AGEYSVT------YDG--FNTFTIPKTDYDNFLMAHLINEK--D
+1ew3a      YAEYQTKVN-----GECTEFPMVFDKTEE--DGVYSLN------YDG--YNVFRISEFENDEHIILYLVNFD--K
+1bj7       SITFYLKDQ-----GTCLLLTEVAKRQE---GYVYVLE------FYG--TNTLEVIHVS-ENMLVTYVENY--DG
+1e5pa      EITFYVITN-----NQCSKTTVIGYLKG---NGTYETQ------FEG--NNIFQPLYIT-SDKIFFTNKND--RA
+1hn2a      DFYFSVKRD-----GKWKNVHVKATKQD---DGTYVAD------YEG--QNVFKIVSLS-RTHLVAHNINVD-KH
+1dzka      YLNFFSKEN-----GICEEFSLIGTKQ-E--GNTYDVN------YAG--NNKFVVSYAS-ETALIISNINVD-EE
+1iiua      SATAKGRVRLFNNWDVCADMIGSFTDTED--PAKFKMKYWGVASFLQKGNDDHWVVDTDYDTYALHYSCRELNED
+1aqb       SATAKGRVRLLNNWDVCADMVGTFTDTED--PAKFKMKYWGVASFLQKGNDDHWIIDTDYDTYAVQYSCRLQNLD
+1epaa      ALTTTYYSE-----DHCVLEKVTATEGDG--PAKFQVTR--L-----SGKKEVVVEATDYLTYAIIDITSLV--A
+1qqsa      NVTSVLFRK-----KKCDYAIRTFVPGCQ--PGEFTLGN--IKSYPGLTSYLVRVVSTNYNQHAMVFFKKVS--Q
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1i4ua      G-YHSDFSFIFSRSA-NLADQYVKKCEAAFKNIN-VDTTR--FVKTVQGSSCPYDTQKTL*
+1bbpa      K-GHQDFVWVLSRSK-VLTGEAKTAVENYLIGSPVVDSQK--LVYSDFSEAACKVN----*
+1exsa      ---HSLVCQSLARTL-EVDDQIREKFEDALKTLS-VP---MRILPAQLEEQCRV------*
+1beba      Q---SLVCQCLVRTP-EVDDEALEKFDKALKALP-MH----IRLSFNPTQLEEQC-----*
+2a2ua      GE-TFQLMVLYGRTK-DLSSDIKEKFAKLCEAHG-ITRDN--IIDLTKTDRCL-------*
+1jv4a      GE-TFQLMGLYGREP-DLSSDIKERFAQLCEEHG-ILREN--IIDLSNANRC--------*
+1ew3a      DR-PFQLFEFYAREP-DVSPEIKEEFVKIVQKRG-IVKEN--IIDLTKIDRCFQLRG---*
+1bj7       ER-ITKMTEGLAKGT-SFTPEELEKYQQLNSERG-VPNEN--IENLIKTDNCPP------*
+1e5pa      GQ-ETN-IVVAGKGN-ALTPEENEILVQFAHEKK-IPVEN--ILNILATDTCPE------*
+1hn2a      GQ-TTELTELFVKL--NVEDEDLEKFWKLTEDKG-IDKKN--VVNFLENEN---HPH---*
+1dzka      GD-KTIMTGLLGKGT-DIEDQDLEKFKEVTRENG-IPEEN--IVNIIERDDCPA------*
+1iiua      GTCADSYSFVFSRDPKGLPPEAQKIVRQRQIDLC-LDR---KYRVIVHNGFCS-------*
+1aqb       GTCADSYSFVFARDPHGFSPEVQKIVRQRQEELC-LAR---QYRIITHNGYCD-------*
+1epaa      GA-VHRTMKLYSRSL-DDNGEALYNFRKITSDHG-FSETD--LYILKHDLTCVKVLQSAA*
+1qqsa      NR-EYFKITLYGRTK-ELTSELKNNFIRFSKSLG-LPENH--IVFPVPIDQCID------*
+           =========|=========|=========|=========|=========|=========|
+                    0160      0170      0180      0190      0200      0210 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15]
+
+  1-1i4ua      100.0  20.8  15.0  14.1  10.8  10.2   8.8   8.0   9.6  11.5
+                 8.8  19.0  16.0  12.6  11.5
+  2-1bbpa       20.8 100.0  13.1  14.7  12.0   9.6  11.9  12.0  10.3  12.1
+                 8.1  15.6  12.1  17.2  14.5
+  3-1exsa       15.0  13.1 100.0  60.9  18.4  15.9  17.0  18.0  13.0  14.6
+                17.6  17.5  18.1  15.2  16.2
+  4-1beba       14.1  14.7  60.9 100.0  21.8  14.1  19.2  18.0  15.1  16.0
+                17.6  18.6  17.3  18.5  14.7
+  5-2a2ua       10.8  12.0  18.4  21.8 100.0  63.1  45.6  25.3  27.4  26.1
+                29.7  11.4  14.6  19.2  18.4
+  6-1jv4a       10.2   9.6  15.9  14.1  63.1 100.0  43.9  25.3  22.6  25.5
+                27.0  15.3  16.6  18.5  18.5
+  7-1ew3a        8.8  11.9  17.0  19.2  45.6  43.9 100.0  30.7  23.3  24.8
+                29.1  13.8  16.4  16.6  17.0
+  8-1bj7         8.0  12.0  18.0  18.0  25.3  25.3  30.7 100.0  34.2  26.7
+                30.4  10.0  12.7  13.3  14.0
+  9-1e5pa        9.6  10.3  13.0  15.1  27.4  22.6  23.3  34.2 100.0  27.4
+                32.2  11.6  12.3   8.9  16.4
+ 10-1hn2a       11.5  12.1  14.6  16.0  26.1  25.5  24.8  26.7  27.4 100.0
+                41.2   8.9   9.6  11.9  12.1
+ 11-1dzka        8.8   8.1  17.6  17.6  29.7  27.0  29.1  30.4  32.2  41.2
+               100.0   8.8   8.1  14.9  13.5
+ 12-1iiua       19.0  15.6  17.5  18.6  11.4  15.3  13.8  10.0  11.6   8.9
+                 8.8 100.0  82.2  21.2  15.5
+ 13-1aqb        16.0  12.1  18.1  17.3  14.6  16.6  16.4  12.7  12.3   9.6
+                 8.1  82.2 100.0  21.2  13.2
+ 14-1epaa       12.6  17.2  15.2  18.5  19.2  18.5  16.6  13.3   8.9  11.9
+                14.9  21.2  21.2 100.0  21.2
+ 15-1qqsa       11.5  14.5  16.2  14.7  18.4  18.5  17.0  14.0  16.4  12.1
+                13.5  15.5  13.2  21.2 100.0
+
+***************************************************************************

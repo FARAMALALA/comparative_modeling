@@ -1,0 +1,24 @@
+      Code       Title
+
+[  1] 2hqi       structureX:2hqi:   1 : :  72 : :periplasmic mercury ion binding protein:Shigella flexneri: -1: -1
+[  2] 2aw0       structureX:2aw0:   1 : :  72 : :copper-transporting ATPase 1:Homo sapiens: -1: -1
+[  3] 1cpza      structureX:1cpz:   1 :A:  68 :A:activator of copyzab:Enterococcus hirae: -1: -1
+
+
+2hqi       ATQTVTLAVPGMTCAACPITVKKALSKVEGVSKVDVGFEKREAVVTFDDTKASVQKLTKATADAGYPSSVKQ*
+2aw0       LTQETVINIDGMTCNSCVQSIEGVISKKPGVKSIRVSLANSNGTVEYDPLLTSPETLRGAIEDMGFDATLSD*
+1cpza      ---AQEFSVKGMSCNHCVARIEEAVGRISGVKKVKVQLKKEKAVVKFDEANVQATEICQAINELGYQAEVI-*
+           =========|=========|=========|=========|=========|=========|=========|==
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-2hqi       100.0  26.4  30.9
+  2-2aw0        26.4 100.0  27.9
+  3-1cpza       30.9  27.9 100.0
+
+***************************************************************************

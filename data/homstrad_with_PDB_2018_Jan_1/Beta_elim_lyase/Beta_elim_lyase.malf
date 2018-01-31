@@ -1,0 +1,51 @@
+      Code       Title
+
+[  1] 1ax4a      structureX:1ax4:   2 :A: 466 :A:tryptophanase:Proteus vulgaris: 2.1: 18.688
+[  2] 1tpla      structureX:1tpl:   1 :A: 456 :A:tyrosine phenol-lyase:Citrobacter freundii: 2.3: 16.2
+
+
+1ax4a      AKRIVEPFRIKMVEKIRVPSREEREAALKEAGYNPFLLPSSAVYIDLLTDSGTNAMSDHQWAAMITGDEAYAGSR
+1tpla      MNYPAEPFRIKSVETVSMIPRDERLKKMQEAGYNTFLLNSKDIYIDLLTDSGTNAMSDKQWAGMMMGDEAYAGSE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1ax4a      NYYDLKDKAKELFNYDYIIPAHQGRGAENILFPVLLKYKQKEGKAKNPVFISNFHFDTTAAHVELNGCKAINIVT
+1tpla      NFYHLERTVQELFGFKHIVPTHQGRGAENLLSQLAIK--------PGQYVAGNMYK---------NGAVFVDIVR
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1ax4a      EKAFDSETYDDWKGDFDIKKLKENIAQHGADNIVAIVSTVTCNSAGGQPVSMSNLKEVYEIAKQHGIFVVMDSAR
+1tpla      DEAHDAGLNIAFKGDIDLKKLQKLIDEKGAENIAYICLAVTVNLAGGQPVSMANMRAVRELTAAHGIKVFYDATR
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1ax4a      FCENAYFIKARDPKYKNATIKEVIFDMYKYADALTMSAK-DPLLNIGGLVAIRDNEEIFTLARQRCVPMEGFVTY
+1tpla      CVENAYFIKEQEQGFENKSIAEIVHEMFSYADGCTMSGKKDCLVNIGGFLCMN-DDEMFSSAKELVVVYEGMPSY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1ax4a      GGLAGRDMAAMVQGLEEGTEEEYLHYRIGQVKYLGDRLREAGIPIQYPTGGHAVFVDCKKLVPQIPGDQFPAQAV
+1tpla      GGLAGRDMEAMAIGLREAMQYEYIEHRVKQVRYLGDKLKAAGVPIVEPVGGHAVFLDARRFCEHLTQDEFPAQSL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1ax4a      INALYLESGVRAVEIGSFLLGRDPATGEQKHADMEFMRLTIARRVYTNDHMDYIADALIGLKEKFATLKGLEFEY
+1tpla      AASIYVETGVRSMERGI---------------KLETVRLTIPRRVYTYAHMDVVADGIIKLYQHKEDIRGLKFIY
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1ax4a      EPPVLRHFTARLKPI*
+1tpla      ------FFTARFDYI*
+           =========|=====
+                    0460  
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1ax4a      100.0  49.1
+  2-1tpla       49.1 100.0
+
+***************************************************************************

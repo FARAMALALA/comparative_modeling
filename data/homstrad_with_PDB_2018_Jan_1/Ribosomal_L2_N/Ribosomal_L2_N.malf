@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1rl2a      structureX:1rl2:  60 :A: 125 :A:50S ribosomal protein L2:Bacillus stearothermophilus: 2.30: 20.3
+[  2] 1jj2a      structureX:1jj2:  20 :A:  93 :A:50S ribosomal protein L2p:Haloarcula marismortui: 2.40: 18.9
+
+
+1rl2a      --QYRIIDFKRDKD---GIPGRVATIEYDPNRSANIALINYADGEKRYIIAPKNLKVG-EI-SGPDADIKI---*
+1jj2a      SHRYKADLEHRKVEDGDVIAGTVVDIEHDPARSAPVAAVEFEDGDRRLILAPEGVGVGDELQVGVDAEIAPGNT*
+           =========|=========|=========|=========|=========|=========|=========|====
+                    0010      0020      0030      0040      0050      0060      0070 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1rl2a      100.0  40.6
+  2-1jj2a       40.6 100.0
+
+***************************************************************************

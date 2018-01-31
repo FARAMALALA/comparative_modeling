@@ -1,0 +1,60 @@
+      Code       Title
+
+[  1] 1iala      structureX:1ial:  70 :A: 496 :A:importin alpha-2 subunit (karyopherin alpha-2 subunit):Mus musculus: 2.50: 18.9
+[  2] 1bk5b      structureX:1bk5:  89 :B: 510 :B:importin alpha subunit (karyopherin alpha subunit):Saccharomyces cerevisiae: 2.2: 23.7
+[  3] 3bct       structureX:3bct: 193 : : 661 : :beta-catenin:Mus musculus: 2.1: 22.9
+
+
+1iala      NQGTVNWSVEDIVKGINSNNLESQLQATQAARKLLSREKQPPIDNIIRAGLIPKFVSFLGKTDCSPIQFESAWAL
+1bk5b      --------LPQMTQQLNSDDMQEQLSATVKFRQILSREHRPPIDVVIQAGVVPRLVEFMRENQPEMLQLEAAWAL
+3bct       -------QVSAIVRTQNTNDVETARCTAGTLHNLSHHR--EGLLAIFKSGGIPALVK-LGSP-VDSVLFYAITTL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1iala      TNIASGTSEQTKAVVDGGAIPAFISLLASPHAHISEQAVWALGNIAGDGSAFRDLVIKHGAIDPLLALLAVPDLS
+1bk5b      TNIASGTSAQTKVVVDADAVPLFIQLLYTGSVEVKEQAIWALGNVAGDSTDYRDYVLQCNAMEPILGLFNSN---
+3bct       HNLLLHQE-GAKAVRLAGGLQKV-ALLNKTNVKFLAITTDCLQILAYGNQESKLIILASGGPQALVNIRTYT---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1iala      TLACGYLRNLTWTLSNLCRNKNPAPPLDAVEQILPTLVRLLHHNDPEVLADSCWAISYLTDGPNERIEMVVKKGV
+1bk5b      --KPSLIRTATWTLSNLCRGKKPQPDWSVVSQALPTLAKLIYSMDTETLVDACWAISYLSDGPQEAIQAVIDVRI
+3bct       --YEKLLWTTSRVLKVLSVCS--SNKPAIVEAGGQALGLHLTDPSQRLVQNCLWTLRNLSDAA-TKQE---GEGL
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1iala      VPQLVKLLGATELPIVTPALRAIGNIVTGTDEQTQKVIDAGALAVFPSLLTNP--KTNIQKEATWTMSNITAGR-
+1bk5b      PKRLVELLSHESTLVQTPALRAVGNIVTGNDLQTQVVINAGVLPALRLLLSSP--KENIKKEACWTISNITAGN-
+3bct       LGTLVQLLGSDDINVVTCAAGILSNLTCNNYKNK--VCQVGGIEALVRTVLRAGDREDITEPAICALRHLTSRHQ
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1iala      -QDQIQQVVNHGLVPFLVGVLS-KADFKTQKEAAWAITNYTSGG--TVEQIVYLVHCGIIEPLMNLLSAK-----
+1bk5b      -TEQIQAVIDANLIPPLVKLLE-VAEYKTKKEACWAISNASSGGLQRPDIIRYLVSQGCIKPLCDLLEIA-----
+3bct       EAEAQNAVRLHYGLPVVVKLLHPPSHWPLIKATVGLIRNLALC----PANHAPLREQGAIPRLVQLLVRAHQDTQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1iala      ---DTKIIQVILDAISNIFQAAEKLG-----ETEKLSIMIEECGGLDKIEALQRHENESVYKASLNLIEKYF---
+1bk5b      ---DNRIIEVTLDALENILKMGEADKEARGLNINENADFIEKAGGMEKIFNCQQNENDKIYEKAYKIIETYFG--
+3bct       RGVREEIVEGCTGALHILARD------------VHNRIVIRGLNTIPLFVQLLYSPIENIQRVAAGVLCELAQDK
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1iala      ------------------------------------*
+1bk5b      ------------------------------------*
+3bct       EAAEAIEAEGATAPLTELLHSRNEGVATYAAAVLFR*
+           =========|=========|=========|======
+                    0460      0470      0480   
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1iala      100.0  47.4  17.1
+  2-1bk5b       47.4 100.0  17.3
+  3-3bct        17.1  17.3 100.0
+
+***************************************************************************

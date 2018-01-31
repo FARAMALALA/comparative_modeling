@@ -1,0 +1,66 @@
+      Code       Title
+
+[  1] 1b1ya      structureX:1b1y:   5 :A: 504 :A:beta-amylase:Hordeum vulgare: 2.5: 18.7
+[  2] 1byb       structureX:1byb:   5 : : 495 : :beta-amylase:Glycine max: 1.9: 14.9
+[  3] 1b9za      structureX:1b9z:   1 :A: 418 :A:beta-amylase:Bacillus cereus: 2.10: 17
+
+
+1b1ya      ------MKGNYVQVYVMLPLDAVSVNNRFEKGDELRAQLRKLVEAGVDGVMVDVWWGLVEGKGPKAYDWSAYKQL
+1byb       ----SNMLLNYVPVYVMLPLGVVNVDNVFEDPDGLKEQLLQLRAAGVDGVMVDVWWGIIELKGPKQYDWRAYRSL
+1b9za      AVNGKGMNPDY-KAYLMAPLKKIPEVT---NWETFENDLRWAKQNGFYAITVDFWWGDMEKNGDQQFDFSYAQRF
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1b1ya      FELVQKAGLKLQAIMSFHQCGGNVGDAVNIPIPQWVRDVGTRDPDIFYTDGHGTRNIEYLTLGVDNQPLFHGRSA
+1byb       FQLVQECGLTLQAIMSFHQCGGNVGDIVNIPIPQWVLDIGESNHDIFYTNRSGTRNKEYLTVGVDNEPIFHGRTA
+1b9za      AQSVKNAGMKMIPIISTHQCGGNVGDDCNVPIPSWVWNQK-SDDSLYFKSETGTVNKETLNPLASD-------VI
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1b1ya      VQMYADYMTSFRENMKDFLDAGVIVDIEVGLGPAGELRYPSYPQSHGWSFPGIGEFICYDKYLQADFKAAAAAV-
+1byb       IEIYSDYMKSFRENMSDFLESGLIIDIEVGLGPAGELRYPSYPQSQGWEFPRIGEFQCYDKYLKADFKAAVARA-
+1b9za      RKEYGELYTAFAAAMKPYKD--VIAKIYLSGGPAGELRYPSYTTSDGTGYPSRGKFQAYTEFAKSKFRLWVLNKY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1b1ya      ----------GH-----PEWEFPNDAGQYNDTPERTQFFRDNGTYLSEKGRFFLAWYSNNLIKHGDRILDEANKV
+1byb       ----------GH-----PEWELPDDAGKYNDVPESTGFFKSNGTYVTEKGKFFLTWYSNKLLNHGDQILDEANKA
+1b9za      GSLNEVNKAWGTKLISELAILPPS-------DGE--QFLM--NGYLSMYGKDYLEWYQGILENHTKLIGELAHNA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1b1ya      FLG-YKVQLAIKIAGVHWWYKVP--SHAAELTAGYYNLHDRDGYRTIARMLKRHRASINFTCAEMRDSEQPPDAM
+1byb       FLG-CKVKLAIKVSGIHWWYKVE--NHAAELTAGYYNLNDRDGYRPIARMLSRHHAILNFTCLEMRDSEQPSDAK
+1b9za      FDTTFQVPIGAKIAGVHWQYNNPTIPHGAEKPAGYN------DYSHLLDAFKSAKLDVTFTCLEMTDK-GSYPEY
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0310      0320      0330      0340      0350      0360      0370  
+
+1b1ya      SAPEELVQQVLSAGWREGLNVSCENALPRYDPTAYNTILRNARPHGINQSGPPEHKLFGFTYLRLSNQLVEGQNY
+1byb       SGPQELVQQVLSGGWREDIRVAGENALPRYDATAYNQIILNAKPQGVNNNGPPKLSMFGVTYLRLSDDLLQKSNF
+1b9za      SMPKTLVQNIATLANEKGIVLNGENALSIGNEEEYKRVAEMAFN----------YNFAGFTLLRYQDVMYNNSLM
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0380      0390      0400      0410      0420      0430      0440      0450 
+
+1b1ya      VNFKTFVDRMHANLPRDPYV----DPMAPLPRSGPEISIEMILQAAQPKIQPFPFQEHTDLPVGPTGGMGGQAEG
+1byb       NIFKKFVLKMHADQDYCANPQKYNHAITPLKPSAPKIPIEVLLEAT-KPTLPFPWLPETDMKVD-----------
+1b9za      GKFKDLLGVT-----------------------------------------------------------------
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0460      0470      0480      0490      0500      0510      0520  
+
+1b1ya      PTCG*
+1byb       ----*
+1b9za      ----*
+           ====
+               
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3]
+
+  1-1b1ya      100.0  66.1  31.6
+  2-1byb        66.1 100.0  30.6
+  3-1b9za       31.6  30.6 100.0
+
+***************************************************************************

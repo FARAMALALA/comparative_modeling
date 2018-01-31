@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1bxda      structureX:1bxd: 290 :A: 450 :A:osmolarity sensor protein EnvZ:Escherichia coli: -1: -1
+[  2] 1b3qa      structureX:1b3q: 355 :A: 540 :A:chemotaxis protein CheA:Thermotoga maritima: 2.60: 21.3
+
+
+1bxda      TGQEMPMEMADLNAVLGEVIAAESGY----EREIETALYPGSIEVKM--HPLSIKRAVANMVVNAARYGN-----
+1b3qa      --------MVPISFVFNRFPRMVRDLAKKMNKEVNFIMRGEDTELD-RTFVEEIGEPLLHLLRNAIDHGIEPKEE
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1bxda      ---------GWIKVSSGTEPNRAWFQVEDDGPGIAP------------------------EQRKHLFQP---FVR
+1b3qa      RIAKGKPPIGTLILSARHEGNNVVIEVEDDGRGIDKEKIIRKAIEKGLIDESKAATLSDQEILNFLFVPGFS---
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1bxda      GDSARTISGTGLGLAIVQRIVDNHNGMLELGTSERGGLSIRAWLPVPVTRAQGTTKEG*
+1b3qa      ----------GVGMDVVKNVVESLNGSMGIESEKDKGTKVTIRLPLT-----------*
+           =========|=========|=========|=========|=========|========
+                    0160      0170      0180      0190      0200     
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1bxda      100.0  19.9
+  2-1b3qa       19.9 100.0
+
+***************************************************************************

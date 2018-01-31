@@ -1,0 +1,21 @@
+      Code       Title
+
+[  1] 1tfi       structureX:1tfi:   1 : :  50 : :transcription elongation factor S-II:Homo sapiens: -1: -1
+[  2] 1qyp       structureX:1qyp:   1 : :  57 : :rbp9 subunit of RNA polymerase II, C-terminal domain:Thermococcus celer: -1: -1
+
+
+1tfi       --------KTGGTQTDLFTCGKCKKKNCTYTQVQTRSADEPMTTFVVCNECGNRWKFC-*
+1qyp       GSHMEQDLKT-LPTTK-ITCPKCGNDTAYWWEMQTRAGDEPSTIFYKCTKCGHTWRSYE*
+           =========|=========|=========|=========|=========|=========
+                    0010      0020      0030      0040      0050      
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1tfi       100.0  38.0
+  2-1qyp        38.0 100.0
+
+***************************************************************************

@@ -1,0 +1,31 @@
+      Code       Title
+
+[  1] 1au1a      structureX:1au1:   1 :A: 166 :A:interferon beta (ifn-beta):Homo sapiens: 2.2: 22.3
+[  2] 1itf       structureX:1itf:   1 : : 165 : :interferon alpha-2:Homo sapiens: -1: -1
+
+
+1au1a      MSYNLLGFLQRSSNFQCQKLLWQLN-GRLEYCLKDRMNFDIPEEIKQLQQFQKEDAALTIYEMLQNIFAIFRQ-D
+1itf       --CDLPQTHS-LGSRRTLMLLAQMRKISLFSCLKDRHDFGFPQEEFGN-QFQKAETIPVLHEMIQQIFNLFSTKD
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1au1a      SSSTGWNETIVENLLANVYHQINHLKTVLEEKLEKEDFTRGKLMSSLHLKRYYGRILHYLKAKEYSHCAWTIVRV
+1itf       SSAA-WDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMKEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1au1a      EILRNFYFINRLTGYLRN--*
+1itf       EIMRSFSLSTNLQESLRSKE*
+           =========|=========|
+                    0160      0170 
+
+
+
+Percentage identities:
+
+               [  1] [  2]
+
+  1-1au1a      100.0  34.5
+  2-1itf        34.5 100.0
+
+***************************************************************************

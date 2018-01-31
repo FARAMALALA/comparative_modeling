@@ -1,0 +1,164 @@
+      Code       Title
+
+[  1] 1rypb      structureX:1ryp:   1 :B: 250 :B:proteasome component y7 (ec  3.4.99.46 ) (macropain subunit y7)(proteinase ysce subunit 7) (multicatalytic endopeptidase complexsubunit y7):Saccharomyces cerevisiae: 1.9: 28.6
+[  2] 1pmaa      structureX:1pma:  13 :A: 233 :A:proteasome alpha subunit:Thermoplasma acidophilum: 3.4: 22.1
+[  3] 1rypg      structureX:1ryp:   4 :G: 247 :G:proteasome component C1:Saccharomyces cerevisiae: 1.9: 28.6
+[  4] 1rype      structureX:1ryp:   9 :E: 250 :E:proteasome component PUP2:Saccharomyces cerevisiae: 1.9: 28.6
+[  5] 1rypf      structureX:1ryp:   2 :F: 234 :F:proteasome component PRE5:Saccharomyces cerevisiae: 1.9: 28.6
+[  6] 1rypc      structureX:1ryp:   2 :C: 245 :C:proteasome component Y13:Saccharomyces cerevisiae: 1.9: 28.6
+[  7] 1rypd      structureX:1ryp:   3 :D: 243 :D:proteasome component PRE6:Saccharomyces cerevisiae: 1.9: 28.6
+[  8] 1rypa      structureX:1ryp:  10 :A: 252 :A:proteasome component C7-alpha:Saccharomyces cerevisiae: 1.9: 28.6
+[  9] 1pma1      structureX:1pma:   1 :1: 203 :1:proteasome beta subunit:Thermoplasma acidophilum: 3.4: 22.1
+[ 10] 1ryph      structureX:1ryp:  -9 :H: 196 :H:proteasome component PRE3:Saccharomyces cerevisiae: 1.9: 28.6
+[ 11] 1rypl      structureX:1ryp:   1 :L: 212 :L:proteasome component PRE2:Saccharomyces cerevisiae: 1.9: 28.6
+[ 12] 1rypi      structureX:1ryp:   1 :I: 222 :I:proteasome component PUP1:Saccharomyces cerevisiae: 1.9: 28.6
+[ 13] 1rypk      structureX:1ryp:  -1 :K: 197 :K:proteasome component C11:Saccharomyces cerevisiae: 1.9: 28.6
+[ 14] 1neda      structureX:1ned:   1 :A: 187 :A:heat shock protein HslV:Escherichia coli: 3.8: 25.6
+[ 15] 1ryp1      structureX:1ryp:  -9 :1: 213 :1:proteasome component C5:Saccharomyces cerevisiae: 1.9: 28.6
+[ 16] 1rypj      structureX:1ryp:  -8 :J: 196 :J:proteasome component PUP3:Saccharomyces cerevisiae: 1.9: 28.6
+[ 17] 1ryp2      structureX:1ryp:  -8 :2: 225 :2:proteasome component PRE4:Saccharomyces cerevisiae: 1.9: 28.6
+
+
+1rypb      MTDRYSFSLTTFSPSGKLGQIDYALTAVKQG-VTSLGIKATNGVVIATEKKSSS--PLAM-SETLS-KVSLLT-P
+1pmaa      ---------TVFSPDGRLFQVEYAREAVKKG-STALGMKFANGVLLISDKKVRS--RLIE-QNSIE-KIQLID-D
+1rypg      GT-GYDLSNSVFSPDGRNFQVEYAVKAVENG-TTSIGIKCNDGVVFAVEKLITS--KLLV-PQKNV-KIQVVD-R
+1rype      -----DRGVSTFSPEGRLFQVEYSLEAIKLG-STAIGIATKEGVVLGVEKRATS--PLLE-SDSIE-KIVEID-R
+1rypf      FRNNYDGDTVTFSPTGRLFQVEYALEAIKQG-SVTVGLRSNTHAVLVALKRNAD--ELSS----YQKKIIKCD-E
+1rypc      GSRRYDSRTTIFSPEGRLYQVEYALESISHA-GTAIGIMASDGIVLAAERKVTS--TLLE-QDTSTEKLYKLN-D
+1rypd      ---GYDRALSIFSPDGHIFQVEYALEAVKRG-TCAVGVKGKNCVVLGCERRSTL--KLQD-TRITPSKVSKID-S
+1rypa      --AGYDRHITIFSPEGRLYQVEYAFKATNQTNINSLAVRGKDCTVVISQKKVPD--KLLD-PTTVS-YIFCIS-R
+1pma1      --------------------------------TTTVGITLKDAVIMATERRVTMENFIMH-K--NGKKLFQID-T
+1ryph      -----------------------LKKGEVSLGASIMAVTFKDGVILGADSRTTTGAYIAN-R--VTDKLTRVH-D
+1rypl      --------------------------------TTTLAFRFQGGIIVAVDSRATAGNWVAS-Q--TVKRVIEIN-P
+1rypi      --------------------------------TTIVGVKFNNGVVIAADTRSTQGPIVAD-K--NCAKLHRIS-P
+1rypk      -------------------------------MDIILGIRVQDSVILASSKAVTRGISVLK-D--SDDKTRQLS-P
+1neda      --------------------------------TTIVSVRRNGHVVIAGDGQATLGNTVMKG---NVKKVRRLYND
+1ryp1      -----------------------QFNPYGDNGGTILGIAGEDFAVLAGDTRNITDYSINS-R--YEPKVFDCG-D
+1rypj      -----------------------SD-PSSINGGIVVAMTGKDCVAIACDLRLGSQSLGVS-N--KFEKIFHYG--
+1ryp2      ------------------------TQQPIVTGTSVISMKYDNGVIIAADNLGSYGSLLRF-N--GVERLIPVG-D
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0010      0020      0030      0040      0050      0060      0070  
+
+1rypb      DIGAVYSGMGPDYRVLVDKSRKVAHTSYKRIYG-----EYPPTKLLVSEVAKIMQEATQ------SGGVRPFGVS
+1pmaa      YVAAVTSGLVADARVLVDFARISAQQ-EKVTYG-----SLVNIENLVKRVADQMQQYTQYGG------VRPYGVS
+1rypg      HIGCVYSGLIPDGRHLVNRGREEAAS-FKKLYK-----TPIPIPAFADRLGQYVQAHTLYN------SVRPFGVS
+1rype      HIGCAMSGLTADARSMIEHARTAAVT-HNLYYD-----EDINVESLTQSVCDLALRFGEGASGEERLMSRPFGVA
+1rypf      HMGLSLAGLAPDARVLSNYLRQQCNY-SSLVFN-----RKLAVERAGHLLCDKAQKNTQSY------GGRPYGVG
+1rypc      KIAVAVAGLTADAEILINTARIHAQN-YLKTYN-----EDIPVEILVRRLSDIKQGYTQ----HGGL--RPFGVS
+1rypd      HVVLSFSGLNADSRILIEKARVEAQS-HRLTLE-----DPVTVEYLTRYVAGVQQRYTQ------SGGVRPFGVS
+1rypa      TIGMVVNGPIPDARNAALRAKAEAAE-FRYKYG-----YDMPCDVLAKRMANLSQIYTQRA------YMRPLGVI
+1pma1      YTGMTIAGLVGDAQVLVRYMKAELEL-YRLQR-R----VNMPIEAVATLLSNMLNQVKY----------MPYMVQ
+1ryph      KIWCCRSGSAADTQAIADIVQYHLEL-YTSQY------GTPSTETAASVFKELCYENKD----------N-LTAG
+1rypl      FLLGTMAGGAADCQFWETWLGSQCRL-HELRE-K----ERISVAAASKILSNLVYQYKG----------AGLSMG
+1rypi      KIWCAGAGTAADTEAVTQLIGSNIEL-HSLYT-S----REPRVVSALQMLKQHLFKYQGH-----------IGAY
+1rypk      HTLMSFAGEAGDTVQFAEYIQANIQL-YSIRE-D----YELSPQAVSSFVRQELAKSIRSR--------RPYQVN
+1neda      KVIAGFAGGTADAFTLFELFERKLEMHQ------------GHLVKAAVELAKDWRTD---------RMLRKLEAL
+1ryp1      NIVMSANGFAADGDALVKRFKNSVKW-YHFDHND----KKLSINSAARNIQHLLYGKRF----------FPYYVH
+1rypj      HVFLGITGLATDVTTLNEMFRYKTNL-YKLKE-E----RAIEPETFTQLVSSSLYERRF----------GPYFVG
+1ryp2      NTVVGISGDISDMQHIERLLKDLVTE-NAYDNPLADAEEALEPSYIFEYLATVMYQRRSKM--------NPLWNA
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0080      0090      0100      0110      0120      0130      0140      0150 
+
+1rypb      LLIAGHDEFN-GFSLYQVDPSGSYFPW-K-ATAIGKGSVAAKTFLEKRWN--D---------------ELE--LE
+1pmaa      LIFAGIDQI--GPRLFDCDPAGTINEY-K-ATAIGSGKDAVVSFLEREYK--E---------------NLP--EK
+1rypg      TIFGGVDKN--GAHLYMLEPSGSYWGY-K-GAATGKGRQSAKAELEKLVDHHP---------------EGL-SAR
+1rype      LLIAGHDADD-GYQLFHAEPSGTFYRY-N-AKAIGSGSEGAQAELLNEWH--S---------------SLT--LK
+1rypf      LLIIGYDK-S-GAHLLEFQPSGNVTEL-Y-GTAIGARSQGAKTYLERTLDTFI---------------KIDGNPD
+1rypc      FIYAGYDDRY-GYQLYTSNPSGNYTGW-K-AISVGANTSAAQTLLQMDYK--D---------------DMK--VD
+1rypd      TLIAGFDPRDDEPKLYQTEPSGIYSSW-S-AQTIGRNSKTVREFLEKNYDR-K---------------EPPATVE
+1rypa      LTFVSVDEEL-GPSIYKTDPAGYYVGY-K-ATATGPKQQEITTNLENHFKKSK------------IDHINEESWE
+1pma1      LLVGGIDT---APHVFSIDAAGGSVED-I-YASTGSGSPFVYGVLESQYSE-----------------KMT--VD
+1ryph      IIVAGYDDKN-KGEVYTIPLGGSVHKL-P-YAIAGSGSTFIYGYCDKNFRE-----------------NMS--KE
+1rypl      TMICGYTRKE-GPTIYYVDSDGTRLKG-D-IFCVGSGQTFAYGVLDSNYKW-----------------DLS--VE
+1rypi      LIVAGVDPT--GSHLFSIHAHGSTDVG-Y-YLSLGSGSLAAMAVLESHWKQ-----------------DLT--KE
+1rypk      VLIGGYDKKKNKPELYQIDYLGTKVEL-P-YGAHGYSGFYTFSLLDHHYRP-----------------DMT--TE
+1neda      LAVADE------TASLIITGNGDVVQPENDLIAIGSGGPYAQAAARALLE----------------NTEL-----
+1ryp1      TIIAGLDE-DGKGAVYSFDPVGSYERE-Q-CRAGGAAASLIMPFLDNQVNFKNQYEPGTNGKVKKPLKYLS--VE
+1rypj      PVVAGINSKSGKPFIAGFDLIGCIDEA-KDFIVSGTASDQLFGMCESLYEP-----------------NLE--PE
+1ryp2      IIVAGVQS-NGDQFLRYVNLLGVTYSS-P-TLATGFGAHMANPLLRKVVDR------------ESDIPKTT--VQ
+           =========|=========|=========|=========|=========|=========|=========|=====
+                    0160      0170      0180      0190      0200      0210      0220  
+
+1rypb      DAIHIALLTLKESV-EG-EFNGDT--IELAIIGDE---------NPDLLGYTGIPTDKGPRFRKLTSQEINDRLE
+1pmaa      EAVTLGIKALKSSLEEGEELK----APEIASITVG------------------------NKYRIYDQEEVKKFL-
+1rypg      EAVKQAAKIIYLAHEDNK---EKDFELEISWCSL---------------------SETNGLHKFVKGDLLQEAID
+1rype      EAELLVLKILKQVM-EE-KLDENN--AQLSCITKQ------------------------DGFKIYDNEKTAELIK
+1rypf      ELIKAGVEAISQSL-RDESLTVDN--LSIAIVGK------------------------DTPFTIYDGEAVAKYI-
+1rypc      DAIELALKTLSKTT-DSSALTYDR--LEFATIRKG---------AN----------DGEVYQKIFKPQEIKDILV
+1rypd      ECVKLTVRSLLEVVQ----TGAKN--IEITVVKPD------------------------SDIVALSSEEINQYVT
+1rypa      KVVEFAITHMIDALG--TEFSKND--LEVGVATK-------------------------DKFFTLSAENIEERLV
+1pma1      EGVDLVIRAISAAKQRDSASGG---MIDVAVITRKDGYVQLP----TDQIESRIRKLGLIL--------------
+1ryph      ETVDFIKHSLSQAIKWDGSSGG---VIRMVVLTA-AGVERLIFY--PDEYEQL----------------------
+1rypl      DALYLGKRSILAAAHRDAYSGG---SVNLYHVTE-DGWIYHGNHDVGELFWKVKEEEGSFNNVI-----G-----
+1rypi      EAIKLASDAIQAGIWNDLGSGS---NVDVCVMEIGKDAEYLRNYL---TPNVREEKQKSYKFPR-----GTTAVL
+1rypk      EGLDLLKLCVQELEKRMPMDFK---GVIVKIVDK-DGIRQVD------DFQAQ----------------------
+1neda      SAREIAEKALDIAGDICIYTNH---FHTIEELSYKAEFHH-----------------------------------
+1ryp1      EVIKLVRDSFTSATERHIQVGD---GLEILIVTK-DGVRKEFYELKRD---------------------------
+1rypj      DLFETISQALLNAADRDALSGW---GAVVYIIKK-DEVVKRYLK-----MRQD----------------------
+1ryp2      VAEEAIVNAMRVLYYRDARSSR---NFSLAIIDKNTGLTFKKNLQVE--------------NMK-----WDFAKD
+           ====|=========|=========|=========|=========|=========|=========|=========|
+               0230      0240      0250      0260      0270      0280      0290      0300 
+
+1rypb      AL-------*
+1pmaa      ---------*
+1rypg      FAQKEIN--*
+1rype      ELKEKEAAE*
+1rypf      ---------*
+1rypc      KTGIT----*
+1rypd      QIEQEKQEQ*
+1rypa      AIAEQD---*
+1pma1      ---------*
+1ryph      ---------*
+1rypl      ---------*
+1rypi      KESIVNICD*
+1rypk      ---------*
+1neda      --------H*
+1ryp1      ---------*
+1rypj      ---------*
+1ryp2      IKGYGTQKI*
+           =========
+                    
+
+
+
+Percentage identities:
+
+               [  1] [  2] [  3] [  4] [  5] [  6] [  7] [  8] [  9] [ 10]
+               [ 11] [ 12] [ 13] [ 14] [ 15] [ 16] [ 17]
+
+  1-1rypb      100.0  40.3  31.1  31.0  27.0  34.4  34.0  28.8  16.7  14.6
+                13.2  18.5  16.7  17.2  16.7  14.7  14.2
+  2-1pmaa       40.3 100.0  33.0  39.8  32.6  37.1  35.3  31.7  23.2  13.2
+                14.6  17.2  15.7  15.6  16.7  17.6  12.7
+  3-1rypg       31.1  33.0 100.0  31.0  28.3  29.5  30.3  30.0  20.7  13.2
+                12.3  18.0  14.1  16.7  17.1  11.8  14.6
+  4-1rype       31.0  39.8  31.0 100.0  32.6  33.9  32.4  24.0  18.2  14.1
+                16.0  19.8  15.2  16.7  15.8  15.2  11.2
+  5-1rypf       27.0  32.6  28.3  32.6 100.0  29.6  29.2  21.9  21.2  12.2
+                15.1  17.6  19.2  14.4  18.5  18.1  11.6
+  6-1rypc       34.4  37.1  29.5  33.9  29.6 100.0  29.9  26.7  20.2  15.1
+                16.5  18.9  16.7  16.1  18.0  14.7  13.3
+  7-1rypd       34.0  35.3  30.3  32.4  29.2  29.9 100.0  25.7  20.7  14.6
+                15.1  17.6  16.7  14.4  17.6  17.6  11.6
+  8-1rypa       28.8  31.7  30.0  24.0  21.9  26.7  25.7 100.0  18.2  12.7
+                11.8  11.7  15.7  10.0  16.2  12.3   9.0
+  9-1pma1       16.7  23.2  20.7  18.2  21.2  20.2  20.7  18.2 100.0  26.6
+                25.6  27.6  25.8  17.8  20.7  23.2  15.8
+ 10-1ryph       14.6  13.2  13.2  14.1  12.2  15.1  14.6  12.7  26.6 100.0
+                23.9  26.3  20.7  17.2  22.4  20.1  17.1
+ 11-1rypl       13.2  14.6  12.3  16.0  15.1  16.5  15.1  11.8  25.6  23.9
+               100.0  26.4  22.2  17.2  17.5  18.6  17.9
+ 12-1rypi       18.5  17.2  18.0  19.8  17.6  18.9  17.6  11.7  27.6  26.3
+                26.4 100.0  20.7  23.3  16.7  15.7  16.2
+ 13-1rypk       16.7  15.7  14.1  15.2  19.2  16.7  16.7  15.7  25.8  20.7
+                22.2  20.7 100.0  13.3  22.2  18.7  13.1
+ 14-1neda       17.2  15.6  16.7  16.7  14.4  16.1  14.4  10.0  17.8  17.2
+                17.2  23.3  13.3 100.0  13.9  16.7  15.0
+ 15-1ryp1       16.7  16.7  17.1  15.8  18.5  18.0  17.6  16.2  20.7  22.4
+                17.5  16.7  22.2  13.9 100.0  22.5  14.4
+ 16-1rypj       14.7  17.6  11.8  15.2  18.1  14.7  17.6  12.3  23.2  20.1
+                18.6  15.7  18.7  16.7  22.5 100.0  20.6
+ 17-1ryp2       14.2  12.7  14.6  11.2  11.6  13.3  11.6   9.0  15.8  17.1
+                17.9  16.2  13.1  15.0  14.4  20.6 100.0
+
+***************************************************************************
